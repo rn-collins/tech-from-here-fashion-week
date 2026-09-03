@@ -1,0 +1,61 @@
+{
+  "day": 2,
+  "id": "TFH-LON-D2",
+  "title": "The runway is a machine",
+  "technology": "Lighting, staging, temporary architecture",
+  "governingQuestion": "Which technical systems manufacture atmosphere—and who is credited for them?",
+  "claimIds": [
+    "LON-STAGE-THEN",
+    "LON-STAGE-NOW",
+    "LON-STAGE-NEXT"
+  ],
+  "evidenceState": {
+    "Then": {
+      "claimId": "LON-STAGE-THEN",
+      "state": "proposal",
+      "confidence": "low"
+    },
+    "Now": {
+      "claimId": "LON-STAGE-NOW",
+      "state": "unresolved",
+      "confidence": "low"
+    },
+    "Next": {
+      "claimId": "LON-STAGE-NEXT",
+      "state": "unresolved",
+      "confidence": "low"
+    }
+  },
+  "editorialHook": "The runway lasts minutes. Its machinery begins before the room exists.",
+  "longformOutline": "Build a production-credit anatomy of one season; do not infer a technical stack from spectacle.",
+  "verticalScriptBrief": "Follow one lighting cue from plan to atmosphere; publish only after a named credit clears.",
+  "carouselFrames": [
+    "Venue shell",
+    "Temporary build",
+    "Cue stack",
+    "Crew and teardown",
+    "Supplier evidence still missing"
+  ],
+  "interactiveSpecification": "Cue Sheet: a keyboard timeline linking light, sound, scenic change, and claim state; placeholders remain visibly unresolved.",
+  "interviewTargets": [
+    "show producer",
+    "lighting or spatial designer",
+    "venue technical manager"
+  ],
+  "objectAndRightsBrief": "Commission or license a stage plan, lighting plot, or supplier diagram tied to a named show.",
+  "teachingPrompt": "When does staging technology alter choreography rather than decorate it?",
+  "communityCallout": "Request production credits and non-sensitive diagrams from named London crews.",
+  "openGapIds": [
+    "G-SUPPLIER-06",
+    "G-FUTURE-07"
+  ],
+  "accessibilityPlan": "Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.",
+  "releaseGates": [
+    "Every positive claim resolves to cited support",
+    "Every media object has item-level rights disposition",
+    "Open gaps remain visible in copy and end cards",
+    "Named worker/interview consent recorded before quotation"
+  ],
+  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
+  "status": "day-specific commissioning package; production remains open"
+}

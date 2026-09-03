@@ -1,0 +1,62 @@
+{
+  "day": 4,
+  "id": "TFH-LON-D4",
+  "title": "The feed becomes the front row",
+  "technology": "Livestream, web, algorithmic distribution",
+  "governingQuestion": "Does distributed viewing redistribute authority?",
+  "claimIds": [
+    "LON-CIRCULATION-THEN",
+    "LON-CIRCULATION-NOW",
+    "LON-CIRCULATION-NEXT"
+  ],
+  "evidenceState": {
+    "Then": {
+      "claimId": "LON-CIRCULATION-THEN",
+      "state": "attributed claim",
+      "confidence": "medium"
+    },
+    "Now": {
+      "claimId": "LON-CIRCULATION-NOW",
+      "state": "verified fact",
+      "confidence": "high"
+    },
+    "Next": {
+      "claimId": "LON-CIRCULATION-NEXT",
+      "state": "unresolved",
+      "confidence": "low"
+    }
+  },
+  "editorialHook": "A livestream widens reach. It does not automatically redistribute attention.",
+  "longformOutline": "Reconstruct the claimed early social/livestream chronology while refusing first-language until G-LIVE-02 closes.",
+  "verticalScriptBrief": "Put “reach,” “access,” and “ranking” on three separate cards, then show which one public evidence establishes.",
+  "carouselFrames": [
+    "Signal leaves room",
+    "Platform receives it",
+    "Feed ranks it",
+    "Archive may lose it",
+    "First claim held"
+  ],
+  "interactiveSpecification": "Front Row / Feed: compare visible fields and delay across room, official stream, channel page, and commercial archive.",
+  "interviewTargets": [
+    "early digital producer",
+    "remote viewer or critic",
+    "platform-distribution researcher"
+  ],
+  "objectAndRightsBrief": "Secure an exact archived interface capture with timestamp, surrounding context, and commentary review.",
+  "teachingPrompt": "What changes when a show is viewable but discoverability remains privately ranked?",
+  "communityCallout": "Request dated screenshots or recordings of early LFW digital viewing with original source details.",
+  "openGapIds": [
+    "G-LIVE-02",
+    "G-PLATFORM-03",
+    "G-FUTURE-07"
+  ],
+  "accessibilityPlan": "Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.",
+  "releaseGates": [
+    "Every positive claim resolves to cited support",
+    "Every media object has item-level rights disposition",
+    "Open gaps remain visible in copy and end cards",
+    "Named worker/interview consent recorded before quotation"
+  ],
+  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
+  "status": "day-specific commissioning package; production remains open"
+}

@@ -1,0 +1,60 @@
+{
+  "day": 3,
+  "id": "TFH-LON-D3",
+  "title": "The camera writes the collection",
+  "technology": "Photography, moving image, indexing",
+  "governingQuestion": "Who establishes the canonical view, and under what rights?",
+  "claimIds": [
+    "LON-CAPTURE-THEN",
+    "LON-CAPTURE-NOW",
+    "LON-CAPTURE-NEXT"
+  ],
+  "evidenceState": {
+    "Then": {
+      "claimId": "LON-CAPTURE-THEN",
+      "state": "editorial inference",
+      "confidence": "medium"
+    },
+    "Now": {
+      "claimId": "LON-CAPTURE-NOW",
+      "state": "verified fact",
+      "confidence": "high"
+    },
+    "Next": {
+      "claimId": "LON-CAPTURE-NEXT",
+      "state": "unresolved",
+      "confidence": "low"
+    }
+  },
+  "editorialHook": "The collection most people meet is a camera position.",
+  "longformOutline": "Contrast the official moving-image record with private runway indexes and explain why capture rights shape the canonical view.",
+  "verticalScriptBrief": "Freeze one official frame and enumerate camera, owner, platform, file, and what remains unseen—without ripping footage.",
+  "carouselFrames": [
+    "The room",
+    "The camera line",
+    "The official film",
+    "The private index",
+    "The rights boundary"
+  ],
+  "interactiveSpecification": "Canonical View Comparator: user selects attendee, official film, press archive, or search index and sees ownership and access fields.",
+  "interviewTargets": [
+    "runway photographer",
+    "broadcast director",
+    "fashion archivist"
+  ],
+  "objectAndRightsBrief": "Use an authorized BFC video embed only after video-level rights and layered music/footage review.",
+  "teachingPrompt": "Who writes the collection when most viewers encounter it through a controlled frame?",
+  "communityCallout": "Request camera maps, call sheets, and firsthand accounts without unpublished client material.",
+  "openGapIds": [
+    "G-FUTURE-07"
+  ],
+  "accessibilityPlan": "Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.",
+  "releaseGates": [
+    "Every positive claim resolves to cited support",
+    "Every media object has item-level rights disposition",
+    "Open gaps remain visible in copy and end cards",
+    "Named worker/interview consent recorded before quotation"
+  ],
+  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
+  "status": "day-specific commissioning package; production remains open"
+}

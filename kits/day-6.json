@@ -1,0 +1,60 @@
+{
+  "day": 6,
+  "id": "TFH-LON-D6",
+  "title": "From attention to object",
+  "technology": "Line sheets, wholesale, product data",
+  "governingQuestion": "Where does the runway meet the order—and who owns the data?",
+  "claimIds": [
+    "LON-COMMERCE-THEN",
+    "LON-COMMERCE-NOW",
+    "LON-COMMERCE-NEXT"
+  ],
+  "evidenceState": {
+    "Then": {
+      "claimId": "LON-COMMERCE-THEN",
+      "state": "proposal",
+      "confidence": "low"
+    },
+    "Now": {
+      "claimId": "LON-COMMERCE-NOW",
+      "state": "unresolved",
+      "confidence": "low"
+    },
+    "Next": {
+      "claimId": "LON-COMMERCE-NEXT",
+      "state": "verified fact",
+      "confidence": "high"
+    }
+  },
+  "editorialHook": "A regulation can shape the garment without belonging to Fashion Week.",
+  "longformOutline": "Separate historic line-sheet practice, unverified current platform adoption, and the enacted EU product-passport framework.",
+  "verticalScriptBrief": "Show the sentence “ESPR is not a BFC plan,” then trace regulation → future delegated rules → product data.",
+  "carouselFrames": [
+    "Order before interface",
+    "Vendor is not adoption",
+    "Named season required",
+    "EU law as context",
+    "Implementation is not complete"
+  ],
+  "interactiveSpecification": "Product Data Boundary: inspect identifier, material, actor, provenance, and missing field against the enacted-law context.",
+  "interviewTargets": [
+    "brand operations lead",
+    "wholesale buyer",
+    "EU product-data specialist"
+  ],
+  "objectAndRightsBrief": "Locate a permissioned historic line sheet or create an original schema diagram; no vendor UI screenshot without review.",
+  "teachingPrompt": "How do we distinguish an enacted framework, a delegated requirement, a vendor product, and an actual brand deployment?",
+  "communityCallout": "Request redacted line sheets and confirmed season-specific showroom workflows.",
+  "openGapIds": [
+    "G-SUPPLIER-06"
+  ],
+  "accessibilityPlan": "Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.",
+  "releaseGates": [
+    "Every positive claim resolves to cited support",
+    "Every media object has item-level rights disposition",
+    "Open gaps remain visible in copy and end cards",
+    "Named worker/interview consent recorded before quotation"
+  ],
+  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
+  "status": "day-specific commissioning package; production remains open"
+}

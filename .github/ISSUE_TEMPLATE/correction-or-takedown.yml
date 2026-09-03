@@ -1,0 +1,50 @@
+name: Correction or takedown request
+description: Report a factual, attribution, provenance, accessibility, privacy, or rights concern.
+title: "[Correction / takedown]: "
+labels:
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form creates a public GitHub issue. Do not include private contact details, confidential material, identity documents, or other sensitive information. A maintainer can arrange a private follow-up if needed.
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: Request type
+      options:
+        - Factual correction
+        - Credit or attribution correction
+        - Copyright or license concern
+        - Privacy or consent concern
+        - Accessibility issue
+        - Takedown request
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: route
+    attributes:
+      label: Affected URL or route
+      placeholder: https://… or /day/01-access
+    validations:
+      required: true
+  - type: input
+    id: record
+    attributes:
+      label: Claim, source, gap, or object ID
+      description: Include the public record ID when one is shown.
+  - type: textarea
+    id: concern
+    attributes:
+      label: What should be reviewed?
+      description: Explain the concern and requested correction or action. Link to supporting public evidence where possible.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Public-submission confirmation
+      options:
+        - label: I understand this submission is public and contains no private or sensitive information.
+          required: true

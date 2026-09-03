@@ -1,0 +1,61 @@
+{
+  "day": 5,
+  "id": "TFH-LON-D5",
+  "title": "Compressed labor",
+  "technology": "Casting, look tracking, identity data",
+  "governingQuestion": "Does the tool reduce work, relocate it, or make it extractable?",
+  "claimIds": [
+    "LON-BACKSTAGE-THEN",
+    "LON-BACKSTAGE-NOW",
+    "LON-BACKSTAGE-NEXT"
+  ],
+  "evidenceState": {
+    "Then": {
+      "claimId": "LON-BACKSTAGE-THEN",
+      "state": "proposal",
+      "confidence": "low"
+    },
+    "Now": {
+      "claimId": "LON-BACKSTAGE-NOW",
+      "state": "unresolved",
+      "confidence": "low"
+    },
+    "Next": {
+      "claimId": "LON-BACKSTAGE-NEXT",
+      "state": "unresolved",
+      "confidence": "low"
+    }
+  },
+  "editorialHook": "Efficiency for production can become extraction from workers.",
+  "longformOutline": "Start with the absence of a verified week-wide platform, then report one named workflow from operator and worker perspectives.",
+  "verticalScriptBrief": "Trace one field—name, measurement, image, availability, or location—through the backstage workflow and ask who controls it.",
+  "carouselFrames": [
+    "Paper hypothesis",
+    "Data field",
+    "Production use",
+    "Worker consequence",
+    "No biometric claim"
+  ],
+  "interactiveSpecification": "Backstage Data Inventory: a non-collecting tool showing purpose, owner, retention, subject right, and unresolved deployment evidence.",
+  "interviewTargets": [
+    "casting director",
+    "model or Equity representative",
+    "privacy and labor researcher"
+  ],
+  "objectAndRightsBrief": "Do not reproduce casting cards or worker data without consent; prioritize a permissioned blank workflow schema.",
+  "teachingPrompt": "Does digitization reduce labor, relocate it, or make a worker newly machine-readable?",
+  "communityCallout": "Invite workers to describe systems without submitting personal, client, or confidential data.",
+  "openGapIds": [
+    "G-SUPPLIER-06",
+    "G-FUTURE-07"
+  ],
+  "accessibilityPlan": "Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.",
+  "releaseGates": [
+    "Every positive claim resolves to cited support",
+    "Every media object has item-level rights disposition",
+    "Open gaps remain visible in copy and end cards",
+    "Named worker/interview consent recorded before quotation"
+  ],
+  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
+  "status": "day-specific commissioning package; production remains open"
+}

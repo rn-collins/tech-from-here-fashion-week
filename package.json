@@ -1,0 +1,13 @@
+{
+  "name": "tech-from-here-fashion-week",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:links": "node scripts/check-key-sources.mjs",
+    "check": "npm run build && npm test",
+    "check:release": "npm run check && npm run test:links"
+  },
+  "engines": { "node": ">=20" }
+}

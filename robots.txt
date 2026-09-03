@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tech-from-here-fashion-week.vercel.app/sitemap.xml

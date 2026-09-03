@@ -1,0 +1,62 @@
+{
+  "day": 7,
+  "id": "TFH-LON-D7",
+  "title": "What the week leaves behind",
+  "technology": "Archives, measurement, accountability",
+  "governingQuestion": "What survives, who can reuse it, and what never entered the record?",
+  "claimIds": [
+    "LON-MEMORY-THEN",
+    "LON-MEMORY-NOW",
+    "LON-MEMORY-NEXT"
+  ],
+  "evidenceState": {
+    "Then": {
+      "claimId": "LON-MEMORY-THEN",
+      "state": "editorial inference",
+      "confidence": "medium"
+    },
+    "Now": {
+      "claimId": "LON-MEMORY-NOW",
+      "state": "verified fact",
+      "confidence": "high"
+    },
+    "Next": {
+      "claimId": "LON-MEMORY-NEXT",
+      "state": "unresolved",
+      "confidence": "low"
+    }
+  },
+  "editorialHook": "What disappears from the archive becomes harder to argue with.",
+  "longformOutline": "Follow schedule, film, interface, and measurement record into four different preservation and reuse regimes.",
+  "verticalScriptBrief": "Present the seven empty object bays as an editorial fact: no item enters without relevance plus rights.",
+  "carouselFrames": [
+    "Event happens",
+    "Records split",
+    "Rights diverge",
+    "Metrics need boundaries",
+    "Absence remains visible"
+  ],
+  "interactiveSpecification": "Claims Fitting Room: test an environmental statement for boundary, baseline, method, verifier, and season.",
+  "interviewTargets": [
+    "fashion curator",
+    "web archivist",
+    "independent sustainability researcher"
+  ],
+  "objectAndRightsBrief": "Close G-OBJECT-04 with one edition-relevant open object, or retain the designed void.",
+  "teachingPrompt": "How does preservation infrastructure decide which technical history remains citable?",
+  "communityCallout": "Request ephemera and oral-history leads under explicit ownership, consent, withdrawal, and preservation terms.",
+  "openGapIds": [
+    "G-OBJECT-04",
+    "G-MEASURE-05",
+    "G-FUTURE-07"
+  ],
+  "accessibilityPlan": "Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.",
+  "releaseGates": [
+    "Every positive claim resolves to cited support",
+    "Every media object has item-level rights disposition",
+    "Open gaps remain visible in copy and end cards",
+    "Named worker/interview consent recorded before quotation"
+  ],
+  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
+  "status": "day-specific commissioning package; production remains open"
+}
