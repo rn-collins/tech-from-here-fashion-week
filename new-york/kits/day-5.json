@@ -1,0 +1,114 @@
+{
+  "id": "TFH-NYC-D5",
+  "day": 5,
+  "title": "The booking file has consequences",
+  "technology": "Model management, contracts, consent, records",
+  "governingQuestion": "What changes when backstage information becomes regulated infrastructure?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "hook": "The most consequential backstage technology may be the booking record.",
+  "longform": {
+    "headline": "The booking file has consequences",
+    "opening": "The most consequential backstage technology may be the booking record. The evidence reveals a system of coordination rather than a single machine.",
+    "sections": [
+      {
+        "heading": "The booking file",
+        "copy": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+        "claimId": "NYC-WORKER-THEN"
+      },
+      {
+        "heading": "The law enters backstage",
+        "copy": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+        "claimId": "NYC-WORKER-NOW"
+      },
+      {
+        "heading": "What becomes auditable",
+        "copy": "The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+        "claimId": "NYC-WORKER-NEXT"
+      },
+      {
+        "heading": "Private stacks remain private",
+        "copy": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+        "claimId": "NYC-WORKER-THEN"
+      }
+    ]
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The most consequential backstage technology may be the booking record.",
+      "The booking file.",
+      "The law enters backstage.",
+      "What becomes auditable.",
+      "Private stacks remain private.",
+      "The unresolved edge: The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+      "Open the evidence edition; every source and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The most consequential backstage technology may be the booking record."
+    },
+    {
+      "frame": 2,
+      "copy": "The booking file."
+    },
+    {
+      "frame": 3,
+      "copy": "The law enters backstage."
+    },
+    {
+      "frame": 4,
+      "copy": "What becomes auditable."
+    },
+    {
+      "frame": 5,
+      "copy": "Private stacks remain private."
+    },
+    {
+      "frame": 6,
+      "copy": "The unresolved edge: The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the evidence edition; every source and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "The most consequential backstage technology may be the booking record. Seven receipts trace model management, contracts, consent, records through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.",
+    "linkedin": "The most consequential backstage technology may be the booking record.\n\nThe booking file. The law enters backstage. What becomes auditable. Private stacks remain private.\n\nThe point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.",
+    "newsletter": {
+      "subject": "New York 05 — The booking file has consequences",
+      "deck": "What changes when backstage information becomes regulated infrastructure?"
+    },
+    "youtube": "Day 5 of Tech From Here × New York Fashion Week examines model management, contracts, consent, records. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/05-worker-data"
+  },
+  "interactive": "A keyboard-operable “worker-data ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.",
+  "selectedObject": {
+    "title": "Fashion Workers Act desk",
+    "sourceId": "NY-DOL-FWA",
+    "treatment": "government compliance interface",
+    "caption": "The booking relationship now has a public registry and duties that can be checked."
+  },
+  "claims": [
+    "NYC-WORKER-THEN",
+    "NYC-WORKER-NOW",
+    "NYC-WORKER-NEXT"
+  ],
+  "sources": [
+    "NY-DOL-FWA",
+    "NY-DOL-DUTIES"
+  ],
+  "rights": "OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.",
+  "education": [
+    "https://cfda.com/resources/sustainability-resource-hub/",
+    "https://www.metmuseum.org/perspectives/library-fashion-e-resources"
+  ],
+  "openReporting": "The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review where claim scope changes"
+  ]
+}

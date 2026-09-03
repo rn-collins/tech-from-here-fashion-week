@@ -1,0 +1,114 @@
+{
+  "id": "TFH-NYC-D3",
+  "day": 3,
+  "title": "The photograph becomes inventory",
+  "technology": "Press images, collection pages, metadata",
+  "governingQuestion": "How does a fleeting look become a searchable, sellable and rememberable record?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "hook": "A runway look lasts seconds. Its image may circulate for decades.",
+  "longform": {
+    "headline": "The photograph becomes inventory",
+    "opening": "A runway look lasts seconds. Its image may circulate for decades. The evidence reveals a system of coordination rather than a single machine.",
+    "sections": [
+      {
+        "heading": "From press kit to platform",
+        "copy": "RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.",
+        "claimId": "NYC-CAPTURE-THEN"
+      },
+      {
+        "heading": "Images as product data",
+        "copy": "The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.",
+        "claimId": "NYC-CAPTURE-NOW"
+      },
+      {
+        "heading": "The archival witness",
+        "copy": "A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.",
+        "claimId": "NYC-CAPTURE-NEXT"
+      },
+      {
+        "heading": "Metadata still hidden",
+        "copy": "RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.",
+        "claimId": "NYC-CAPTURE-THEN"
+      }
+    ]
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "A runway look lasts seconds. Its image may circulate for decades.",
+      "From press kit to platform.",
+      "Images as product data.",
+      "The archival witness.",
+      "Metadata still hidden.",
+      "The unresolved edge: A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.",
+      "Open the evidence edition; every source and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "A runway look lasts seconds. Its image may circulate for decades."
+    },
+    {
+      "frame": 2,
+      "copy": "From press kit to platform."
+    },
+    {
+      "frame": 3,
+      "copy": "Images as product data."
+    },
+    {
+      "frame": 4,
+      "copy": "The archival witness."
+    },
+    {
+      "frame": 5,
+      "copy": "Metadata still hidden."
+    },
+    {
+      "frame": 6,
+      "copy": "The unresolved edge: A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the evidence edition; every source and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "A runway look lasts seconds. Its image may circulate for decades. Seven receipts trace press images, collection pages, metadata through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.",
+    "linkedin": "A runway look lasts seconds. Its image may circulate for decades.\n\nFrom press kit to platform. Images as product data. The archival witness. Metadata still hidden.\n\nThe point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.",
+    "newsletter": {
+      "subject": "New York 03 — The photograph becomes inventory",
+      "deck": "How does a fleeting look become a searchable, sellable and rememberable record?"
+    },
+    "youtube": "Day 3 of Tech From Here × New York Fashion Week examines press images, collection pages, metadata. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/03-capture"
+  },
+  "interactive": "A keyboard-operable “capture ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.",
+  "selectedObject": {
+    "title": "Liz Claiborne with model",
+    "sourceId": "NY-LOC-CLAIBORNE",
+    "treatment": "rights-cleared archival photograph",
+    "caption": "A designer, a model and the working space between them—preserved with item-level Library credit."
+  },
+  "claims": [
+    "NYC-CAPTURE-THEN",
+    "NYC-CAPTURE-NOW",
+    "NYC-CAPTURE-NEXT"
+  ],
+  "sources": [
+    "NY-CFDA-R360",
+    "NY-CFDA-2026"
+  ],
+  "rights": "OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.",
+  "education": [
+    "https://cfda.com/resources/sustainability-resource-hub/",
+    "https://www.metmuseum.org/perspectives/library-fashion-e-resources"
+  ],
+  "openReporting": "A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review where claim scope changes"
+  ]
+}

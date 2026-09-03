@@ -1,0 +1,174 @@
+[
+  {
+    "id": "NY-CFDA-OWN",
+    "title": "New York Fashion Week",
+    "institution": "CFDA",
+    "date": "current",
+    "url": "https://cfda.com/home/nyfw/",
+    "type": "official organizer page",
+    "rights": "LINK-ONLY; text cited, media not reproduced"
+  },
+  {
+    "id": "NY-CFDA-2026",
+    "title": "Preliminary September 2026 Official NYFW Schedule",
+    "institution": "CFDA",
+    "date": "2026-07-01",
+    "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/",
+    "type": "official schedule announcement",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-APP",
+    "title": "September 2026 Official NYFW Schedule Application",
+    "institution": "CFDA",
+    "date": "2026-04-15",
+    "url": "https://cfda.com/news/the-september-2026-official-nyfw-schedule-application-is-open/",
+    "type": "official application notice",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-2019",
+    "title": "View the Official NYFW Schedule",
+    "institution": "CFDA",
+    "date": "2019-07-23",
+    "url": "https://cfda.com/news/view-the-official-nyfw-schedule/",
+    "type": "retained organizer record",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-2021",
+    "title": "Official NYFW Schedule for September 2021",
+    "institution": "CFDA",
+    "date": "2021-07-26",
+    "url": "https://cfda.com/news/cfda-releases-the-official-new-york-fashion-week-schedule-for-september/",
+    "type": "official return-to-physical record",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-R360",
+    "title": "CFDA Launches RUNWAY360",
+    "institution": "CFDA",
+    "date": "2020-07-24",
+    "url": "https://cfda.com/news/cfda-launches-runway360/",
+    "type": "official platform specification",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-R360-GUIDE",
+    "title": "The RUNWAY360 Guide for Designers",
+    "institution": "CFDA",
+    "date": "2020-09-25",
+    "url": "https://cfda.com/news/the-runway360-guide-for-designers/",
+    "type": "official platform guide",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-WEBINAR",
+    "title": "CFDA Webinar: RUNWAY360",
+    "institution": "CFDA / YouTube",
+    "date": "2020",
+    "url": "https://www.youtube.com/watch?v=47VXPor-deI",
+    "type": "official video",
+    "rights": "AUTHORIZED EMBED via YouTube privacy-enhanced player",
+    "embed": "47VXPor-deI"
+  },
+  {
+    "id": "NY-CFDA-LIVE",
+    "title": "NYFW Live at Rockefeller Center is Back",
+    "institution": "CFDA",
+    "date": "2025-09-08",
+    "url": "https://cfda.com/news/nyfw-live-at-rockefeller-center-is-back/",
+    "type": "official partnership announcement",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-DOL-FWA",
+    "title": "New York State Fashion Workers Act",
+    "institution": "New York State Department of Labor",
+    "date": "current",
+    "url": "https://dol.ny.gov/fashion",
+    "type": "government guidance",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-DOL-DUTIES",
+    "title": "Responsibilities of Fashion Management and Clients",
+    "institution": "New York State Department of Labor",
+    "date": "current",
+    "url": "https://dol.ny.gov/responsibilities-fashion-management-and-clients",
+    "type": "government guidance",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-PROD",
+    "title": "Production Directory",
+    "institution": "CFDA",
+    "date": "current",
+    "url": "https://cfda.com/resources/supply-chain-manufacturing/production-directory/",
+    "type": "official open-access directory",
+    "rights": "LINK-ONLY; database content not bulk reproduced"
+  },
+  {
+    "id": "NY-CFDA-FMI",
+    "title": "Fashion Manufacturing Initiative",
+    "institution": "CFDA",
+    "date": "current",
+    "url": "https://cfda.com/resources/supply-chain-manufacturing/fashion-manufacturing-initiative/",
+    "type": "official program page",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-MAT",
+    "title": "Materials Hub",
+    "institution": "CFDA",
+    "date": "current",
+    "url": "https://cfda.com/resources/materials-hub/",
+    "type": "official open-access resource",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-CFDA-SUS",
+    "title": "Sustainability Resource Hub",
+    "institution": "CFDA",
+    "date": "current",
+    "url": "https://cfda.com/resources/sustainability-resource-hub/",
+    "type": "official learning resource",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "NY-LOC-CLAIBORNE",
+    "title": "Liz Claiborne, fashion designer, with model",
+    "institution": "Library of Congress",
+    "date": "1982",
+    "url": "https://www.loc.gov/resource/gtfy.00717/",
+    "type": "collection item",
+    "rights": "NO KNOWN RESTRICTIONS per Library record; local access copy installed with credit"
+  },
+  {
+    "id": "NY-NYPL-KELLY",
+    "title": "Patrick Kelly collection of audio-visual recordings",
+    "institution": "New York Public Library",
+    "date": "1983–1990",
+    "url": "https://digitalcollections.nypl.org/collections/84d3ff60-3713-0134-933f-00505686d14e",
+    "type": "archival collection",
+    "rights": "LINK-ONLY; item-level permissions vary"
+  },
+  {
+    "id": "NY-MET-OA",
+    "title": "Open Access at The Met",
+    "institution": "Metropolitan Museum of Art",
+    "date": "current",
+    "url": "https://www.metmuseum.org/policies/terms-and-conditions#openaccess",
+    "type": "museum rights policy",
+    "rights": "LINK-ONLY policy; only object records marked Public Domain may be downloaded"
+  },
+  {
+    "id": "NY-MET-LIB",
+    "title": "Stitch by Stitch, Click by Click",
+    "institution": "Metropolitan Museum of Art",
+    "date": "2021-11-04",
+    "url": "https://www.metmuseum.org/perspectives/library-fashion-e-resources",
+    "type": "museum educational resource",
+    "rights": "LINK-ONLY"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "NYC-CALENDAR-THEN",
+    "day": 1,
+    "temporalState": "Then",
+    "wording": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+    "citations": [
+      "NY-CFDA-2026"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-CALENDAR-NOW",
+    "day": 1,
+    "temporalState": "Now",
+    "wording": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+    "citations": [
+      "NY-CFDA-OWN",
+      "NY-CFDA-APP"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-CALENDAR-NEXT",
+    "day": 1,
+    "temporalState": "Next",
+    "wording": "Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+    "citations": [
+      "NY-CFDA-2026"
+    ],
+    "state": "unresolved",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Bounded public-surface finding; private or undigitized evidence may exist."
+  },
+  {
+    "id": "NYC-VENUE-THEN",
+    "day": 2,
+    "temporalState": "Then",
+    "wording": "The 2021 official schedule marked a return to in-person shows after two predominantly digital seasons and identified CFDA–IMG coordination.",
+    "citations": [
+      "NY-CFDA-2021"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-VENUE-NOW",
+    "day": 2,
+    "temporalState": "Now",
+    "wording": "The September 2026 schedule contains runway shows, presentations, appointments and digital premieres; it coordinates formats rather than naming one venue stack.",
+    "citations": [
+      "NY-CFDA-2026"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-VENUE-NEXT",
+    "day": 2,
+    "temporalState": "Next",
+    "wording": "No public CFDA record reviewed specifies a single technical venue system for New York’s next season; supplier and room-level stacks remain reporting assignments.",
+    "citations": [
+      "NY-CFDA-2026"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Bounded public-surface finding; private or undigitized evidence may exist."
+  },
+  {
+    "id": "NYC-CAPTURE-THEN",
+    "day": 3,
+    "temporalState": "Then",
+    "wording": "RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.",
+    "citations": [
+      "NY-CFDA-R360"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-CAPTURE-NOW",
+    "day": 3,
+    "temporalState": "Now",
+    "wording": "The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.",
+    "citations": [
+      "NY-CFDA-2026"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-CAPTURE-NEXT",
+    "day": 3,
+    "temporalState": "Next",
+    "wording": "A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.",
+    "citations": [
+      "NY-CFDA-2026"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Bounded public-surface finding; private or undigitized evidence may exist."
+  },
+  {
+    "id": "NYC-BROADCAST-THEN",
+    "day": 4,
+    "temporalState": "Then",
+    "wording": "CFDA launched RUNWAY360 with support for livestreams, AR/VR, 360-degree media and social integrations during the September 2020 digital pivot.",
+    "citations": [
+      "NY-CFDA-R360",
+      "NY-CFDA-WEBINAR"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-BROADCAST-NOW",
+    "day": 4,
+    "temporalState": "Now",
+    "wording": "In September 2025, CFDA and Rockefeller Center announced public NYFW streams at the Rink and Channel Gardens, supported by Genesys.",
+    "citations": [
+      "NY-CFDA-LIVE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-BROADCAST-NEXT",
+    "day": 4,
+    "temporalState": "Next",
+    "wording": "No equivalent public-screen partnership for September 2026 is assumed until an organizer or venue publishes one.",
+    "citations": [
+      "NY-CFDA-2026"
+    ],
+    "state": "unresolved",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Bounded public-surface finding; private or undigitized evidence may exist."
+  },
+  {
+    "id": "NYC-WORKER-THEN",
+    "day": 5,
+    "temporalState": "Then",
+    "wording": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+    "citations": [
+      "NY-DOL-FWA"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-WORKER-NOW",
+    "day": 5,
+    "temporalState": "Now",
+    "wording": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+    "citations": [
+      "NY-DOL-FWA",
+      "NY-DOL-DUTIES"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-WORKER-NEXT",
+    "day": 5,
+    "temporalState": "Next",
+    "wording": "The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+    "citations": [
+      "NY-DOL-FWA"
+    ],
+    "state": "unresolved",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Bounded public-surface finding; private or undigitized evidence may exist."
+  },
+  {
+    "id": "NYC-PRODUCTION-THEN",
+    "day": 6,
+    "temporalState": "Then",
+    "wording": "CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.",
+    "citations": [
+      "NY-CFDA-FMI"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-PRODUCTION-NOW",
+    "day": 6,
+    "temporalState": "Now",
+    "wording": "CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.",
+    "citations": [
+      "NY-CFDA-PROD",
+      "NY-CFDA-MAT"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-PRODUCTION-NEXT",
+    "day": 6,
+    "temporalState": "Next",
+    "wording": "Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.",
+    "citations": [
+      "NY-CFDA-2026",
+      "NY-CFDA-PROD"
+    ],
+    "state": "unresolved",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Bounded public-surface finding; private or undigitized evidence may exist."
+  },
+  {
+    "id": "NYC-MEMORY-THEN",
+    "day": 7,
+    "temporalState": "Then",
+    "wording": "A 1982 Library of Congress photograph of Liz Claiborne with a model survives as an item-level, citable New York fashion record.",
+    "citations": [
+      "NY-LOC-CLAIBORNE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-MEMORY-NOW",
+    "day": 7,
+    "temporalState": "Now",
+    "wording": "The NYPL preserves Patrick Kelly audiovisual recordings, while The Met describes onsite research access to major runway-photography and runway-video databases.",
+    "citations": [
+      "NY-NYPL-KELLY",
+      "NY-MET-LIB"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  },
+  {
+    "id": "NYC-MEMORY-NEXT",
+    "day": 7,
+    "temporalState": "Next",
+    "wording": "No public record reviewed establishes a complete, rights-cleared archive of every official NYFW show, worker, venue, invitation and technical credit.",
+    "citations": [
+      "NY-NYPL-KELLY",
+      "NY-MET-LIB"
+    ],
+    "state": "editorial inference",
+    "confidence": "medium",
+    "rights": "Citations authorize reporting, not media reuse.",
+    "note": "Read at point of claim."
+  }
+]

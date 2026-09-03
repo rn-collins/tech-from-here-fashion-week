@@ -1,0 +1,1 @@
+const b=document.querySelector('nav button'),m=document.querySelector('#ny-nav');if(b&&m)b.addEventListener('click',()=>{const o=m.classList.toggle('open');b.setAttribute('aria-expanded',String(o))});

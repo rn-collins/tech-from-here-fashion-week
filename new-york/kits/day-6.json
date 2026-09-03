@@ -1,0 +1,116 @@
+{
+  "id": "TFH-NYC-D6",
+  "day": 6,
+  "title": "The show begins in the directory",
+  "technology": "Manufacturing discovery, materials, wholesale readiness",
+  "governingQuestion": "Which databases connect a New York idea to the people and materials that can make it?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "hook": "The show starts upstream—in the databases that connect ideas to makers and materials.",
+  "longform": {
+    "headline": "The show begins in the directory",
+    "opening": "The show starts upstream—in the databases that connect ideas to makers and materials. The evidence reveals a system of coordination rather than a single machine.",
+    "sections": [
+      {
+        "heading": "Manufacturing as search",
+        "copy": "CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.",
+        "claimId": "NYC-PRODUCTION-THEN"
+      },
+      {
+        "heading": "Materials as a database",
+        "copy": "CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.",
+        "claimId": "NYC-PRODUCTION-NOW"
+      },
+      {
+        "heading": "Show-to-sales infrastructure",
+        "copy": "Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.",
+        "claimId": "NYC-PRODUCTION-NEXT"
+      },
+      {
+        "heading": "Brand-level proof still needed",
+        "copy": "CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.",
+        "claimId": "NYC-PRODUCTION-THEN"
+      }
+    ]
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The show starts upstream—in the databases that connect ideas to makers and materials.",
+      "Manufacturing as search.",
+      "Materials as a database.",
+      "Show-to-sales infrastructure.",
+      "Brand-level proof still needed.",
+      "The unresolved edge: Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.",
+      "Open the evidence edition; every source and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The show starts upstream—in the databases that connect ideas to makers and materials."
+    },
+    {
+      "frame": 2,
+      "copy": "Manufacturing as search."
+    },
+    {
+      "frame": 3,
+      "copy": "Materials as a database."
+    },
+    {
+      "frame": 4,
+      "copy": "Show-to-sales infrastructure."
+    },
+    {
+      "frame": 5,
+      "copy": "Brand-level proof still needed."
+    },
+    {
+      "frame": 6,
+      "copy": "The unresolved edge: Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the evidence edition; every source and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "The show starts upstream—in the databases that connect ideas to makers and materials. Seven receipts trace manufacturing discovery, materials, wholesale readiness through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.",
+    "linkedin": "The show starts upstream—in the databases that connect ideas to makers and materials.\n\nManufacturing as search. Materials as a database. Show-to-sales infrastructure. Brand-level proof still needed.\n\nThe point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.",
+    "newsletter": {
+      "subject": "New York 06 — The show begins in the directory",
+      "deck": "Which databases connect a New York idea to the people and materials that can make it?"
+    },
+    "youtube": "Day 6 of Tech From Here × New York Fashion Week examines manufacturing discovery, materials, wholesale readiness. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/06-production-commerce"
+  },
+  "interactive": "A keyboard-operable “production-commerce ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.",
+  "selectedObject": {
+    "title": "Production Directory",
+    "sourceId": "NY-CFDA-PROD",
+    "treatment": "open discovery database",
+    "caption": "The runway’s upstream network appears as searchable manufacturing infrastructure."
+  },
+  "claims": [
+    "NYC-PRODUCTION-THEN",
+    "NYC-PRODUCTION-NOW",
+    "NYC-PRODUCTION-NEXT"
+  ],
+  "sources": [
+    "NY-CFDA-FMI",
+    "NY-CFDA-PROD",
+    "NY-CFDA-MAT",
+    "NY-CFDA-2026"
+  ],
+  "rights": "OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.",
+  "education": [
+    "https://cfda.com/resources/sustainability-resource-hub/",
+    "https://www.metmuseum.org/perspectives/library-fashion-e-resources"
+  ],
+  "openReporting": "Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review where claim scope changes"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "TFH-NYC-D2",
+  "day": 2,
+  "title": "The runway has no single address",
+  "technology": "Distributed venues, public screens, temporary rooms",
+  "governingQuestion": "What happens when a fashion week is coordinated centrally but staged across a city?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "hook": "There is no single New York runway. The city itself is the switching system.",
+  "longform": {
+    "headline": "The runway has no single address",
+    "opening": "There is no single New York runway. The city itself is the switching system. The evidence reveals a system of coordination rather than a single machine.",
+    "sections": [
+      {
+        "heading": "Return from digital",
+        "copy": "The 2021 official schedule marked a return to in-person shows after two predominantly digital seasons and identified CFDA–IMG coordination.",
+        "claimId": "NYC-VENUE-THEN"
+      },
+      {
+        "heading": "A city of temporary rooms",
+        "copy": "The September 2026 schedule contains runway shows, presentations, appointments and digital premieres; it coordinates formats rather than naming one venue stack.",
+        "claimId": "NYC-VENUE-NOW"
+      },
+      {
+        "heading": "Public screens at Rockefeller Center",
+        "copy": "No public CFDA record reviewed specifies a single technical venue system for New York’s next season; supplier and room-level stacks remain reporting assignments.",
+        "claimId": "NYC-VENUE-NEXT"
+      },
+      {
+        "heading": "The missing supplier map",
+        "copy": "The 2021 official schedule marked a return to in-person shows after two predominantly digital seasons and identified CFDA–IMG coordination.",
+        "claimId": "NYC-VENUE-THEN"
+      }
+    ]
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "There is no single New York runway. The city itself is the switching system.",
+      "Return from digital.",
+      "A city of temporary rooms.",
+      "Public screens at Rockefeller Center.",
+      "The missing supplier map.",
+      "The unresolved edge: No public CFDA record reviewed specifies a single technical venue system for New York’s next season; supplier and room-level stacks remain reporting assignments.",
+      "Open the evidence edition; every source and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "There is no single New York runway. The city itself is the switching system."
+    },
+    {
+      "frame": 2,
+      "copy": "Return from digital."
+    },
+    {
+      "frame": 3,
+      "copy": "A city of temporary rooms."
+    },
+    {
+      "frame": 4,
+      "copy": "Public screens at Rockefeller Center."
+    },
+    {
+      "frame": 5,
+      "copy": "The missing supplier map."
+    },
+    {
+      "frame": 6,
+      "copy": "The unresolved edge: No public CFDA record reviewed specifies a single technical venue system for New York’s next season; supplier and room-level stacks remain reporting assignments."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the evidence edition; every source and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "There is no single New York runway. The city itself is the switching system. Seven receipts trace distributed venues, public screens, temporary rooms through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.",
+    "linkedin": "There is no single New York runway. The city itself is the switching system.\n\nReturn from digital. A city of temporary rooms. Public screens at Rockefeller Center. The missing supplier map.\n\nThe point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.",
+    "newsletter": {
+      "subject": "New York 02 — The runway has no single address",
+      "deck": "What happens when a fashion week is coordinated centrally but staged across a city?"
+    },
+    "youtube": "Day 2 of Tech From Here × New York Fashion Week examines distributed venues, public screens, temporary rooms. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/02-venue-network"
+  },
+  "interactive": "A keyboard-operable “venue-network ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.",
+  "selectedObject": {
+    "title": "A public front row",
+    "sourceId": "NY-CFDA-LIVE",
+    "treatment": "organizer partnership record",
+    "caption": "The Rink and Channel Gardens became public display sites for a privately produced week."
+  },
+  "claims": [
+    "NYC-VENUE-THEN",
+    "NYC-VENUE-NOW",
+    "NYC-VENUE-NEXT"
+  ],
+  "sources": [
+    "NY-CFDA-2021",
+    "NY-CFDA-2026"
+  ],
+  "rights": "OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.",
+  "education": [
+    "https://cfda.com/resources/sustainability-resource-hub/",
+    "https://www.metmuseum.org/perspectives/library-fashion-e-resources"
+  ],
+  "openReporting": "No public CFDA record reviewed specifies a single technical venue system for New York’s next season; supplier and room-level stacks remain reporting assignments.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review where claim scope changes"
+  ]
+}

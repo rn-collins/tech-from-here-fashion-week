@@ -1,0 +1,115 @@
+{
+  "id": "TFH-NYC-D1",
+  "day": 1,
+  "title": "The calendar is a control surface",
+  "technology": "Official schedule, application, time allocation",
+  "governingQuestion": "Who gets a slot on New York’s official clock—and what does the interface make visible?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "hook": "New York Fashion Week begins before the first look: somebody has to allocate the clock.",
+  "longform": {
+    "headline": "The calendar is a control surface",
+    "opening": "New York Fashion Week begins before the first look: somebody has to allocate the clock. The evidence reveals a system of coordination rather than a single machine.",
+    "sections": [
+      {
+        "heading": "1945: coordinated time",
+        "copy": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+        "claimId": "NYC-CALENDAR-THEN"
+      },
+      {
+        "heading": "2014: CFDA ownership",
+        "copy": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+        "claimId": "NYC-CALENDAR-NOW"
+      },
+      {
+        "heading": "2026: seventy scheduled presentations",
+        "copy": "Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+        "claimId": "NYC-CALENDAR-NEXT"
+      },
+      {
+        "heading": "What the application cannot tell us",
+        "copy": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+        "claimId": "NYC-CALENDAR-THEN"
+      }
+    ]
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "New York Fashion Week begins before the first look: somebody has to allocate the clock.",
+      "1945: coordinated time.",
+      "2014: CFDA ownership.",
+      "2026: seventy scheduled presentations.",
+      "What the application cannot tell us.",
+      "The unresolved edge: Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+      "Open the evidence edition; every source and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "New York Fashion Week begins before the first look: somebody has to allocate the clock."
+    },
+    {
+      "frame": 2,
+      "copy": "1945: coordinated time."
+    },
+    {
+      "frame": 3,
+      "copy": "2014: CFDA ownership."
+    },
+    {
+      "frame": 4,
+      "copy": "2026: seventy scheduled presentations."
+    },
+    {
+      "frame": 5,
+      "copy": "What the application cannot tell us."
+    },
+    {
+      "frame": 6,
+      "copy": "The unresolved edge: Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the evidence edition; every source and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "New York Fashion Week begins before the first look: somebody has to allocate the clock. Seven receipts trace official schedule, application, time allocation through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.",
+    "linkedin": "New York Fashion Week begins before the first look: somebody has to allocate the clock.\n\n1945: coordinated time. 2014: CFDA ownership. 2026: seventy scheduled presentations. What the application cannot tell us.\n\nThe point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.",
+    "newsletter": {
+      "subject": "New York 01 — The calendar is a control surface",
+      "deck": "Who gets a slot on New York’s official clock—and what does the interface make visible?"
+    },
+    "youtube": "Day 1 of Tech From Here × New York Fashion Week examines official schedule, application, time allocation. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/01-calendar"
+  },
+  "interactive": "A keyboard-operable “calendar ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.",
+  "selectedObject": {
+    "title": "The official clock",
+    "sourceId": "NY-CFDA-2026",
+    "treatment": "live organizer interface",
+    "caption": "Seventy announced runway shows and presentations share a surface with appointments and digital premieres."
+  },
+  "claims": [
+    "NYC-CALENDAR-THEN",
+    "NYC-CALENDAR-NOW",
+    "NYC-CALENDAR-NEXT"
+  ],
+  "sources": [
+    "NY-CFDA-2026",
+    "NY-CFDA-OWN",
+    "NY-CFDA-APP"
+  ],
+  "rights": "OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.",
+  "education": [
+    "https://cfda.com/resources/sustainability-resource-hub/",
+    "https://www.metmuseum.org/perspectives/library-fashion-e-resources"
+  ],
+  "openReporting": "Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review where claim scope changes"
+  ]
+}

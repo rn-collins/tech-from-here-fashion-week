@@ -1,0 +1,115 @@
+{
+  "id": "TFH-NYC-D7",
+  "day": 7,
+  "title": "An archive is a second runway",
+  "technology": "Open collections, audiovisual records, preservation",
+  "governingQuestion": "Who can retrieve New York fashion after the invitation, stream and venue disappear?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "hook": "When the week disappears, the archive decides what can still be argued.",
+  "longform": {
+    "headline": "An archive is a second runway",
+    "opening": "When the week disappears, the archive decides what can still be argued. The evidence reveals a system of coordination rather than a single machine.",
+    "sections": [
+      {
+        "heading": "The photograph that survives",
+        "copy": "A 1982 Library of Congress photograph of Liz Claiborne with a model survives as an item-level, citable New York fashion record.",
+        "claimId": "NYC-MEMORY-THEN"
+      },
+      {
+        "heading": "The audiovisual collection",
+        "copy": "The NYPL preserves Patrick Kelly audiovisual recordings, while The Met describes onsite research access to major runway-photography and runway-video databases.",
+        "claimId": "NYC-MEMORY-NOW"
+      },
+      {
+        "heading": "Open access versus open discovery",
+        "copy": "No public record reviewed establishes a complete, rights-cleared archive of every official NYFW show, worker, venue, invitation and technical credit.",
+        "claimId": "NYC-MEMORY-NEXT"
+      },
+      {
+        "heading": "The impossible complete archive",
+        "copy": "A 1982 Library of Congress photograph of Liz Claiborne with a model survives as an item-level, citable New York fashion record.",
+        "claimId": "NYC-MEMORY-THEN"
+      }
+    ]
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "When the week disappears, the archive decides what can still be argued.",
+      "The photograph that survives.",
+      "The audiovisual collection.",
+      "Open access versus open discovery.",
+      "The impossible complete archive.",
+      "The unresolved edge: No public record reviewed establishes a complete, rights-cleared archive of every official NYFW show, worker, venue, invitation and technical credit.",
+      "Open the evidence edition; every source and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "When the week disappears, the archive decides what can still be argued."
+    },
+    {
+      "frame": 2,
+      "copy": "The photograph that survives."
+    },
+    {
+      "frame": 3,
+      "copy": "The audiovisual collection."
+    },
+    {
+      "frame": 4,
+      "copy": "Open access versus open discovery."
+    },
+    {
+      "frame": 5,
+      "copy": "The impossible complete archive."
+    },
+    {
+      "frame": 6,
+      "copy": "The unresolved edge: No public record reviewed establishes a complete, rights-cleared archive of every official NYFW show, worker, venue, invitation and technical credit."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the evidence edition; every source and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "When the week disappears, the archive decides what can still be argued. Seven receipts trace open collections, audiovisual records, preservation through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.",
+    "linkedin": "When the week disappears, the archive decides what can still be argued.\n\nThe photograph that survives. The audiovisual collection. Open access versus open discovery. The impossible complete archive.\n\nThe point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.",
+    "newsletter": {
+      "subject": "New York 07 — An archive is a second runway",
+      "deck": "Who can retrieve New York fashion after the invitation, stream and venue disappear?"
+    },
+    "youtube": "Day 7 of Tech From Here × New York Fashion Week examines open collections, audiovisual records, preservation. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/07-memory"
+  },
+  "interactive": "A keyboard-operable “memory ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.",
+  "selectedObject": {
+    "title": "Patrick Kelly audiovisual collection",
+    "sourceId": "NY-NYPL-KELLY",
+    "treatment": "archival collection",
+    "caption": "The record survives, but access and reuse remain item-specific questions."
+  },
+  "claims": [
+    "NYC-MEMORY-THEN",
+    "NYC-MEMORY-NOW",
+    "NYC-MEMORY-NEXT"
+  ],
+  "sources": [
+    "NY-LOC-CLAIBORNE",
+    "NY-NYPL-KELLY",
+    "NY-MET-LIB"
+  ],
+  "rights": "OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.",
+  "education": [
+    "https://cfda.com/resources/sustainability-resource-hub/",
+    "https://www.metmuseum.org/perspectives/library-fashion-e-resources"
+  ],
+  "openReporting": "No public record reviewed establishes a complete, rights-cleared archive of every official NYFW show, worker, venue, invitation and technical credit.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review where claim scope changes"
+  ]
+}
