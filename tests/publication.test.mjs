@@ -62,7 +62,7 @@ test('source integrity and repaired official URLs',()=>{
  };
  for(const [id,url] of Object.entries(expected))assert.equal(sources.find(s=>s.id===id)?.url,url,`${id} canonical source`);
  const forbidden=['/pressreleases','/policies/open-access','ecodesign-sustainable-products-regulation_en','/networks/equity-models-network','/eli/reg/2024/1781/oj'];
- for(const s of sources){assert.match(s.url,/^https:\/\//);assert.equal(s.accessed,'2026-08-29');assert.ok(s.rights.length>5);for(const dead of forbidden)assert.ok(!s.url.includes(dead),`${s.id} cannot restore known-dead URL`);}
+ for(const s of sources){assert.match(s.url,/^https:\/\//);assert.ok(['2026-08-29','2026-09-03'].includes(s.accessed));assert.ok(s.rights.length>5);for(const dead of forbidden)assert.ok(!s.url.includes(dead),`${s.id} cannot restore known-dead URL`);}
  const esp=claims.find(c=>c.id==='LON-COMMERCE-NEXT'),espSource=sources.find(s=>s.id==='SRC-EU-ESPR');assert.equal(esp.state,'verified fact');assert.ok(esp.citations.includes('SRC-EU-ESPR'));assert.equal(espSource.documentId,'CELEX:32024R1781');assert.match(espSource.title,/2024\/1781.*32024R1781/);
 });
 
@@ -78,14 +78,14 @@ test('seven commissioning kits are substantive and distinct',()=>{
  const fingerprints=new Set();
  for(let d=1;d<=7;d++){
   const jsonPath=path.join(root,'kits',`day-${d}.json`),mdPath=path.join(root,'kits',`day-${d}.md`);assert.ok(fs.existsSync(jsonPath));assert.ok(fs.existsSync(mdPath));
-  const k=JSON.parse(fs.readFileSync(jsonPath,'utf8')),md=fs.readFileSync(mdPath,'utf8');assert.equal(k.day,d);assert.equal(k.claimIds.length,3);assert.equal(Object.keys(k.evidenceState).length,3);assert.ok(k.editorialHook.length>25);assert.ok(k.longformOutline.length>70);assert.ok(k.verticalScriptBrief.length>60);assert.equal(k.carouselFrames.length,5);assert.ok(k.interactiveSpecification.length>60);assert.equal(k.interviewTargets.length,3);assert.ok(k.objectAndRightsBrief.length>60);assert.ok(k.teachingPrompt.length>40);assert.ok(k.communityCallout.length>50);assert.ok(k.openGapIds.every(id=>gapIds.has(id)));assert.equal(k.releaseGates.length,4);assert.match(k.status,/production remains open/);assert.ok(md.length>1400,`day ${d} markdown depth`);
+  const k=JSON.parse(fs.readFileSync(jsonPath,'utf8')),md=fs.readFileSync(mdPath,'utf8');assert.equal(k.day,d);assert.equal(k.claimIds.length,3);assert.equal(Object.keys(k.evidenceState).length,3);assert.ok(k.editorialHook.length>25);assert.ok(k.longformOutline.length>70);assert.ok(k.verticalScriptBrief.length>60);assert.equal(k.carouselFrames.length,5);assert.ok(k.interactiveSpecification.length>60);assert.equal(k.interviewTargets.length,3);assert.ok(k.selectedObject?.sourceId);assert.ok(k.selectedObject?.caption.length>60);assert.ok(k.objectAndRightsBrief.length>60);assert.ok(k.teachingPrompt.length>40);assert.ok(k.communityCallout.length>50);assert.ok(k.openGapIds.every(id=>gapIds.has(id)));assert.equal(k.releaseGates.length,4);assert.match(k.status,/remain open/);assert.match(k.mediaPolicy,/selected documentary object/);assert.ok(md.length>1400,`day ${d} markdown depth`);
   const fingerprint=JSON.stringify([k.editorialHook,k.longformOutline,k.verticalScriptBrief,k.carouselFrames,k.interactiveSpecification,k.interviewTargets,k.objectAndRightsBrief,k.teachingPrompt,k.communityCallout]);assert.ok(!fingerprints.has(fingerprint),`day ${d} cannot duplicate another kit`);fingerprints.add(fingerprint);
  }
  assert.equal(fingerprints.size,7);
 });
 
 test('media and public release posture',()=>{
- const all=routes.map(r=>fs.readFileSync(path.join(root,r,'index.html'),'utf8')).join('\n');assert.doesNotMatch(all,/<img\b/i,'no uncleared imagery');assert.doesNotMatch(all,/AI-generated hero|synthetic hero/i);assert.match(fs.readFileSync(path.join(root,'robots.txt'),'utf8'),/Allow: \//);
+ const all=routes.map(r=>fs.readFileSync(path.join(root,r,'index.html'),'utf8')).join('\n');assert.doesNotMatch(all,/<img\b/i,'no uncleared imagery');assert.doesNotMatch(all,/AI-generated hero|synthetic hero/i);assert.match(fs.readFileSync(path.join(root,'robots.txt'),'utf8'),/Allow: \//);assert.equal((all.match(/youtube-nocookie\.com\/embed\//g)||[]).length,8,'four embeds appear on their day and object-desk routes');assert.match(all,/AUTHORIZED EMBED via YouTube player/);
  assert.match(all,/https:\/\/github\.com\/rn-collins\/tech-from-here-fashion-week\/issues\/new\?template=correction-or-takedown\.yml/);
  assert.ok(fs.existsSync(path.join(root,'.github','ISSUE_TEMPLATE','correction-or-takedown.yml')),'public correction form exists');
 });

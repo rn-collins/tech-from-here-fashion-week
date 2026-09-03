@@ -1,6 +1,6 @@
 # TFH-LON-D7 — What the week leaves behind
 
-**Status:** day-specific commissioning package; production remains open
+**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
 
 ## Governing question
 
@@ -42,6 +42,10 @@ Claims Fitting Room: test an environmental statement for boundary, baseline, met
 - web archivist
 - independent sustainability researcher
 
+## Selected documentary object
+
+2020 retained page / 2026 live schedule — linked interface pair; Two organizer-controlled surfaces show what a live interface retains—and what only survives because an event page remains addressable.
+
 ## Object and rights brief
 
 Close G-OBJECT-04 with one edition-relevant open object, or retain the designed void.
@@ -73,4 +77,4 @@ Publish transcript/captions for time media; alt text or explicit designed-absenc
 
 ## Media rule
 
-OA/licensed/original/authorized embed only; no media cleared in this release
+OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment

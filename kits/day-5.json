@@ -12,8 +12,8 @@
   "evidenceState": {
     "Then": {
       "claimId": "LON-BACKSTAGE-THEN",
-      "state": "proposal",
-      "confidence": "low"
+      "state": "verified fact",
+      "confidence": "high"
     },
     "Now": {
       "claimId": "LON-BACKSTAGE-NOW",
@@ -56,6 +56,12 @@
     "Open gaps remain visible in copy and end cards",
     "Named worker/interview consent recorded before quotation"
   ],
-  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
-  "status": "day-specific commissioning package; production remains open"
+  "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
+  "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "selectedObject": {
+    "title": "Designer Fashion Fund — Episode 3",
+    "sourceId": "SRC-BFC-VIDEO-BACKSTAGE",
+    "treatment": "official video embed",
+    "caption": "Studios and backstage preparation are visible here; worker data systems remain a separate unresolved question."
+  }
 }

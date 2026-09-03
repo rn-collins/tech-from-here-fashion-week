@@ -1,6 +1,6 @@
 # TFH-LON-D6 — From attention to object
 
-**Status:** day-specific commissioning package; production remains open
+**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
 
 ## Governing question
 
@@ -13,7 +13,7 @@ A regulation can shape the garment without belonging to Fashion Week.
 ## Evidence fitting
 
 - **Then:** LON-COMMERCE-THEN — proposal, low confidence
-- **Now:** LON-COMMERCE-NOW — unresolved, low confidence
+- **Now:** LON-COMMERCE-NOW — verified fact, high confidence
 - **Next:** LON-COMMERCE-NEXT — verified fact, high confidence
 
 ## Long-form gallery
@@ -41,6 +41,10 @@ Product Data Boundary: inspect identifier, material, actor, provenance, and miss
 - brand operations lead
 - wholesale buyer
 - EU product-data specialist
+
+## Selected documentary object
+
+LFW web-development tender, 2021 — linked primary document; The tender connects audience journeys, livestreaming, e-commerce, wholesale, digital showrooms and named web technologies.
 
 ## Object and rights brief
 
@@ -71,4 +75,4 @@ Publish transcript/captions for time media; alt text or explicit designed-absenc
 
 ## Media rule
 
-OA/licensed/original/authorized embed only; no media cleared in this release
+OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment

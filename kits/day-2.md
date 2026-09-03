@@ -1,6 +1,6 @@
 # TFH-LON-D2 — The runway is a machine
 
-**Status:** day-specific commissioning package; production remains open
+**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
 
 ## Governing question
 
@@ -12,7 +12,7 @@ The runway lasts minutes. Its machinery begins before the room exists.
 
 ## Evidence fitting
 
-- **Then:** LON-STAGE-THEN — proposal, low confidence
+- **Then:** LON-STAGE-THEN — verified fact, high confidence
 - **Now:** LON-STAGE-NOW — unresolved, low confidence
 - **Next:** LON-STAGE-NEXT — unresolved, low confidence
 
@@ -41,6 +41,10 @@ Cue Sheet: a keyboard timeline linking light, sound, scenic change, and claim st
 - show producer
 - lighting or spatial designer
 - venue technical manager
+
+## Selected documentary object
+
+LFW February 2018 — 360 VR — official video embed; A navigable official moving-image record of shows, presentations and backstage space; not a substitute for production credits.
 
 ## Object and rights brief
 
@@ -72,4 +76,4 @@ Publish transcript/captions for time media; alt text or explicit designed-absenc
 
 ## Media rule
 
-OA/licensed/original/authorized embed only; no media cleared in this release
+OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment

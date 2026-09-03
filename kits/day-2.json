@@ -12,8 +12,8 @@
   "evidenceState": {
     "Then": {
       "claimId": "LON-STAGE-THEN",
-      "state": "proposal",
-      "confidence": "low"
+      "state": "verified fact",
+      "confidence": "high"
     },
     "Now": {
       "claimId": "LON-STAGE-NOW",
@@ -56,6 +56,12 @@
     "Open gaps remain visible in copy and end cards",
     "Named worker/interview consent recorded before quotation"
   ],
-  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
-  "status": "day-specific commissioning package; production remains open"
+  "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
+  "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "selectedObject": {
+    "title": "LFW February 2018 — 360 VR",
+    "sourceId": "SRC-BFC-VIDEO-360",
+    "treatment": "official video embed",
+    "caption": "A navigable official moving-image record of shows, presentations and backstage space; not a substitute for production credits."
+  }
 }

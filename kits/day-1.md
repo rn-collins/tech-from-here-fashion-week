@@ -1,6 +1,6 @@
 # TFH-LON-D1 — The invitation is an interface
 
-**Status:** day-specific commissioning package; production remains open
+**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
 
 ## Governing question
 
@@ -12,7 +12,7 @@ The URL is public. The room is not.
 
 ## Evidence fitting
 
-- **Then:** LON-ACCESS-THEN — editorial inference, medium confidence
+- **Then:** LON-ACCESS-THEN — verified fact, high confidence
 - **Now:** LON-ACCESS-NOW — verified fact, high confidence
 - **Next:** LON-ACCESS-NEXT — unresolved, low confidence
 
@@ -41,6 +41,10 @@ Access Ledger: compare public listing, accreditation, invitation, venue entry, a
 - BFC accreditation operator
 - credentialed press member
 - accessibility adviser
+
+## Selected documentary object
+
+September 2020 digital schedule — linked interface; The BFC records 50 digital-only, 21 hybrid and seven physical-only activations, making the permissions split explicit.
 
 ## Object and rights brief
 
@@ -73,4 +77,4 @@ Publish transcript/captions for time media; alt text or explicit designed-absenc
 
 ## Media rule
 
-OA/licensed/original/authorized embed only; no media cleared in this release
+OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment

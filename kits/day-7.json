@@ -57,6 +57,12 @@
     "Open gaps remain visible in copy and end cards",
     "Named worker/interview consent recorded before quotation"
   ],
-  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
-  "status": "day-specific commissioning package; production remains open"
+  "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
+  "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "selectedObject": {
+    "title": "2020 retained page / 2026 live schedule",
+    "sourceId": "SRC-LFW-SCHEDULE-2026",
+    "treatment": "linked interface pair",
+    "caption": "Two organizer-controlled surfaces show what a live interface retains—and what only survives because an event page remains addressable."
+  }
 }

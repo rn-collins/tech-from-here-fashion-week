@@ -1,6 +1,6 @@
 # TFH-LON-D5 — Compressed labor
 
-**Status:** day-specific commissioning package; production remains open
+**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
 
 ## Governing question
 
@@ -12,7 +12,7 @@ Efficiency for production can become extraction from workers.
 
 ## Evidence fitting
 
-- **Then:** LON-BACKSTAGE-THEN — proposal, low confidence
+- **Then:** LON-BACKSTAGE-THEN — verified fact, high confidence
 - **Now:** LON-BACKSTAGE-NOW — unresolved, low confidence
 - **Next:** LON-BACKSTAGE-NEXT — unresolved, low confidence
 
@@ -41,6 +41,10 @@ Backstage Data Inventory: a non-collecting tool showing purpose, owner, retentio
 - casting director
 - model or Equity representative
 - privacy and labor researcher
+
+## Selected documentary object
+
+Designer Fashion Fund — Episode 3 — official video embed; Studios and backstage preparation are visible here; worker data systems remain a separate unresolved question.
 
 ## Object and rights brief
 
@@ -72,4 +76,4 @@ Publish transcript/captions for time media; alt text or explicit designed-absenc
 
 ## Media rule
 
-OA/licensed/original/authorized embed only; no media cleared in this release
+OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment

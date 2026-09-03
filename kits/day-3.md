@@ -1,6 +1,6 @@
 # TFH-LON-D3 — The camera writes the collection
 
-**Status:** day-specific commissioning package; production remains open
+**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
 
 ## Governing question
 
@@ -42,6 +42,10 @@ Canonical View Comparator: user selects attendee, official film, press archive, 
 - broadcast director
 - fashion archivist
 
+## Selected documentary object
+
+Everything Is Temporary — official video embed; The BFC-commissioned June 2021 digital opening makes moving image part of the programme itself.
+
 ## Object and rights brief
 
 Use an authorized BFC video embed only after video-level rights and layered music/footage review.
@@ -71,4 +75,4 @@ Publish transcript/captions for time media; alt text or explicit designed-absenc
 
 ## Media rule
 
-OA/licensed/original/authorized embed only; no media cleared in this release
+OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment

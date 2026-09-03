@@ -12,8 +12,8 @@
   "evidenceState": {
     "Then": {
       "claimId": "LON-ACCESS-THEN",
-      "state": "editorial inference",
-      "confidence": "medium"
+      "state": "verified fact",
+      "confidence": "high"
     },
     "Now": {
       "claimId": "LON-ACCESS-NOW",
@@ -57,6 +57,12 @@
     "Open gaps remain visible in copy and end cards",
     "Named worker/interview consent recorded before quotation"
   ],
-  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
-  "status": "day-specific commissioning package; production remains open"
+  "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
+  "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "selectedObject": {
+    "title": "September 2020 digital schedule",
+    "sourceId": "SRC-LFW-DIGITAL-2020",
+    "treatment": "linked interface",
+    "caption": "The BFC records 50 digital-only, 21 hybrid and seven physical-only activations, making the permissions split explicit."
+  }
 }

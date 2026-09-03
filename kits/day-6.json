@@ -17,8 +17,8 @@
     },
     "Now": {
       "claimId": "LON-COMMERCE-NOW",
-      "state": "unresolved",
-      "confidence": "low"
+      "state": "verified fact",
+      "confidence": "high"
     },
     "Next": {
       "claimId": "LON-COMMERCE-NEXT",
@@ -55,6 +55,12 @@
     "Open gaps remain visible in copy and end cards",
     "Named worker/interview consent recorded before quotation"
   ],
-  "mediaPolicy": "OA/licensed/original/authorized embed only; no media cleared in this release",
-  "status": "day-specific commissioning package; production remains open"
+  "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
+  "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "selectedObject": {
+    "title": "LFW web-development tender, 2021",
+    "sourceId": "SRC-BFC-WEB-ITT-2021",
+    "treatment": "linked primary document",
+    "caption": "The tender connects audience journeys, livestreaming, e-commerce, wholesale, digital showrooms and named web technologies."
+  }
 }

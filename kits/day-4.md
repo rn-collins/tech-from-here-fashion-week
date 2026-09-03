@@ -1,6 +1,6 @@
 # TFH-LON-D4 — The feed becomes the front row
 
-**Status:** day-specific commissioning package; production remains open
+**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
 
 ## Governing question
 
@@ -12,7 +12,7 @@ A livestream widens reach. It does not automatically redistribute attention.
 
 ## Evidence fitting
 
-- **Then:** LON-CIRCULATION-THEN — attributed claim, medium confidence
+- **Then:** LON-CIRCULATION-THEN — verified fact, high confidence
 - **Now:** LON-CIRCULATION-NOW — verified fact, high confidence
 - **Next:** LON-CIRCULATION-NEXT — unresolved, low confidence
 
@@ -41,6 +41,10 @@ Front Row / Feed: compare visible fields and delay across room, official stream,
 - early digital producer
 - remote viewer or critic
 - platform-distribution researcher
+
+## Selected documentary object
+
+LFW Digital Highlights — official video embed; Official highlights from the June 2020 digital, gender-neutral edition—the event as a distributed media object.
 
 ## Object and rights brief
 
@@ -73,4 +77,4 @@ Publish transcript/captions for time media; alt text or explicit designed-absenc
 
 ## Media rule
 
-OA/licensed/original/authorized embed only; no media cleared in this release
+OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment
