@@ -1,0 +1,265 @@
+[
+  {
+    "id": "MI-ACCESS-THEN",
+    "day": 1,
+    "temporalState": "Then",
+    "wording": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+    "citations": [
+      "MI-CNMI-HOME"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-ACCESS-NOW",
+    "day": 1,
+    "temporalState": "Now",
+    "wording": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+    "citations": [
+      "MI-CNMI-HOME",
+      "MI-CNMI-APP"
+    ],
+    "state": "editorial synthesis",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-ACCESS-NEXT",
+    "day": 1,
+    "temporalState": "Next",
+    "wording": "No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+    "citations": [
+      "MI-CNMI-HOME"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private or undigitized evidence may exist."
+  },
+  {
+    "id": "MI-ROOM-THEN",
+    "day": 2,
+    "temporalState": "Then",
+    "wording": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+    "citations": [
+      "MI-CNMI-HUB"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-ROOM-NOW",
+    "day": 2,
+    "temporalState": "Now",
+    "wording": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+    "citations": [
+      "MI-CNMI-HOME"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-ROOM-NEXT",
+    "day": 2,
+    "temporalState": "Next",
+    "wording": "Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+    "citations": [
+      "MI-CNMI-HOME"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private or undigitized evidence may exist."
+  },
+  {
+    "id": "MI-CRAFT-THEN",
+    "day": 3,
+    "temporalState": "Then",
+    "wording": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+    "citations": [
+      "MI-CNMI-FIALLO"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-CRAFT-NOW",
+    "day": 3,
+    "temporalState": "Now",
+    "wording": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+    "citations": [
+      "MI-CNMI-HUB",
+      "MI-CNMI-FIALLO"
+    ],
+    "state": "editorial synthesis",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-CRAFT-NEXT",
+    "day": 3,
+    "temporalState": "Next",
+    "wording": "The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+    "citations": [
+      "MI-CNMI-FIALLO"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private or undigitized evidence may exist."
+  },
+  {
+    "id": "MI-DIGITAL-THEN",
+    "day": 4,
+    "temporalState": "Then",
+    "wording": "CNMI says its 2020 Digital Fashion Hub was designed and developed with Accenture, supported by Microsoft technology, with requirements work by PwC.",
+    "citations": [
+      "MI-CNMI-DIGITAL"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-DIGITAL-NOW",
+    "day": 4,
+    "temporalState": "Now",
+    "wording": "The 2020 platform ran continuously across time zones and supported scheduled brand storytelling, while CNMI also published a multibrand virtual-showroom video.",
+    "citations": [
+      "MI-CNMI-DIGITAL",
+      "MI-CNMI-YT"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-DIGITAL-NEXT",
+    "day": 4,
+    "temporalState": "Next",
+    "wording": "A permanent future supplier stack or successor platform is not inferred from the 2020 announcement.",
+    "citations": [
+      "MI-CNMI-DIGITAL"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private or undigitized evidence may exist."
+  },
+  {
+    "id": "MI-ORDER-THEN",
+    "day": 5,
+    "temporalState": "Then",
+    "wording": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+    "citations": [
+      "MI-CNMI-JUNE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-ORDER-NOW",
+    "day": 5,
+    "temporalState": "Now",
+    "wording": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+    "citations": [
+      "MI-CNMI-SHOWROOM"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-ORDER-NEXT",
+    "day": 5,
+    "temporalState": "Next",
+    "wording": "Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+    "citations": [
+      "MI-CNMI-SHOWROOM"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private or undigitized evidence may exist."
+  },
+  {
+    "id": "MI-DPP-THEN",
+    "day": 6,
+    "temporalState": "Then",
+    "wording": "The EU Ecodesign for Sustainable Products Regulation entered into force in July 2024 and establishes a framework that includes digital product passports.",
+    "citations": [
+      "MI-EU-ESPR",
+      "MI-EU-DPP"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-DPP-NOW",
+    "day": 6,
+    "temporalState": "Now",
+    "wording": "The Digital Product Passport is a regulatory data architecture, not proof that every Milan runway garment currently carries one.",
+    "citations": [
+      "MI-EU-ESPR",
+      "MI-EU-DPP"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-DPP-NEXT",
+    "day": 6,
+    "temporalState": "Next",
+    "wording": "Product-group rules, delegated acts and implementation details must be tracked through official EU records; no CNMI-specific future implementation is asserted here.",
+    "citations": [
+      "MI-EU-DPP",
+      "MI-EU-TEXTILE"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private or undigitized evidence may exist."
+  },
+  {
+    "id": "MI-MEMORY-THEN",
+    "day": 7,
+    "temporalState": "Then",
+    "wording": "Italy’s public archive and museum surfaces, Modateca Deanna and Politecnico di Milano preserve different slices of fashion knowledge: records, objects, textiles and research.",
+    "citations": [
+      "MI-ARCHIVI-MODA",
+      "MI-TRIENNALE",
+      "MI-MODATECA",
+      "MI-POLIMI"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-MEMORY-NOW",
+    "day": 7,
+    "temporalState": "Now",
+    "wording": "CNMI’s live gallery and video surfaces preserve selected official images and moving-image records, but discovery does not equal permission to reproduce.",
+    "citations": [
+      "MI-CNMI-HOME",
+      "MI-CNMI-YT"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  },
+  {
+    "id": "MI-MEMORY-NEXT",
+    "day": 7,
+    "temporalState": "Next",
+    "wording": "No complete public, rights-cleared archive of every Milan show, worker, venue, invitation, technical credit and commercial outcome was located.",
+    "citations": [
+      "MI-ARCHIVI-MODA",
+      "MI-CNMI-HOME"
+    ],
+    "state": "editorial inference",
+    "confidence": "high",
+    "note": "Read with exact sources at point of claim."
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "id": "TFH-MI-D3",
+  "day": 3,
+  "title": "The machine carries the hand",
+  "technology": "Manufacturing, craft, digital fabrication",
+  "governingQuestion": "Where does Italian craft end and technical production begin?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The machine carries the hand",
+    "opening": "In Milan, the hand and machine are not opposites—they are a production argument.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+        "claimId": "MI-CRAFT-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+        "claimId": "MI-CRAFT-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+        "claimId": "MI-CRAFT-NEXT"
+      }
+    ],
+    "closing": "Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "In Milan, the hand and machine are not opposites—they are a production argument.",
+      "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+      "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+      "The system: Manufacturing, craft, digital fabrication.",
+      "The proof: Felipe Fiallo designer record.",
+      "The limit: The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+      "Open the Milan evidence edition: every receipt and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "In Milan, the hand and machine are not opposites—they are a production argument."
+    },
+    {
+      "frame": 2,
+      "copy": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice."
+    },
+    {
+      "frame": 3,
+      "copy": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Manufacturing, craft, digital fabrication."
+    },
+    {
+      "frame": 5,
+      "copy": "The proof: Felipe Fiallo designer record."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the Milan evidence edition: every receipt and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "In Milan, the hand and machine are not opposites—they are a production argument. Seven receipts trace manufacturing, craft, digital fabrication through Milan—without inventing a private supplier stack.",
+    "linkedin": "In Milan, the hand and machine are not opposites—they are a production argument.\n\nCNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.\n\nMilan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.\n\nThe reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.\n\nFull evidence and rights treatment in the Milan edition.",
+    "newsletter": {
+      "subject": "Milano 03 — The machine carries the hand",
+      "deck": "Where does Italian craft end and technical production begin?"
+    },
+    "youtube": "Day 3 examines manufacturing, craft, digital fabrication. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/03-craft-machine"
+  },
+  "interactive": "A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.",
+  "selectedObject": {
+    "title": "A digitally fabricated footwear practice",
+    "sourceId": "MI-CNMI-FIALLO",
+    "treatment": "official designer record"
+  },
+  "claims": [
+    "MI-CRAFT-THEN",
+    "MI-CRAFT-NOW",
+    "MI-CRAFT-NEXT"
+  ],
+  "sources": [
+    "MI-CNMI-FIALLO",
+    "MI-CNMI-HUB"
+  ],
+  "rights": "Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.",
+  "education": [
+    "https://triennale.org/eng/museum-of-italian-design",
+    "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+  ],
+  "openReporting": "The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

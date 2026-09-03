@@ -1,0 +1,109 @@
+{
+  "id": "TFH-MI-D2",
+  "day": 2,
+  "title": "The city becomes a sequence of rooms",
+  "technology": "Palazzi, Fashion Hub, distributed venues",
+  "governingQuestion": "How does Milan turn heritage architecture into temporary fashion infrastructure?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The city becomes a sequence of rooms",
+    "opening": "Milan does not have one runway; it has rooms carrying centuries into temporary use.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+        "claimId": "MI-ROOM-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+        "claimId": "MI-ROOM-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+        "claimId": "MI-ROOM-NEXT"
+      }
+    ],
+    "closing": "Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Milan does not have one runway; it has rooms carrying centuries into temporary use.",
+      "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+      "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+      "The system: Palazzi, Fashion Hub, distributed venues.",
+      "The proof: Designers for the Planet open call.",
+      "The limit: Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+      "Open the Milan evidence edition: every receipt and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Milan does not have one runway; it has rooms carrying centuries into temporary use."
+    },
+    {
+      "frame": 2,
+      "copy": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers."
+    },
+    {
+      "frame": 3,
+      "copy": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Palazzi, Fashion Hub, distributed venues."
+    },
+    {
+      "frame": 5,
+      "copy": "The proof: Designers for the Planet open call."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the Milan evidence edition: every receipt and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Milan does not have one runway; it has rooms carrying centuries into temporary use. Seven receipts trace palazzi, fashion hub, distributed venues through Milan—without inventing a private supplier stack.",
+    "linkedin": "Milan does not have one runway; it has rooms carrying centuries into temporary use.\n\nCNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.\n\nThe official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.\n\nRoom-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.\n\nFull evidence and rights treatment in the Milan edition.",
+    "newsletter": {
+      "subject": "Milano 02 — The city becomes a sequence of rooms",
+      "deck": "How does Milan turn heritage architecture into temporary fashion infrastructure?"
+    },
+    "youtube": "Day 2 examines palazzi, fashion hub, distributed venues. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/02-city-palazzo"
+  },
+  "interactive": "A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.",
+  "selectedObject": {
+    "title": "Palazzo Giureconsulti Fashion Hub",
+    "sourceId": "MI-CNMI-HUB",
+    "treatment": "official open-call record"
+  },
+  "claims": [
+    "MI-ROOM-THEN",
+    "MI-ROOM-NOW",
+    "MI-ROOM-NEXT"
+  ],
+  "sources": [
+    "MI-CNMI-HUB",
+    "MI-CNMI-HOME"
+  ],
+  "rights": "Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.",
+  "education": [
+    "https://triennale.org/eng/museum-of-italian-design",
+    "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+  ],
+  "openReporting": "Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

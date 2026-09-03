@@ -1,0 +1,113 @@
+{
+  "id": "TFH-MI-D7",
+  "day": 7,
+  "title": "Made in Italy needs a memory system",
+  "technology": "Archives, film, image rights, preservation",
+  "governingQuestion": "What survives Milan after the room, stream and order book close?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "Made in Italy needs a memory system",
+    "opening": "Made in Italy cannot continue without systems that remember how it was made.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Italy’s public archive and museum surfaces, Modateca Deanna and Politecnico di Milano preserve different slices of fashion knowledge: records, objects, textiles and research.",
+        "claimId": "MI-MEMORY-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "CNMI’s live gallery and video surfaces preserve selected official images and moving-image records, but discovery does not equal permission to reproduce.",
+        "claimId": "MI-MEMORY-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No complete public, rights-cleared archive of every Milan show, worker, venue, invitation, technical credit and commercial outcome was located.",
+        "claimId": "MI-MEMORY-NEXT"
+      }
+    ],
+    "closing": "Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Made in Italy cannot continue without systems that remember how it was made.",
+      "Italy’s public archive and museum surfaces, Modateca Deanna and Politecnico di Milano preserve different slices of fashion knowledge: records, objects, textiles and research.",
+      "CNMI’s live gallery and video surfaces preserve selected official images and moving-image records, but discovery does not equal permission to reproduce.",
+      "The system: Archives, film, image rights, preservation.",
+      "The proof: Fashion archives portal.",
+      "The limit: No complete public, rights-cleared archive of every Milan show, worker, venue, invitation, technical credit and commercial outcome was located.",
+      "Open the Milan evidence edition: every receipt and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Made in Italy cannot continue without systems that remember how it was made."
+    },
+    {
+      "frame": 2,
+      "copy": "Italy’s public archive and museum surfaces, Modateca Deanna and Politecnico di Milano preserve different slices of fashion knowledge: records, objects, textiles and research."
+    },
+    {
+      "frame": 3,
+      "copy": "CNMI’s live gallery and video surfaces preserve selected official images and moving-image records, but discovery does not equal permission to reproduce."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Archives, film, image rights, preservation."
+    },
+    {
+      "frame": 5,
+      "copy": "The proof: Fashion archives portal."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: No complete public, rights-cleared archive of every Milan show, worker, venue, invitation, technical credit and commercial outcome was located."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the Milan evidence edition: every receipt and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Made in Italy cannot continue without systems that remember how it was made. Seven receipts trace archives, film, image rights, preservation through Milan—without inventing a private supplier stack.",
+    "linkedin": "Made in Italy cannot continue without systems that remember how it was made.\n\nItaly’s public archive and museum surfaces, Modateca Deanna and Politecnico di Milano preserve different slices of fashion knowledge: records, objects, textiles and research.\n\nCNMI’s live gallery and video surfaces preserve selected official images and moving-image records, but discovery does not equal permission to reproduce.\n\nNo complete public, rights-cleared archive of every Milan show, worker, venue, invitation, technical credit and commercial outcome was located.\n\nFull evidence and rights treatment in the Milan edition.",
+    "newsletter": {
+      "subject": "Milano 07 — Made in Italy needs a memory system",
+      "deck": "What survives Milan after the room, stream and order book close?"
+    },
+    "youtube": "Day 7 examines archives, film, image rights, preservation. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/07-archive-memory"
+  },
+  "interactive": "A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.",
+  "selectedObject": {
+    "title": "Fashion in Process",
+    "sourceId": "MI-POLIMI",
+    "treatment": "university research resource"
+  },
+  "claims": [
+    "MI-MEMORY-THEN",
+    "MI-MEMORY-NOW",
+    "MI-MEMORY-NEXT"
+  ],
+  "sources": [
+    "MI-ARCHIVI-MODA",
+    "MI-TRIENNALE",
+    "MI-MODATECA",
+    "MI-POLIMI",
+    "MI-CNMI-HOME",
+    "MI-CNMI-YT"
+  ],
+  "rights": "Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.",
+  "education": [
+    "https://triennale.org/eng/museum-of-italian-design",
+    "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+  ],
+  "openReporting": "No complete public, rights-cleared archive of every Milan show, worker, venue, invitation, technical credit and commercial outcome was located.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

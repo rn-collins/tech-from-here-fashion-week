@@ -1,0 +1,173 @@
+[
+  {
+    "id": "MI-CNMI-HOME",
+    "title": "Milano Fashion Week: calendar, dates and access notice",
+    "institution": "Camera Nazionale della Moda Italiana",
+    "date": "current",
+    "url": "https://www.cameramoda.it/en/",
+    "type": "official organizer interface",
+    "rights": "LINK-ONLY; organizer text quoted sparingly"
+  },
+  {
+    "id": "MI-CNMI-DIGITAL",
+    "title": "Milano Digital Fashion Week",
+    "institution": "CNMI",
+    "date": "2020-06-29",
+    "url": "https://www.cameramoda.it/en/associazione/news/1607/",
+    "type": "official platform announcement",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-CNMI-JUNE",
+    "title": "Milano Moda Uomo moves to September",
+    "institution": "CNMI",
+    "date": "2020-03-27",
+    "url": "https://www.cameramoda.it/en/associazione/news/1598/",
+    "type": "official schedule announcement",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-CNMI-HUB",
+    "title": "Designers for the Planet open call",
+    "institution": "CNMI",
+    "date": "2024-05-21",
+    "url": "https://www.cameramoda.it/en/associazione/news/1672/",
+    "type": "official open call",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-CNMI-FIALLO",
+    "title": "Felipe Fiallo designer record",
+    "institution": "CNMI",
+    "date": "2026",
+    "url": "https://www.cameramoda.it/en/milano-moda-donna/fashion-hub-market/designer/142-felipe-fiallo/",
+    "type": "official Fashion Hub record",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-CNMI-YT",
+    "title": "CNMI multibrand virtual showroom",
+    "institution": "CNMI / YouTube",
+    "date": "2020",
+    "url": "https://www.youtube.com/watch?v=PKMQCwTfcaE",
+    "type": "official video",
+    "rights": "AUTHORIZED EMBED via YouTube privacy-enhanced player"
+  },
+  {
+    "id": "MI-CNMI-APP",
+    "title": "Camera Moda app",
+    "institution": "CNMI / Apple App Store",
+    "date": "current",
+    "url": "https://apps.apple.com/us/app/camera-moda/id534578351",
+    "type": "official application listing",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-CNMI-SUSTAIN",
+    "title": "CNMI sustainability program",
+    "institution": "CNMI",
+    "date": "current",
+    "url": "https://www.cameramoda.it/en/sustainability/",
+    "type": "official learning resource",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-CNMI-MANIFESTO",
+    "title": "Manifesto for sustainability in Italian fashion",
+    "institution": "CNMI",
+    "date": "2012",
+    "url": "https://www.cameramoda.it/media/pdf/manifesto_sostenibilita_en.pdf",
+    "type": "official framework PDF",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-CNMI-SHOWROOM",
+    "title": "Milano Moda Main virtual showroom archive",
+    "institution": "CNMI",
+    "date": "current archive",
+    "url": "https://www.cameramoda.it/en/milano-moda-main/",
+    "type": "official market resource",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-EU-ESPR",
+    "title": "Regulation (EU) 2024/1781",
+    "institution": "EUR-Lex",
+    "date": "2024-06-28",
+    "url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj",
+    "type": "binding EU law",
+    "rights": "PUBLIC LEGAL RECORD; LINK-ONLY"
+  },
+  {
+    "id": "MI-EU-DPP",
+    "title": "Ecodesign for Sustainable Products Regulation",
+    "institution": "European Commission",
+    "date": "current",
+    "url": "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en",
+    "type": "official policy explainer",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-EU-TEXTILE",
+    "title": "EU Strategy for Sustainable and Circular Textiles",
+    "institution": "European Commission",
+    "date": "current",
+    "url": "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+    "type": "official policy page",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-MIMIT-MADEITALY",
+    "title": "Made in Italy framework",
+    "institution": "Italian Ministry of Enterprises and Made in Italy",
+    "date": "current",
+    "url": "https://www.mimit.gov.it/en/",
+    "type": "government discovery surface",
+    "rights": "LINK-ONLY; exact fashion-week implementation unresolved"
+  },
+  {
+    "id": "MI-EUIPO-MFW",
+    "title": "European Union trade mark search",
+    "institution": "EUIPO",
+    "date": "current",
+    "url": "https://euipo.europa.eu/eSearch/",
+    "type": "official trademark search tool",
+    "rights": "INTERACTIVE LINK; result must be independently saved before claim"
+  },
+  {
+    "id": "MI-ARCHIVI-MODA",
+    "title": "Fashion archives portal",
+    "institution": "Direzione Generale Archivi / Italian Ministry of Culture",
+    "date": "current",
+    "url": "https://archivi.cultura.gov.it/",
+    "type": "government archive discovery",
+    "rights": "LINK-ONLY; item-level rights vary"
+  },
+  {
+    "id": "MI-TRIENNALE",
+    "title": "Museo del Design Italiano",
+    "institution": "Triennale Milano",
+    "date": "current",
+    "url": "https://triennale.org/eng/museum-of-italian-design",
+    "type": "museum learning resource",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "MI-MODATECA",
+    "title": "Modateca Deanna archive",
+    "institution": "Modateca Deanna",
+    "date": "current",
+    "url": "https://www.modateca.it/",
+    "type": "specialist textile archive",
+    "rights": "LINK-ONLY; access and reuse by permission"
+  },
+  {
+    "id": "MI-POLIMI",
+    "title": "Fashion in Process Research Lab",
+    "institution": "Politecnico di Milano",
+    "date": "current",
+    "url": "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "type": "university research resource",
+    "rights": "LINK-ONLY"
+  }
+]

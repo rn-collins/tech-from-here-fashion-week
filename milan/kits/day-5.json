@@ -1,0 +1,109 @@
+{
+  "id": "TFH-MI-D5",
+  "day": 5,
+  "title": "Eight hundred showrooms become a network",
+  "technology": "B2B, B2C, wholesale, market access",
+  "governingQuestion": "How does Milan convert spectacle into an order?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "Eight hundred showrooms become a network",
+    "opening": "The show is public attention; the showroom is the order system behind it.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+        "claimId": "MI-ORDER-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+        "claimId": "MI-ORDER-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+        "claimId": "MI-ORDER-NEXT"
+      }
+    ],
+    "closing": "Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The show is public attention; the showroom is the order system behind it.",
+      "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+      "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+      "The system: B2B, B2C, wholesale, market access.",
+      "The proof: Milano Moda Uomo moves to September.",
+      "The limit: Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+      "Open the Milan evidence edition: every receipt and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The show is public attention; the showroom is the order system behind it."
+    },
+    {
+      "frame": 2,
+      "copy": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September."
+    },
+    {
+      "frame": 3,
+      "copy": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: B2B, B2C, wholesale, market access."
+    },
+    {
+      "frame": 5,
+      "copy": "The proof: Milano Moda Uomo moves to September."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the Milan evidence edition: every receipt and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "The show is public attention; the showroom is the order system behind it. Seven receipts trace b2b, b2c, wholesale, market access through Milan—without inventing a private supplier stack.",
+    "linkedin": "The show is public attention; the showroom is the order system behind it.\n\nIn March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.\n\nCNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.\n\nWhich wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.\n\nFull evidence and rights treatment in the Milan edition.",
+    "newsletter": {
+      "subject": "Milano 05 — Eight hundred showrooms become a network",
+      "deck": "How does Milan convert spectacle into an order?"
+    },
+    "youtube": "Day 5 examines b2b, b2c, wholesale, market access. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/05-showroom-order"
+  },
+  "interactive": "A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.",
+  "selectedObject": {
+    "title": "Fashion Showroom",
+    "sourceId": "MI-CNMI-SHOWROOM",
+    "treatment": "official market interface"
+  },
+  "claims": [
+    "MI-ORDER-THEN",
+    "MI-ORDER-NOW",
+    "MI-ORDER-NEXT"
+  ],
+  "sources": [
+    "MI-CNMI-JUNE",
+    "MI-CNMI-SHOWROOM"
+  ],
+  "rights": "Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.",
+  "education": [
+    "https://triennale.org/eng/museum-of-italian-design",
+    "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+  ],
+  "openReporting": "Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

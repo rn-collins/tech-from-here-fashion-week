@@ -1,0 +1,109 @@
+{
+  "id": "TFH-MI-D4",
+  "day": 4,
+  "title": "The front row learned every time zone",
+  "technology": "Digital Fashion Hub, livestream, VOD",
+  "governingQuestion": "What did Milan preserve when the runway became a platform?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The front row learned every time zone",
+    "opening": "In 2020, Milan rebuilt the front row as a platform that never slept.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "CNMI says its 2020 Digital Fashion Hub was designed and developed with Accenture, supported by Microsoft technology, with requirements work by PwC.",
+        "claimId": "MI-DIGITAL-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The 2020 platform ran continuously across time zones and supported scheduled brand storytelling, while CNMI also published a multibrand virtual-showroom video.",
+        "claimId": "MI-DIGITAL-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "A permanent future supplier stack or successor platform is not inferred from the 2020 announcement.",
+        "claimId": "MI-DIGITAL-NEXT"
+      }
+    ],
+    "closing": "Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "In 2020, Milan rebuilt the front row as a platform that never slept.",
+      "CNMI says its 2020 Digital Fashion Hub was designed and developed with Accenture, supported by Microsoft technology, with requirements work by PwC.",
+      "The 2020 platform ran continuously across time zones and supported scheduled brand storytelling, while CNMI also published a multibrand virtual-showroom video.",
+      "The system: Digital Fashion Hub, livestream, VOD.",
+      "The proof: Milano Digital Fashion Week.",
+      "The limit: A permanent future supplier stack or successor platform is not inferred from the 2020 announcement.",
+      "Open the Milan evidence edition: every receipt and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "In 2020, Milan rebuilt the front row as a platform that never slept."
+    },
+    {
+      "frame": 2,
+      "copy": "CNMI says its 2020 Digital Fashion Hub was designed and developed with Accenture, supported by Microsoft technology, with requirements work by PwC."
+    },
+    {
+      "frame": 3,
+      "copy": "The 2020 platform ran continuously across time zones and supported scheduled brand storytelling, while CNMI also published a multibrand virtual-showroom video."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Digital Fashion Hub, livestream, VOD."
+    },
+    {
+      "frame": 5,
+      "copy": "The proof: Milano Digital Fashion Week."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: A permanent future supplier stack or successor platform is not inferred from the 2020 announcement."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the Milan evidence edition: every receipt and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "In 2020, Milan rebuilt the front row as a platform that never slept. Seven receipts trace digital fashion hub, livestream, vod through Milan—without inventing a private supplier stack.",
+    "linkedin": "In 2020, Milan rebuilt the front row as a platform that never slept.\n\nCNMI says its 2020 Digital Fashion Hub was designed and developed with Accenture, supported by Microsoft technology, with requirements work by PwC.\n\nThe 2020 platform ran continuously across time zones and supported scheduled brand storytelling, while CNMI also published a multibrand virtual-showroom video.\n\nA permanent future supplier stack or successor platform is not inferred from the 2020 announcement.\n\nFull evidence and rights treatment in the Milan edition.",
+    "newsletter": {
+      "subject": "Milano 04 — The front row learned every time zone",
+      "deck": "What did Milan preserve when the runway became a platform?"
+    },
+    "youtube": "Day 4 examines digital fashion hub, livestream, vod. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/04-digital-hub"
+  },
+  "interactive": "A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.",
+  "selectedObject": {
+    "title": "CNMI multibrand virtual showroom",
+    "sourceId": "MI-CNMI-YT",
+    "treatment": "official authorized video embed"
+  },
+  "claims": [
+    "MI-DIGITAL-THEN",
+    "MI-DIGITAL-NOW",
+    "MI-DIGITAL-NEXT"
+  ],
+  "sources": [
+    "MI-CNMI-DIGITAL",
+    "MI-CNMI-YT"
+  ],
+  "rights": "Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.",
+  "education": [
+    "https://triennale.org/eng/museum-of-italian-design",
+    "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+  ],
+  "openReporting": "A permanent future supplier stack or successor platform is not inferred from the 2020 announcement.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>{const b=e.target.closest('nav button');if(!b)return;const d=document.querySelector('#mi-nav');const open=b.getAttribute('aria-expanded')==='true';b.setAttribute('aria-expanded',String(!open));d.style.display=open?'none':'flex'});

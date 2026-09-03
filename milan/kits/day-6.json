@@ -1,0 +1,110 @@
+{
+  "id": "TFH-MI-D6",
+  "day": 6,
+  "title": "The label becomes a data surface",
+  "technology": "ESPR, Digital Product Passport, traceability",
+  "governingQuestion": "Which claims about a garment will become machine-readable—and who must supply them?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The label becomes a data surface",
+    "opening": "A garment label is becoming an interface to regulated product data.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The EU Ecodesign for Sustainable Products Regulation entered into force in July 2024 and establishes a framework that includes digital product passports.",
+        "claimId": "MI-DPP-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The Digital Product Passport is a regulatory data architecture, not proof that every Milan runway garment currently carries one.",
+        "claimId": "MI-DPP-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Product-group rules, delegated acts and implementation details must be tracked through official EU records; no CNMI-specific future implementation is asserted here.",
+        "claimId": "MI-DPP-NEXT"
+      }
+    ],
+    "closing": "Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "A garment label is becoming an interface to regulated product data.",
+      "The EU Ecodesign for Sustainable Products Regulation entered into force in July 2024 and establishes a framework that includes digital product passports.",
+      "The Digital Product Passport is a regulatory data architecture, not proof that every Milan runway garment currently carries one.",
+      "The system: ESPR, Digital Product Passport, traceability.",
+      "The proof: Regulation (EU) 2024/1781.",
+      "The limit: Product-group rules, delegated acts and implementation details must be tracked through official EU records; no CNMI-specific future implementation is asserted here.",
+      "Open the Milan evidence edition: every receipt and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "A garment label is becoming an interface to regulated product data."
+    },
+    {
+      "frame": 2,
+      "copy": "The EU Ecodesign for Sustainable Products Regulation entered into force in July 2024 and establishes a framework that includes digital product passports."
+    },
+    {
+      "frame": 3,
+      "copy": "The Digital Product Passport is a regulatory data architecture, not proof that every Milan runway garment currently carries one."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: ESPR, Digital Product Passport, traceability."
+    },
+    {
+      "frame": 5,
+      "copy": "The proof: Regulation (EU) 2024/1781."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: Product-group rules, delegated acts and implementation details must be tracked through official EU records; no CNMI-specific future implementation is asserted here."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the Milan evidence edition: every receipt and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "A garment label is becoming an interface to regulated product data. Seven receipts trace espr, digital product passport, traceability through Milan—without inventing a private supplier stack.",
+    "linkedin": "A garment label is becoming an interface to regulated product data.\n\nThe EU Ecodesign for Sustainable Products Regulation entered into force in July 2024 and establishes a framework that includes digital product passports.\n\nThe Digital Product Passport is a regulatory data architecture, not proof that every Milan runway garment currently carries one.\n\nProduct-group rules, delegated acts and implementation details must be tracked through official EU records; no CNMI-specific future implementation is asserted here.\n\nFull evidence and rights treatment in the Milan edition.",
+    "newsletter": {
+      "subject": "Milano 06 — The label becomes a data surface",
+      "deck": "Which claims about a garment will become machine-readable—and who must supply them?"
+    },
+    "youtube": "Day 6 examines espr, digital product passport, traceability. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/06-traceability"
+  },
+  "interactive": "A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.",
+  "selectedObject": {
+    "title": "Regulation (EU) 2024/1781",
+    "sourceId": "MI-EU-ESPR",
+    "treatment": "public legal record and educational tool"
+  },
+  "claims": [
+    "MI-DPP-THEN",
+    "MI-DPP-NOW",
+    "MI-DPP-NEXT"
+  ],
+  "sources": [
+    "MI-EU-ESPR",
+    "MI-EU-DPP",
+    "MI-EU-TEXTILE"
+  ],
+  "rights": "Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.",
+  "education": [
+    "https://triennale.org/eng/museum-of-italian-design",
+    "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+  ],
+  "openReporting": "Product-group rules, delegated acts and implementation details must be tracked through official EU records; no CNMI-specific future implementation is asserted here.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

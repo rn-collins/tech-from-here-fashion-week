@@ -1,0 +1,109 @@
+{
+  "id": "TFH-MI-D1",
+  "day": 1,
+  "title": "The invitation is also a trademark",
+  "technology": "Calendar, accreditation, brand control",
+  "governingQuestion": "Who may enter Milano Fashion Week—and who may claim its name?",
+  "status": "evidence-backed draft; recording, named interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The invitation is also a trademark",
+    "opening": "Before the first look, Milan controls a name and an invitation.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+        "claimId": "MI-ACCESS-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+        "claimId": "MI-ACCESS-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+        "claimId": "MI-ACCESS-NEXT"
+      }
+    ],
+    "closing": "Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Before the first look, Milan controls a name and an invitation.",
+      "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+      "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+      "The system: Calendar, accreditation, brand control.",
+      "The proof: Milano Fashion Week: calendar, dates and access notice.",
+      "The limit: No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+      "Open the Milan evidence edition: every receipt and permission is attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Before the first look, Milan controls a name and an invitation."
+    },
+    {
+      "frame": 2,
+      "copy": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark."
+    },
+    {
+      "frame": 3,
+      "copy": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Calendar, accreditation, brand control."
+    },
+    {
+      "frame": 5,
+      "copy": "The proof: Milano Fashion Week: calendar, dates and access notice."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition."
+    },
+    {
+      "frame": 7,
+      "copy": "Open the Milan evidence edition: every receipt and permission is attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Before the first look, Milan controls a name and an invitation. Seven receipts trace calendar, accreditation, brand control through Milan—without inventing a private supplier stack.",
+    "linkedin": "Before the first look, Milan controls a name and an invitation.\n\nCNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.\n\nAccreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.\n\nNo public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.\n\nFull evidence and rights treatment in the Milan edition.",
+    "newsletter": {
+      "subject": "Milano 01 — The invitation is also a trademark",
+      "deck": "Who may enter Milano Fashion Week—and who may claim its name?"
+    },
+    "youtube": "Day 1 examines calendar, accreditation, brand control. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/01-invitation-trademark"
+  },
+  "interactive": "A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.",
+  "selectedObject": {
+    "title": "The calendar and the protected name",
+    "sourceId": "MI-CNMI-HOME",
+    "treatment": "live organizer interface"
+  },
+  "claims": [
+    "MI-ACCESS-THEN",
+    "MI-ACCESS-NOW",
+    "MI-ACCESS-NEXT"
+  ],
+  "sources": [
+    "MI-CNMI-HOME",
+    "MI-CNMI-APP"
+  ],
+  "rights": "Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.",
+  "education": [
+    "https://triennale.org/eng/museum-of-italian-design",
+    "https://dipartimentodesign.polimi.it/en/research/research-labs/fashion-in-process",
+    "https://environment.ec.europa.eu/topics/circular-economy/ecodesign-sustainable-products-regulation_en"
+  ],
+  "openReporting": "No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}
