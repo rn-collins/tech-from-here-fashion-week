@@ -1,0 +1,109 @@
+{
+  "id": "TFH-PA-D5",
+  "day": 5,
+  "title": "The showroom is a second runway",
+  "technology": "SPHERE, The New Black, buyer access",
+  "governingQuestion": "How does emerging design move from official visibility toward an order?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The showroom is a second runway",
+    "opening": "The runway produces attention. SPHERE tries to route some of it toward a market.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+        "claimId": "PA-ORDER-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+        "claimId": "PA-ORDER-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+        "claimId": "PA-ORDER-NEXT"
+      }
+    ],
+    "closing": "Paris Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The runway produces attention. SPHERE tries to route some of it toward a market.",
+      "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+      "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+      "The system: SPHERE, The New Black, buyer access.",
+      "The object: SPHERE at Palais de Tokyo.",
+      "The honest limit: The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+      "Enter the Paris evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The runway produces attention. SPHERE tries to route some of it toward a market."
+    },
+    {
+      "frame": 2,
+      "copy": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands."
+    },
+    {
+      "frame": 3,
+      "copy": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: SPHERE, The New Black, buyer access."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: SPHERE at Palais de Tokyo."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Paris evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "The runway produces attention. SPHERE tries to route some of it toward a market. Seven exact records trace sphere, the new black, buyer access without inventing a house’s private stack.",
+    "linkedin": "The runway produces attention. SPHERE tries to route some of it toward a market.\n\nFHCM says it has operated SPHERE since January 2020 to support selected emerging brands.\n\nFor the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.\n\nThe public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.\n\nThe Paris edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Paris 05 — The showroom is a second runway",
+      "deck": "How does emerging design move from official visibility toward an order?"
+    },
+    "youtube": "Day 5 examines sphere, the new black, buyer access. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/paris/day/05-showroom-network"
+  },
+  "interactive": "A keyboard-operable aperture map reveals Then, Now and Next claim states, sources and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "SPHERE at Palais de Tokyo",
+    "sourceId": "PA-FHCM-PFW",
+    "treatment": "official showroom interface"
+  },
+  "claims": [
+    "PA-ORDER-THEN",
+    "PA-ORDER-NOW",
+    "PA-ORDER-NEXT"
+  ],
+  "sources": [
+    "PA-FHCM-PFW",
+    "PA-FHCM-SPHERE24"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://www.bnf.fr/en/gallica-bnf-digital-library",
+    "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02024R1781-20240628"
+  ],
+  "openReporting": "The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

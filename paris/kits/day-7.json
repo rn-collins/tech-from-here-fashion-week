@@ -1,0 +1,112 @@
+{
+  "id": "TFH-PA-D7",
+  "day": 7,
+  "title": "Paris keeps more than the look",
+  "technology": "Galliera, Paris Musées, Gallica, preservation",
+  "governingQuestion": "Which objects, interfaces and technical credits enter public memory?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "Paris keeps more than the look",
+    "opening": "Paris remembers fashion through incompatible systems: museum, library, platform and house.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+        "claimId": "PA-MEMORY-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+        "claimId": "PA-MEMORY-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+        "claimId": "PA-MEMORY-NEXT"
+      }
+    ],
+    "closing": "Paris Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Paris remembers fashion through incompatible systems: museum, library, platform and house.",
+      "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+      "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+      "The system: Galliera, Paris Musées, Gallica, preservation.",
+      "The object: Public-domain fashion image finder.",
+      "The honest limit: No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+      "Enter the Paris evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Paris remembers fashion through incompatible systems: museum, library, platform and house."
+    },
+    {
+      "frame": 2,
+      "copy": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections."
+    },
+    {
+      "frame": 3,
+      "copy": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Galliera, Paris Musées, Gallica, preservation."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: Public-domain fashion image finder."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Paris evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Paris remembers fashion through incompatible systems: museum, library, platform and house. Seven exact records trace galliera, paris musées, gallica, preservation without inventing a house’s private stack.",
+    "linkedin": "Paris remembers fashion through incompatible systems: museum, library, platform and house.\n\nPalais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.\n\nDiscovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.\n\nNo complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.\n\nThe Paris edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Paris 07 — Paris keeps more than the look",
+      "deck": "Which objects, interfaces and technical credits enter public memory?"
+    },
+    "youtube": "Day 7 examines galliera, paris musées, gallica, preservation. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/paris/day/07-memory-infrastructure"
+  },
+  "interactive": "A keyboard-operable aperture map reveals Then, Now and Next claim states, sources and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "Public-domain fashion image finder",
+    "sourceId": "PA-PARISMUSEES-OPEN",
+    "treatment": "rights-filtered museum interactive"
+  },
+  "claims": [
+    "PA-MEMORY-THEN",
+    "PA-MEMORY-NOW",
+    "PA-MEMORY-NEXT"
+  ],
+  "sources": [
+    "PA-GALLIERA-COLLECTIONS",
+    "PA-PARISMUSEES-OPEN",
+    "PA-BNF-GALLICA",
+    "PA-FHCM-DATES",
+    "PA-BNF-RICHELIEU"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://www.bnf.fr/en/gallica-bnf-digital-library",
+    "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02024R1781-20240628"
+  ],
+  "openReporting": "No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

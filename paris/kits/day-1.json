@@ -1,0 +1,111 @@
+{
+  "id": "TFH-PA-D1",
+  "day": 1,
+  "title": "The calendar is a code",
+  "technology": "FHCM calendar, accreditation, designation",
+  "governingQuestion": "How does Paris turn institutional recognition into a technical access system?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The calendar is a code",
+    "opening": "Before Paris shows a garment, it codes who belongs on the calendar.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+        "claimId": "PA-ACCESS-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+        "claimId": "PA-ACCESS-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+        "claimId": "PA-ACCESS-NEXT"
+      }
+    ],
+    "closing": "Paris Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Before Paris shows a garment, it codes who belongs on the calendar.",
+      "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+      "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+      "The system: FHCM calendar, accreditation, designation.",
+      "The object: Official calendar + accreditation threshold.",
+      "The honest limit: No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+      "Enter the Paris evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Before Paris shows a garment, it codes who belongs on the calendar."
+    },
+    {
+      "frame": 2,
+      "copy": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868."
+    },
+    {
+      "frame": 3,
+      "copy": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: FHCM calendar, accreditation, designation."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: Official calendar + accreditation threshold."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Paris evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Before Paris shows a garment, it codes who belongs on the calendar. Seven exact records trace fhcm calendar, accreditation, designation without inventing a house’s private stack.",
+    "linkedin": "Before Paris shows a garment, it codes who belongs on the calendar.\n\nFHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.\n\nThe public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.\n\nNo public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.\n\nThe Paris edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Paris 01 — The calendar is a code",
+      "deck": "How does Paris turn institutional recognition into a technical access system?"
+    },
+    "youtube": "Day 1 examines fhcm calendar, accreditation, designation. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/paris/day/01-calendar-code"
+  },
+  "interactive": "A keyboard-operable aperture map reveals Then, Now and Next claim states, sources and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "Official calendar + accreditation threshold",
+    "sourceId": "PA-FHCM-CALENDAR",
+    "treatment": "paired organizer interfaces"
+  },
+  "claims": [
+    "PA-ACCESS-THEN",
+    "PA-ACCESS-NOW",
+    "PA-ACCESS-NEXT"
+  ],
+  "sources": [
+    "PA-FHCM-HOME",
+    "PA-FHCM-HISTORY",
+    "PA-FHCM-CALENDAR",
+    "PA-FHCM-ACCREDIT"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://www.bnf.fr/en/gallica-bnf-digital-library",
+    "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02024R1781-20240628"
+  ],
+  "openReporting": "No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

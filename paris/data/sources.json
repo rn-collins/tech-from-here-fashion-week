@@ -1,0 +1,173 @@
+[
+  {
+    "id": "PA-FHCM-HOME",
+    "title": "Fédération de la Haute Couture et de la Mode",
+    "institution": "FHCM",
+    "date": "current",
+    "url": "https://www.fhcm.paris/en",
+    "type": "official organizer surface",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-FHCM-HISTORY",
+    "title": "Our history",
+    "institution": "FHCM",
+    "date": "current",
+    "url": "https://www.fhcm.paris/en/our-history",
+    "type": "official institutional history",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-FHCM-CALENDAR",
+    "title": "Paris Fashion Week official calendar",
+    "institution": "FHCM",
+    "date": "2026",
+    "url": "https://www.fhcm.paris/en/paris-fashion-week/calendar",
+    "type": "official live calendar",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-FHCM-ACCREDIT",
+    "title": "Accreditation portal",
+    "institution": "FHCM",
+    "date": "current",
+    "url": "https://accreditation.fhcm.paris/",
+    "type": "official access interface",
+    "rights": "LINK-ONLY; do not submit data in exhibit"
+  },
+  {
+    "id": "PA-FHCM-EVENTS",
+    "title": "The events of FHCM",
+    "institution": "FHCM",
+    "date": "current",
+    "url": "https://www.fhcm.paris/en/the-events-of-fhcm",
+    "type": "official digital-platform history",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-FHCM-PFW",
+    "title": "Paris Fashion Week",
+    "institution": "FHCM",
+    "date": "2026",
+    "url": "https://www.fhcm.paris/en/paris-fashion-week",
+    "type": "official week and SPHERE record",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-FHCM-SPHERE24",
+    "title": "SPHERE Paris Fashion Week Showroom 2024",
+    "institution": "FHCM",
+    "date": "2024",
+    "url": "https://www.fhcm.paris/fr/node/3536",
+    "type": "official showroom record",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-FHCM-PARTNERS",
+    "title": "The partners",
+    "institution": "FHCM",
+    "date": "current",
+    "url": "https://www.fhcm.paris/en/partners",
+    "type": "official partner disclosure",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-FHCM-COLLECTION",
+    "title": "Givenchy Menswear FW 2024–2025",
+    "institution": "FHCM",
+    "date": "2024",
+    "url": "https://www.fhcm.paris/en/collection/givenchy-menswear-fallwinter-2024-2025",
+    "type": "official collection interface",
+    "rights": "LINK-ONLY; Launchmetrics credit visible"
+  },
+  {
+    "id": "PA-FHCM-INTERVIEW",
+    "title": "A Conversation with Burc Akyol",
+    "institution": "FHCM",
+    "date": "2023",
+    "url": "https://www.fhcm.paris/fr/news/a-conversation-with-burc-akyol",
+    "type": "official produced interview",
+    "rights": "AUTHORIZED PAGE EMBED/LINK; layered rights not cleared for download"
+  },
+  {
+    "id": "PA-PARISMUSEES-OPEN",
+    "title": "Paris Musées public-domain image search",
+    "institution": "Paris Musées",
+    "date": "current",
+    "url": "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/mode-acquisition/don-manuel-214180/image-libre/true/materiaux-technique/toile-armure-213835",
+    "type": "official open-image discovery interface",
+    "rights": "PUBLIC DOMAIN filter; item-level record still required before download"
+  },
+  {
+    "id": "PA-GALLIERA-COLLECTIONS",
+    "title": "Palais Galliera collections",
+    "institution": "Paris Musées",
+    "date": "current",
+    "url": "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+    "type": "official collection search",
+    "rights": "LINK-ONLY here; item rights vary"
+  },
+  {
+    "id": "PA-BNF-GALLICA",
+    "title": "Gallica — the BnF digital library",
+    "institution": "Bibliothèque nationale de France",
+    "date": "current",
+    "url": "https://www.bnf.fr/en/gallica-bnf-digital-library",
+    "type": "national library resource",
+    "rights": "LINK-ONLY; item rights vary"
+  },
+  {
+    "id": "PA-BNF-RICHELIEU",
+    "title": "Richelieu research library",
+    "institution": "Bibliothèque nationale de France",
+    "date": "current",
+    "url": "https://www.bnf.fr/en/richelieu",
+    "type": "national preservation and access record",
+    "rights": "LINK-ONLY"
+  },
+  {
+    "id": "PA-EU-ESPR",
+    "title": "Regulation (EU) 2024/1781",
+    "institution": "EUR-Lex",
+    "date": "2024-06-28",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02024R1781-20240628",
+    "type": "binding EU legal record",
+    "rights": "PUBLIC LEGAL RECORD; LINK-ONLY"
+  },
+  {
+    "id": "PA-EU-TEXTILES",
+    "title": "EU Strategy for Sustainable and Circular Textiles",
+    "institution": "EUR-Lex",
+    "date": "2022-03-30",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52022DC0141",
+    "type": "official policy record",
+    "rights": "PUBLIC LEGAL RECORD; LINK-ONLY"
+  },
+  {
+    "id": "PA-PARIS-EVENTS",
+    "title": "Event organization in Paris",
+    "institution": "Ville de Paris",
+    "date": "current",
+    "url": "https://www.paris.fr/pages/organiser-un-evenement-sur-l-espace-public-149",
+    "type": "municipal discovery surface",
+    "rights": "LINK-ONLY; show-specific permits unresolved"
+  },
+  {
+    "id": "PA-INPI-SEARCH",
+    "title": "Data INPI trademark search",
+    "institution": "Institut national de la propriété industrielle",
+    "date": "current",
+    "url": "https://data.inpi.fr/",
+    "type": "official public search tool",
+    "rights": "INTERACTIVE LINK; save exact result before asserting registration"
+  },
+  {
+    "id": "PA-FHCM-DATES",
+    "title": "Upcoming seasons and previous editions",
+    "institution": "FHCM",
+    "date": "current",
+    "url": "https://www.fhcm.paris/en/upcoming-seasons-and-previous-editions",
+    "type": "official calendar archive",
+    "rights": "LINK-ONLY"
+  }
+]

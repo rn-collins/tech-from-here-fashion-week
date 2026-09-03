@@ -1,0 +1,109 @@
+{
+  "id": "TFH-PA-D6",
+  "day": 6,
+  "title": "The garment becomes an address",
+  "technology": "ESPR, product passport, textile data",
+  "governingQuestion": "Which facts may have to travel with a product—and which rules do not yet exist?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The garment becomes an address",
+    "opening": "The garment is becoming an address for regulated product information.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Regulation (EU) 2024/1781 establishes an ecodesign framework that includes digital product passports and applies through later product-specific requirements.",
+        "claimId": "PA-DPP-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The EU textile strategy anticipates product-passport information for textiles; neither record proves every Paris runway look currently carries a passport.",
+        "claimId": "PA-DPP-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Textile-specific delegated rules, data fields and dates must be tracked through official EU records; no FHCM implementation is asserted.",
+        "claimId": "PA-DPP-NEXT"
+      }
+    ],
+    "closing": "Paris Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The garment is becoming an address for regulated product information.",
+      "Regulation (EU) 2024/1781 establishes an ecodesign framework that includes digital product passports and applies through later product-specific requirements.",
+      "The EU textile strategy anticipates product-passport information for textiles; neither record proves every Paris runway look currently carries a passport.",
+      "The system: ESPR, product passport, textile data.",
+      "The object: Regulation (EU) 2024/1781.",
+      "The honest limit: Textile-specific delegated rules, data fields and dates must be tracked through official EU records; no FHCM implementation is asserted.",
+      "Enter the Paris evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The garment is becoming an address for regulated product information."
+    },
+    {
+      "frame": 2,
+      "copy": "Regulation (EU) 2024/1781 establishes an ecodesign framework that includes digital product passports and applies through later product-specific requirements."
+    },
+    {
+      "frame": 3,
+      "copy": "The EU textile strategy anticipates product-passport information for textiles; neither record proves every Paris runway look currently carries a passport."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: ESPR, product passport, textile data."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: Regulation (EU) 2024/1781."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: Textile-specific delegated rules, data fields and dates must be tracked through official EU records; no FHCM implementation is asserted."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Paris evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "The garment is becoming an address for regulated product information. Seven exact records trace espr, product passport, textile data without inventing a house’s private stack.",
+    "linkedin": "The garment is becoming an address for regulated product information.\n\nRegulation (EU) 2024/1781 establishes an ecodesign framework that includes digital product passports and applies through later product-specific requirements.\n\nThe EU textile strategy anticipates product-passport information for textiles; neither record proves every Paris runway look currently carries a passport.\n\nTextile-specific delegated rules, data fields and dates must be tracked through official EU records; no FHCM implementation is asserted.\n\nThe Paris edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Paris 06 — The garment becomes an address",
+      "deck": "Which facts may have to travel with a product—and which rules do not yet exist?"
+    },
+    "youtube": "Day 6 examines espr, product passport, textile data. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/paris/day/06-product-passport"
+  },
+  "interactive": "A keyboard-operable aperture map reveals Then, Now and Next claim states, sources and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "Regulation (EU) 2024/1781",
+    "sourceId": "PA-EU-ESPR",
+    "treatment": "public legal record"
+  },
+  "claims": [
+    "PA-DPP-THEN",
+    "PA-DPP-NOW",
+    "PA-DPP-NEXT"
+  ],
+  "sources": [
+    "PA-EU-ESPR",
+    "PA-EU-TEXTILES"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://www.bnf.fr/en/gallica-bnf-digital-library",
+    "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02024R1781-20240628"
+  ],
+  "openReporting": "Textile-specific delegated rules, data fields and dates must be tracked through official EU records; no FHCM implementation is asserted.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

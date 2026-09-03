@@ -1,0 +1,110 @@
+{
+  "id": "TFH-PA-D4",
+  "day": 4,
+  "title": "Paris rebuilt the week online",
+  "technology": "Launchmetrics, digital schedules, video distribution",
+  "governingQuestion": "What changed when the official calendar acquired a digital twin?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "Paris rebuilt the week online",
+    "opening": "In 2020, the official calendar acquired a digital twin.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "FHCM states that Paris Fashion Week Online launched in 2020 with Launchmetrics and support from LE DEFI; official calendars now have physical and digital dimensions.",
+        "claimId": "PA-DIGITAL-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The digital platform expanded official collection visibility, but a public stream does not establish open admission, neutral ranking or permanent preservation.",
+        "claimId": "PA-DIGITAL-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No permanent future supplier stack is inferred from the 2020 partnership or today’s public pages.",
+        "claimId": "PA-DIGITAL-NEXT"
+      }
+    ],
+    "closing": "Paris Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "In 2020, the official calendar acquired a digital twin.",
+      "FHCM states that Paris Fashion Week Online launched in 2020 with Launchmetrics and support from LE DEFI; official calendars now have physical and digital dimensions.",
+      "The digital platform expanded official collection visibility, but a public stream does not establish open admission, neutral ranking or permanent preservation.",
+      "The system: Launchmetrics, digital schedules, video distribution.",
+      "The object: Paris Fashion Week Online.",
+      "The honest limit: No permanent future supplier stack is inferred from the 2020 partnership or today’s public pages.",
+      "Enter the Paris evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "In 2020, the official calendar acquired a digital twin."
+    },
+    {
+      "frame": 2,
+      "copy": "FHCM states that Paris Fashion Week Online launched in 2020 with Launchmetrics and support from LE DEFI; official calendars now have physical and digital dimensions."
+    },
+    {
+      "frame": 3,
+      "copy": "The digital platform expanded official collection visibility, but a public stream does not establish open admission, neutral ranking or permanent preservation."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Launchmetrics, digital schedules, video distribution."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: Paris Fashion Week Online."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: No permanent future supplier stack is inferred from the 2020 partnership or today’s public pages."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Paris evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "In 2020, the official calendar acquired a digital twin. Seven exact records trace launchmetrics, digital schedules, video distribution without inventing a house’s private stack.",
+    "linkedin": "In 2020, the official calendar acquired a digital twin.\n\nFHCM states that Paris Fashion Week Online launched in 2020 with Launchmetrics and support from LE DEFI; official calendars now have physical and digital dimensions.\n\nThe digital platform expanded official collection visibility, but a public stream does not establish open admission, neutral ranking or permanent preservation.\n\nNo permanent future supplier stack is inferred from the 2020 partnership or today’s public pages.\n\nThe Paris edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Paris 04 — Paris rebuilt the week online",
+      "deck": "What changed when the official calendar acquired a digital twin?"
+    },
+    "youtube": "Day 4 examines launchmetrics, digital schedules, video distribution. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/paris/day/04-online-week"
+  },
+  "interactive": "A keyboard-operable aperture map reveals Then, Now and Next claim states, sources and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "Paris Fashion Week Online",
+    "sourceId": "PA-FHCM-EVENTS",
+    "treatment": "official platform history"
+  },
+  "claims": [
+    "PA-DIGITAL-THEN",
+    "PA-DIGITAL-NOW",
+    "PA-DIGITAL-NEXT"
+  ],
+  "sources": [
+    "PA-FHCM-EVENTS",
+    "PA-FHCM-CALENDAR",
+    "PA-FHCM-PARTNERS"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://www.bnf.fr/en/gallica-bnf-digital-library",
+    "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02024R1781-20240628"
+  ],
+  "openReporting": "No permanent future supplier stack is inferred from the 2020 partnership or today’s public pages.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

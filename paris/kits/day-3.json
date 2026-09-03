@@ -1,0 +1,109 @@
+{
+  "id": "TFH-PA-D3",
+  "day": 3,
+  "title": "The image enters the calendar",
+  "technology": "Collection pages, image metadata, official film",
+  "governingQuestion": "Who authors the view that survives outside the room?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The image enters the calendar",
+    "opening": "For most viewers, Paris Fashion Week is a sequence authored by an image system.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "FHCM collection pages bind houses and seasons to official digital records, with visible platform or production credits on some pages.",
+        "claimId": "PA-IMAGE-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "An official page can preserve film, lookbook and credit context while leaving underlying image, music and performer rights layered and separate.",
+        "claimId": "PA-IMAGE-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "The reviewed public pages do not disclose a universal camera plan, file-delivery specification or archival master standard for all future shows.",
+        "claimId": "PA-IMAGE-NEXT"
+      }
+    ],
+    "closing": "Paris Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "For most viewers, Paris Fashion Week is a sequence authored by an image system.",
+      "FHCM collection pages bind houses and seasons to official digital records, with visible platform or production credits on some pages.",
+      "An official page can preserve film, lookbook and credit context while leaving underlying image, music and performer rights layered and separate.",
+      "The system: Collection pages, image metadata, official film.",
+      "The object: A season made addressable.",
+      "The honest limit: The reviewed public pages do not disclose a universal camera plan, file-delivery specification or archival master standard for all future shows.",
+      "Enter the Paris evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "For most viewers, Paris Fashion Week is a sequence authored by an image system."
+    },
+    {
+      "frame": 2,
+      "copy": "FHCM collection pages bind houses and seasons to official digital records, with visible platform or production credits on some pages."
+    },
+    {
+      "frame": 3,
+      "copy": "An official page can preserve film, lookbook and credit context while leaving underlying image, music and performer rights layered and separate."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Collection pages, image metadata, official film."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: A season made addressable."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: The reviewed public pages do not disclose a universal camera plan, file-delivery specification or archival master standard for all future shows."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Paris evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "For most viewers, Paris Fashion Week is a sequence authored by an image system. Seven exact records trace collection pages, image metadata, official film without inventing a house’s private stack.",
+    "linkedin": "For most viewers, Paris Fashion Week is a sequence authored by an image system.\n\nFHCM collection pages bind houses and seasons to official digital records, with visible platform or production credits on some pages.\n\nAn official page can preserve film, lookbook and credit context while leaving underlying image, music and performer rights layered and separate.\n\nThe reviewed public pages do not disclose a universal camera plan, file-delivery specification or archival master standard for all future shows.\n\nThe Paris edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Paris 03 — The image enters the calendar",
+      "deck": "Who authors the view that survives outside the room?"
+    },
+    "youtube": "Day 3 examines collection pages, image metadata, official film. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/paris/day/03-official-image"
+  },
+  "interactive": "A keyboard-operable aperture map reveals Then, Now and Next claim states, sources and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "A season made addressable",
+    "sourceId": "PA-FHCM-COLLECTION",
+    "treatment": "official collection interface"
+  },
+  "claims": [
+    "PA-IMAGE-THEN",
+    "PA-IMAGE-NOW",
+    "PA-IMAGE-NEXT"
+  ],
+  "sources": [
+    "PA-FHCM-COLLECTION",
+    "PA-FHCM-INTERVIEW"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://www.bnf.fr/en/gallica-bnf-digital-library",
+    "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A02024R1781-20240628"
+  ],
+  "openReporting": "The reviewed public pages do not disclose a universal camera plan, file-delivery specification or archival master standard for all future shows.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

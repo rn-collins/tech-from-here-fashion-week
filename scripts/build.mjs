@@ -111,3 +111,4 @@ fs.writeFileSync(path.join(root,'robots.txt'),'User-agent: *\nAllow: /\nSitemap:
 console.log(`Built ${routes.length} routes, ${claims.length} claims, ${kitRows.length} kits for ${base}`);
 await import('./build-new-york.mjs');
 await import('./build-milan.mjs');
+await import('./build-paris.mjs');
