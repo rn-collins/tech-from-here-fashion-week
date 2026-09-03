@@ -6,31 +6,87 @@
 
 Does the tool reduce work, relocate it, or make it extractable?
 
-## Editorial hook
+## Finished long-form copy
 
-Efficiency for production can become extraction from workers.
+### Compressed labor
+
+Backstage technology promises coordination under impossible time pressure. The same field that makes a show run—a name, image, measurement, availability or location—can also make a worker newly extractable.
+
+### 1. The 2016 official film makes preparation and teams visible without proving a week-wide software system.
+
+LON-BACKSTAGE-THEN anchors this passage; open the gallery claim card before publication.
+
+### 2. Current NEWGEN support confirms human production infrastructure, not a universal casting-data stack.
+
+LON-BACKSTAGE-NOW anchors this passage; open the gallery claim card before publication.
+
+### 3. Public evidence does not establish biometric or digital-identity deployment at London Fashion Week.
+
+LON-BACKSTAGE-NEXT anchors this passage; open the gallery claim card before publication.
+
+### 4. Any future claim must be reported from both the operator and the worker side, with consent, retention and subject rights visible.
+
+LON-BACKSTAGE-THEN anchors this passage; open the gallery claim card before publication.
+
+Open the Backstage Data Inventory; it collects no personal information.
+
+## Finished vertical script
+
+**Runtime:** 45–60 seconds
+
+1. One garment.
+2. One model.
+3. Five minutes.
+4. A dozen data fields.
+5. Coordination can reduce friction.
+6. It can also expand surveillance.
+7. Ask who controls the field after the show.
+
+**Final card:** Open the Backstage Data Inventory; it collects no personal information.
+
+## Finished seven-frame carousel
+
+1. One garment.
+2. One model.
+3. Five minutes.
+4. A dozen data fields.
+5. Coordination can reduce friction.
+6. It can also expand surveillance.
+7. Ask who controls the field after the show. — Claim IDs and source links in gallery.
+
+## Platform copy
+
+### Instagram
+
+Backstage technology promises coordination under impossible time pressure. The same field that makes a show run—a name, image, measurement, availability or location—can also make a worker newly extractable. Open the Backstage Data Inventory; it collects no personal information.
+
+### LinkedIn
+
+Compressed labor
+
+The 2016 official film makes preparation and teams visible without proving a week-wide software system.
+
+Current NEWGEN support confirms human production infrastructure, not a universal casting-data stack.
+
+Public evidence does not establish biometric or digital-identity deployment at London Fashion Week.
+
+Any future claim must be reported from both the operator and the worker side, with consent, retention and subject rights visible.
+
+Open the Backstage Data Inventory; it collects no personal information.
+
+### Newsletter subject
+
+Day 5/7 — Compressed labor
+
+### YouTube description
+
+Day 5 of Signal / Seam examines casting, look tracking, identity data. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/05-backstage
 
 ## Evidence fitting
 
 - **Then:** LON-BACKSTAGE-THEN — verified fact, high confidence
-- **Now:** LON-BACKSTAGE-NOW — unresolved, low confidence
+- **Now:** LON-BACKSTAGE-NOW — verified fact, medium confidence
 - **Next:** LON-BACKSTAGE-NEXT — unresolved, low confidence
-
-## Long-form gallery
-
-Start with the absence of a verified week-wide platform, then report one named workflow from operator and worker perspectives.
-
-## Vertical brief
-
-Trace one field—name, measurement, image, availability, or location—through the backstage workflow and ask who controls it.
-
-## Five-frame carousel
-
-1. Paper hypothesis
-2. Data field
-3. Production use
-4. Worker consequence
-5. No biometric claim
 
 ## Interactive
 

@@ -17,8 +17,8 @@
     },
     "Now": {
       "claimId": "LON-STAGE-NOW",
-      "state": "unresolved",
-      "confidence": "low"
+      "state": "verified fact",
+      "confidence": "high"
     },
     "Next": {
       "claimId": "LON-STAGE-NEXT",
@@ -58,6 +58,73 @@
   ],
   "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
   "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "finishedLongform": {
+    "headline": "The runway is a machine",
+    "opening": "A runway appears effortless because its machinery has been rehearsed out of sight. Space, power, sound, light, seating, security, timing and teardown are not atmosphere around the show; together, they are the show’s operating system.",
+    "sections": [
+      "The official 360-degree record preserves spatial experience but cannot supply missing production credits.",
+      "The current NEWGEN package verifies a producer, production team, basic lighting, seating, sound and security for supported recipients.",
+      "That is a bounded programme fact—not evidence of a single supplier stack across the week.",
+      "The honest next step is a credited anatomy of one show, built with its workers rather than inferred from spectacle."
+    ],
+    "closing": "Watch the official 360 record, then inspect the missing-credit boundary beside it."
+  },
+  "finishedVertical": {
+    "duration": "45–60 seconds",
+    "spokenScript": [
+      "A runway is temporary architecture.",
+      "Light tells the eye where to look.",
+      "Sound tells the body when to feel.",
+      "A producer synchronizes the room.",
+      "Security governs its edges.",
+      "The spectacle lasts minutes.",
+      "The machine begins long before the doors open."
+    ],
+    "finalCard": "Watch the official 360 record, then inspect the missing-credit boundary beside it."
+  },
+  "finishedCarousel": [
+    {
+      "frame": 1,
+      "copy": "A runway is temporary architecture.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 2,
+      "copy": "Light tells the eye where to look.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 3,
+      "copy": "Sound tells the body when to feel.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 4,
+      "copy": "A producer synchronizes the room.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 5,
+      "copy": "Security governs its edges.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 6,
+      "copy": "The spectacle lasts minutes.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 7,
+      "copy": "The machine begins long before the doors open.",
+      "sourceLine": "Claim IDs and source links in gallery."
+    }
+  ],
+  "platformCopy": {
+    "instagram": "A runway appears effortless because its machinery has been rehearsed out of sight. Space, power, sound, light, seating, security, timing and teardown are not atmosphere around the show; together, they are the show’s operating system. Watch the official 360 record, then inspect the missing-credit boundary beside it.",
+    "linkedin": "The runway is a machine\n\nThe official 360-degree record preserves spatial experience but cannot supply missing production credits.\n\nThe current NEWGEN package verifies a producer, production team, basic lighting, seating, sound and security for supported recipients.\n\nThat is a bounded programme fact—not evidence of a single supplier stack across the week.\n\nThe honest next step is a credited anatomy of one show, built with its workers rather than inferred from spectacle.\n\nWatch the official 360 record, then inspect the missing-credit boundary beside it.",
+    "newsletterSubject": "Day 2/7 — The runway is a machine",
+    "youtubeDescription": "Day 2 of Signal / Seam examines lighting, staging, temporary architecture. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/02-stage"
+  },
   "selectedObject": {
     "title": "LFW February 2018 — 360 VR",
     "sourceId": "SRC-BFC-VIDEO-360",

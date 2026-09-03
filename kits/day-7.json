@@ -59,6 +59,73 @@
   ],
   "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
   "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "finishedLongform": {
+    "headline": "What the week leaves behind",
+    "opening": "Fashion Week disappears by design. The venue returns to another use; the schedule changes; links decay; platforms reorder. What remains becomes the evidence from which future histories are made.",
+    "sections": [
+      "Schedules, films, museum records and web archives preserve different fragments under different rules.",
+      "A retained event page can be citable while its images remain unavailable for reuse.",
+      "Environmental accountability requires a boundary, baseline, method, verifier and season—not an unqualified sustainability label.",
+      "No complete future event-level measurement system cleared this edition’s threshold."
+    ],
+    "closing": "Put a claim through the Claims Fitting Room before repeating it."
+  },
+  "finishedVertical": {
+    "duration": "45–60 seconds",
+    "spokenScript": [
+      "The show ends.",
+      "The room vanishes.",
+      "The schedule changes.",
+      "The film survives somewhere else.",
+      "The rights split from the memory.",
+      "What disappears becomes harder to contest.",
+      "An archive is accountability infrastructure."
+    ],
+    "finalCard": "Put a claim through the Claims Fitting Room before repeating it."
+  },
+  "finishedCarousel": [
+    {
+      "frame": 1,
+      "copy": "The show ends.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 2,
+      "copy": "The room vanishes.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 3,
+      "copy": "The schedule changes.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 4,
+      "copy": "The film survives somewhere else.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 5,
+      "copy": "The rights split from the memory.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 6,
+      "copy": "What disappears becomes harder to contest.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 7,
+      "copy": "An archive is accountability infrastructure.",
+      "sourceLine": "Claim IDs and source links in gallery."
+    }
+  ],
+  "platformCopy": {
+    "instagram": "Fashion Week disappears by design. The venue returns to another use; the schedule changes; links decay; platforms reorder. What remains becomes the evidence from which future histories are made. Put a claim through the Claims Fitting Room before repeating it.",
+    "linkedin": "What the week leaves behind\n\nSchedules, films, museum records and web archives preserve different fragments under different rules.\n\nA retained event page can be citable while its images remain unavailable for reuse.\n\nEnvironmental accountability requires a boundary, baseline, method, verifier and season—not an unqualified sustainability label.\n\nNo complete future event-level measurement system cleared this edition’s threshold.\n\nPut a claim through the Claims Fitting Room before repeating it.",
+    "newsletterSubject": "Day 7/7 — What the week leaves behind",
+    "youtubeDescription": "Day 7 of Signal / Seam examines archives, measurement, accountability. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/07-memory"
+  },
   "selectedObject": {
     "title": "2020 retained page / 2026 live schedule",
     "sourceId": "SRC-LFW-SCHEDULE-2026",

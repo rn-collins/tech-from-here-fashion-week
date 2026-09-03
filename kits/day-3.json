@@ -57,6 +57,73 @@
   ],
   "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
   "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "finishedLongform": {
+    "headline": "The camera writes the collection",
+    "opening": "Most people never encounter a collection in the room. They meet a camera position: selected, timed, compressed, owned and distributed by somebody else.",
+    "sections": [
+      "Photography and moving image do not merely preserve a runway; they decide which angle becomes repeatable.",
+      "Official films, press archives and private indexes create different canonical views with different rights and access.",
+      "The BFC’s retained films prove that moving image can be part of the programme itself.",
+      "No generative-image deployment is claimed here: indexing, capture and generation are separate technical acts."
+    ],
+    "closing": "Use the Canonical View Comparator to inspect owner, frame, access and reuse."
+  },
+  "finishedVertical": {
+    "duration": "45–60 seconds",
+    "spokenScript": [
+      "The collection walks once.",
+      "The camera makes it repeatable.",
+      "The edit decides duration.",
+      "The platform decides availability.",
+      "The archive decides survival.",
+      "So who authored the version you remember?",
+      "Not only the designer."
+    ],
+    "finalCard": "Use the Canonical View Comparator to inspect owner, frame, access and reuse."
+  },
+  "finishedCarousel": [
+    {
+      "frame": 1,
+      "copy": "The collection walks once.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 2,
+      "copy": "The camera makes it repeatable.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 3,
+      "copy": "The edit decides duration.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 4,
+      "copy": "The platform decides availability.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 5,
+      "copy": "The archive decides survival.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 6,
+      "copy": "So who authored the version you remember?",
+      "sourceLine": ""
+    },
+    {
+      "frame": 7,
+      "copy": "Not only the designer.",
+      "sourceLine": "Claim IDs and source links in gallery."
+    }
+  ],
+  "platformCopy": {
+    "instagram": "Most people never encounter a collection in the room. They meet a camera position: selected, timed, compressed, owned and distributed by somebody else. Use the Canonical View Comparator to inspect owner, frame, access and reuse.",
+    "linkedin": "The camera writes the collection\n\nPhotography and moving image do not merely preserve a runway; they decide which angle becomes repeatable.\n\nOfficial films, press archives and private indexes create different canonical views with different rights and access.\n\nThe BFC’s retained films prove that moving image can be part of the programme itself.\n\nNo generative-image deployment is claimed here: indexing, capture and generation are separate technical acts.\n\nUse the Canonical View Comparator to inspect owner, frame, access and reuse.",
+    "newsletterSubject": "Day 3/7 — The camera writes the collection",
+    "youtubeDescription": "Day 3 of Signal / Seam examines photography, moving image, indexing. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/03-capture"
+  },
   "selectedObject": {
     "title": "Everything Is Temporary",
     "sourceId": "SRC-BFC-VIDEO-2021",

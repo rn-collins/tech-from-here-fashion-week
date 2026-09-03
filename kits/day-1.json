@@ -59,6 +59,73 @@
   ],
   "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
   "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "finishedLongform": {
+    "headline": "The invitation is an interface",
+    "opening": "London Fashion Week can be publicly legible and privately inaccessible at the same time. The schedule tells you that an event exists; accreditation determines whether a professional category is recognized; an invitation determines whether a particular room opens.",
+    "sections": [
+      "A public URL distributes information, not entry.",
+      "The September 2020 record makes the split unusually visible: digital-only work could be encountered globally while physical shows and appointments remained bounded.",
+      "The current system still distinguishes public schedule visibility from professional accreditation and invitation-based access.",
+      "The unverified part is the future: no dated BFC-owned replacement for this layered access system cleared our evidence threshold."
+    ],
+    "closing": "Open the Access Ledger and audit which permission each interface actually grants."
+  },
+  "finishedVertical": {
+    "duration": "45–60 seconds",
+    "spokenScript": [
+      "The calendar is public.",
+      "The room is not.",
+      "Accreditation recognizes a category.",
+      "An invitation authorizes a person.",
+      "Those are four different permissions.",
+      "London Fashion Week makes them look like one seamless experience.",
+      "The technology of access is the seam."
+    ],
+    "finalCard": "Open the Access Ledger and audit which permission each interface actually grants."
+  },
+  "finishedCarousel": [
+    {
+      "frame": 1,
+      "copy": "The calendar is public.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 2,
+      "copy": "The room is not.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 3,
+      "copy": "Accreditation recognizes a category.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 4,
+      "copy": "An invitation authorizes a person.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 5,
+      "copy": "Those are four different permissions.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 6,
+      "copy": "London Fashion Week makes them look like one seamless experience.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 7,
+      "copy": "The technology of access is the seam.",
+      "sourceLine": "Claim IDs and source links in gallery."
+    }
+  ],
+  "platformCopy": {
+    "instagram": "London Fashion Week can be publicly legible and privately inaccessible at the same time. The schedule tells you that an event exists; accreditation determines whether a professional category is recognized; an invitation determines whether a particular room opens. Open the Access Ledger and audit which permission each interface actually grants.",
+    "linkedin": "The invitation is an interface\n\nA public URL distributes information, not entry.\n\nThe September 2020 record makes the split unusually visible: digital-only work could be encountered globally while physical shows and appointments remained bounded.\n\nThe current system still distinguishes public schedule visibility from professional accreditation and invitation-based access.\n\nThe unverified part is the future: no dated BFC-owned replacement for this layered access system cleared our evidence threshold.\n\nOpen the Access Ledger and audit which permission each interface actually grants.",
+    "newsletterSubject": "Day 1/7 — The invitation is an interface",
+    "youtubeDescription": "Day 1 of Signal / Seam examines schedule, accreditation, entry. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/01-access"
+  },
   "selectedObject": {
     "title": "September 2020 digital schedule",
     "sourceId": "SRC-LFW-DIGITAL-2020",

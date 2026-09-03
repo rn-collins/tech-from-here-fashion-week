@@ -57,6 +57,73 @@
   ],
   "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
   "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "finishedLongform": {
+    "headline": "From attention to object",
+    "opening": "The runway becomes a business when attention meets an order. Between those moments sit line sheets, showrooms, buyer journeys, identifiers, product data and systems whose adoption is often claimed more quickly than it can be proved.",
+    "sections": [
+      "The BFC’s 2021 web tender explicitly designed retailer and buyer journeys around e-commerce, wholesale, digital showrooms and orders.",
+      "A platform requirement is not proof that every proposed function was deployed or adopted by every brand.",
+      "The EU Ecodesign for Sustainable Products Regulation is enacted context for digital product passports, not a BFC plan.",
+      "The missing historic object remains a London-specific line sheet with item-level reuse permission."
+    ],
+    "closing": "Use Product Data Boundary to separate law, standard, vendor and deployment."
+  },
+  "finishedVertical": {
+    "duration": "45–60 seconds",
+    "spokenScript": [
+      "A look becomes attention.",
+      "Attention becomes inquiry.",
+      "Inquiry becomes an order.",
+      "An order becomes production data.",
+      "Soon, product data may travel farther.",
+      "But a regulation is not a rollout.",
+      "And a vendor is not adoption."
+    ],
+    "finalCard": "Use Product Data Boundary to separate law, standard, vendor and deployment."
+  },
+  "finishedCarousel": [
+    {
+      "frame": 1,
+      "copy": "A look becomes attention.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 2,
+      "copy": "Attention becomes inquiry.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 3,
+      "copy": "Inquiry becomes an order.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 4,
+      "copy": "An order becomes production data.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 5,
+      "copy": "Soon, product data may travel farther.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 6,
+      "copy": "But a regulation is not a rollout.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 7,
+      "copy": "And a vendor is not adoption.",
+      "sourceLine": "Claim IDs and source links in gallery."
+    }
+  ],
+  "platformCopy": {
+    "instagram": "The runway becomes a business when attention meets an order. Between those moments sit line sheets, showrooms, buyer journeys, identifiers, product data and systems whose adoption is often claimed more quickly than it can be proved. Use Product Data Boundary to separate law, standard, vendor and deployment.",
+    "linkedin": "From attention to object\n\nThe BFC’s 2021 web tender explicitly designed retailer and buyer journeys around e-commerce, wholesale, digital showrooms and orders.\n\nA platform requirement is not proof that every proposed function was deployed or adopted by every brand.\n\nThe EU Ecodesign for Sustainable Products Regulation is enacted context for digital product passports, not a BFC plan.\n\nThe missing historic object remains a London-specific line sheet with item-level reuse permission.\n\nUse Product Data Boundary to separate law, standard, vendor and deployment.",
+    "newsletterSubject": "Day 6/7 — From attention to object",
+    "youtubeDescription": "Day 6 of Signal / Seam examines line sheets, wholesale, product data. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/06-commerce"
+  },
   "selectedObject": {
     "title": "LFW web-development tender, 2021",
     "sourceId": "SRC-BFC-WEB-ITT-2021",

@@ -6,31 +6,87 @@
 
 Who establishes the canonical view, and under what rights?
 
-## Editorial hook
+## Finished long-form copy
 
-The collection most people meet is a camera position.
+### The camera writes the collection
+
+Most people never encounter a collection in the room. They meet a camera position: selected, timed, compressed, owned and distributed by somebody else.
+
+### 1. Photography and moving image do not merely preserve a runway; they decide which angle becomes repeatable.
+
+LON-CAPTURE-THEN anchors this passage; open the gallery claim card before publication.
+
+### 2. Official films, press archives and private indexes create different canonical views with different rights and access.
+
+LON-CAPTURE-NOW anchors this passage; open the gallery claim card before publication.
+
+### 3. The BFC’s retained films prove that moving image can be part of the programme itself.
+
+LON-CAPTURE-NEXT anchors this passage; open the gallery claim card before publication.
+
+### 4. No generative-image deployment is claimed here: indexing, capture and generation are separate technical acts.
+
+LON-CAPTURE-THEN anchors this passage; open the gallery claim card before publication.
+
+Use the Canonical View Comparator to inspect owner, frame, access and reuse.
+
+## Finished vertical script
+
+**Runtime:** 45–60 seconds
+
+1. The collection walks once.
+2. The camera makes it repeatable.
+3. The edit decides duration.
+4. The platform decides availability.
+5. The archive decides survival.
+6. So who authored the version you remember?
+7. Not only the designer.
+
+**Final card:** Use the Canonical View Comparator to inspect owner, frame, access and reuse.
+
+## Finished seven-frame carousel
+
+1. The collection walks once.
+2. The camera makes it repeatable.
+3. The edit decides duration.
+4. The platform decides availability.
+5. The archive decides survival.
+6. So who authored the version you remember?
+7. Not only the designer. — Claim IDs and source links in gallery.
+
+## Platform copy
+
+### Instagram
+
+Most people never encounter a collection in the room. They meet a camera position: selected, timed, compressed, owned and distributed by somebody else. Use the Canonical View Comparator to inspect owner, frame, access and reuse.
+
+### LinkedIn
+
+The camera writes the collection
+
+Photography and moving image do not merely preserve a runway; they decide which angle becomes repeatable.
+
+Official films, press archives and private indexes create different canonical views with different rights and access.
+
+The BFC’s retained films prove that moving image can be part of the programme itself.
+
+No generative-image deployment is claimed here: indexing, capture and generation are separate technical acts.
+
+Use the Canonical View Comparator to inspect owner, frame, access and reuse.
+
+### Newsletter subject
+
+Day 3/7 — The camera writes the collection
+
+### YouTube description
+
+Day 3 of Signal / Seam examines photography, moving image, indexing. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/03-capture
 
 ## Evidence fitting
 
 - **Then:** LON-CAPTURE-THEN — editorial inference, medium confidence
 - **Now:** LON-CAPTURE-NOW — verified fact, high confidence
 - **Next:** LON-CAPTURE-NEXT — unresolved, low confidence
-
-## Long-form gallery
-
-Contrast the official moving-image record with private runway indexes and explain why capture rights shape the canonical view.
-
-## Vertical brief
-
-Freeze one official frame and enumerate camera, owner, platform, file, and what remains unseen—without ripping footage.
-
-## Five-frame carousel
-
-1. The room
-2. The camera line
-3. The official film
-4. The private index
-5. The rights boundary
 
 ## Interactive
 

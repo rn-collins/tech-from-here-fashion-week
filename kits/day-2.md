@@ -6,31 +6,87 @@
 
 Which technical systems manufacture atmosphere—and who is credited for them?
 
-## Editorial hook
+## Finished long-form copy
 
-The runway lasts minutes. Its machinery begins before the room exists.
+### The runway is a machine
+
+A runway appears effortless because its machinery has been rehearsed out of sight. Space, power, sound, light, seating, security, timing and teardown are not atmosphere around the show; together, they are the show’s operating system.
+
+### 1. The official 360-degree record preserves spatial experience but cannot supply missing production credits.
+
+LON-STAGE-THEN anchors this passage; open the gallery claim card before publication.
+
+### 2. The current NEWGEN package verifies a producer, production team, basic lighting, seating, sound and security for supported recipients.
+
+LON-STAGE-NOW anchors this passage; open the gallery claim card before publication.
+
+### 3. That is a bounded programme fact—not evidence of a single supplier stack across the week.
+
+LON-STAGE-NEXT anchors this passage; open the gallery claim card before publication.
+
+### 4. The honest next step is a credited anatomy of one show, built with its workers rather than inferred from spectacle.
+
+LON-STAGE-THEN anchors this passage; open the gallery claim card before publication.
+
+Watch the official 360 record, then inspect the missing-credit boundary beside it.
+
+## Finished vertical script
+
+**Runtime:** 45–60 seconds
+
+1. A runway is temporary architecture.
+2. Light tells the eye where to look.
+3. Sound tells the body when to feel.
+4. A producer synchronizes the room.
+5. Security governs its edges.
+6. The spectacle lasts minutes.
+7. The machine begins long before the doors open.
+
+**Final card:** Watch the official 360 record, then inspect the missing-credit boundary beside it.
+
+## Finished seven-frame carousel
+
+1. A runway is temporary architecture.
+2. Light tells the eye where to look.
+3. Sound tells the body when to feel.
+4. A producer synchronizes the room.
+5. Security governs its edges.
+6. The spectacle lasts minutes.
+7. The machine begins long before the doors open. — Claim IDs and source links in gallery.
+
+## Platform copy
+
+### Instagram
+
+A runway appears effortless because its machinery has been rehearsed out of sight. Space, power, sound, light, seating, security, timing and teardown are not atmosphere around the show; together, they are the show’s operating system. Watch the official 360 record, then inspect the missing-credit boundary beside it.
+
+### LinkedIn
+
+The runway is a machine
+
+The official 360-degree record preserves spatial experience but cannot supply missing production credits.
+
+The current NEWGEN package verifies a producer, production team, basic lighting, seating, sound and security for supported recipients.
+
+That is a bounded programme fact—not evidence of a single supplier stack across the week.
+
+The honest next step is a credited anatomy of one show, built with its workers rather than inferred from spectacle.
+
+Watch the official 360 record, then inspect the missing-credit boundary beside it.
+
+### Newsletter subject
+
+Day 2/7 — The runway is a machine
+
+### YouTube description
+
+Day 2 of Signal / Seam examines lighting, staging, temporary architecture. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/02-stage
 
 ## Evidence fitting
 
 - **Then:** LON-STAGE-THEN — verified fact, high confidence
-- **Now:** LON-STAGE-NOW — unresolved, low confidence
+- **Now:** LON-STAGE-NOW — verified fact, high confidence
 - **Next:** LON-STAGE-NEXT — unresolved, low confidence
-
-## Long-form gallery
-
-Build a production-credit anatomy of one season; do not infer a technical stack from spectacle.
-
-## Vertical brief
-
-Follow one lighting cue from plan to atmosphere; publish only after a named credit clears.
-
-## Five-frame carousel
-
-1. Venue shell
-2. Temporary build
-3. Cue stack
-4. Crew and teardown
-5. Supplier evidence still missing
 
 ## Interactive
 

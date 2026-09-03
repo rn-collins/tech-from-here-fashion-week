@@ -6,31 +6,87 @@
 
 Does distributed viewing redistribute authority?
 
-## Editorial hook
+## Finished long-form copy
 
-A livestream widens reach. It does not automatically redistribute attention.
+### The feed becomes the front row
+
+A livestream can widen viewership without redistributing attention. Access to a signal is not the same as visibility inside a ranked feed.
+
+### 1. In June 2020 the BFC launched a freely accessible digital-only platform for public and trade audiences.
+
+LON-CIRCULATION-THEN anchors this passage; open the gallery claim card before publication.
+
+### 2. By September 2020 the programme carried films, podcasts, conversations, articles and galleries across digital and hybrid formats.
+
+LON-CIRCULATION-NOW anchors this passage; open the gallery claim card before publication.
+
+### 3. In 2026, moving content remains an explicit condition of digital schedule participation, and shared viewing can return the stream to a physical room.
+
+LON-CIRCULATION-NEXT anchors this passage; open the gallery claim card before publication.
+
+### 4. No unsupported “first livestream” claim survives this edition; the origin record remains open.
+
+LON-CIRCULATION-THEN anchors this passage; open the gallery claim card before publication.
+
+Compare room, stream, feed and archive in Front Row / Feed.
+
+## Finished vertical script
+
+**Runtime:** 45–60 seconds
+
+1. The signal leaves the room.
+2. A platform receives it.
+3. A feed ranks it.
+4. A viewer may find it.
+5. An archive may retain it.
+6. Reach, access and attention are not synonyms.
+7. The front row became a distribution problem.
+
+**Final card:** Compare room, stream, feed and archive in Front Row / Feed.
+
+## Finished seven-frame carousel
+
+1. The signal leaves the room.
+2. A platform receives it.
+3. A feed ranks it.
+4. A viewer may find it.
+5. An archive may retain it.
+6. Reach, access and attention are not synonyms.
+7. The front row became a distribution problem. — Claim IDs and source links in gallery.
+
+## Platform copy
+
+### Instagram
+
+A livestream can widen viewership without redistributing attention. Access to a signal is not the same as visibility inside a ranked feed. Compare room, stream, feed and archive in Front Row / Feed.
+
+### LinkedIn
+
+The feed becomes the front row
+
+In June 2020 the BFC launched a freely accessible digital-only platform for public and trade audiences.
+
+By September 2020 the programme carried films, podcasts, conversations, articles and galleries across digital and hybrid formats.
+
+In 2026, moving content remains an explicit condition of digital schedule participation, and shared viewing can return the stream to a physical room.
+
+No unsupported “first livestream” claim survives this edition; the origin record remains open.
+
+Compare room, stream, feed and archive in Front Row / Feed.
+
+### Newsletter subject
+
+Day 4/7 — The feed becomes the front row
+
+### YouTube description
+
+Day 4 of Signal / Seam examines livestream, web, algorithmic distribution. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/04-circulation
 
 ## Evidence fitting
 
 - **Then:** LON-CIRCULATION-THEN — verified fact, high confidence
 - **Now:** LON-CIRCULATION-NOW — verified fact, high confidence
 - **Next:** LON-CIRCULATION-NEXT — unresolved, low confidence
-
-## Long-form gallery
-
-Reconstruct the claimed early social/livestream chronology while refusing first-language until G-LIVE-02 closes.
-
-## Vertical brief
-
-Put “reach,” “access,” and “ranking” on three separate cards, then show which one public evidence establishes.
-
-## Five-frame carousel
-
-1. Signal leaves room
-2. Platform receives it
-3. Feed ranks it
-4. Archive may lose it
-5. First claim held
 
 ## Interactive
 

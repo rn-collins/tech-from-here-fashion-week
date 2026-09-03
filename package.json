@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node --test tests/*.test.mjs",
+    "test": "node --test --test-concurrency=1 tests/*.test.mjs",
     "test:links": "node scripts/check-key-sources.mjs",
     "check": "npm run build && npm test",
     "check:release": "npm run check && npm run test:links"

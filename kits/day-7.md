@@ -6,31 +6,87 @@
 
 What survives, who can reuse it, and what never entered the record?
 
-## Editorial hook
+## Finished long-form copy
 
-What disappears from the archive becomes harder to argue with.
+### What the week leaves behind
+
+Fashion Week disappears by design. The venue returns to another use; the schedule changes; links decay; platforms reorder. What remains becomes the evidence from which future histories are made.
+
+### 1. Schedules, films, museum records and web archives preserve different fragments under different rules.
+
+LON-MEMORY-THEN anchors this passage; open the gallery claim card before publication.
+
+### 2. A retained event page can be citable while its images remain unavailable for reuse.
+
+LON-MEMORY-NOW anchors this passage; open the gallery claim card before publication.
+
+### 3. Environmental accountability requires a boundary, baseline, method, verifier and season—not an unqualified sustainability label.
+
+LON-MEMORY-NEXT anchors this passage; open the gallery claim card before publication.
+
+### 4. No complete future event-level measurement system cleared this edition’s threshold.
+
+LON-MEMORY-THEN anchors this passage; open the gallery claim card before publication.
+
+Put a claim through the Claims Fitting Room before repeating it.
+
+## Finished vertical script
+
+**Runtime:** 45–60 seconds
+
+1. The show ends.
+2. The room vanishes.
+3. The schedule changes.
+4. The film survives somewhere else.
+5. The rights split from the memory.
+6. What disappears becomes harder to contest.
+7. An archive is accountability infrastructure.
+
+**Final card:** Put a claim through the Claims Fitting Room before repeating it.
+
+## Finished seven-frame carousel
+
+1. The show ends.
+2. The room vanishes.
+3. The schedule changes.
+4. The film survives somewhere else.
+5. The rights split from the memory.
+6. What disappears becomes harder to contest.
+7. An archive is accountability infrastructure. — Claim IDs and source links in gallery.
+
+## Platform copy
+
+### Instagram
+
+Fashion Week disappears by design. The venue returns to another use; the schedule changes; links decay; platforms reorder. What remains becomes the evidence from which future histories are made. Put a claim through the Claims Fitting Room before repeating it.
+
+### LinkedIn
+
+What the week leaves behind
+
+Schedules, films, museum records and web archives preserve different fragments under different rules.
+
+A retained event page can be citable while its images remain unavailable for reuse.
+
+Environmental accountability requires a boundary, baseline, method, verifier and season—not an unqualified sustainability label.
+
+No complete future event-level measurement system cleared this edition’s threshold.
+
+Put a claim through the Claims Fitting Room before repeating it.
+
+### Newsletter subject
+
+Day 7/7 — What the week leaves behind
+
+### YouTube description
+
+Day 7 of Signal / Seam examines archives, measurement, accountability. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/07-memory
 
 ## Evidence fitting
 
 - **Then:** LON-MEMORY-THEN — editorial inference, medium confidence
 - **Now:** LON-MEMORY-NOW — verified fact, high confidence
 - **Next:** LON-MEMORY-NEXT — unresolved, low confidence
-
-## Long-form gallery
-
-Follow schedule, film, interface, and measurement record into four different preservation and reuse regimes.
-
-## Vertical brief
-
-Present the seven empty object bays as an editorial fact: no item enters without relevance plus rights.
-
-## Five-frame carousel
-
-1. Event happens
-2. Records split
-3. Rights diverge
-4. Metrics need boundaries
-5. Absence remains visible
 
 ## Interactive
 

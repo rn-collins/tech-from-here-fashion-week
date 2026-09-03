@@ -59,6 +59,73 @@
   ],
   "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
   "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "finishedLongform": {
+    "headline": "The feed becomes the front row",
+    "opening": "A livestream can widen viewership without redistributing attention. Access to a signal is not the same as visibility inside a ranked feed.",
+    "sections": [
+      "In June 2020 the BFC launched a freely accessible digital-only platform for public and trade audiences.",
+      "By September 2020 the programme carried films, podcasts, conversations, articles and galleries across digital and hybrid formats.",
+      "In 2026, moving content remains an explicit condition of digital schedule participation, and shared viewing can return the stream to a physical room.",
+      "No unsupported “first livestream” claim survives this edition; the origin record remains open."
+    ],
+    "closing": "Compare room, stream, feed and archive in Front Row / Feed."
+  },
+  "finishedVertical": {
+    "duration": "45–60 seconds",
+    "spokenScript": [
+      "The signal leaves the room.",
+      "A platform receives it.",
+      "A feed ranks it.",
+      "A viewer may find it.",
+      "An archive may retain it.",
+      "Reach, access and attention are not synonyms.",
+      "The front row became a distribution problem."
+    ],
+    "finalCard": "Compare room, stream, feed and archive in Front Row / Feed."
+  },
+  "finishedCarousel": [
+    {
+      "frame": 1,
+      "copy": "The signal leaves the room.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 2,
+      "copy": "A platform receives it.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 3,
+      "copy": "A feed ranks it.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 4,
+      "copy": "A viewer may find it.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 5,
+      "copy": "An archive may retain it.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 6,
+      "copy": "Reach, access and attention are not synonyms.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 7,
+      "copy": "The front row became a distribution problem.",
+      "sourceLine": "Claim IDs and source links in gallery."
+    }
+  ],
+  "platformCopy": {
+    "instagram": "A livestream can widen viewership without redistributing attention. Access to a signal is not the same as visibility inside a ranked feed. Compare room, stream, feed and archive in Front Row / Feed.",
+    "linkedin": "The feed becomes the front row\n\nIn June 2020 the BFC launched a freely accessible digital-only platform for public and trade audiences.\n\nBy September 2020 the programme carried films, podcasts, conversations, articles and galleries across digital and hybrid formats.\n\nIn 2026, moving content remains an explicit condition of digital schedule participation, and shared viewing can return the stream to a physical room.\n\nNo unsupported “first livestream” claim survives this edition; the origin record remains open.\n\nCompare room, stream, feed and archive in Front Row / Feed.",
+    "newsletterSubject": "Day 4/7 — The feed becomes the front row",
+    "youtubeDescription": "Day 4 of Signal / Seam examines livestream, web, algorithmic distribution. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/04-circulation"
+  },
   "selectedObject": {
     "title": "LFW Digital Highlights",
     "sourceId": "SRC-BFC-VIDEO-DIGITAL-2020",

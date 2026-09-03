@@ -17,8 +17,8 @@
     },
     "Now": {
       "claimId": "LON-BACKSTAGE-NOW",
-      "state": "unresolved",
-      "confidence": "low"
+      "state": "verified fact",
+      "confidence": "medium"
     },
     "Next": {
       "claimId": "LON-BACKSTAGE-NEXT",
@@ -58,6 +58,73 @@
   ],
   "mediaPolicy": "OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment",
   "status": "evidence-backed production package; interviews and unresolved future reporting remain open",
+  "finishedLongform": {
+    "headline": "Compressed labor",
+    "opening": "Backstage technology promises coordination under impossible time pressure. The same field that makes a show run—a name, image, measurement, availability or location—can also make a worker newly extractable.",
+    "sections": [
+      "The 2016 official film makes preparation and teams visible without proving a week-wide software system.",
+      "Current NEWGEN support confirms human production infrastructure, not a universal casting-data stack.",
+      "Public evidence does not establish biometric or digital-identity deployment at London Fashion Week.",
+      "Any future claim must be reported from both the operator and the worker side, with consent, retention and subject rights visible."
+    ],
+    "closing": "Open the Backstage Data Inventory; it collects no personal information."
+  },
+  "finishedVertical": {
+    "duration": "45–60 seconds",
+    "spokenScript": [
+      "One garment.",
+      "One model.",
+      "Five minutes.",
+      "A dozen data fields.",
+      "Coordination can reduce friction.",
+      "It can also expand surveillance.",
+      "Ask who controls the field after the show."
+    ],
+    "finalCard": "Open the Backstage Data Inventory; it collects no personal information."
+  },
+  "finishedCarousel": [
+    {
+      "frame": 1,
+      "copy": "One garment.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 2,
+      "copy": "One model.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 3,
+      "copy": "Five minutes.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 4,
+      "copy": "A dozen data fields.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 5,
+      "copy": "Coordination can reduce friction.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 6,
+      "copy": "It can also expand surveillance.",
+      "sourceLine": ""
+    },
+    {
+      "frame": 7,
+      "copy": "Ask who controls the field after the show.",
+      "sourceLine": "Claim IDs and source links in gallery."
+    }
+  ],
+  "platformCopy": {
+    "instagram": "Backstage technology promises coordination under impossible time pressure. The same field that makes a show run—a name, image, measurement, availability or location—can also make a worker newly extractable. Open the Backstage Data Inventory; it collects no personal information.",
+    "linkedin": "Compressed labor\n\nThe 2016 official film makes preparation and teams visible without proving a week-wide software system.\n\nCurrent NEWGEN support confirms human production infrastructure, not a universal casting-data stack.\n\nPublic evidence does not establish biometric or digital-identity deployment at London Fashion Week.\n\nAny future claim must be reported from both the operator and the worker side, with consent, retention and subject rights visible.\n\nOpen the Backstage Data Inventory; it collects no personal information.",
+    "newsletterSubject": "Day 5/7 — Compressed labor",
+    "youtubeDescription": "Day 5 of Signal / Seam examines casting, look tracking, identity data. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/05-backstage"
+  },
   "selectedObject": {
     "title": "Designer Fashion Fund — Episode 3",
     "sourceId": "SRC-BFC-VIDEO-BACKSTAGE",

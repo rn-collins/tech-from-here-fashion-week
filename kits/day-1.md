@@ -6,31 +6,87 @@
 
 When visibility is public but presence is permissioned, where does access actually live?
 
-## Editorial hook
+## Finished long-form copy
 
-The URL is public. The room is not.
+### The invitation is an interface
+
+London Fashion Week can be publicly legible and privately inaccessible at the same time. The schedule tells you that an event exists; accreditation determines whether a professional category is recognized; an invitation determines whether a particular room opens.
+
+### 1. A public URL distributes information, not entry.
+
+LON-ACCESS-THEN anchors this passage; open the gallery claim card before publication.
+
+### 2. The September 2020 record makes the split unusually visible: digital-only work could be encountered globally while physical shows and appointments remained bounded.
+
+LON-ACCESS-NOW anchors this passage; open the gallery claim card before publication.
+
+### 3. The current system still distinguishes public schedule visibility from professional accreditation and invitation-based access.
+
+LON-ACCESS-NEXT anchors this passage; open the gallery claim card before publication.
+
+### 4. The unverified part is the future: no dated BFC-owned replacement for this layered access system cleared our evidence threshold.
+
+LON-ACCESS-THEN anchors this passage; open the gallery claim card before publication.
+
+Open the Access Ledger and audit which permission each interface actually grants.
+
+## Finished vertical script
+
+**Runtime:** 45–60 seconds
+
+1. The calendar is public.
+2. The room is not.
+3. Accreditation recognizes a category.
+4. An invitation authorizes a person.
+5. Those are four different permissions.
+6. London Fashion Week makes them look like one seamless experience.
+7. The technology of access is the seam.
+
+**Final card:** Open the Access Ledger and audit which permission each interface actually grants.
+
+## Finished seven-frame carousel
+
+1. The calendar is public.
+2. The room is not.
+3. Accreditation recognizes a category.
+4. An invitation authorizes a person.
+5. Those are four different permissions.
+6. London Fashion Week makes them look like one seamless experience.
+7. The technology of access is the seam. — Claim IDs and source links in gallery.
+
+## Platform copy
+
+### Instagram
+
+London Fashion Week can be publicly legible and privately inaccessible at the same time. The schedule tells you that an event exists; accreditation determines whether a professional category is recognized; an invitation determines whether a particular room opens. Open the Access Ledger and audit which permission each interface actually grants.
+
+### LinkedIn
+
+The invitation is an interface
+
+A public URL distributes information, not entry.
+
+The September 2020 record makes the split unusually visible: digital-only work could be encountered globally while physical shows and appointments remained bounded.
+
+The current system still distinguishes public schedule visibility from professional accreditation and invitation-based access.
+
+The unverified part is the future: no dated BFC-owned replacement for this layered access system cleared our evidence threshold.
+
+Open the Access Ledger and audit which permission each interface actually grants.
+
+### Newsletter subject
+
+Day 1/7 — The invitation is an interface
+
+### YouTube description
+
+Day 1 of Signal / Seam examines schedule, accreditation, entry. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/01-access
 
 ## Evidence fitting
 
 - **Then:** LON-ACCESS-THEN — verified fact, high confidence
 - **Now:** LON-ACCESS-NOW — verified fact, high confidence
 - **Next:** LON-ACCESS-NEXT — unresolved, low confidence
-
-## Long-form gallery
-
-Map the official schedule as a layered permission system; open with the verified current surface, then expose the missing origin record.
-
-## Vertical brief
-
-Screen-record the public schedule path, stop at the boundary between information and entry, and end on G-ACCESS-01.
-
-## Five-frame carousel
-
-1. A public calendar
-2. A private threshold
-3. What the page proves
-4. What it cannot prove
-5. The missing future record
 
 ## Interactive
 
