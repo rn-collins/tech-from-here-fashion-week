@@ -1,0 +1,112 @@
+{
+  "id": "TFH-SH-D7",
+  "day": 7,
+  "title": "Memory is distributed",
+  "technology": "Donghua collections, municipal archives, platforms and brand records",
+  "governingQuestion": "What survives when fashion memory is split across institutions and commercial platforms?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "Memory is distributed",
+    "opening": "Shanghai fashion memory has no single vault: it is distributed among universities, civic archives, organizers, platforms and brands.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+        "claimId": "SH-MEMORY-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+        "claimId": "SH-MEMORY-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+        "claimId": "SH-MEMORY-NEXT"
+      }
+    ],
+    "closing": "Shanghai Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Shanghai fashion memory has no single vault: it is distributed among universities, civic archives, organizers, platforms and brands.",
+      "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+      "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+      "The system: Donghua collections, municipal archives, platforms and brand records.",
+      "The object: Shanghai Museum of Textile and Costume.",
+      "The honest limit: No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+      "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Shanghai fashion memory has no single vault: it is distributed among universities, civic archives, organizers, platforms and brands."
+    },
+    {
+      "frame": 2,
+      "copy": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory."
+    },
+    {
+      "frame": 3,
+      "copy": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Donghua collections, municipal archives, platforms and brand records."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: Shanghai Museum of Textile and Costume."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Shanghai fashion memory has no single vault: it is distributed among universities, civic archives, organizers, platforms and brands. Seven exact records trace donghua collections, municipal archives, platforms and brand records without inventing a house’s private stack.",
+    "linkedin": "Shanghai fashion memory has no single vault: it is distributed among universities, civic archives, organizers, platforms and brands.\n\nDonghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.\n\nOrganizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.\n\nNo complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.\n\nThe Shanghai edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Shanghai 07 — Memory is distributed",
+      "deck": "What survives when fashion memory is split across institutions and commercial platforms?"
+    },
+    "youtube": "Day 7 examines donghua collections, municipal archives, platforms and brand records. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/shanghai/day/07-distributed-memory"
+  },
+  "interactive": "A keyboard-operable system map reveals Then, Now and Next claim states, bilingual source context and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "Shanghai Museum of Textile and Costume",
+    "sourceId": "SH-DHU-MUSEUM",
+    "treatment": "university collection portal"
+  },
+  "claims": [
+    "SH-MEMORY-THEN",
+    "SH-MEMORY-NOW",
+    "SH-MEMORY-NEXT"
+  ],
+  "sources": [
+    "SH-DHU-MUSEUM",
+    "SH-SHARCHIVES",
+    "SH-SHFW-NEWS",
+    "SH-CNKI-FASHION"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://english.dhu.edu.cn/te/",
+    "https://www.archives.sh.cn/",
+    "https://www.wipo.int/wipo_magazine/en/2021/02/article_0006.html"
+  ],
+  "openReporting": "No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "Chinese-language editorial check",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

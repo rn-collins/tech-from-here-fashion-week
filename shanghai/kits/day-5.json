@@ -1,0 +1,112 @@
+{
+  "id": "TFH-SH-D5",
+  "day": 5,
+  "title": "The showroom makes an order city",
+  "technology": "MODE, Ontimeshow, showrooms and buyer networks",
+  "governingQuestion": "Where does runway attention become wholesale encounter and market access?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The showroom makes an order city",
+    "opening": "The runway attracts the gaze; MODE and the showroom network organize the encounter that may become an order.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+        "claimId": "SH-ORDER-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+        "claimId": "SH-ORDER-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+        "claimId": "SH-ORDER-NEXT"
+      }
+    ],
+    "closing": "Shanghai Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The runway attracts the gaze; MODE and the showroom network organize the encounter that may become an order.",
+      "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+      "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+      "The system: MODE, Ontimeshow, showrooms and buyer networks.",
+      "The object: MODE + showroom layer.",
+      "The honest limit: Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+      "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The runway attracts the gaze; MODE and the showroom network organize the encounter that may become an order."
+    },
+    {
+      "frame": 2,
+      "copy": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface."
+    },
+    {
+      "frame": 3,
+      "copy": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: MODE, Ontimeshow, showrooms and buyer networks."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: MODE + showroom layer."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "The runway attracts the gaze; MODE and the showroom network organize the encounter that may become an order. Seven exact records trace mode, ontimeshow, showrooms and buyer networks without inventing a house’s private stack.",
+    "linkedin": "The runway attracts the gaze; MODE and the showroom network organize the encounter that may become an order.\n\nThe official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.\n\nOntimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.\n\nPublic pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.\n\nThe Shanghai edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Shanghai 05 — The showroom makes an order city",
+      "deck": "Where does runway attention become wholesale encounter and market access?"
+    },
+    "youtube": "Day 5 examines mode, ontimeshow, showrooms and buyer networks. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/shanghai/day/05-order-city"
+  },
+  "interactive": "A keyboard-operable system map reveals Then, Now and Next claim states, bilingual source context and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "MODE + showroom layer",
+    "sourceId": "SH-SHFW-MODE",
+    "treatment": "official trade interface"
+  },
+  "claims": [
+    "SH-ORDER-THEN",
+    "SH-ORDER-NOW",
+    "SH-ORDER-NEXT"
+  ],
+  "sources": [
+    "SH-SHFW-SCHEDULE",
+    "SH-SHFW-MODE",
+    "SH-ONTIME-HOME",
+    "SH-ONTIME-SHFW"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://english.dhu.edu.cn/te/",
+    "https://www.archives.sh.cn/",
+    "https://www.wipo.int/wipo_magazine/en/2021/02/article_0006.html"
+  ],
+  "openReporting": "Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "Chinese-language editorial check",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

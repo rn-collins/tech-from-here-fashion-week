@@ -1,0 +1,110 @@
+{
+  "id": "TFH-SH-D1",
+  "day": 1,
+  "title": "The schedule is an interface",
+  "technology": "上海时装周 calendar, programme layers, public access",
+  "governingQuestion": "How does a citywide week become legible—and who remains outside the interface?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The schedule is an interface",
+    "opening": "上海时装周 is more than a runway list: its public schedule synchronizes a citywide programme.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Shanghai Fashion Week’s bilingual official schedule makes runway, trade fair and event layers addressable across dates, sessions and venues.",
+        "claimId": "SH-ACCESS-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "A public schedule is a navigation technology, not proof of admission: some entries have times and venues while invitation, credential and security rules remain separate.",
+        "claimId": "SH-ACCESS-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No reviewed public record establishes one universal guest-list, identity-verification or security stack for every Shanghai presentation.",
+        "claimId": "SH-ACCESS-NEXT"
+      }
+    ],
+    "closing": "Shanghai Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "上海时装周 is more than a runway list: its public schedule synchronizes a citywide programme.",
+      "Shanghai Fashion Week’s bilingual official schedule makes runway, trade fair and event layers addressable across dates, sessions and venues.",
+      "A public schedule is a navigation technology, not proof of admission: some entries have times and venues while invitation, credential and security rules remain separate.",
+      "The system: 上海时装周 calendar, programme layers, public access.",
+      "The object: AW2026 上海时装周 official schedule.",
+      "The honest limit: No reviewed public record establishes one universal guest-list, identity-verification or security stack for every Shanghai presentation.",
+      "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "上海时装周 is more than a runway list: its public schedule synchronizes a citywide programme."
+    },
+    {
+      "frame": 2,
+      "copy": "Shanghai Fashion Week’s bilingual official schedule makes runway, trade fair and event layers addressable across dates, sessions and venues."
+    },
+    {
+      "frame": 3,
+      "copy": "A public schedule is a navigation technology, not proof of admission: some entries have times and venues while invitation, credential and security rules remain separate."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: 上海时装周 calendar, programme layers, public access."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: AW2026 上海时装周 official schedule."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: No reviewed public record establishes one universal guest-list, identity-verification or security stack for every Shanghai presentation."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "上海时装周 is more than a runway list: its public schedule synchronizes a citywide programme. Seven exact records trace 上海时装周 calendar, programme layers, public access without inventing a house’s private stack.",
+    "linkedin": "上海时装周 is more than a runway list: its public schedule synchronizes a citywide programme.\n\nShanghai Fashion Week’s bilingual official schedule makes runway, trade fair and event layers addressable across dates, sessions and venues.\n\nA public schedule is a navigation technology, not proof of admission: some entries have times and venues while invitation, credential and security rules remain separate.\n\nNo reviewed public record establishes one universal guest-list, identity-verification or security stack for every Shanghai presentation.\n\nThe Shanghai edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Shanghai 01 — The schedule is an interface",
+      "deck": "How does a citywide week become legible—and who remains outside the interface?"
+    },
+    "youtube": "Day 1 examines 上海时装周 calendar, programme layers, public access. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/shanghai/day/01-schedule-interface"
+  },
+  "interactive": "A keyboard-operable system map reveals Then, Now and Next claim states, bilingual source context and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "AW2026 上海时装周 official schedule",
+    "sourceId": "SH-SHFW-SCHEDULE",
+    "treatment": "bilingual organizer interface"
+  },
+  "claims": [
+    "SH-ACCESS-THEN",
+    "SH-ACCESS-NOW",
+    "SH-ACCESS-NEXT"
+  ],
+  "sources": [
+    "SH-SHFW-SCHEDULE",
+    "SH-SHFW-HOME"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://english.dhu.edu.cn/te/",
+    "https://www.archives.sh.cn/",
+    "https://www.wipo.int/wipo_magazine/en/2021/02/article_0006.html"
+  ],
+  "openReporting": "No reviewed public record establishes one universal guest-list, identity-verification or security stack for every Shanghai presentation.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "Chinese-language editorial check",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

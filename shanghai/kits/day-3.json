@@ -1,0 +1,111 @@
+{
+  "id": "TFH-SH-D3",
+  "day": 3,
+  "title": "The image enters a social loop",
+  "technology": "WeChat, short video, livestream and platform circulation",
+  "governingQuestion": "Who controls the path between runway image, social discovery and commerce?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The image enters a social loop",
+    "opening": "A Shanghai runway image does not simply travel; it enters social, video and commerce systems with different owners.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Weixin and Douyin document distinct social and developer ecosystems through which public fashion media may circulate.",
+        "claimId": "SH-IMAGE-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Platform availability does not prove that Shanghai Fashion Week or every house uses the same capture, ranking, moderation, data or distribution workflow.",
+        "claimId": "SH-IMAGE-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "The reviewed records do not disclose a universal camera plan, creator-rights policy, recommendation logic or archival-master standard for Shanghai shows.",
+        "claimId": "SH-IMAGE-NEXT"
+      }
+    ],
+    "closing": "Shanghai Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "A Shanghai runway image does not simply travel; it enters social, video and commerce systems with different owners.",
+      "Weixin and Douyin document distinct social and developer ecosystems through which public fashion media may circulate.",
+      "Platform availability does not prove that Shanghai Fashion Week or every house uses the same capture, ranking, moderation, data or distribution workflow.",
+      "The system: WeChat, short video, livestream and platform circulation.",
+      "The object: Weixin as documented ecosystem.",
+      "The honest limit: The reviewed records do not disclose a universal camera plan, creator-rights policy, recommendation logic or archival-master standard for Shanghai shows.",
+      "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "A Shanghai runway image does not simply travel; it enters social, video and commerce systems with different owners."
+    },
+    {
+      "frame": 2,
+      "copy": "Weixin and Douyin document distinct social and developer ecosystems through which public fashion media may circulate."
+    },
+    {
+      "frame": 3,
+      "copy": "Platform availability does not prove that Shanghai Fashion Week or every house uses the same capture, ranking, moderation, data or distribution workflow."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: WeChat, short video, livestream and platform circulation."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: Weixin as documented ecosystem."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: The reviewed records do not disclose a universal camera plan, creator-rights policy, recommendation logic or archival-master standard for Shanghai shows."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "A Shanghai runway image does not simply travel; it enters social, video and commerce systems with different owners. Seven exact records trace wechat, short video, livestream and platform circulation without inventing a house’s private stack.",
+    "linkedin": "A Shanghai runway image does not simply travel; it enters social, video and commerce systems with different owners.\n\nWeixin and Douyin document distinct social and developer ecosystems through which public fashion media may circulate.\n\nPlatform availability does not prove that Shanghai Fashion Week or every house uses the same capture, ranking, moderation, data or distribution workflow.\n\nThe reviewed records do not disclose a universal camera plan, creator-rights policy, recommendation logic or archival-master standard for Shanghai shows.\n\nThe Shanghai edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Shanghai 03 — The image enters a social loop",
+      "deck": "Who controls the path between runway image, social discovery and commerce?"
+    },
+    "youtube": "Day 3 examines wechat, short video, livestream and platform circulation. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/shanghai/day/03-social-image-loop"
+  },
+  "interactive": "A keyboard-operable system map reveals Then, Now and Next claim states, bilingual source context and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "Weixin as documented ecosystem",
+    "sourceId": "SH-TENCENT-WEIXIN",
+    "treatment": "official platform record"
+  },
+  "claims": [
+    "SH-IMAGE-THEN",
+    "SH-IMAGE-NOW",
+    "SH-IMAGE-NEXT"
+  ],
+  "sources": [
+    "SH-TENCENT-WEIXIN",
+    "SH-DOUYIN-OPEN",
+    "SH-SHFW-NEWS"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://english.dhu.edu.cn/te/",
+    "https://www.archives.sh.cn/",
+    "https://www.wipo.int/wipo_magazine/en/2021/02/article_0006.html"
+  ],
+  "openReporting": "The reviewed records do not disclose a universal camera plan, creator-rights policy, recommendation logic or archival-master standard for Shanghai shows.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "Chinese-language editorial check",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

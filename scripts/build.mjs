@@ -18,7 +18,7 @@ const days=[
 ];
 const srcById=Object.fromEntries(sources.map(s=>[s.id,s]));
 const esc=s=>String(s).replace(/[&<>\"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const nav=`<nav aria-label="Primary"><a class="wordmark" href="/">TFH / LDN</a><a class="cityswitch" href="/new-york">NYC edition</a><a class="cityswitch" href="/milan">Milano edition</a><button class="navtoggle" aria-expanded="false" aria-controls="primary-links" aria-label="Open site index">Index</button><div class="navlinks" id="primary-links"><a href="/chronology">Chronology</a><a href="/systems">Systems</a><a href="/objects">Objects</a><a href="/search">Search</a><a href="/kits">Kits</a><a href="/sources">Evidence</a></div></nav>`;
+const nav=`<nav aria-label="Primary"><a class="wordmark" href="/">TFH / LDN</a><a class="cityswitch" href="/new-york">NYC edition</a><a class="cityswitch" href="/milan">Milano edition</a><a class="cityswitch" href="/paris">Paris edition</a><a class="cityswitch" href="/shanghai">上海 edition</a><button class="navtoggle" aria-expanded="false" aria-controls="primary-links" aria-label="Open site index">Index</button><div class="navlinks" id="primary-links"><a href="/chronology">Chronology</a><a href="/systems">Systems</a><a href="/objects">Objects</a><a href="/search">Search</a><a href="/kits">Kits</a><a href="/sources">Evidence</a></div></nav>`;
 function shell(title,body,desc=title){return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#141310"><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${base}${locationFor(title)}"><link rel="stylesheet" href="/assets/style.css"><script defer src="/assets/app.js"></script><title>${esc(title)} — Tech From Here</title></head><body>${nav}<main>${body}</main><footer><span>Tech From Here × London Fashion Week</span><span>Evidence edition · checked 03.09.26</span><a href="/about">Method</a><a href="${correctionsUrl}" rel="noreferrer">Corrections + takedowns</a></footer></body></html>`}
 function locationFor(title){
  const fixed={'Signal / Seam':'/','Chronology':'/chronology','Search':'/search','Systems':'/systems','Objects':'/objects','Field notes':'/field-notes','Watch':'/watch','Sources':'/sources','Rights':'/rights','Accessibility':'/accessibility','About':'/about','Kits':'/kits'};
@@ -112,3 +112,4 @@ console.log(`Built ${routes.length} routes, ${claims.length} claims, ${kitRows.l
 await import('./build-new-york.mjs');
 await import('./build-milan.mjs');
 await import('./build-paris.mjs');
+await import('./build-shanghai.mjs');

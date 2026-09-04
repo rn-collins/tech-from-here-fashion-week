@@ -1,0 +1,111 @@
+{
+  "id": "TFH-SH-D2",
+  "day": 2,
+  "title": "The factory becomes a fashion city",
+  "technology": "industrial reuse, modular staging, venue conversion",
+  "governingQuestion": "What happens when Shanghai turns textile infrastructure into public fashion space?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The factory becomes a fashion city",
+    "opening": "Shanghai can stage fashion inside the material history of textile production itself.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+        "claimId": "SH-ROOM-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+        "claimId": "SH-ROOM-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+        "claimId": "SH-ROOM-NEXT"
+      }
+    ],
+    "closing": "Shanghai Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Shanghai can stage fashion inside the material history of textile production itself.",
+      "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+      "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+      "The system: industrial reuse, modular staging, venue conversion.",
+      "The object: The former No. 17 Cotton Textile Factory.",
+      "The honest limit: Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+      "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Shanghai can stage fashion inside the material history of textile production itself."
+    },
+    {
+      "frame": 2,
+      "copy": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex."
+    },
+    {
+      "frame": 3,
+      "copy": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: industrial reuse, modular staging, venue conversion."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: The former No. 17 Cotton Textile Factory."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Shanghai can stage fashion inside the material history of textile production itself. Seven exact records trace industrial reuse, modular staging, venue conversion without inventing a house’s private stack.",
+    "linkedin": "Shanghai can stage fashion inside the material history of textile production itself.\n\nShanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.\n\nThe municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.\n\nShow-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.\n\nThe Shanghai edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Shanghai 02 — The factory becomes a fashion city",
+      "deck": "What happens when Shanghai turns textile infrastructure into public fashion space?"
+    },
+    "youtube": "Day 2 examines industrial reuse, modular staging, venue conversion. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/shanghai/day/02-factory-city-stage"
+  },
+  "interactive": "A keyboard-operable system map reveals Then, Now and Next claim states, bilingual source context and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "The former No. 17 Cotton Textile Factory",
+    "sourceId": "SH-GOV-YANGPU",
+    "treatment": "municipal industrial-history record"
+  },
+  "claims": [
+    "SH-ROOM-THEN",
+    "SH-ROOM-NOW",
+    "SH-ROOM-NEXT"
+  ],
+  "sources": [
+    "SH-GOV-YANGPU",
+    "SH-GOV-SS26",
+    "SH-SHFW-SCHEDULE"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://english.dhu.edu.cn/te/",
+    "https://www.archives.sh.cn/",
+    "https://www.wipo.int/wipo_magazine/en/2021/02/article_0006.html"
+  ],
+  "openReporting": "Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "Chinese-language editorial check",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

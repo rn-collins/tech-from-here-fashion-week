@@ -1,0 +1,20 @@
+/* Shanghai edition: synchronized-grid logic, seal red, river teal and ledger gold. */
+body{background-color:var(--paper);background-image:linear-gradient(rgba(16,27,27,.055) 1px,transparent 1px),linear-gradient(90deg,rgba(16,27,27,.055) 1px,transparent 1px);background-size:32px 32px}
+nav{background:rgba(244,240,230,.96);border-bottom:3px solid var(--blue)}
+.hero{position:relative;overflow:hidden;grid-template-columns:minmax(0,1fr) minmax(16rem,.34fr);background:linear-gradient(135deg,var(--ink) 0 64%,var(--blue) 64%);color:#fff}
+.hero:before{content:'上海';position:absolute;right:2vw;top:-5vw;font:900 clamp(10rem,28vw,26rem)/1 Arial;color:rgba(244,240,230,.09);letter-spacing:-.12em}
+.hero h1{font-family:Arial,sans-serif;font-weight:900;text-transform:uppercase;letter-spacing:-.075em;max-width:10ch;z-index:1}
+.hero i{font-family:Georgia,serif;font-weight:400;color:var(--silver);text-transform:none}
+.hero aside{border-left:1px solid rgba(255,255,255,.5);z-index:1}
+.rail{background:var(--rose);color:#fff;border-block:1px solid var(--ink)}
+.citygrid{grid-template-columns:repeat(7,1fr)}
+.citygrid a{min-height:34rem;padding:2rem 1.4rem;background:rgba(244,240,230,.94);border-top:5px solid var(--blue)}
+.citygrid b{font-family:Arial,sans-serif;font-weight:900;color:var(--blue)}
+.citygrid h2{writing-mode:vertical-rl;transform:rotate(180deg);font-family:Arial,sans-serif;font-weight:800;font-size:1.55rem;letter-spacing:-.02em}
+.statement{margin-left:auto;border-left:18px solid var(--rose)}
+.chapter{background:linear-gradient(120deg,var(--blue),#a3250b 62%,var(--ink));position:relative}
+.chapter:after{content:'技术 / SYSTEM';position:absolute;right:5vw;bottom:3vw;font:800 1rem Arial;letter-spacing:.22em;color:var(--silver)}
+.claim,.object,.sourcegrid article,.kits article{box-shadow:10px 10px 0 var(--silver)}
+.folio{background:var(--rose)}
+@media(max-width:1050px){.citygrid{grid-template-columns:repeat(2,1fr)}.citygrid h2{writing-mode:horizontal-tb;transform:none}.citygrid a{min-height:22rem}}
+@media(max-width:760px){.hero{background:linear-gradient(155deg,var(--ink) 0 70%,var(--blue) 70%)}.hero:before{top:8rem}.citygrid{grid-template-columns:1fr}.citygrid a{min-height:19rem}.claim,.object,.sourcegrid article,.kits article{box-shadow:6px 6px 0 var(--silver)}}

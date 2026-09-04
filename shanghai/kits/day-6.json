@@ -1,0 +1,111 @@
+{
+  "id": "TFH-SH-D6",
+  "day": 6,
+  "title": "The garment acquires an identity",
+  "technology": "China textile standards, traceability and digital product data",
+  "governingQuestion": "Which product facts are already regulated, and which future systems remain proposals?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The garment acquires an identity",
+    "opening": "Before imagining a universal product passport, read the textile standards and trademark records that already govern product identity.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+        "claimId": "SH-IDENTITY-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+        "claimId": "SH-IDENTITY-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+        "claimId": "SH-IDENTITY-NEXT"
+      }
+    ],
+    "closing": "Shanghai Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "Before imagining a universal product passport, read the textile standards and trademark records that already govern product identity.",
+      "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+      "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+      "The system: China textile standards, traceability and digital product data.",
+      "The object: GB 18401 textile safety record.",
+      "The honest limit: No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+      "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Before imagining a universal product passport, read the textile standards and trademark records that already govern product identity."
+    },
+    {
+      "frame": 2,
+      "copy": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system."
+    },
+    {
+      "frame": 3,
+      "copy": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: China textile standards, traceability and digital product data."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: GB 18401 textile safety record."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "Before imagining a universal product passport, read the textile standards and trademark records that already govern product identity. Seven exact records trace china textile standards, traceability and digital product data without inventing a house’s private stack.",
+    "linkedin": "Before imagining a universal product passport, read the textile standards and trademark records that already govern product identity.\n\nChina’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.\n\nCNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.\n\nNo reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.\n\nThe Shanghai edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Shanghai 06 — The garment acquires an identity",
+      "deck": "Which product facts are already regulated, and which future systems remain proposals?"
+    },
+    "youtube": "Day 6 examines china textile standards, traceability and digital product data. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/shanghai/day/06-product-identity"
+  },
+  "interactive": "A keyboard-operable system map reveals Then, Now and Next claim states, bilingual source context and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "GB 18401 textile safety record",
+    "sourceId": "SH-SAMR-TEXTILE",
+    "treatment": "national standard metadata"
+  },
+  "claims": [
+    "SH-IDENTITY-THEN",
+    "SH-IDENTITY-NOW",
+    "SH-IDENTITY-NEXT"
+  ],
+  "sources": [
+    "SH-SAMR-TEXTILE",
+    "SH-SAMR-LABEL",
+    "SH-CNIPA"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://english.dhu.edu.cn/te/",
+    "https://www.archives.sh.cn/",
+    "https://www.wipo.int/wipo_magazine/en/2021/02/article_0006.html"
+  ],
+  "openReporting": "No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "Chinese-language editorial check",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

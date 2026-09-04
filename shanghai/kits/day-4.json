@@ -1,0 +1,111 @@
+{
+  "id": "TFH-SH-D4",
+  "day": 4,
+  "title": "The runway moves through the cloud",
+  "technology": "Tmall Cloud Fashion Week, streaming and digital presentation",
+  "governingQuestion": "What did Shanghai preserve—and change—when the physical week went online?",
+  "status": "evidence-backed production draft; recording, interviews and owner-final approval remain open",
+  "longform": {
+    "headline": "The runway moves through the cloud",
+    "opening": "In March 2020, Shanghai Fashion Week moved through Tmall—and presentation met transaction.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+        "claimId": "SH-DIGITAL-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+        "claimId": "SH-DIGITAL-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+        "claimId": "SH-DIGITAL-NEXT"
+      }
+    ],
+    "closing": "Shanghai Fashion Week is not one technology. It is a chain of permissions that turns recognition into circulation and circulation into memory."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "In March 2020, Shanghai Fashion Week moved through Tmall—and presentation met transaction.",
+      "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+      "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+      "The system: Tmall Cloud Fashion Week, streaming and digital presentation.",
+      "The object: Tmall Cloud Fashion Week, 2020.",
+      "The honest limit: No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+      "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "In March 2020, Shanghai Fashion Week moved through Tmall—and presentation met transaction."
+    },
+    {
+      "frame": 2,
+      "copy": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features."
+    },
+    {
+      "frame": 3,
+      "copy": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Tmall Cloud Fashion Week, streaming and digital presentation."
+    },
+    {
+      "frame": 5,
+      "copy": "The object: Tmall Cloud Fashion Week, 2020."
+    },
+    {
+      "frame": 6,
+      "copy": "The honest limit: No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership."
+    },
+    {
+      "frame": 7,
+      "copy": "Enter the Shanghai evidence edition; the receipts and permissions are attached."
+    }
+  ],
+  "platforms": {
+    "instagram": "In March 2020, Shanghai Fashion Week moved through Tmall—and presentation met transaction. Seven exact records trace tmall cloud fashion week, streaming and digital presentation without inventing a house’s private stack.",
+    "linkedin": "In March 2020, Shanghai Fashion Week moved through Tmall—and presentation met transaction.\n\nAlibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.\n\nTmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.\n\nNo permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.\n\nThe Shanghai edition attaches every source, rights boundary and unresolved assignment.",
+    "newsletter": {
+      "subject": "Shanghai 04 — The runway moves through the cloud",
+      "deck": "What did Shanghai preserve—and change—when the physical week went online?"
+    },
+    "youtube": "Day 4 examines tmall cloud fashion week, streaming and digital presentation. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/shanghai/day/04-cloud-runway"
+  },
+  "interactive": "A keyboard-operable system map reveals Then, Now and Next claim states, bilingual source context and permission boundaries without relying on color.",
+  "selectedObject": {
+    "title": "Tmall Cloud Fashion Week, 2020",
+    "sourceId": "SH-ALIBABA-2020",
+    "treatment": "first-party company account"
+  },
+  "claims": [
+    "SH-DIGITAL-THEN",
+    "SH-DIGITAL-NOW",
+    "SH-DIGITAL-NEXT"
+  ],
+  "sources": [
+    "SH-ALIBABA-2020",
+    "SH-ALIBABA-AR23",
+    "SH-SHFW-SCHEDULE"
+  ],
+  "rights": "Exact outbound records only in this release; no third-party image, audio or video downloaded without item-level clearance.",
+  "education": [
+    "https://english.dhu.edu.cn/te/",
+    "https://www.archives.sh.cn/",
+    "https://www.wipo.int/wipo_magazine/en/2021/02/article_0006.html"
+  ],
+  "openReporting": "No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "Chinese-language editorial check",
+    "named interviews and releases",
+    "specialist review if claim scope changes"
+  ]
+}

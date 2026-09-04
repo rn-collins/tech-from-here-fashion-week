@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SH-ACCESS-THEN",
+    "day": 1,
+    "temporalState": "Then",
+    "wording": "Shanghai Fashion Week’s bilingual official schedule makes runway, trade fair and event layers addressable across dates, sessions and venues.",
+    "citations": [
+      "SH-SHFW-SCHEDULE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-ACCESS-NOW",
+    "day": 1,
+    "temporalState": "Now",
+    "wording": "A public schedule is a navigation technology, not proof of admission: some entries have times and venues while invitation, credential and security rules remain separate.",
+    "citations": [
+      "SH-SHFW-SCHEDULE",
+      "SH-SHFW-HOME"
+    ],
+    "state": "editorial synthesis",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-ACCESS-NEXT",
+    "day": 1,
+    "temporalState": "Next",
+    "wording": "No reviewed public record establishes one universal guest-list, identity-verification or security stack for every Shanghai presentation.",
+    "citations": [
+      "SH-SHFW-SCHEDULE"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "SH-ROOM-THEN",
+    "day": 2,
+    "temporalState": "Then",
+    "wording": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+    "citations": [
+      "SH-GOV-YANGPU"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-ROOM-NOW",
+    "day": 2,
+    "temporalState": "Now",
+    "wording": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+    "citations": [
+      "SH-GOV-SS26"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-ROOM-NEXT",
+    "day": 2,
+    "temporalState": "Next",
+    "wording": "Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+    "citations": [
+      "SH-GOV-SS26",
+      "SH-SHFW-SCHEDULE"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "SH-IMAGE-THEN",
+    "day": 3,
+    "temporalState": "Then",
+    "wording": "Weixin and Douyin document distinct social and developer ecosystems through which public fashion media may circulate.",
+    "citations": [
+      "SH-TENCENT-WEIXIN",
+      "SH-DOUYIN-OPEN"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-IMAGE-NOW",
+    "day": 3,
+    "temporalState": "Now",
+    "wording": "Platform availability does not prove that Shanghai Fashion Week or every house uses the same capture, ranking, moderation, data or distribution workflow.",
+    "citations": [
+      "SH-SHFW-NEWS",
+      "SH-TENCENT-WEIXIN",
+      "SH-DOUYIN-OPEN"
+    ],
+    "state": "editorial synthesis",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-IMAGE-NEXT",
+    "day": 3,
+    "temporalState": "Next",
+    "wording": "The reviewed records do not disclose a universal camera plan, creator-rights policy, recommendation logic or archival-master standard for Shanghai shows.",
+    "citations": [
+      "SH-SHFW-NEWS"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "SH-DIGITAL-THEN",
+    "day": 4,
+    "temporalState": "Then",
+    "wording": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+    "citations": [
+      "SH-ALIBABA-2020"
+    ],
+    "state": "verified promotional claim",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-DIGITAL-NOW",
+    "day": 4,
+    "temporalState": "Now",
+    "wording": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+    "citations": [
+      "SH-ALIBABA-2020",
+      "SH-ALIBABA-AR23"
+    ],
+    "state": "evidence-bounded synthesis",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-DIGITAL-NEXT",
+    "day": 4,
+    "temporalState": "Next",
+    "wording": "No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+    "citations": [
+      "SH-ALIBABA-2020",
+      "SH-SHFW-SCHEDULE"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "SH-ORDER-THEN",
+    "day": 5,
+    "temporalState": "Then",
+    "wording": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+    "citations": [
+      "SH-SHFW-SCHEDULE",
+      "SH-SHFW-MODE",
+      "SH-ONTIME-HOME"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-ORDER-NOW",
+    "day": 5,
+    "temporalState": "Now",
+    "wording": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+    "citations": [
+      "SH-ONTIME-SHFW"
+    ],
+    "state": "verified first-party archive",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-ORDER-NEXT",
+    "day": 5,
+    "temporalState": "Next",
+    "wording": "Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+    "citations": [
+      "SH-SHFW-MODE",
+      "SH-ONTIME-HOME"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "SH-IDENTITY-THEN",
+    "day": 6,
+    "temporalState": "Then",
+    "wording": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+    "citations": [
+      "SH-SAMR-TEXTILE",
+      "SH-SAMR-LABEL"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-IDENTITY-NOW",
+    "day": 6,
+    "temporalState": "Now",
+    "wording": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+    "citations": [
+      "SH-CNIPA"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-IDENTITY-NEXT",
+    "day": 6,
+    "temporalState": "Next",
+    "wording": "No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+    "citations": [
+      "SH-SAMR-TEXTILE",
+      "SH-SAMR-LABEL",
+      "SH-CNIPA"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "SH-MEMORY-THEN",
+    "day": 7,
+    "temporalState": "Then",
+    "wording": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+    "citations": [
+      "SH-DHU-MUSEUM",
+      "SH-SHARCHIVES"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-MEMORY-NOW",
+    "day": 7,
+    "temporalState": "Now",
+    "wording": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+    "citations": [
+      "SH-SHFW-NEWS",
+      "SH-DHU-MUSEUM",
+      "SH-SHARCHIVES",
+      "SH-CNKI-FASHION"
+    ],
+    "state": "editorial synthesis",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  },
+  {
+    "id": "SH-MEMORY-NEXT",
+    "day": 7,
+    "temporalState": "Next",
+    "wording": "No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+    "citations": [
+      "SH-SHARCHIVES",
+      "SH-SHFW-NEWS"
+    ],
+    "state": "editorial inference",
+    "confidence": "high",
+    "note": "Exact primary records are attached at point of claim."
+  }
+]
