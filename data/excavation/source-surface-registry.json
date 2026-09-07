@@ -1,0 +1,32 @@
+{
+  "checked": "2026-09-07",
+  "surfaceFamilies": [
+    "official organizer and calendar",
+    "designer and house archives",
+    "museum and costume collections",
+    "national and municipal libraries",
+    "Wikimedia Commons",
+    "Europeana",
+    "Internet Archive",
+    "government and regulatory records",
+    "university repositories",
+    "official YouTube and Vimeo",
+    "public broadcasters",
+    "technology vendors",
+    "patent and trademark systems",
+    "open datasets",
+    "GitHub and open-source tools",
+    "educational interactives"
+  ],
+  "cities": [
+    "London",
+    "New York",
+    "Milan",
+    "Paris",
+    "Shanghai",
+    "Copenhagen",
+    "Tokyo"
+  ],
+  "packageCount": 49,
+  "rule": "Exhaustive only across this explicit registry and date; no claim of indexing the entire public web."
+}

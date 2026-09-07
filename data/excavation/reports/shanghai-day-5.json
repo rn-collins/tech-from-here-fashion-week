@@ -1,0 +1,143 @@
+{
+  "packageId": "TFH-SHANGHAI-D5",
+  "city": "Shanghai",
+  "day": 5,
+  "technology": "Backstage",
+  "searchedAt": "2026-09-07",
+  "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
+  "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
+  "surfaceCount": 16,
+  "candidateCount": 7,
+  "reusableCount": 1,
+  "resourceCount": 6,
+  "installedCount": 1,
+  "openLimitations": [
+    "Private, paywalled, undigitized, deleted, unindexed, or untranslated material may exist.",
+    "A result marked link-only is useful evidence but not licensed media.",
+    "The recurring city witness is context, not day-specific proof."
+  ],
+  "status": "bounded registry pass complete; future recheck remains possible",
+  "surfaces": [
+    {
+      "id": "shanghai-D5-S01",
+      "family": "official organizer and calendar",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "shanghai-D5-S02",
+      "family": "designer and house archives",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S03",
+      "family": "museum and costume collections",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S04",
+      "family": "national and municipal libraries",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S05",
+      "family": "Wikimedia Commons",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S06",
+      "family": "Europeana",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S07",
+      "family": "Internet Archive",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S08",
+      "family": "government and regulatory records",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S09",
+      "family": "university repositories",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S10",
+      "family": "official YouTube and Vimeo",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "shanghai-D5-S11",
+      "family": "public broadcasters",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S12",
+      "family": "technology vendors",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S13",
+      "family": "patent and trademark systems",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S14",
+      "family": "open datasets",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "shanghai-D5-S15",
+      "family": "GitHub and open-source tools",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D5-S16",
+      "family": "educational interactives",
+      "query": "Shanghai Fashion Week Backstage backstage labor casting",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    }
+  ],
+  "candidateIds": [
+    "SHANGHAI-D5-W01",
+    "SHANGHAI-D5-C01",
+    "SHANGHAI-D5-C02",
+    "SHANGHAI-D5-C03",
+    "SHANGHAI-D5-C04",
+    "SHANGHAI-D5-C05",
+    "SHANGHAI-D5-C06"
+  ]
+}

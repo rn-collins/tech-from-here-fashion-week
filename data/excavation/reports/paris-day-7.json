@@ -1,0 +1,146 @@
+{
+  "packageId": "TFH-PARIS-D7",
+  "city": "Paris",
+  "day": 7,
+  "technology": "Memory",
+  "searchedAt": "2026-09-07",
+  "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
+  "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
+  "surfaceCount": 16,
+  "candidateCount": 10,
+  "reusableCount": 2,
+  "resourceCount": 8,
+  "installedCount": 1,
+  "openLimitations": [
+    "Private, paywalled, undigitized, deleted, unindexed, or untranslated material may exist.",
+    "A result marked link-only is useful evidence but not licensed media.",
+    "The recurring city witness is context, not day-specific proof."
+  ],
+  "status": "bounded registry pass complete; future recheck remains possible",
+  "surfaces": [
+    {
+      "id": "paris-D7-S01",
+      "family": "official organizer and calendar",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "paris-D7-S02",
+      "family": "designer and house archives",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S03",
+      "family": "museum and costume collections",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S04",
+      "family": "national and municipal libraries",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "paris-D7-S05",
+      "family": "Wikimedia Commons",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S06",
+      "family": "Europeana",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S07",
+      "family": "Internet Archive",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S08",
+      "family": "government and regulatory records",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S09",
+      "family": "university repositories",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S10",
+      "family": "official YouTube and Vimeo",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "paris-D7-S11",
+      "family": "public broadcasters",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "paris-D7-S12",
+      "family": "technology vendors",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S13",
+      "family": "patent and trademark systems",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S14",
+      "family": "open datasets",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "paris-D7-S15",
+      "family": "GitHub and open-source tools",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D7-S16",
+      "family": "educational interactives",
+      "query": "Paris Fashion Week Memory archive preservation accountability",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    }
+  ],
+  "candidateIds": [
+    "PARIS-D7-W01",
+    "PARIS-D7-C01",
+    "PARIS-D7-C02",
+    "PARIS-D7-C03",
+    "PARIS-D7-C04",
+    "PARIS-D7-C05",
+    "PARIS-D7-C06",
+    "PARIS-D7-C07",
+    "PARIS-D7-C08",
+    "PARIS-D7-C09"
+  ]
+}

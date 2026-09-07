@@ -1,5 +1,9 @@
 # Tech From Here × London Fashion Week
 
+## Media and resource excavation
+
+The public `/excavation` index contains 49 package-level Media Libraries and Resources Rooms. Each record exposes the finite source-surface registry, candidate ledger, rights class, use or exclusion decision, downloadable lawful witness, dated search boundary, and diminishing-return stop rule. “Exhaustive” means exhaustive against that declared registry and date—not every page on the internet.
+
 **Signal / Seam** is a documentary interface for seven technologies that organize London Fashion Week. It distinguishes verified fact, attributed claim, editorial inference, proposal, and unresolved research. It does not claim completeness and does not use generated imagery.
 
 ## Run

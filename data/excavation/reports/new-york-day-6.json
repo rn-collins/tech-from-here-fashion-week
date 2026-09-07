@@ -1,0 +1,143 @@
+{
+  "packageId": "TFH-NEW-YORK-D6",
+  "city": "New York",
+  "day": 6,
+  "technology": "Commerce",
+  "searchedAt": "2026-09-07",
+  "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
+  "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
+  "surfaceCount": 16,
+  "candidateCount": 7,
+  "reusableCount": 1,
+  "resourceCount": 6,
+  "installedCount": 1,
+  "openLimitations": [
+    "Private, paywalled, undigitized, deleted, unindexed, or untranslated material may exist.",
+    "A result marked link-only is useful evidence but not licensed media.",
+    "The recurring city witness is context, not day-specific proof."
+  ],
+  "status": "bounded registry pass complete; future recheck remains possible",
+  "surfaces": [
+    {
+      "id": "new-york-D6-S01",
+      "family": "official organizer and calendar",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "new-york-D6-S02",
+      "family": "designer and house archives",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S03",
+      "family": "museum and costume collections",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S04",
+      "family": "national and municipal libraries",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S05",
+      "family": "Wikimedia Commons",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S06",
+      "family": "Europeana",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S07",
+      "family": "Internet Archive",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S08",
+      "family": "government and regulatory records",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S09",
+      "family": "university repositories",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S10",
+      "family": "official YouTube and Vimeo",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "new-york-D6-S11",
+      "family": "public broadcasters",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S12",
+      "family": "technology vendors",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S13",
+      "family": "patent and trademark systems",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S14",
+      "family": "open datasets",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "candidate retained"
+    },
+    {
+      "id": "new-york-D6-S15",
+      "family": "GitHub and open-source tools",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D6-S16",
+      "family": "educational interactives",
+      "query": "New York Fashion Week Commerce buyer showroom product data",
+      "searchedAt": "2026-09-07",
+      "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    }
+  ],
+  "candidateIds": [
+    "NEW-YORK-D6-W01",
+    "NEW-YORK-D6-C01",
+    "NEW-YORK-D6-C02",
+    "NEW-YORK-D6-C03",
+    "NEW-YORK-D6-C04",
+    "NEW-YORK-D6-C05",
+    "NEW-YORK-D6-C06"
+  ]
+}
