@@ -1,0 +1,525 @@
+{
+  "packageId": "milan-day-2",
+  "city": "Milan",
+  "day": 2,
+  "system": "Stage",
+  "title": "The city becomes a sequence of rooms",
+  "governingQuestion": "How does Milan turn heritage architecture into temporary fashion infrastructure?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Milan",
+      "slug": "milan",
+      "file": "/assets/media/milan-fashion-week.jpg",
+      "title": "Milan Fashion Week",
+      "creator": "br1dotcom",
+      "date": "2010-02-24",
+      "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+      "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface.",
+      "crop": "landscape",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/milan-day-2.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "MI-ROOM-THEN",
+          "sourceIds": [
+            "MI-CNMI-HUB"
+          ]
+        },
+        {
+          "claimId": "MI-ROOM-NOW",
+          "sourceIds": [
+            "MI-CNMI-HOME"
+          ]
+        },
+        {
+          "claimId": "MI-ROOM-NEXT",
+          "sourceIds": [
+            "MI-CNMI-HOME"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / The city becomes a sequence of rooms",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ROOM-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ROOM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ROOM-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / The city becomes a sequence of rooms",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ROOM-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ROOM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "milan-d2-graphic",
+          "asset": "/assets/evidence/milan-day-2.svg",
+          "source": "/milan/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ROOM-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ROOM-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+        "sourceIds": [
+          "MI-CNMI-HUB"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Milan — The city becomes a sequence of rooms",
+        "visual": "/assets/evidence/milan-day-2.svg",
+        "description": "How does Milan turn heritage architecture into temporary fashion infrastructure?",
+        "alt": "Original evidence diagram for Milan day 2, The city becomes a sequence of rooms; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Stage is infrastructure",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The city becomes a sequence of rooms.",
+        "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+        "credit": "br1dotcom · CC BY-SA 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers.",
+        "sourceIds": [
+          "MI-CNMI-HUB"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "CNMI’s Fashion Hub uses Palazzo Giureconsulti as a meeting and presentation site for selected emerging designers. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The official calendar coordinates shows, presentations and digital events across Milan rather than specifying one permanent runway venue.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Room-level lighting, sound, power, accessibility and supplier specifications remain event-by-event reporting assignments.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/milan-day-2.svg",
+        "caption": "Evidence chain for The city becomes a sequence of rooms."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/milan-day-2.svg",
+        "caption": "Milan / Stage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "Documentary witness: Milan Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/milan/publication/day-2#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "MI-ROOM-THEN",
+        "sourceId": "MI-CNMI-HUB",
+        "title": "Designers for the Planet open call",
+        "url": "https://www.cameramoda.it/en/associazione/news/1672/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "MI-ROOM-NOW",
+        "sourceId": "MI-CNMI-HOME",
+        "title": "Milano Fashion Week: calendar, dates and access notice",
+        "url": "https://www.cameramoda.it/en/",
+        "rights": "LINK-ONLY; organizer text quoted sparingly"
+      },
+      {
+        "claimId": "MI-ROOM-NEXT",
+        "sourceId": "MI-CNMI-HOME",
+        "title": "Milano Fashion Week: calendar, dates and access notice",
+        "url": "https://www.cameramoda.it/en/",
+        "rights": "LINK-ONLY; organizer text quoted sparingly"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "MILAN-D2-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D2-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D2-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D2-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D2-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D2-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D2-C06",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/milan/asset-kits/day-2.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/milan/asset-kits/day-2.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/milan-day-2.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/milan/kits/day-2.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/milan/kits/day-2.json"
+    }
+  ]
+}

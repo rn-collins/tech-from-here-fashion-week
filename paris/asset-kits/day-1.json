@@ -1,0 +1,558 @@
+{
+  "packageId": "paris-day-1",
+  "city": "Paris",
+  "day": 1,
+  "system": "Access",
+  "title": "The calendar is a code",
+  "governingQuestion": "How does Paris turn institutional recognition into a technical access system?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Paris",
+      "slug": "paris",
+      "file": "/assets/media/paris-fashion-week.jpg",
+      "title": "Paris Fashion Week",
+      "creator": "Kooyuh",
+      "date": "2024-11-11",
+      "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+      "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/paris-day-1.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "PA-ACCESS-THEN",
+          "sourceIds": [
+            "PA-FHCM-HOME",
+            "PA-FHCM-HISTORY"
+          ]
+        },
+        {
+          "claimId": "PA-ACCESS-NOW",
+          "sourceIds": [
+            "PA-FHCM-CALENDAR",
+            "PA-FHCM-ACCREDIT",
+            "PA-FHCM-HISTORY"
+          ]
+        },
+        {
+          "claimId": "PA-ACCESS-NEXT",
+          "sourceIds": [
+            "PA-FHCM-ACCREDIT"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / The calendar is a code",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ACCESS-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ACCESS-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ACCESS-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / The calendar is a code",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ACCESS-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ACCESS-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "paris-d1-graphic",
+          "asset": "/assets/evidence/paris-day-1.svg",
+          "source": "/paris/publication/day-1#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 1, The calendar is a code; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ACCESS-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ACCESS-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows access: The decisive technology is not the door but the stack of schedule, accreditation, invitation and identity checks that precedes it.",
+        "onScreen": "Then: FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+        "sourceIds": [
+          "PA-FHCM-HOME",
+          "PA-FHCM-HISTORY"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+        "sourceIds": [
+          "PA-FHCM-CALENDAR",
+          "PA-FHCM-ACCREDIT",
+          "PA-FHCM-HISTORY"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+        "sourceIds": [
+          "PA-FHCM-ACCREDIT"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Paris — The calendar is a code",
+        "visual": "/assets/evidence/paris-day-1.svg",
+        "description": "How does Paris turn institutional recognition into a technical access system?",
+        "alt": "Original evidence diagram for Paris day 1, The calendar is a code; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Access is infrastructure",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The calendar is a code.",
+        "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+        "credit": "Kooyuh · CC BY-SA 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows access: The decisive technology is not the door but the stack of schedule, accreditation, invitation and identity checks that precedes it.",
+        "onScreen": "Then: FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868.",
+        "sourceIds": [
+          "PA-FHCM-HOME",
+          "PA-FHCM-HISTORY"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission.",
+        "sourceIds": [
+          "PA-FHCM-CALENDAR",
+          "PA-FHCM-ACCREDIT",
+          "PA-FHCM-HISTORY"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation.",
+        "sourceIds": [
+          "PA-FHCM-ACCREDIT"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/paris-day-1.svg",
+        "caption": "Evidence chain for The calendar is a code."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/paris-day-1.svg",
+        "caption": "Paris / Access evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Documentary witness: Paris Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/paris/publication/day-1#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "PA-ACCESS-THEN",
+        "sourceId": "PA-FHCM-HOME",
+        "title": "Fédération de la Haute Couture et de la Mode",
+        "url": "https://www.fhcm.paris/en",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ACCESS-THEN",
+        "sourceId": "PA-FHCM-HISTORY",
+        "title": "Our history",
+        "url": "https://www.fhcm.paris/en/our-history",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ACCESS-NOW",
+        "sourceId": "PA-FHCM-CALENDAR",
+        "title": "Paris Fashion Week official calendar",
+        "url": "https://www.fhcm.paris/en/paris-fashion-week/calendar",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ACCESS-NOW",
+        "sourceId": "PA-FHCM-ACCREDIT",
+        "title": "Accreditation portal",
+        "url": "https://accreditation.fhcm.paris/",
+        "rights": "LINK-ONLY; do not submit data in exhibit"
+      },
+      {
+        "claimId": "PA-ACCESS-NOW",
+        "sourceId": "PA-FHCM-HISTORY",
+        "title": "Our history",
+        "url": "https://www.fhcm.paris/en/our-history",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ACCESS-NEXT",
+        "sourceId": "PA-FHCM-ACCREDIT",
+        "title": "Accreditation portal",
+        "url": "https://accreditation.fhcm.paris/",
+        "rights": "LINK-ONLY; do not submit data in exhibit"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "PARIS-D1-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D1-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D1-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D1-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D1-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D1-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D1-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/paris/asset-kits/day-1.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/paris/asset-kits/day-1.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/paris-day-1.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/paris/kits/day-1.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/paris/kits/day-1.json"
+    }
+  ]
+}

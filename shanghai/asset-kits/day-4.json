@@ -1,0 +1,548 @@
+{
+  "packageId": "shanghai-day-4",
+  "city": "Shanghai",
+  "day": 4,
+  "system": "Circulation",
+  "title": "The runway moves through the cloud",
+  "governingQuestion": "What did Shanghai preserve—and change—when the physical week went online?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Shanghai",
+      "slug": "shanghai",
+      "file": "/assets/media/shanghai-fashion-week.jpg",
+      "title": "Photographer Wang Li at Shanghai Fashion Week",
+      "creator": "406618197yang",
+      "date": "2024-10-14",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+      "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/shanghai-day-4.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "SH-DIGITAL-THEN",
+          "sourceIds": [
+            "SH-ALIBABA-2020"
+          ]
+        },
+        {
+          "claimId": "SH-DIGITAL-NOW",
+          "sourceIds": [
+            "SH-ALIBABA-2020",
+            "SH-ALIBABA-AR23"
+          ]
+        },
+        {
+          "claimId": "SH-DIGITAL-NEXT",
+          "sourceIds": [
+            "SH-ALIBABA-2020",
+            "SH-SHFW-SCHEDULE"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The runway moves through the cloud",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-DIGITAL-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-DIGITAL-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-DIGITAL-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The runway moves through the cloud",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-DIGITAL-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-DIGITAL-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "shanghai-d4-graphic",
+          "asset": "/assets/evidence/shanghai-day-4.svg",
+          "source": "/shanghai/publication/day-4#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-DIGITAL-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-DIGITAL-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows circulation: A public stream can widen technical access while ranking systems, language, bandwidth and platform ownership continue to govern attention.",
+        "onScreen": "Then: Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+        "sourceIds": [
+          "SH-ALIBABA-2020"
+        ],
+        "credit": "406618197yang · CC BY 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+        "sourceIds": [
+          "SH-ALIBABA-2020",
+          "SH-ALIBABA-AR23"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+        "sourceIds": [
+          "SH-ALIBABA-2020",
+          "SH-SHFW-SCHEDULE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Shanghai — The runway moves through the cloud",
+        "visual": "/assets/evidence/shanghai-day-4.svg",
+        "description": "What did Shanghai preserve—and change—when the physical week went online?",
+        "alt": "Original evidence diagram for Shanghai day 4, The runway moves through the cloud; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Circulation is infrastructure",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The runway moves through the cloud.",
+        "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+        "credit": "406618197yang · CC BY 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows circulation: A public stream can widen technical access while ranking systems, language, bandwidth and platform ownership continue to govern attention.",
+        "onScreen": "Then: Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features.",
+        "sourceIds": [
+          "SH-ALIBABA-2020"
+        ],
+        "credit": "406618197yang · CC BY 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Alibaba’s first-party record says the March 2020 edition moved online through Tmall as a response to COVID-19, with livestreamed presentations and commercial features. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Tmall’s commerce infrastructure joined presentation and transaction, but the company account is not independent proof of audience quality, neutrality or long-term preservation.",
+        "sourceIds": [
+          "SH-ALIBABA-2020",
+          "SH-ALIBABA-AR23"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No permanent future cloud, streaming or commerce supplier stack is inferred from the 2020 partnership.",
+        "sourceIds": [
+          "SH-ALIBABA-2020",
+          "SH-SHFW-SCHEDULE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/shanghai-day-4.svg",
+        "caption": "Evidence chain for The runway moves through the cloud."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/shanghai-day-4.svg",
+        "caption": "Shanghai / Circulation evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Documentary witness: Photographer Wang Li at Shanghai Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/shanghai/publication/day-4#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "SH-DIGITAL-THEN",
+        "sourceId": "SH-ALIBABA-2020",
+        "title": "Shanghai Fashion Week goes fully digital with Tmall",
+        "url": "https://www.alibabagroup.com/en-US/document-1586942419450331136",
+        "rights": "LINK-ONLY; promotional first-party claim"
+      },
+      {
+        "claimId": "SH-DIGITAL-NOW",
+        "sourceId": "SH-ALIBABA-2020",
+        "title": "Shanghai Fashion Week goes fully digital with Tmall",
+        "url": "https://www.alibabagroup.com/en-US/document-1586942419450331136",
+        "rights": "LINK-ONLY; promotional first-party claim"
+      },
+      {
+        "claimId": "SH-DIGITAL-NOW",
+        "sourceId": "SH-ALIBABA-AR23",
+        "title": "Alibaba Group FY2023 annual report",
+        "url": "https://static.alibabagroup.com/reports/fy2023/ar/ebook/en/index.html",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "SH-DIGITAL-NEXT",
+        "sourceId": "SH-ALIBABA-2020",
+        "title": "Shanghai Fashion Week goes fully digital with Tmall",
+        "url": "https://www.alibabagroup.com/en-US/document-1586942419450331136",
+        "rights": "LINK-ONLY; promotional first-party claim"
+      },
+      {
+        "claimId": "SH-DIGITAL-NEXT",
+        "sourceId": "SH-SHFW-SCHEDULE",
+        "title": "AW2026 上海时装周官方日程 / official schedule",
+        "url": "https://www.shanghaifashionweek.com/page/shfw/schedule?language=en",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "SHANGHAI-D4-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D4-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D4-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D4-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D4-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D4-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D4-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/shanghai/asset-kits/day-4.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/shanghai/asset-kits/day-4.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/shanghai-day-4.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/shanghai/kits/day-4.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/shanghai/kits/day-4.json"
+    }
+  ]
+}

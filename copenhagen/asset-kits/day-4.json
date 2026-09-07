@@ -1,0 +1,581 @@
+{
+  "packageId": "copenhagen-day-4",
+  "city": "Copenhagen",
+  "day": 4,
+  "system": "Circulation",
+  "title": "Sound and image travel under contract",
+  "governingQuestion": "Who can replay the atmosphere after the room has disappeared?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Copenhagen",
+      "slug": "copenhagen",
+      "file": "/assets/media/copenhagen-fashion-week.jpg",
+      "title": "Scandinavian Academy of Fashion Design at Copenhagen Fashion Week",
+      "creator": "Scandinavian Academy of Fashion Design",
+      "date": "2017-03-08",
+      "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+      "caption": "A Scandinavian Academy of Fashion Design presentation at Copenhagen Fashion Week, 2017. The image documents a runway appearance, not compliance with later Minimum Standards.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/copenhagen-day-4.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "CPH-RIGHTS-THEN",
+          "sourceIds": [
+            "DMD-FASHION",
+            "DMD-PRINT"
+          ]
+        },
+        {
+          "claimId": "CPH-RIGHTS-NOW",
+          "sourceIds": [
+            "CPH-TERMS",
+            "KODA-MUSIC",
+            "CPH-IMAGEBANK"
+          ]
+        },
+        {
+          "claimId": "CPH-RIGHTS-NEXT",
+          "sourceIds": [
+            "CPH-IMAGEBANK",
+            "CPH-YOUTUBE"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Copenhagen / Sound and image travel under contract",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-RIGHTS-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-RIGHTS-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-RIGHTS-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Copenhagen / Sound and image travel under contract",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-RIGHTS-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-RIGHTS-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "copenhagen-d4-graphic",
+          "asset": "/assets/evidence/copenhagen-day-4.svg",
+          "source": "/copenhagen/publication/day-4#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-RIGHTS-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-RIGHTS-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. This chapter follows circulation: A public stream can widen technical access while ranking systems, language, bandwidth and platform ownership continue to govern attention.",
+        "onScreen": "Then: Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+        "sourceIds": [
+          "DMD-FASHION",
+          "DMD-PRINT"
+        ],
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/copenhagen-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+        "sourceIds": [
+          "CPH-TERMS",
+          "KODA-MUSIC",
+          "CPH-IMAGEBANK"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/copenhagen-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+        "sourceIds": [
+          "CPH-IMAGEBANK",
+          "CPH-YOUTUBE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Copenhagen — Sound and image travel under contract",
+        "visual": "/assets/evidence/copenhagen-day-4.svg",
+        "description": "Who can replay the atmosphere after the room has disappeared?",
+        "alt": "Original evidence diagram for Copenhagen day 4, Sound and image travel under contract; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Circulation is infrastructure",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to Sound and image travel under contract.",
+        "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. This chapter follows circulation: A public stream can widen technical access while ranking systems, language, bandwidth and platform ownership continue to govern attention.",
+        "onScreen": "Then: Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+        "sourceIds": [
+          "DMD-FASHION",
+          "DMD-PRINT"
+        ],
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/copenhagen-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+        "sourceIds": [
+          "CPH-TERMS",
+          "KODA-MUSIC",
+          "CPH-IMAGEBANK"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/copenhagen-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+        "sourceIds": [
+          "CPH-IMAGEBANK",
+          "CPH-YOUTUBE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/copenhagen-day-4.svg",
+        "caption": "Evidence chain for Sound and image travel under contract."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/copenhagen-fashion-week.jpg",
+        "caption": "A Scandinavian Academy of Fashion Design presentation at Copenhagen Fashion Week, 2017. The image documents a runway appearance, not compliance with later Minimum Standards. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/copenhagen-day-4.svg",
+        "caption": "Copenhagen / Circulation evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/copenhagen-fashion-week.jpg",
+        "caption": "Documentary witness: Scandinavian Academy of Fashion Design at Copenhagen Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/copenhagen/publication/day-4#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "CPH-RIGHTS-THEN",
+        "sourceId": "DMD-FASHION",
+        "title": "Fashion & Fabric",
+        "url": "https://designmuseum.dk/en/exhibition/fashion-fabric/",
+        "rights": "LINK-ONLY; object rights not assumed"
+      },
+      {
+        "claimId": "CPH-RIGHTS-THEN",
+        "sourceId": "DMD-PRINT",
+        "title": "The Power of Print",
+        "url": "https://designmuseum.dk/en/thepowerofprint/",
+        "rights": "LINK-ONLY; object rights not assumed"
+      },
+      {
+        "claimId": "CPH-RIGHTS-NOW",
+        "sourceId": "CPH-TERMS",
+        "title": "Show & Presentation Terms and Conditions",
+        "url": "https://copenhagenfashionweek.com/application/showcase-terms-and-conditions",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "CPH-RIGHTS-NOW",
+        "sourceId": "KODA-MUSIC",
+        "title": "Music use at fashion shows and events",
+        "url": "https://koda.dk/music-users",
+        "rights": "LINK-ONLY; exact license depends on use"
+      },
+      {
+        "claimId": "CPH-RIGHTS-NOW",
+        "sourceId": "CPH-IMAGEBANK",
+        "title": "Copenhagen Fashion Week Image Bank",
+        "url": "https://cphfw.presscloud.com/",
+        "rights": "REQUEST / TERMS-BOUND; login or stated license controls reuse"
+      },
+      {
+        "claimId": "CPH-RIGHTS-NEXT",
+        "sourceId": "CPH-IMAGEBANK",
+        "title": "Copenhagen Fashion Week Image Bank",
+        "url": "https://cphfw.presscloud.com/",
+        "rights": "REQUEST / TERMS-BOUND; login or stated license controls reuse"
+      },
+      {
+        "claimId": "CPH-RIGHTS-NEXT",
+        "sourceId": "CPH-YOUTUBE",
+        "title": "Copenhagen Fashion Week on YouTube",
+        "url": "https://www.youtube.com/c/CopenhagenFashionWeek",
+        "rights": "EMBED-ONLY where platform and owner permit; otherwise link"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "COPENHAGEN-D4-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C02",
+      "destinations": [],
+      "exclusion": "permission-required"
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C07",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D4-C08",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/copenhagen/asset-kits/day-4.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/copenhagen/asset-kits/day-4.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/copenhagen-day-4.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/copenhagen/kits/day-4.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/copenhagen/kits/day-4.json"
+    }
+  ]
+}

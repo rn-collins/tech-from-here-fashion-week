@@ -1,0 +1,588 @@
+{
+  "packageId": "london-day-3",
+  "city": "London",
+  "day": 3,
+  "system": "Capture",
+  "title": "The camera writes the collection",
+  "governingQuestion": "Who establishes the canonical view, and under what rights?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "London",
+      "slug": "london",
+      "file": "/assets/media/london-fashion-week.jpg",
+      "title": "London Fashion Week SS2012 at Somerset House",
+      "creator": "Knox387",
+      "date": "2011-11-12",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+      "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/london-day-3.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "LON-CAPTURE-THEN",
+          "sourceIds": [
+            "SRC-VOGUE",
+            "SRC-BFC-YT"
+          ]
+        },
+        {
+          "claimId": "LON-CAPTURE-NOW",
+          "sourceIds": [
+            "SRC-LFW-DIGITAL-2020",
+            "SRC-BFC-YT",
+            "SRC-BFC-VIDEO-2021"
+          ]
+        },
+        {
+          "claimId": "LON-CAPTURE-NEXT",
+          "sourceIds": [
+            "SRC-BFC-PRESS",
+            "SRC-TAGWALK"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / The camera writes the collection",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CAPTURE-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a documented BFC deployment of generative image production; search and classification are not mislabeled as generation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CAPTURE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a documented BFC deployment of generative image production; search and classification are not mislabeled as generation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CAPTURE-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / The camera writes the collection",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CAPTURE-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a documented BFC deployment of generative image production; search and classification are not mislabeled as generation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CAPTURE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "london-d3-graphic",
+          "asset": "/assets/evidence/london-day-3.svg",
+          "source": "/london/publication/day-3#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a documented BFC deployment of generative image production; search and classification are not mislabeled as generation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 3, The camera writes the collection; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CAPTURE-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CAPTURE-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows capture: The collection walks once; cameras, edits, metadata and rights agreements decide which view can be repeated and who can repeat it.",
+        "onScreen": "Then: Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives.",
+        "sourceIds": [
+          "SRC-VOGUE",
+          "SRC-BFC-YT"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+        "sourceIds": [
+          "SRC-LFW-DIGITAL-2020",
+          "SRC-BFC-YT",
+          "SRC-BFC-VIDEO-2021"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-FUTURE-07 did not establish a documented BFC deployment of generative image production; search and classification are not mislabeled as generation.",
+        "sourceIds": [
+          "SRC-BFC-PRESS",
+          "SRC-TAGWALK"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "London — The camera writes the collection",
+        "visual": "/assets/evidence/london-day-3.svg",
+        "description": "Who establishes the canonical view, and under what rights?",
+        "alt": "Original evidence diagram for London day 3, The camera writes the collection; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Capture is infrastructure",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The camera writes the collection.",
+        "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+        "credit": "Knox387 · CC BY-SA 3.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows capture: The collection walks once; cameras, edits, metadata and rights agreements decide which view can be repeated and who can repeat it.",
+        "onScreen": "Then: Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives.",
+        "sourceIds": [
+          "SRC-VOGUE",
+          "SRC-BFC-YT"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Runway photography and broadcast do more than document a collection: their framing helps establish the version that circulates and survives. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The official London Fashion Week platform combines event pages with designer-controlled films and BFC video channels, making moving image part of the event’s attributable public record rather than an after-the-fact add-on.",
+        "sourceIds": [
+          "SRC-LFW-DIGITAL-2020",
+          "SRC-BFC-YT",
+          "SRC-BFC-VIDEO-2021"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-FUTURE-07 did not establish a documented BFC deployment of generative image production; search and classification are not mislabeled as generation.",
+        "sourceIds": [
+          "SRC-BFC-PRESS",
+          "SRC-TAGWALK"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/london-day-3.svg",
+        "caption": "Evidence chain for The camera writes the collection."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/london-day-3.svg",
+        "caption": "London / Capture evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "Documentary witness: London Fashion Week SS2012 at Somerset House."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/publication/day-3#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "LON-CAPTURE-THEN",
+        "sourceId": "SRC-VOGUE",
+        "title": "Vogue Runway",
+        "url": "https://www.vogue.com/fashion-shows",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "LON-CAPTURE-THEN",
+        "sourceId": "SRC-BFC-YT",
+        "title": "British Fashion Council channel",
+        "url": "https://www.youtube.com/@BritishFashionCouncil",
+        "rights": "EMBED-ONLY when offered; this build links only"
+      },
+      {
+        "claimId": "LON-CAPTURE-NOW",
+        "sourceId": "SRC-LFW-DIGITAL-2020",
+        "title": "London Fashion Week September 2020 Digital Schedule",
+        "url": "https://londonfashionweek.co.uk/schedule/174/digital-schedule",
+        "rights": "LINK-ONLY; page text cited, page imagery not reproduced"
+      },
+      {
+        "claimId": "LON-CAPTURE-NOW",
+        "sourceId": "SRC-BFC-YT",
+        "title": "British Fashion Council channel",
+        "url": "https://www.youtube.com/@BritishFashionCouncil",
+        "rights": "EMBED-ONLY when offered; this build links only"
+      },
+      {
+        "claimId": "LON-CAPTURE-NOW",
+        "sourceId": "SRC-BFC-VIDEO-2021",
+        "title": "London Fashion Week June 2021 — Everything Is Temporary",
+        "url": "https://www.youtube.com/watch?v=V0yz5_ZB8AE",
+        "rights": "AUTHORIZED EMBED via YouTube player; no download or derivative"
+      },
+      {
+        "claimId": "LON-CAPTURE-NEXT",
+        "sourceId": "SRC-BFC-PRESS",
+        "title": "British Fashion Council — News",
+        "url": "https://www.britishfashioncouncil.co.uk/news",
+        "rights": "LINK-ONLY; exact article required to substantiate a positive historical or future claim"
+      },
+      {
+        "claimId": "LON-CAPTURE-NEXT",
+        "sourceId": "SRC-TAGWALK",
+        "title": "Tagwalk",
+        "url": "https://www.tag-walk.com/",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "LONDON-D3-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D3-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D3-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D3-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D3-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D3-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D3-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D3-C07",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    },
+    {
+      "candidateId": "LONDON-D3-C08",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    },
+    {
+      "candidateId": "LONDON-D3-C09",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    },
+    {
+      "candidateId": "LONDON-D3-C10",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/asset-kits/day-3.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/asset-kits/day-3.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/london-day-3.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/kits/day-3.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/kits/day-3.json"
+    }
+  ]
+}

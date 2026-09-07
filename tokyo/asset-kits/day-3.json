@@ -1,0 +1,538 @@
+{
+  "packageId": "tokyo-day-3",
+  "city": "Tokyo",
+  "day": 3,
+  "system": "Capture",
+  "title": "The runway becomes a player",
+  "governingQuestion": "When the room becomes a player, which view becomes canonical?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Tokyo",
+      "slug": "tokyo",
+      "file": "/assets/media/tokyo-fashion-week.jpg",
+      "title": "Tokyo Fashion Week 2010 collections",
+      "creator": "Tokyographer",
+      "date": "2010-03-26",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+      "caption": "Tokyo Fashion Week collections, 2010. The runway, camera line and audience are preserved together as a technical arrangement.",
+      "crop": "landscape",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/tokyo-day-3.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "TYO-STREAM-THEN",
+          "sourceIds": [
+            "TYO-HOME",
+            "TYO-STREAM"
+          ]
+        },
+        {
+          "claimId": "TYO-STREAM-NOW",
+          "sourceIds": [
+            "TYO-STREAM"
+          ]
+        },
+        {
+          "claimId": "TYO-STREAM-NEXT",
+          "sourceIds": [
+            "TYO-STREAM"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tokyo / The runway becomes a player",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-STREAM-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-STREAM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-STREAM-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tokyo / The runway becomes a player",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-STREAM-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-STREAM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "tokyo-d3-graphic",
+          "asset": "/assets/evidence/tokyo-day-3.svg",
+          "source": "/tokyo/publication/day-3#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-STREAM-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-STREAM-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/tokyo-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Tokyo makes translation infrastructural across permission, venue, moving image, language, textile exchange, recognition and retained seasons. This chapter follows capture: The collection walks once; cameras, edits, metadata and rights agreements decide which view can be repeated and who can repeat it.",
+        "onScreen": "Then: The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+        "sourceIds": [
+          "TYO-HOME",
+          "TYO-STREAM"
+        ],
+        "credit": "Tokyographer · CC BY-SA 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/tokyo-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+        "sourceIds": [
+          "TYO-STREAM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/tokyo-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+        "sourceIds": [
+          "TYO-STREAM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Tokyo — The runway becomes a player",
+        "visual": "/assets/evidence/tokyo-day-3.svg",
+        "description": "When the room becomes a player, which view becomes canonical?",
+        "alt": "Original evidence diagram for Tokyo day 3, The runway becomes a player; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Capture is infrastructure",
+        "visual": "/assets/media/tokyo-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The runway becomes a player.",
+        "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+        "credit": "Tokyographer · CC BY-SA 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/tokyo-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Tokyo makes translation infrastructural across permission, venue, moving image, language, textile exchange, recognition and retained seasons. This chapter follows capture: The collection walks once; cameras, edits, metadata and rights agreements decide which view can be repeated and who can repeat it.",
+        "onScreen": "Then: The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+        "sourceIds": [
+          "TYO-HOME",
+          "TYO-STREAM"
+        ],
+        "credit": "Tokyographer · CC BY-SA 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/tokyo-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+        "sourceIds": [
+          "TYO-STREAM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/tokyo-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+        "sourceIds": [
+          "TYO-STREAM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/tokyo-day-3.svg",
+        "caption": "Evidence chain for The runway becomes a player."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/tokyo-fashion-week.jpg",
+        "caption": "Tokyo Fashion Week collections, 2010. The runway, camera line and audience are preserved together as a technical arrangement. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/tokyo-day-3.svg",
+        "caption": "Tokyo / Capture evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/tokyo-fashion-week.jpg",
+        "caption": "Documentary witness: Tokyo Fashion Week 2010 collections."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/tokyo/publication/day-3#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "TYO-STREAM-THEN",
+        "sourceId": "TYO-HOME",
+        "title": "Rakuten Fashion Week TOKYO — 27SS",
+        "url": "https://rakutenfashionweektokyo.com/en/",
+        "rights": "LINK-ONLY; organizer copyright retained"
+      },
+      {
+        "claimId": "TYO-STREAM-THEN",
+        "sourceId": "TYO-STREAM",
+        "title": "Official Rakuten Fashion Week TOKYO streaming playlist",
+        "url": "https://www.youtube.com/playlist?list=PLQVypEf7i2K4",
+        "rights": "EMBED-ONLY where organizer/platform permits; otherwise link"
+      },
+      {
+        "claimId": "TYO-STREAM-NOW",
+        "sourceId": "TYO-STREAM",
+        "title": "Official Rakuten Fashion Week TOKYO streaming playlist",
+        "url": "https://www.youtube.com/playlist?list=PLQVypEf7i2K4",
+        "rights": "EMBED-ONLY where organizer/platform permits; otherwise link"
+      },
+      {
+        "claimId": "TYO-STREAM-NEXT",
+        "sourceId": "TYO-STREAM",
+        "title": "Official Rakuten Fashion Week TOKYO streaming playlist",
+        "url": "https://www.youtube.com/playlist?list=PLQVypEf7i2K4",
+        "rights": "EMBED-ONLY where organizer/platform permits; otherwise link"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "TOKYO-D3-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D3-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D3-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D3-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D3-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D3-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D3-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/tokyo/asset-kits/day-3.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/tokyo/asset-kits/day-3.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/tokyo-day-3.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/tokyo/kits/day-3.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/tokyo/kits/day-3.json"
+    }
+  ]
+}

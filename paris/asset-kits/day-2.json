@@ -1,0 +1,548 @@
+{
+  "packageId": "paris-day-2",
+  "city": "Paris",
+  "day": 2,
+  "system": "Stage",
+  "title": "The monument becomes a machine",
+  "governingQuestion": "What must a Paris room become before it can carry a show?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Paris",
+      "slug": "paris",
+      "file": "/assets/media/paris-fashion-week.jpg",
+      "title": "Paris Fashion Week",
+      "creator": "Kooyuh",
+      "date": "2024-11-11",
+      "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+      "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/paris-day-2.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "PA-ROOM-THEN",
+          "sourceIds": [
+            "PA-FHCM-CALENDAR",
+            "PA-FHCM-PFW"
+          ]
+        },
+        {
+          "claimId": "PA-ROOM-NOW",
+          "sourceIds": [
+            "PA-PARIS-EVENTS",
+            "PA-FHCM-CALENDAR"
+          ]
+        },
+        {
+          "claimId": "PA-ROOM-NEXT",
+          "sourceIds": [
+            "PA-PARIS-EVENTS"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / The monument becomes a machine",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ROOM-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Venue contracts, permits, suppliers and technical drawings remain show-by-show reporting assignments unless a house, venue or authority publishes them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ROOM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Venue contracts, permits, suppliers and technical drawings remain show-by-show reporting assignments unless a house, venue or authority publishes them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ROOM-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / The monument becomes a machine",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ROOM-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Venue contracts, permits, suppliers and technical drawings remain show-by-show reporting assignments unless a house, venue or authority publishes them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ROOM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "paris-d2-graphic",
+          "asset": "/assets/evidence/paris-day-2.svg",
+          "source": "/paris/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Venue contracts, permits, suppliers and technical drawings remain show-by-show reporting assignments unless a house, venue or authority publishes them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ROOM-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ROOM-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway.",
+        "sourceIds": [
+          "PA-FHCM-CALENDAR",
+          "PA-FHCM-PFW"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+        "sourceIds": [
+          "PA-PARIS-EVENTS",
+          "PA-FHCM-CALENDAR"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Venue contracts, permits, suppliers and technical drawings remain show-by-show reporting assignments unless a house, venue or authority publishes them.",
+        "sourceIds": [
+          "PA-PARIS-EVENTS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Paris — The monument becomes a machine",
+        "visual": "/assets/evidence/paris-day-2.svg",
+        "description": "What must a Paris room become before it can carry a show?",
+        "alt": "Original evidence diagram for Paris day 2, The monument becomes a machine; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Stage is infrastructure",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The monument becomes a machine.",
+        "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+        "credit": "Kooyuh · CC BY-SA 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway.",
+        "sourceIds": [
+          "PA-FHCM-CALENDAR",
+          "PA-FHCM-PFW"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Paris Fashion Week is distributed across house-selected locations; the FHCM calendar specifies physical and digital formats rather than one permanent runway. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Municipal event rules form one public layer, but they do not disclose a named show’s lighting, power, scenic, accessibility or teardown plan.",
+        "sourceIds": [
+          "PA-PARIS-EVENTS",
+          "PA-FHCM-CALENDAR"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Venue contracts, permits, suppliers and technical drawings remain show-by-show reporting assignments unless a house, venue or authority publishes them.",
+        "sourceIds": [
+          "PA-PARIS-EVENTS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/paris-day-2.svg",
+        "caption": "Evidence chain for The monument becomes a machine."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/paris-day-2.svg",
+        "caption": "Paris / Stage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Documentary witness: Paris Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/paris/publication/day-2#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "PA-ROOM-THEN",
+        "sourceId": "PA-FHCM-CALENDAR",
+        "title": "Paris Fashion Week official calendar",
+        "url": "https://www.fhcm.paris/en/paris-fashion-week/calendar",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ROOM-THEN",
+        "sourceId": "PA-FHCM-PFW",
+        "title": "Paris Fashion Week",
+        "url": "https://www.fhcm.paris/en/paris-fashion-week",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ROOM-NOW",
+        "sourceId": "PA-PARIS-EVENTS",
+        "title": "Event organization in Paris",
+        "url": "https://www.paris.fr/pages/organiser-un-evenement-sur-l-espace-public-149",
+        "rights": "LINK-ONLY; show-specific permits unresolved"
+      },
+      {
+        "claimId": "PA-ROOM-NOW",
+        "sourceId": "PA-FHCM-CALENDAR",
+        "title": "Paris Fashion Week official calendar",
+        "url": "https://www.fhcm.paris/en/paris-fashion-week/calendar",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ROOM-NEXT",
+        "sourceId": "PA-PARIS-EVENTS",
+        "title": "Event organization in Paris",
+        "url": "https://www.paris.fr/pages/organiser-un-evenement-sur-l-espace-public-149",
+        "rights": "LINK-ONLY; show-specific permits unresolved"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "PARIS-D2-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D2-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D2-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D2-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D2-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D2-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D2-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/paris/asset-kits/day-2.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/paris/asset-kits/day-2.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/paris-day-2.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/paris/kits/day-2.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/paris/kits/day-2.json"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "packageId": "london-day-4",
+  "city": "London",
+  "day": 4,
+  "system": "Circulation",
+  "title": "The feed becomes the front row",
+  "governingQuestion": "Does distributed viewing redistribute authority?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "London",
+      "slug": "london",
+      "file": "/assets/media/london-fashion-week.jpg",
+      "title": "London Fashion Week SS2012 at Somerset House",
+      "creator": "Knox387",
+      "date": "2011-11-12",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+      "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/london-day-4.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "LON-CIRCULATION-THEN",
+          "sourceIds": [
+            "SRC-LFW-DIGITAL-2020",
+            "SRC-BFC-VIDEO-DIGITAL-2020"
+          ]
+        },
+        {
+          "claimId": "LON-CIRCULATION-NOW",
+          "sourceIds": [
+            "SRC-LFW-SCHEDULE-2026",
+            "SRC-BFC-DESIGNER-CRITERIA-2026",
+            "SRC-BFC-FEB-2026"
+          ]
+        },
+        {
+          "claimId": "LON-CIRCULATION-NEXT",
+          "sourceIds": [
+            "SRC-BFC-PRESS"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / The feed becomes the front row",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CIRCULATION-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CIRCULATION-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CIRCULATION-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / The feed becomes the front row",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CIRCULATION-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CIRCULATION-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "london-d4-graphic",
+          "asset": "/assets/evidence/london-day-4.svg",
+          "source": "/london/publication/day-4#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 4, The feed becomes the front row; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-CIRCULATION-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-CIRCULATION-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows circulation: A public stream can widen technical access while ranking systems, language, bandwidth and platform ownership continue to govern attention.",
+        "onScreen": "Then: In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.",
+        "sourceIds": [
+          "SRC-LFW-DIGITAL-2020",
+          "SRC-BFC-VIDEO-DIGITAL-2020"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+        "sourceIds": [
+          "SRC-LFW-SCHEDULE-2026",
+          "SRC-BFC-DESIGNER-CRITERIA-2026",
+          "SRC-BFC-FEB-2026"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.",
+        "sourceIds": [
+          "SRC-BFC-PRESS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "London — The feed becomes the front row",
+        "visual": "/assets/evidence/london-day-4.svg",
+        "description": "Does distributed viewing redistribute authority?",
+        "alt": "Original evidence diagram for London day 4, The feed becomes the front row; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Circulation is infrastructure",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The feed becomes the front row.",
+        "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+        "credit": "Knox387 · CC BY-SA 3.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows circulation: A public stream can widen technical access while ranking systems, language, bandwidth and platform ownership continue to govern attention.",
+        "onScreen": "Then: In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.",
+        "sourceIds": [
+          "SRC-LFW-DIGITAL-2020",
+          "SRC-BFC-VIDEO-DIGITAL-2020"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.",
+        "sourceIds": [
+          "SRC-LFW-SCHEDULE-2026",
+          "SRC-BFC-DESIGNER-CRITERIA-2026",
+          "SRC-BFC-FEB-2026"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-4.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.",
+        "sourceIds": [
+          "SRC-BFC-PRESS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/london-day-4.svg",
+        "caption": "Evidence chain for The feed becomes the front row."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/london-day-4.svg",
+        "caption": "London / Circulation evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "Documentary witness: London Fashion Week SS2012 at Somerset House."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/publication/day-4#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "LON-CIRCULATION-THEN",
+        "sourceId": "SRC-LFW-DIGITAL-2020",
+        "title": "London Fashion Week September 2020 Digital Schedule",
+        "url": "https://londonfashionweek.co.uk/schedule/174/digital-schedule",
+        "rights": "LINK-ONLY; page text cited, page imagery not reproduced"
+      },
+      {
+        "claimId": "LON-CIRCULATION-THEN",
+        "sourceId": "SRC-BFC-VIDEO-DIGITAL-2020",
+        "title": "LFW Digital Highlights, June 2020",
+        "url": "https://www.youtube.com/watch?v=PH3vHLeAyjs",
+        "rights": "AUTHORIZED EMBED via YouTube player; no download or derivative"
+      },
+      {
+        "claimId": "LON-CIRCULATION-NOW",
+        "sourceId": "SRC-LFW-SCHEDULE-2026",
+        "title": "London Fashion Week September 2026 Schedule",
+        "url": "https://londonfashionweek.co.uk/schedule",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "LON-CIRCULATION-NOW",
+        "sourceId": "SRC-BFC-DESIGNER-CRITERIA-2026",
+        "title": "London Fashion Week Designer Applications and Schedule Criteria",
+        "url": "https://www.britishfashioncouncil.co.uk/Global-Platforms/LFW-Designer-Applications",
+        "rights": "LINK-ONLY; form and page imagery not reproduced"
+      },
+      {
+        "claimId": "LON-CIRCULATION-NOW",
+        "sourceId": "SRC-BFC-FEB-2026",
+        "title": "London Fashion Week Presented by OMODA Starts This Week",
+        "url": "https://www.britishfashioncouncil.co.uk/BFCNews/5069/LONDON-FASHION-WEEK-PRESENTED-BY-OMODA-STARTS-THIS-WEEK",
+        "rights": "LINK-ONLY; page text cited, page imagery not reproduced"
+      },
+      {
+        "claimId": "LON-CIRCULATION-NEXT",
+        "sourceId": "SRC-BFC-PRESS",
+        "title": "British Fashion Council — News",
+        "url": "https://www.britishfashioncouncil.co.uk/news",
+        "rights": "LINK-ONLY; exact article required to substantiate a positive historical or future claim"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "LONDON-D4-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C06",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    },
+    {
+      "candidateId": "LONDON-D4-C07",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C08",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C09",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D4-C10",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/asset-kits/day-4.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/asset-kits/day-4.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/london-day-4.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/kits/day-4.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/kits/day-4.json"
+    }
+  ]
+}

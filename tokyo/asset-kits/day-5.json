@@ -1,0 +1,548 @@
+{
+  "packageId": "tokyo-day-5",
+  "city": "Tokyo",
+  "day": 5,
+  "system": "Backstage",
+  "title": "The week has an upstream",
+  "governingQuestion": "What changes when Fashion Week is governed beside textile exchange?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Tokyo",
+      "slug": "tokyo",
+      "file": "/assets/media/tokyo-fashion-week.jpg",
+      "title": "Tokyo Fashion Week 2010 collections",
+      "creator": "Tokyographer",
+      "date": "2010-03-26",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+      "caption": "Tokyo Fashion Week collections, 2010. The runway, camera line and audience are preserved together as a technical arrangement.",
+      "crop": "landscape",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/tokyo-day-5.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "TYO-TEXTILE-THEN",
+          "sourceIds": [
+            "TYO-ABOUT"
+          ]
+        },
+        {
+          "claimId": "TYO-TEXTILE-NOW",
+          "sourceIds": [
+            "TYO-ABOUT",
+            "TYO-TEXTILE"
+          ]
+        },
+        {
+          "claimId": "TYO-TEXTILE-NEXT",
+          "sourceIds": [
+            "TYO-TEXTILE",
+            "JP-METI-TEXTILE"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tokyo / The week has an upstream",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-TEXTILE-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The public event interface does not prove item-level fiber origin, mill, labor, chemical, inventory or product-passport data for every runway garment.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-TEXTILE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The public event interface does not prove item-level fiber origin, mill, labor, chemical, inventory or product-passport data for every runway garment.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-TEXTILE-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tokyo / The week has an upstream",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-TEXTILE-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The public event interface does not prove item-level fiber origin, mill, labor, chemical, inventory or product-passport data for every runway garment.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-TEXTILE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "tokyo-d5-graphic",
+          "asset": "/assets/evidence/tokyo-day-5.svg",
+          "source": "/tokyo/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The public event interface does not prove item-level fiber origin, mill, labor, chemical, inventory or product-passport data for every runway garment.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "TYO-TEXTILE-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "tokyo-edition-witness",
+          "asset": "/assets/media/tokyo-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+          "credit": "Tokyographer, Tokyo Fashion Week 2010 collections, 2010-03-26; CC BY-SA 2.0",
+          "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "TYO-TEXTILE-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/tokyo-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Tokyo makes translation infrastructural across permission, venue, moving image, language, textile exchange, recognition and retained seasons. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week.",
+        "sourceIds": [
+          "TYO-ABOUT"
+        ],
+        "credit": "Tokyographer · CC BY-SA 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/tokyo-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+        "sourceIds": [
+          "TYO-ABOUT",
+          "TYO-TEXTILE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/tokyo-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The public event interface does not prove item-level fiber origin, mill, labor, chemical, inventory or product-passport data for every runway garment.",
+        "sourceIds": [
+          "TYO-TEXTILE",
+          "JP-METI-TEXTILE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Tokyo — The week has an upstream",
+        "visual": "/assets/evidence/tokyo-day-5.svg",
+        "description": "What changes when Fashion Week is governed beside textile exchange?",
+        "alt": "Original evidence diagram for Tokyo day 5, The week has an upstream; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Backstage is infrastructure",
+        "visual": "/assets/media/tokyo-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The week has an upstream.",
+        "alt": "A model walks a Tokyo Fashion Week runway as photographers and spectators watch.",
+        "credit": "Tokyographer · CC BY-SA 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/tokyo-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Tokyo makes translation infrastructural across permission, venue, moving image, language, textile exchange, recognition and retained seasons. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week.",
+        "sourceIds": [
+          "TYO-ABOUT"
+        ],
+        "credit": "Tokyographer · CC BY-SA 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/tokyo-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+        "sourceIds": [
+          "TYO-ABOUT",
+          "TYO-TEXTILE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/tokyo-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The public event interface does not prove item-level fiber origin, mill, labor, chemical, inventory or product-passport data for every runway garment.",
+        "sourceIds": [
+          "TYO-TEXTILE",
+          "JP-METI-TEXTILE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/tokyo-day-5.svg",
+        "caption": "Evidence chain for The week has an upstream."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/tokyo-fashion-week.jpg",
+        "caption": "Tokyo Fashion Week collections, 2010. The runway, camera line and audience are preserved together as a technical arrangement. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/tokyo-day-5.svg",
+        "caption": "Tokyo / Backstage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/tokyo-fashion-week.jpg",
+        "caption": "Documentary witness: Tokyo Fashion Week 2010 collections."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/tokyo/publication/day-5#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "TYO-TEXTILE-THEN",
+        "sourceId": "TYO-ABOUT",
+        "title": "About JFW Organization",
+        "url": "https://rakutenfashionweektokyo.com/en/aboutus/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "TYO-TEXTILE-NOW",
+        "sourceId": "TYO-ABOUT",
+        "title": "About JFW Organization",
+        "url": "https://rakutenfashionweektokyo.com/en/aboutus/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "TYO-TEXTILE-NOW",
+        "sourceId": "TYO-TEXTILE",
+        "title": "Tokyo Textile Scope",
+        "url": "https://www.jfwtextile.com/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "TYO-TEXTILE-NEXT",
+        "sourceId": "TYO-TEXTILE",
+        "title": "Tokyo Textile Scope",
+        "url": "https://www.jfwtextile.com/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "TYO-TEXTILE-NEXT",
+        "sourceId": "JP-METI-TEXTILE",
+        "title": "Study Group on Sustainability of Textile and Apparel Industry — report surface",
+        "url": "https://www.meti.go.jp/english/policy/mono_info_service/overall/index.html",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "TOKYO-D5-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D5-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D5-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D5-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D5-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D5-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "TOKYO-D5-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/tokyo/asset-kits/day-5.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/tokyo/asset-kits/day-5.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/tokyo-day-5.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/tokyo/kits/day-5.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/tokyo/kits/day-5.json"
+    }
+  ]
+}

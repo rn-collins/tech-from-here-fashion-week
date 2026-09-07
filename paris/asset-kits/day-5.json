@@ -1,0 +1,538 @@
+{
+  "packageId": "paris-day-5",
+  "city": "Paris",
+  "day": 5,
+  "system": "Backstage",
+  "title": "The showroom is a second runway",
+  "governingQuestion": "How does emerging design move from official visibility toward an order?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Paris",
+      "slug": "paris",
+      "file": "/assets/media/paris-fashion-week.jpg",
+      "title": "Paris Fashion Week",
+      "creator": "Kooyuh",
+      "date": "2024-11-11",
+      "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+      "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/paris-day-5.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "PA-ORDER-THEN",
+          "sourceIds": [
+            "PA-FHCM-PFW",
+            "PA-FHCM-SPHERE24"
+          ]
+        },
+        {
+          "claimId": "PA-ORDER-NOW",
+          "sourceIds": [
+            "PA-FHCM-PFW"
+          ]
+        },
+        {
+          "claimId": "PA-ORDER-NEXT",
+          "sourceIds": [
+            "PA-FHCM-PFW"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / The showroom is a second runway",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ORDER-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ORDER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ORDER-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / The showroom is a second runway",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ORDER-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ORDER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "paris-d5-graphic",
+          "asset": "/assets/evidence/paris-day-5.svg",
+          "source": "/paris/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-ORDER-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-ORDER-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+        "sourceIds": [
+          "PA-FHCM-PFW",
+          "PA-FHCM-SPHERE24"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+        "sourceIds": [
+          "PA-FHCM-PFW"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+        "sourceIds": [
+          "PA-FHCM-PFW"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Paris — The showroom is a second runway",
+        "visual": "/assets/evidence/paris-day-5.svg",
+        "description": "How does emerging design move from official visibility toward an order?",
+        "alt": "Original evidence diagram for Paris day 5, The showroom is a second runway; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Backstage is infrastructure",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The showroom is a second runway.",
+        "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+        "credit": "Kooyuh · CC BY-SA 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: FHCM says it has operated SPHERE since January 2020 to support selected emerging brands.",
+        "sourceIds": [
+          "PA-FHCM-PFW",
+          "PA-FHCM-SPHERE24"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "FHCM says it has operated SPHERE since January 2020 to support selected emerging brands. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: For the 2026 womenswear session, FHCM identifies Palais de Tokyo, an invitation-only digital version and The New Black as its technology provider.",
+        "sourceIds": [
+          "PA-FHCM-PFW"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The public showroom page does not reveal private buyer accounts, prices, order volumes, sell-through or participating brands’ downstream systems.",
+        "sourceIds": [
+          "PA-FHCM-PFW"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/paris-day-5.svg",
+        "caption": "Evidence chain for The showroom is a second runway."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/paris-day-5.svg",
+        "caption": "Paris / Backstage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Documentary witness: Paris Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/paris/publication/day-5#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "PA-ORDER-THEN",
+        "sourceId": "PA-FHCM-PFW",
+        "title": "Paris Fashion Week",
+        "url": "https://www.fhcm.paris/en/paris-fashion-week",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ORDER-THEN",
+        "sourceId": "PA-FHCM-SPHERE24",
+        "title": "SPHERE Paris Fashion Week Showroom 2024",
+        "url": "https://www.fhcm.paris/fr/node/3536",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ORDER-NOW",
+        "sourceId": "PA-FHCM-PFW",
+        "title": "Paris Fashion Week",
+        "url": "https://www.fhcm.paris/en/paris-fashion-week",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-ORDER-NEXT",
+        "sourceId": "PA-FHCM-PFW",
+        "title": "Paris Fashion Week",
+        "url": "https://www.fhcm.paris/en/paris-fashion-week",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "PARIS-D5-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D5-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D5-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D5-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D5-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D5-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D5-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/paris/asset-kits/day-5.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/paris/asset-kits/day-5.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/paris-day-5.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/paris/kits/day-5.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/paris/kits/day-5.json"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "packageId": "copenhagen-day-5",
+  "city": "Copenhagen",
+  "day": 5,
+  "system": "Backstage",
+  "title": "The review becomes a data system",
+  "governingQuestion": "Can software scale a judgment system without disguising its boundaries?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Copenhagen",
+      "slug": "copenhagen",
+      "file": "/assets/media/copenhagen-fashion-week.jpg",
+      "title": "Scandinavian Academy of Fashion Design at Copenhagen Fashion Week",
+      "creator": "Scandinavian Academy of Fashion Design",
+      "date": "2017-03-08",
+      "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+      "caption": "A Scandinavian Academy of Fashion Design presentation at Copenhagen Fashion Week, 2017. The image documents a runway appearance, not compliance with later Minimum Standards.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/copenhagen-day-5.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "CPH-SCREEN-THEN",
+          "sourceIds": [
+            "CPH-REQUIREMENTS"
+          ]
+        },
+        {
+          "claimId": "CPH-SCREEN-NOW",
+          "sourceIds": [
+            "CPH-AI-PILOT"
+          ]
+        },
+        {
+          "claimId": "CPH-SCREEN-NEXT",
+          "sourceIds": [
+            "CPH-AI-PILOT"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Copenhagen / The review becomes a data system",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-SCREEN-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-SCREEN-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-SCREEN-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Copenhagen / The review becomes a data system",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-SCREEN-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-SCREEN-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "copenhagen-d5-graphic",
+          "asset": "/assets/evidence/copenhagen-day-5.svg",
+          "source": "/copenhagen/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-SCREEN-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-SCREEN-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+        "sourceIds": [
+          "CPH-REQUIREMENTS"
+        ],
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/copenhagen-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+        "sourceIds": [
+          "CPH-AI-PILOT"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/copenhagen-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+        "sourceIds": [
+          "CPH-AI-PILOT"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Copenhagen — The review becomes a data system",
+        "visual": "/assets/evidence/copenhagen-day-5.svg",
+        "description": "Can software scale a judgment system without disguising its boundaries?",
+        "alt": "Original evidence diagram for Copenhagen day 5, The review becomes a data system; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Backstage is infrastructure",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The review becomes a data system.",
+        "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+        "sourceIds": [
+          "CPH-REQUIREMENTS"
+        ],
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/copenhagen-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+        "sourceIds": [
+          "CPH-AI-PILOT"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/copenhagen-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+        "sourceIds": [
+          "CPH-AI-PILOT"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/copenhagen-day-5.svg",
+        "caption": "Evidence chain for The review becomes a data system."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/copenhagen-fashion-week.jpg",
+        "caption": "A Scandinavian Academy of Fashion Design presentation at Copenhagen Fashion Week, 2017. The image documents a runway appearance, not compliance with later Minimum Standards. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/copenhagen-day-5.svg",
+        "caption": "Copenhagen / Backstage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/copenhagen-fashion-week.jpg",
+        "caption": "Documentary witness: Scandinavian Academy of Fashion Design at Copenhagen Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/copenhagen/publication/day-5#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "CPH-SCREEN-THEN",
+        "sourceId": "CPH-REQUIREMENTS",
+        "title": "The Sustainability Requirements Framework",
+        "url": "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "CPH-SCREEN-NOW",
+        "sourceId": "CPH-AI-PILOT",
+        "title": "CPHFW and Renoon introduce AI-powered screening system",
+        "url": "https://copenhagenfashionweek.com/article/copenhagen-fashion-week-and-renoon-introduce-ai-powered-sustainability-requirements-screening-system",
+        "rights": "LINK-ONLY; first-party future claim"
+      },
+      {
+        "claimId": "CPH-SCREEN-NEXT",
+        "sourceId": "CPH-AI-PILOT",
+        "title": "CPHFW and Renoon introduce AI-powered screening system",
+        "url": "https://copenhagenfashionweek.com/article/copenhagen-fashion-week-and-renoon-introduce-ai-powered-sustainability-requirements-screening-system",
+        "rights": "LINK-ONLY; first-party future claim"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "COPENHAGEN-D5-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D5-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D5-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D5-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D5-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D5-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D5-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/copenhagen/asset-kits/day-5.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/copenhagen/asset-kits/day-5.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/copenhagen-day-5.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/copenhagen/kits/day-5.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/copenhagen/kits/day-5.json"
+    }
+  ]
+}

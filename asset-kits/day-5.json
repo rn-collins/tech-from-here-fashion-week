@@ -1,0 +1,545 @@
+{
+  "packageId": "london-day-5",
+  "city": "London",
+  "day": 5,
+  "system": "Backstage",
+  "title": "Compressed labor",
+  "governingQuestion": "Does the tool reduce work, relocate it, or make it extractable?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "London",
+      "slug": "london",
+      "file": "/assets/media/london-fashion-week.jpg",
+      "title": "London Fashion Week SS2012 at Somerset House",
+      "creator": "Knox387",
+      "date": "2011-11-12",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+      "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/london-day-5.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "LON-BACKSTAGE-THEN",
+          "sourceIds": [
+            "SRC-BFC-VIDEO-BACKSTAGE"
+          ]
+        },
+        {
+          "claimId": "LON-BACKSTAGE-NOW",
+          "sourceIds": [
+            "SRC-BFC-NEWGEN",
+            "SRC-EQUITY"
+          ]
+        },
+        {
+          "claimId": "LON-BACKSTAGE-NEXT",
+          "sourceIds": [
+            "SRC-MODEL",
+            "SRC-EQUITY"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / Compressed labor",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-BACKSTAGE-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-BACKSTAGE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-BACKSTAGE-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / Compressed labor",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-BACKSTAGE-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-BACKSTAGE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "london-d5-graphic",
+          "asset": "/assets/evidence/london-day-5.svg",
+          "source": "/london/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 5, Compressed labor; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-BACKSTAGE-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-BACKSTAGE-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.",
+        "sourceIds": [
+          "SRC-BFC-VIDEO-BACKSTAGE"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+        "sourceIds": [
+          "SRC-BFC-NEWGEN",
+          "SRC-EQUITY"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.",
+        "sourceIds": [
+          "SRC-MODEL",
+          "SRC-EQUITY"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "London — Compressed labor",
+        "visual": "/assets/evidence/london-day-5.svg",
+        "description": "Does the tool reduce work, relocate it, or make it extractable?",
+        "alt": "Original evidence diagram for London day 5, Compressed labor; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Backstage is infrastructure",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to Compressed labor.",
+        "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+        "credit": "Knox387 · CC BY-SA 3.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.",
+        "sourceIds": [
+          "SRC-BFC-VIDEO-BACKSTAGE"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.",
+        "sourceIds": [
+          "SRC-BFC-NEWGEN",
+          "SRC-EQUITY"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.",
+        "sourceIds": [
+          "SRC-MODEL",
+          "SRC-EQUITY"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/london-day-5.svg",
+        "caption": "Evidence chain for Compressed labor."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/london-day-5.svg",
+        "caption": "London / Backstage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "Documentary witness: London Fashion Week SS2012 at Somerset House."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/publication/day-5#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "LON-BACKSTAGE-THEN",
+        "sourceId": "SRC-BFC-VIDEO-BACKSTAGE",
+        "title": "Designer Fashion Fund Episode 3: London Fashion Week",
+        "url": "https://www.youtube.com/watch?v=vRJbrfgrAUs",
+        "rights": "AUTHORIZED EMBED via YouTube player; no download or derivative"
+      },
+      {
+        "claimId": "LON-BACKSTAGE-NOW",
+        "sourceId": "SRC-BFC-NEWGEN",
+        "title": "BFC NEWGEN Programme",
+        "url": "https://www.britishfashioncouncil.co.uk/BFC-Initiatives/BFC-NEWGEN",
+        "rights": "LINK-ONLY; page text cited, page imagery not reproduced"
+      },
+      {
+        "claimId": "LON-BACKSTAGE-NOW",
+        "sourceId": "SRC-EQUITY",
+        "title": "Models Network",
+        "url": "https://www.equity.org.uk/get-involved/networks/models-network",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "LON-BACKSTAGE-NEXT",
+        "sourceId": "SRC-MODEL",
+        "title": "Model Alliance",
+        "url": "https://www.modelalliance.org/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "LON-BACKSTAGE-NEXT",
+        "sourceId": "SRC-EQUITY",
+        "title": "Models Network",
+        "url": "https://www.equity.org.uk/get-involved/networks/models-network",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "LONDON-D5-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D5-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D5-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D5-C03",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    },
+    {
+      "candidateId": "LONDON-D5-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D5-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D5-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/asset-kits/day-5.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/asset-kits/day-5.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/london-day-5.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/kits/day-5.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/kits/day-5.json"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "packageId": "shanghai-day-5",
+  "city": "Shanghai",
+  "day": 5,
+  "system": "Backstage",
+  "title": "The showroom makes an order city",
+  "governingQuestion": "Where does runway attention become wholesale encounter and market access?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Shanghai",
+      "slug": "shanghai",
+      "file": "/assets/media/shanghai-fashion-week.jpg",
+      "title": "Photographer Wang Li at Shanghai Fashion Week",
+      "creator": "406618197yang",
+      "date": "2024-10-14",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+      "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/shanghai-day-5.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "SH-ORDER-THEN",
+          "sourceIds": [
+            "SH-SHFW-SCHEDULE",
+            "SH-SHFW-MODE",
+            "SH-ONTIME-HOME"
+          ]
+        },
+        {
+          "claimId": "SH-ORDER-NOW",
+          "sourceIds": [
+            "SH-ONTIME-SHFW"
+          ]
+        },
+        {
+          "claimId": "SH-ORDER-NEXT",
+          "sourceIds": [
+            "SH-SHFW-MODE",
+            "SH-ONTIME-HOME"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The showroom makes an order city",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ORDER-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ORDER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ORDER-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The showroom makes an order city",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ORDER-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ORDER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "shanghai-d5-graphic",
+          "asset": "/assets/evidence/shanghai-day-5.svg",
+          "source": "/shanghai/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ORDER-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ORDER-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+        "sourceIds": [
+          "SH-SHFW-SCHEDULE",
+          "SH-SHFW-MODE",
+          "SH-ONTIME-HOME"
+        ],
+        "credit": "406618197yang · CC BY 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+        "sourceIds": [
+          "SH-ONTIME-SHFW"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+        "sourceIds": [
+          "SH-SHFW-MODE",
+          "SH-ONTIME-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Shanghai — The showroom makes an order city",
+        "visual": "/assets/evidence/shanghai-day-5.svg",
+        "description": "Where does runway attention become wholesale encounter and market access?",
+        "alt": "Original evidence diagram for Shanghai day 5, The showroom makes an order city; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Backstage is infrastructure",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The showroom makes an order city.",
+        "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+        "credit": "406618197yang · CC BY 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface.",
+        "sourceIds": [
+          "SH-SHFW-SCHEDULE",
+          "SH-SHFW-MODE",
+          "SH-ONTIME-HOME"
+        ],
+        "credit": "406618197yang · CC BY 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The official 2026 schedule lists MODE, Ontimeshow and multiple showrooms alongside runway presentations, making trade infrastructure part of the week’s public interface. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Ontimeshow’s official archive describes showroom encounters among brands, buyers and industry participants; its reproduced journalism remains separately attributed.",
+        "sourceIds": [
+          "SH-ONTIME-SHFW"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Public pages do not disclose private buyer identities, prices, order volumes, conversion, sell-through, contracts or downstream retail systems.",
+        "sourceIds": [
+          "SH-SHFW-MODE",
+          "SH-ONTIME-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/shanghai-day-5.svg",
+        "caption": "Evidence chain for The showroom makes an order city."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/shanghai-day-5.svg",
+        "caption": "Shanghai / Backstage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Documentary witness: Photographer Wang Li at Shanghai Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/shanghai/publication/day-5#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "SH-ORDER-THEN",
+        "sourceId": "SH-SHFW-SCHEDULE",
+        "title": "AW2026 上海时装周官方日程 / official schedule",
+        "url": "https://www.shanghaifashionweek.com/page/shfw/schedule?language=en",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "SH-ORDER-THEN",
+        "sourceId": "SH-SHFW-MODE",
+        "title": "MODE上海服装服饰展 / MODE trade fair",
+        "url": "https://www.shanghaifashionweek.com/page/mode/index",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "SH-ORDER-THEN",
+        "sourceId": "SH-ONTIME-HOME",
+        "title": "Ontimeshow",
+        "url": "https://www.ontimeshow.com/en",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "SH-ORDER-NOW",
+        "sourceId": "SH-ONTIME-SHFW",
+        "title": "上海时装周 / Shanghai Fashion Week archive",
+        "url": "https://www.ontimeshow.com/en/taxonomy/term/445",
+        "rights": "LINK-ONLY; layered article/image rights"
+      },
+      {
+        "claimId": "SH-ORDER-NEXT",
+        "sourceId": "SH-SHFW-MODE",
+        "title": "MODE上海服装服饰展 / MODE trade fair",
+        "url": "https://www.shanghaifashionweek.com/page/mode/index",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "SH-ORDER-NEXT",
+        "sourceId": "SH-ONTIME-HOME",
+        "title": "Ontimeshow",
+        "url": "https://www.ontimeshow.com/en",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "SHANGHAI-D5-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D5-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D5-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D5-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D5-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D5-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D5-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/shanghai/asset-kits/day-5.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/shanghai/asset-kits/day-5.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/shanghai-day-5.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/shanghai/kits/day-5.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/shanghai/kits/day-5.json"
+    }
+  ]
+}

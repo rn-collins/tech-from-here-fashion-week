@@ -1,0 +1,602 @@
+{
+  "packageId": "paris-day-7",
+  "city": "Paris",
+  "day": 7,
+  "system": "Memory",
+  "title": "Paris keeps more than the look",
+  "governingQuestion": "Which objects, interfaces and technical credits enter public memory?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Paris",
+      "slug": "paris",
+      "file": "/assets/media/paris-fashion-week.jpg",
+      "title": "Paris Fashion Week",
+      "creator": "Kooyuh",
+      "date": "2024-11-11",
+      "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+      "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/paris-day-7.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "PA-MEMORY-THEN",
+          "sourceIds": [
+            "PA-GALLIERA-COLLECTIONS",
+            "PA-PARISMUSEES-OPEN",
+            "PA-BNF-GALLICA"
+          ]
+        },
+        {
+          "claimId": "PA-MEMORY-NOW",
+          "sourceIds": [
+            "PA-PARISMUSEES-OPEN",
+            "PA-GALLIERA-COLLECTIONS",
+            "PA-BNF-GALLICA"
+          ]
+        },
+        {
+          "claimId": "PA-MEMORY-NEXT",
+          "sourceIds": [
+            "PA-FHCM-DATES",
+            "PA-BNF-RICHELIEU"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / Paris keeps more than the look",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-MEMORY-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-MEMORY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-MEMORY-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Paris / Paris keeps more than the look",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-MEMORY-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-MEMORY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "paris-d7-graphic",
+          "asset": "/assets/evidence/paris-day-7.svg",
+          "source": "/paris/publication/day-7#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "PA-MEMORY-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "paris-edition-witness",
+          "asset": "/assets/media/paris-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Paris_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+          "credit": "Kooyuh, Paris Fashion Week, 2024-11-11; CC BY-SA 4.0",
+          "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "PA-MEMORY-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows memory: The venue disappears, schedules change and links decay; preservation choices determine which technical history remains citable and contestable.",
+        "onScreen": "Then: Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+        "sourceIds": [
+          "PA-GALLIERA-COLLECTIONS",
+          "PA-PARISMUSEES-OPEN",
+          "PA-BNF-GALLICA"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+        "sourceIds": [
+          "PA-PARISMUSEES-OPEN",
+          "PA-GALLIERA-COLLECTIONS",
+          "PA-BNF-GALLICA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+        "sourceIds": [
+          "PA-FHCM-DATES",
+          "PA-BNF-RICHELIEU"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Paris — Paris keeps more than the look",
+        "visual": "/assets/evidence/paris-day-7.svg",
+        "description": "Which objects, interfaces and technical credits enter public memory?",
+        "alt": "Original evidence diagram for Paris day 7, Paris keeps more than the look; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Memory is infrastructure",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to Paris keeps more than the look.",
+        "alt": "Actor Suzu Hirose photographed at Paris Fashion Week in 2024.",
+        "credit": "Kooyuh · CC BY-SA 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/paris-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Paris exposes the technical production of legitimacy through calendar inclusion, monumental rooms, official images, digital programmes, showrooms and archives. This chapter follows memory: The venue disappears, schedules change and links decay; preservation choices determine which technical history remains citable and contestable.",
+        "onScreen": "Then: Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections.",
+        "sourceIds": [
+          "PA-GALLIERA-COLLECTIONS",
+          "PA-PARISMUSEES-OPEN",
+          "PA-BNF-GALLICA"
+        ],
+        "credit": "Kooyuh · CC BY-SA 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/paris-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Palais Galliera, Paris Musées and Gallica expose different public memory systems: museum objects, open-image filters and digitized national collections. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Discovery access and reuse permission are separate: Paris Musées marks some public-domain reproductions, while collection and library records require item-level checking.",
+        "sourceIds": [
+          "PA-PARISMUSEES-OPEN",
+          "PA-GALLIERA-COLLECTIONS",
+          "PA-BNF-GALLICA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/paris-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No complete public archive was located that preserves every Paris show’s invitations, worker credits, venue plans, source files, rights and commercial outcomes.",
+        "sourceIds": [
+          "PA-FHCM-DATES",
+          "PA-BNF-RICHELIEU"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/paris-day-7.svg",
+        "caption": "Evidence chain for Paris keeps more than the look."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Suzu Hirose at Paris Fashion Week, 2024. Celebrity arrival imagery demonstrates attention and circulation; it does not stand in for the official calendar or collection record. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/paris-day-7.svg",
+        "caption": "Paris / Memory evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/paris-fashion-week.jpg",
+        "caption": "Documentary witness: Paris Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/paris/publication/day-7#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "PA-MEMORY-THEN",
+        "sourceId": "PA-GALLIERA-COLLECTIONS",
+        "title": "Palais Galliera collections",
+        "url": "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+        "rights": "LINK-ONLY here; item rights vary"
+      },
+      {
+        "claimId": "PA-MEMORY-THEN",
+        "sourceId": "PA-PARISMUSEES-OPEN",
+        "title": "Paris Musées public-domain image search",
+        "url": "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/mode-acquisition/don-manuel-214180/image-libre/true/materiaux-technique/toile-armure-213835",
+        "rights": "PUBLIC DOMAIN filter; item-level record still required before download"
+      },
+      {
+        "claimId": "PA-MEMORY-THEN",
+        "sourceId": "PA-BNF-GALLICA",
+        "title": "Gallica — the BnF digital library",
+        "url": "https://www.bnf.fr/en/gallica-bnf-digital-library",
+        "rights": "LINK-ONLY; item rights vary"
+      },
+      {
+        "claimId": "PA-MEMORY-NOW",
+        "sourceId": "PA-PARISMUSEES-OPEN",
+        "title": "Paris Musées public-domain image search",
+        "url": "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/mode-acquisition/don-manuel-214180/image-libre/true/materiaux-technique/toile-armure-213835",
+        "rights": "PUBLIC DOMAIN filter; item-level record still required before download"
+      },
+      {
+        "claimId": "PA-MEMORY-NOW",
+        "sourceId": "PA-GALLIERA-COLLECTIONS",
+        "title": "Palais Galliera collections",
+        "url": "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/denominations/robe%20compos%C3%A9e-166448",
+        "rights": "LINK-ONLY here; item rights vary"
+      },
+      {
+        "claimId": "PA-MEMORY-NOW",
+        "sourceId": "PA-BNF-GALLICA",
+        "title": "Gallica — the BnF digital library",
+        "url": "https://www.bnf.fr/en/gallica-bnf-digital-library",
+        "rights": "LINK-ONLY; item rights vary"
+      },
+      {
+        "claimId": "PA-MEMORY-NEXT",
+        "sourceId": "PA-FHCM-DATES",
+        "title": "Upcoming seasons and previous editions",
+        "url": "https://www.fhcm.paris/en/upcoming-seasons-and-previous-editions",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "PA-MEMORY-NEXT",
+        "sourceId": "PA-BNF-RICHELIEU",
+        "title": "Richelieu research library",
+        "url": "https://www.bnf.fr/en/richelieu",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "PARIS-D7-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C03",
+      "destinations": [
+        "reserve ledger",
+        "resources room"
+      ],
+      "exclusion": "reserve"
+    },
+    {
+      "candidateId": "PARIS-D7-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C07",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C08",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "PARIS-D7-C09",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/paris/asset-kits/day-7.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/paris/asset-kits/day-7.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/paris-day-7.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/paris/kits/day-7.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/paris/kits/day-7.json"
+    }
+  ]
+}

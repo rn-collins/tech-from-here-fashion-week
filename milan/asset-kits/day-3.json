@@ -1,0 +1,535 @@
+{
+  "packageId": "milan-day-3",
+  "city": "Milan",
+  "day": 3,
+  "system": "Capture",
+  "title": "The machine carries the hand",
+  "governingQuestion": "Where does Italian craft end and technical production begin?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Milan",
+      "slug": "milan",
+      "file": "/assets/media/milan-fashion-week.jpg",
+      "title": "Milan Fashion Week",
+      "creator": "br1dotcom",
+      "date": "2010-02-24",
+      "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+      "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface.",
+      "crop": "landscape",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/milan-day-3.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "MI-CRAFT-THEN",
+          "sourceIds": [
+            "MI-CNMI-FIALLO"
+          ]
+        },
+        {
+          "claimId": "MI-CRAFT-NOW",
+          "sourceIds": [
+            "MI-CNMI-HUB",
+            "MI-CNMI-FIALLO"
+          ]
+        },
+        {
+          "claimId": "MI-CRAFT-NEXT",
+          "sourceIds": [
+            "MI-CNMI-FIALLO"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / The machine carries the hand",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-CRAFT-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-CRAFT-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-CRAFT-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / The machine carries the hand",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-CRAFT-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-CRAFT-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "milan-d3-graphic",
+          "asset": "/assets/evidence/milan-day-3.svg",
+          "source": "/milan/publication/day-3#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-CRAFT-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-CRAFT-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows capture: The collection walks once; cameras, edits, metadata and rights agreements decide which view can be repeated and who can repeat it.",
+        "onScreen": "Then: CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+        "sourceIds": [
+          "MI-CNMI-FIALLO"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+        "sourceIds": [
+          "MI-CNMI-HUB",
+          "MI-CNMI-FIALLO"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+        "sourceIds": [
+          "MI-CNMI-FIALLO"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Milan — The machine carries the hand",
+        "visual": "/assets/evidence/milan-day-3.svg",
+        "description": "Where does Italian craft end and technical production begin?",
+        "alt": "Original evidence diagram for Milan day 3, The machine carries the hand; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Capture is infrastructure",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The machine carries the hand.",
+        "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+        "credit": "br1dotcom · CC BY-SA 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows capture: The collection walks once; cameras, edits, metadata and rights agreements decide which view can be repeated and who can repeat it.",
+        "onScreen": "Then: CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.",
+        "sourceIds": [
+          "MI-CNMI-FIALLO"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.",
+        "sourceIds": [
+          "MI-CNMI-HUB",
+          "MI-CNMI-FIALLO"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-3.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.",
+        "sourceIds": [
+          "MI-CNMI-FIALLO"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/milan-day-3.svg",
+        "caption": "Evidence chain for The machine carries the hand."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/milan-day-3.svg",
+        "caption": "Milan / Capture evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "Documentary witness: Milan Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/milan/publication/day-3#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "MI-CRAFT-THEN",
+        "sourceId": "MI-CNMI-FIALLO",
+        "title": "Felipe Fiallo designer record",
+        "url": "https://www.cameramoda.it/en/milano-moda-donna/fashion-hub-market/designer/142-felipe-fiallo/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "MI-CRAFT-NOW",
+        "sourceId": "MI-CNMI-HUB",
+        "title": "Designers for the Planet open call",
+        "url": "https://www.cameramoda.it/en/associazione/news/1672/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "MI-CRAFT-NOW",
+        "sourceId": "MI-CNMI-FIALLO",
+        "title": "Felipe Fiallo designer record",
+        "url": "https://www.cameramoda.it/en/milano-moda-donna/fashion-hub-market/designer/142-felipe-fiallo/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "MI-CRAFT-NEXT",
+        "sourceId": "MI-CNMI-FIALLO",
+        "title": "Felipe Fiallo designer record",
+        "url": "https://www.cameramoda.it/en/milano-moda-donna/fashion-hub-market/designer/142-felipe-fiallo/",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "MILAN-D3-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D3-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D3-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D3-C03",
+      "destinations": [],
+      "exclusion": "authorized embed"
+    },
+    {
+      "candidateId": "MILAN-D3-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D3-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D3-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/milan/asset-kits/day-3.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/milan/asset-kits/day-3.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/milan-day-3.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/milan/kits/day-3.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/milan/kits/day-3.json"
+    }
+  ]
+}

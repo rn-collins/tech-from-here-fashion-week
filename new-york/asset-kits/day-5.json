@@ -1,0 +1,538 @@
+{
+  "packageId": "new-york-day-5",
+  "city": "New York",
+  "day": 5,
+  "system": "Backstage",
+  "title": "The booking file has consequences",
+  "governingQuestion": "What changes when backstage information becomes regulated infrastructure?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "New York",
+      "slug": "new-york",
+      "file": "/assets/media/nyc-fashion-week.jpg",
+      "title": "NY Fashion Week",
+      "creator": "Anisa C",
+      "date": "2016-02-18",
+      "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A guest photographed outside New York Fashion Week in 2016.",
+      "caption": "A photographed arrival outside New York Fashion Week, 2016. Street-style circulation is evidence of the week’s image economy, not documentation of an official show.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/new-york-day-5.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "NYC-WORKER-THEN",
+          "sourceIds": [
+            "NY-DOL-FWA"
+          ]
+        },
+        {
+          "claimId": "NYC-WORKER-NOW",
+          "sourceIds": [
+            "NY-DOL-FWA",
+            "NY-DOL-DUTIES"
+          ]
+        },
+        {
+          "claimId": "NYC-WORKER-NEXT",
+          "sourceIds": [
+            "NY-DOL-FWA"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "New York / The booking file has consequences",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-WORKER-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-WORKER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-WORKER-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "New York / The booking file has consequences",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-WORKER-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-WORKER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "new-york-d5-graphic",
+          "asset": "/assets/evidence/new-york-day-5.svg",
+          "source": "/new-york/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 5, The booking file has consequences; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-WORKER-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-WORKER-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/nyc-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+        "sourceIds": [
+          "NY-DOL-FWA"
+        ],
+        "credit": "Anisa C · CC BY 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/new-york-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+        "sourceIds": [
+          "NY-DOL-FWA",
+          "NY-DOL-DUTIES"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/new-york-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+        "sourceIds": [
+          "NY-DOL-FWA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "New York — The booking file has consequences",
+        "visual": "/assets/evidence/new-york-day-5.svg",
+        "description": "What changes when backstage information becomes regulated infrastructure?",
+        "alt": "Original evidence diagram for New York day 5, The booking file has consequences; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Backstage is infrastructure",
+        "visual": "/assets/media/nyc-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The booking file has consequences.",
+        "alt": "A guest photographed outside New York Fashion Week in 2016.",
+        "credit": "Anisa C · CC BY 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/nyc-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.",
+        "sourceIds": [
+          "NY-DOL-FWA"
+        ],
+        "credit": "Anisa C · CC BY 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/new-york-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.",
+        "sourceIds": [
+          "NY-DOL-FWA",
+          "NY-DOL-DUTIES"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/new-york-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.",
+        "sourceIds": [
+          "NY-DOL-FWA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/new-york-day-5.svg",
+        "caption": "Evidence chain for The booking file has consequences."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/nyc-fashion-week.jpg",
+        "caption": "A photographed arrival outside New York Fashion Week, 2016. Street-style circulation is evidence of the week’s image economy, not documentation of an official show. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/new-york-day-5.svg",
+        "caption": "New York / Backstage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/nyc-fashion-week.jpg",
+        "caption": "Documentary witness: NY Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/new-york/publication/day-5#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "NYC-WORKER-THEN",
+        "sourceId": "NY-DOL-FWA",
+        "title": "New York State Fashion Workers Act",
+        "url": "https://dol.ny.gov/fashion",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "NYC-WORKER-NOW",
+        "sourceId": "NY-DOL-FWA",
+        "title": "New York State Fashion Workers Act",
+        "url": "https://dol.ny.gov/fashion",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "NYC-WORKER-NOW",
+        "sourceId": "NY-DOL-DUTIES",
+        "title": "Responsibilities of Fashion Management and Clients",
+        "url": "https://dol.ny.gov/responsibilities-fashion-management-and-clients",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "NYC-WORKER-NEXT",
+        "sourceId": "NY-DOL-FWA",
+        "title": "New York State Fashion Workers Act",
+        "url": "https://dol.ny.gov/fashion",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "NEW-YORK-D5-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D5-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D5-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D5-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D5-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D5-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D5-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/new-york/asset-kits/day-5.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/new-york/asset-kits/day-5.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/new-york-day-5.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/new-york/kits/day-5.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/new-york/kits/day-5.json"
+    }
+  ]
+}

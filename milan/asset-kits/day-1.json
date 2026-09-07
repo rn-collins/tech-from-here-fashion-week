@@ -1,0 +1,538 @@
+{
+  "packageId": "milan-day-1",
+  "city": "Milan",
+  "day": 1,
+  "system": "Access",
+  "title": "The invitation is also a trademark",
+  "governingQuestion": "Who may enter Milano Fashion Week—and who may claim its name?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Milan",
+      "slug": "milan",
+      "file": "/assets/media/milan-fashion-week.jpg",
+      "title": "Milan Fashion Week",
+      "creator": "br1dotcom",
+      "date": "2010-02-24",
+      "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+      "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface.",
+      "crop": "landscape",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/milan-day-1.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "MI-ACCESS-THEN",
+          "sourceIds": [
+            "MI-CNMI-HOME"
+          ]
+        },
+        {
+          "claimId": "MI-ACCESS-NOW",
+          "sourceIds": [
+            "MI-CNMI-HOME",
+            "MI-CNMI-APP"
+          ]
+        },
+        {
+          "claimId": "MI-ACCESS-NEXT",
+          "sourceIds": [
+            "MI-CNMI-HOME"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / The invitation is also a trademark",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ACCESS-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ACCESS-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ACCESS-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / The invitation is also a trademark",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ACCESS-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ACCESS-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "milan-d1-graphic",
+          "asset": "/assets/evidence/milan-day-1.svg",
+          "source": "/milan/publication/day-1#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ACCESS-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ACCESS-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows access: The decisive technology is not the door but the stack of schedule, accreditation, invitation and identity checks that precedes it.",
+        "onScreen": "Then: CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+        "sourceIds": [
+          "MI-CNMI-HOME",
+          "MI-CNMI-APP"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Milan — The invitation is also a trademark",
+        "visual": "/assets/evidence/milan-day-1.svg",
+        "description": "Who may enter Milano Fashion Week—and who may claim its name?",
+        "alt": "Original evidence diagram for Milan day 1, The invitation is also a trademark; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Access is infrastructure",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The invitation is also a trademark.",
+        "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+        "credit": "br1dotcom · CC BY-SA 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows access: The decisive technology is not the door but the stack of schedule, accreditation, invitation and identity checks that precedes it.",
+        "onScreen": "Then: CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.",
+        "sourceIds": [
+          "MI-CNMI-HOME",
+          "MI-CNMI-APP"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.",
+        "sourceIds": [
+          "MI-CNMI-HOME"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/milan-day-1.svg",
+        "caption": "Evidence chain for The invitation is also a trademark."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/milan-day-1.svg",
+        "caption": "Milan / Access evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "Documentary witness: Milan Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/milan/publication/day-1#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "MI-ACCESS-THEN",
+        "sourceId": "MI-CNMI-HOME",
+        "title": "Milano Fashion Week: calendar, dates and access notice",
+        "url": "https://www.cameramoda.it/en/",
+        "rights": "LINK-ONLY; organizer text quoted sparingly"
+      },
+      {
+        "claimId": "MI-ACCESS-NOW",
+        "sourceId": "MI-CNMI-HOME",
+        "title": "Milano Fashion Week: calendar, dates and access notice",
+        "url": "https://www.cameramoda.it/en/",
+        "rights": "LINK-ONLY; organizer text quoted sparingly"
+      },
+      {
+        "claimId": "MI-ACCESS-NOW",
+        "sourceId": "MI-CNMI-APP",
+        "title": "Camera Moda app",
+        "url": "https://apps.apple.com/us/app/camera-moda/id534578351",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "MI-ACCESS-NEXT",
+        "sourceId": "MI-CNMI-HOME",
+        "title": "Milano Fashion Week: calendar, dates and access notice",
+        "url": "https://www.cameramoda.it/en/",
+        "rights": "LINK-ONLY; organizer text quoted sparingly"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "MILAN-D1-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D1-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D1-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D1-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D1-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D1-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D1-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/milan/asset-kits/day-1.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/milan/asset-kits/day-1.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/milan-day-1.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/milan/kits/day-1.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/milan/kits/day-1.json"
+    }
+  ]
+}

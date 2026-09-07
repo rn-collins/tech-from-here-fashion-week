@@ -1,0 +1,538 @@
+{
+  "packageId": "shanghai-day-2",
+  "city": "Shanghai",
+  "day": 2,
+  "system": "Stage",
+  "title": "The factory becomes a fashion city",
+  "governingQuestion": "What happens when Shanghai turns textile infrastructure into public fashion space?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Shanghai",
+      "slug": "shanghai",
+      "file": "/assets/media/shanghai-fashion-week.jpg",
+      "title": "Photographer Wang Li at Shanghai Fashion Week",
+      "creator": "406618197yang",
+      "date": "2024-10-14",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+      "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/shanghai-day-2.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "SH-ROOM-THEN",
+          "sourceIds": [
+            "SH-GOV-YANGPU"
+          ]
+        },
+        {
+          "claimId": "SH-ROOM-NOW",
+          "sourceIds": [
+            "SH-GOV-SS26"
+          ]
+        },
+        {
+          "claimId": "SH-ROOM-NEXT",
+          "sourceIds": [
+            "SH-GOV-SS26",
+            "SH-SHFW-SCHEDULE"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The factory becomes a fashion city",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ROOM-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ROOM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ROOM-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The factory becomes a fashion city",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ROOM-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ROOM-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "shanghai-d2-graphic",
+          "asset": "/assets/evidence/shanghai-day-2.svg",
+          "source": "/shanghai/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-ROOM-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-ROOM-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+        "sourceIds": [
+          "SH-GOV-YANGPU"
+        ],
+        "credit": "406618197yang · CC BY 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+        "sourceIds": [
+          "SH-GOV-SS26"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+        "sourceIds": [
+          "SH-GOV-SS26",
+          "SH-SHFW-SCHEDULE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Shanghai — The factory becomes a fashion city",
+        "visual": "/assets/evidence/shanghai-day-2.svg",
+        "description": "What happens when Shanghai turns textile infrastructure into public fashion space?",
+        "alt": "Original evidence diagram for Shanghai day 2, The factory becomes a fashion city; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Stage is infrastructure",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The factory becomes a fashion city.",
+        "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+        "credit": "406618197yang · CC BY 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex.",
+        "sourceIds": [
+          "SH-GOV-YANGPU"
+        ],
+        "credit": "406618197yang · CC BY 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Shanghai’s fashion geography includes converted textile infrastructure: the municipal record traces the International Fashion Center from a 1920s–30s mill to a renovated fashion complex. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The municipal SS2026 notice describes Xintiandi’s main stages as modular structures with a dynamic visual system; this is an official programme claim, not an independent engineering audit.",
+        "sourceIds": [
+          "SH-GOV-SS26"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Show-level contracts, permits, power, rigging, accessibility plans, suppliers and technical drawings remain unverified unless a venue, producer or authority releases them.",
+        "sourceIds": [
+          "SH-GOV-SS26",
+          "SH-SHFW-SCHEDULE"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/shanghai-day-2.svg",
+        "caption": "Evidence chain for The factory becomes a fashion city."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/shanghai-day-2.svg",
+        "caption": "Shanghai / Stage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Documentary witness: Photographer Wang Li at Shanghai Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/shanghai/publication/day-2#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "SH-ROOM-THEN",
+        "sourceId": "SH-GOV-YANGPU",
+        "title": "Yangpu industrial heritage route",
+        "url": "https://english.shanghai.gov.cn/en-CityTour/20250325/100ec92cb0ba4c36b24c5af1d2564715.html",
+        "rights": "LINK-ONLY; page image rights not cleared"
+      },
+      {
+        "claimId": "SH-ROOM-NOW",
+        "sourceId": "SH-GOV-SS26",
+        "title": "上海时装周2026春夏发布 / SS2026 opening notice",
+        "url": "https://english.shanghai.gov.cn/en-ShanghaiWeeklyBulletin/20251009/3ab87fd7093f41899c5ee3433830deea.html",
+        "rights": "LINK-ONLY; government page media not copied"
+      },
+      {
+        "claimId": "SH-ROOM-NEXT",
+        "sourceId": "SH-GOV-SS26",
+        "title": "上海时装周2026春夏发布 / SS2026 opening notice",
+        "url": "https://english.shanghai.gov.cn/en-ShanghaiWeeklyBulletin/20251009/3ab87fd7093f41899c5ee3433830deea.html",
+        "rights": "LINK-ONLY; government page media not copied"
+      },
+      {
+        "claimId": "SH-ROOM-NEXT",
+        "sourceId": "SH-SHFW-SCHEDULE",
+        "title": "AW2026 上海时装周官方日程 / official schedule",
+        "url": "https://www.shanghaifashionweek.com/page/shfw/schedule?language=en",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "SHANGHAI-D2-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D2-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D2-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D2-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D2-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D2-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D2-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/shanghai/asset-kits/day-2.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/shanghai/asset-kits/day-2.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/shanghai-day-2.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/shanghai/kits/day-2.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/shanghai/kits/day-2.json"
+    }
+  ]
+}

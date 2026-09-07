@@ -1,0 +1,578 @@
+{
+  "packageId": "shanghai-day-7",
+  "city": "Shanghai",
+  "day": 7,
+  "system": "Memory",
+  "title": "Memory is distributed",
+  "governingQuestion": "What survives when fashion memory is split across institutions and commercial platforms?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Shanghai",
+      "slug": "shanghai",
+      "file": "/assets/media/shanghai-fashion-week.jpg",
+      "title": "Photographer Wang Li at Shanghai Fashion Week",
+      "creator": "406618197yang",
+      "date": "2024-10-14",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+      "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/shanghai-day-7.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "SH-MEMORY-THEN",
+          "sourceIds": [
+            "SH-DHU-MUSEUM",
+            "SH-SHARCHIVES"
+          ]
+        },
+        {
+          "claimId": "SH-MEMORY-NOW",
+          "sourceIds": [
+            "SH-SHFW-NEWS",
+            "SH-DHU-MUSEUM",
+            "SH-SHARCHIVES",
+            "SH-CNKI-FASHION"
+          ]
+        },
+        {
+          "claimId": "SH-MEMORY-NEXT",
+          "sourceIds": [
+            "SH-SHARCHIVES",
+            "SH-SHFW-NEWS"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / Memory is distributed",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-MEMORY-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-MEMORY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-MEMORY-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / Memory is distributed",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-MEMORY-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-MEMORY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "shanghai-d7-graphic",
+          "asset": "/assets/evidence/shanghai-day-7.svg",
+          "source": "/shanghai/publication/day-7#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-MEMORY-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-MEMORY-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows memory: The venue disappears, schedules change and links decay; preservation choices determine which technical history remains citable and contestable.",
+        "onScreen": "Then: Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+        "sourceIds": [
+          "SH-DHU-MUSEUM",
+          "SH-SHARCHIVES"
+        ],
+        "credit": "406618197yang · CC BY 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+        "sourceIds": [
+          "SH-SHFW-NEWS",
+          "SH-DHU-MUSEUM",
+          "SH-SHARCHIVES",
+          "SH-CNKI-FASHION"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+        "sourceIds": [
+          "SH-SHARCHIVES",
+          "SH-SHFW-NEWS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Shanghai — Memory is distributed",
+        "visual": "/assets/evidence/shanghai-day-7.svg",
+        "description": "What survives when fashion memory is split across institutions and commercial platforms?",
+        "alt": "Original evidence diagram for Shanghai day 7, Memory is distributed; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Memory is infrastructure",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to Memory is distributed.",
+        "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+        "credit": "406618197yang · CC BY 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows memory: The venue disappears, schedules change and links decay; preservation choices determine which technical history remains citable and contestable.",
+        "onScreen": "Then: Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory.",
+        "sourceIds": [
+          "SH-DHU-MUSEUM",
+          "SH-SHARCHIVES"
+        ],
+        "credit": "406618197yang · CC BY 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Donghua University’s textile-and-costume museum and the Shanghai Municipal Archives expose different institutional routes into material and civic memory. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Organizer news, university collections, archives, scholarship databases and commercial platforms preserve different fragments under different access and reuse rules.",
+        "sourceIds": [
+          "SH-SHFW-NEWS",
+          "SH-DHU-MUSEUM",
+          "SH-SHARCHIVES",
+          "SH-CNKI-FASHION"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No complete public archive was located that preserves every Shanghai show’s invitations, worker credits, venue plans, source files, rights, platform metrics and commercial outcomes.",
+        "sourceIds": [
+          "SH-SHARCHIVES",
+          "SH-SHFW-NEWS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/shanghai-day-7.svg",
+        "caption": "Evidence chain for Memory is distributed."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/shanghai-day-7.svg",
+        "caption": "Shanghai / Memory evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Documentary witness: Photographer Wang Li at Shanghai Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/shanghai/publication/day-7#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "SH-MEMORY-THEN",
+        "sourceId": "SH-DHU-MUSEUM",
+        "title": "Shanghai Museum of Textile and Costume",
+        "url": "https://english.dhu.edu.cn/te/",
+        "rights": "LINK-ONLY; item reuse not assumed"
+      },
+      {
+        "claimId": "SH-MEMORY-THEN",
+        "sourceId": "SH-SHARCHIVES",
+        "title": "上海市档案馆 / Shanghai Municipal Archives",
+        "url": "https://www.archives.sh.cn/",
+        "rights": "LINK-ONLY; item rights vary"
+      },
+      {
+        "claimId": "SH-MEMORY-NOW",
+        "sourceId": "SH-SHFW-NEWS",
+        "title": "上海时装周新闻 / organizer news",
+        "url": "https://www.shanghaifashionweek.com/page/news/index",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "SH-MEMORY-NOW",
+        "sourceId": "SH-DHU-MUSEUM",
+        "title": "Shanghai Museum of Textile and Costume",
+        "url": "https://english.dhu.edu.cn/te/",
+        "rights": "LINK-ONLY; item reuse not assumed"
+      },
+      {
+        "claimId": "SH-MEMORY-NOW",
+        "sourceId": "SH-SHARCHIVES",
+        "title": "上海市档案馆 / Shanghai Municipal Archives",
+        "url": "https://www.archives.sh.cn/",
+        "rights": "LINK-ONLY; item rights vary"
+      },
+      {
+        "claimId": "SH-MEMORY-NOW",
+        "sourceId": "SH-CNKI-FASHION",
+        "title": "China Academic Journals discovery",
+        "url": "https://oversea.cnki.net/",
+        "rights": "LINK-ONLY; paywall and item rights vary"
+      },
+      {
+        "claimId": "SH-MEMORY-NEXT",
+        "sourceId": "SH-SHARCHIVES",
+        "title": "上海市档案馆 / Shanghai Municipal Archives",
+        "url": "https://www.archives.sh.cn/",
+        "rights": "LINK-ONLY; item rights vary"
+      },
+      {
+        "claimId": "SH-MEMORY-NEXT",
+        "sourceId": "SH-SHFW-NEWS",
+        "title": "上海时装周新闻 / organizer news",
+        "url": "https://www.shanghaifashionweek.com/page/news/index",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "SHANGHAI-D7-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D7-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D7-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D7-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D7-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D7-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D7-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/shanghai/asset-kits/day-7.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/shanghai/asset-kits/day-7.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/shanghai-day-7.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/shanghai/kits/day-7.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/shanghai/kits/day-7.json"
+    }
+  ]
+}

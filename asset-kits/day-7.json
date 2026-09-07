@@ -1,0 +1,628 @@
+{
+  "packageId": "london-day-7",
+  "city": "London",
+  "day": 7,
+  "system": "Memory",
+  "title": "What the week leaves behind",
+  "governingQuestion": "What survives, who can reuse it, and what never entered the record?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "London",
+      "slug": "london",
+      "file": "/assets/media/london-fashion-week.jpg",
+      "title": "London Fashion Week SS2012 at Somerset House",
+      "creator": "Knox387",
+      "date": "2011-11-12",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+      "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/london-day-7.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "LON-MEMORY-THEN",
+          "sourceIds": [
+            "SRC-WAYBACK",
+            "SRC-VAM"
+          ]
+        },
+        {
+          "claimId": "LON-MEMORY-NOW",
+          "sourceIds": [
+            "SRC-LFW-SCHEDULE-2026",
+            "SRC-LFW-DIGITAL-2020",
+            "SRC-BFC-YT",
+            "SRC-VAM",
+            "SRC-WAYBACK"
+          ]
+        },
+        {
+          "claimId": "LON-MEMORY-NEXT",
+          "sourceIds": [
+            "SRC-BFC-PRESS",
+            "SRC-CMA"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / What the week leaves behind",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-MEMORY-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-MEMORY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-MEMORY-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / What the week leaves behind",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-MEMORY-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-MEMORY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "london-d7-graphic",
+          "asset": "/assets/evidence/london-day-7.svg",
+          "source": "/london/publication/day-7#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 7, What the week leaves behind; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-MEMORY-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-MEMORY-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows memory: The venue disappears, schedules change and links decay; preservation choices determine which technical history remains citable and contestable.",
+        "onScreen": "Then: The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.",
+        "sourceIds": [
+          "SRC-WAYBACK",
+          "SRC-VAM"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+        "sourceIds": [
+          "SRC-LFW-SCHEDULE-2026",
+          "SRC-LFW-DIGITAL-2020",
+          "SRC-BFC-YT",
+          "SRC-VAM",
+          "SRC-WAYBACK"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.",
+        "sourceIds": [
+          "SRC-BFC-PRESS",
+          "SRC-CMA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "London — What the week leaves behind",
+        "visual": "/assets/evidence/london-day-7.svg",
+        "description": "What survives, who can reuse it, and what never entered the record?",
+        "alt": "Original evidence diagram for London day 7, What the week leaves behind; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Memory is infrastructure",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to What the week leaves behind.",
+        "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+        "credit": "Knox387 · CC BY-SA 3.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows memory: The venue disappears, schedules change and links decay; preservation choices determine which technical history remains citable and contestable.",
+        "onScreen": "Then: The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.",
+        "sourceIds": [
+          "SRC-WAYBACK",
+          "SRC-VAM"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.",
+        "sourceIds": [
+          "SRC-LFW-SCHEDULE-2026",
+          "SRC-LFW-DIGITAL-2020",
+          "SRC-BFC-YT",
+          "SRC-VAM",
+          "SRC-WAYBACK"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-7.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.",
+        "sourceIds": [
+          "SRC-BFC-PRESS",
+          "SRC-CMA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/london-day-7.svg",
+        "caption": "Evidence chain for What the week leaves behind."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/london-day-7.svg",
+        "caption": "London / Memory evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "Documentary witness: London Fashion Week SS2012 at Somerset House."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/publication/day-7#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "LON-MEMORY-THEN",
+        "sourceId": "SRC-WAYBACK",
+        "title": "Wayback Machine",
+        "url": "https://web.archive.org/",
+        "rights": "LINK-ONLY; underlying works retain rights"
+      },
+      {
+        "claimId": "LON-MEMORY-THEN",
+        "sourceId": "SRC-VAM",
+        "title": "V&A Collections",
+        "url": "https://collections.vam.ac.uk/",
+        "rights": "ITEM-CHECK; this build links only"
+      },
+      {
+        "claimId": "LON-MEMORY-NOW",
+        "sourceId": "SRC-LFW-SCHEDULE-2026",
+        "title": "London Fashion Week September 2026 Schedule",
+        "url": "https://londonfashionweek.co.uk/schedule",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "LON-MEMORY-NOW",
+        "sourceId": "SRC-LFW-DIGITAL-2020",
+        "title": "London Fashion Week September 2020 Digital Schedule",
+        "url": "https://londonfashionweek.co.uk/schedule/174/digital-schedule",
+        "rights": "LINK-ONLY; page text cited, page imagery not reproduced"
+      },
+      {
+        "claimId": "LON-MEMORY-NOW",
+        "sourceId": "SRC-BFC-YT",
+        "title": "British Fashion Council channel",
+        "url": "https://www.youtube.com/@BritishFashionCouncil",
+        "rights": "EMBED-ONLY when offered; this build links only"
+      },
+      {
+        "claimId": "LON-MEMORY-NOW",
+        "sourceId": "SRC-VAM",
+        "title": "V&A Collections",
+        "url": "https://collections.vam.ac.uk/",
+        "rights": "ITEM-CHECK; this build links only"
+      },
+      {
+        "claimId": "LON-MEMORY-NOW",
+        "sourceId": "SRC-WAYBACK",
+        "title": "Wayback Machine",
+        "url": "https://web.archive.org/",
+        "rights": "LINK-ONLY; underlying works retain rights"
+      },
+      {
+        "claimId": "LON-MEMORY-NEXT",
+        "sourceId": "SRC-BFC-PRESS",
+        "title": "British Fashion Council — News",
+        "url": "https://www.britishfashioncouncil.co.uk/news",
+        "rights": "LINK-ONLY; exact article required to substantiate a positive historical or future claim"
+      },
+      {
+        "claimId": "LON-MEMORY-NEXT",
+        "sourceId": "SRC-CMA",
+        "title": "Green Claims Code",
+        "url": "https://greenclaims.campaign.gov.uk/",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "LONDON-D7-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C05",
+      "destinations": [
+        "reserve ledger",
+        "resources room"
+      ],
+      "exclusion": "reserve"
+    },
+    {
+      "candidateId": "LONDON-D7-C06",
+      "destinations": [
+        "reserve ledger",
+        "resources room"
+      ],
+      "exclusion": "reserve"
+    },
+    {
+      "candidateId": "LONDON-D7-C07",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C08",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C09",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C10",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D7-C11",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/asset-kits/day-7.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/asset-kits/day-7.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/london-day-7.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/kits/day-7.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/kits/day-7.json"
+    }
+  ]
+}

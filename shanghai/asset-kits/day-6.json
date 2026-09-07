@@ -1,0 +1,558 @@
+{
+  "packageId": "shanghai-day-6",
+  "city": "Shanghai",
+  "day": 6,
+  "system": "Commerce",
+  "title": "The garment acquires an identity",
+  "governingQuestion": "Which product facts are already regulated, and which future systems remain proposals?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Shanghai",
+      "slug": "shanghai",
+      "file": "/assets/media/shanghai-fashion-week.jpg",
+      "title": "Photographer Wang Li at Shanghai Fashion Week",
+      "creator": "406618197yang",
+      "date": "2024-10-14",
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+      "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/shanghai-day-6.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "SH-IDENTITY-THEN",
+          "sourceIds": [
+            "SH-SAMR-TEXTILE",
+            "SH-SAMR-LABEL"
+          ]
+        },
+        {
+          "claimId": "SH-IDENTITY-NOW",
+          "sourceIds": [
+            "SH-CNIPA"
+          ]
+        },
+        {
+          "claimId": "SH-IDENTITY-NEXT",
+          "sourceIds": [
+            "SH-SAMR-TEXTILE",
+            "SH-SAMR-LABEL",
+            "SH-CNIPA"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The garment acquires an identity",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-IDENTITY-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-IDENTITY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-IDENTITY-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Shanghai / The garment acquires an identity",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-IDENTITY-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-IDENTITY-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "shanghai-d6-graphic",
+          "asset": "/assets/evidence/shanghai-day-6.svg",
+          "source": "/shanghai/publication/day-6#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "SH-IDENTITY-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "shanghai-edition-witness",
+          "asset": "/assets/media/shanghai-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%91%84%E5%BD%B1%E5%B8%88%E7%8E%8B%E9%9B%B3%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E7%8E%B0%E5%9C%BA.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+          "credit": "406618197yang, Photographer Wang Li at Shanghai Fashion Week, 2024-10-14; CC BY 4.0",
+          "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+          "rights": "CC BY 4.0; recurring city witness, not day-specific proof",
+          "claimId": "SH-IDENTITY-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.",
+        "onScreen": "Then: China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+        "sourceIds": [
+          "SH-SAMR-TEXTILE",
+          "SH-SAMR-LABEL"
+        ],
+        "credit": "406618197yang · CC BY 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+        "sourceIds": [
+          "SH-CNIPA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+        "sourceIds": [
+          "SH-SAMR-TEXTILE",
+          "SH-SAMR-LABEL",
+          "SH-CNIPA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Shanghai — The garment acquires an identity",
+        "visual": "/assets/evidence/shanghai-day-6.svg",
+        "description": "Which product facts are already regulated, and which future systems remain proposals?",
+        "alt": "Original evidence diagram for Shanghai day 6, The garment acquires an identity; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Commerce is infrastructure",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The garment acquires an identity.",
+        "alt": "Photographer Wang Li works amid the crowd at Shanghai Fashion Week in 2024.",
+        "credit": "406618197yang · CC BY 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/shanghai-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.",
+        "onScreen": "Then: China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.",
+        "sourceIds": [
+          "SH-SAMR-TEXTILE",
+          "SH-SAMR-LABEL"
+        ],
+        "credit": "406618197yang · CC BY 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/shanghai-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.",
+        "sourceIds": [
+          "SH-CNIPA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/shanghai-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.",
+        "sourceIds": [
+          "SH-SAMR-TEXTILE",
+          "SH-SAMR-LABEL",
+          "SH-CNIPA"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/shanghai-day-6.svg",
+        "caption": "Evidence chain for The garment acquires an identity."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Photographer Wang Li at Shanghai Fashion Week, 2024. The operator is visible inside the image system usually experienced only through its outputs. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/shanghai-day-6.svg",
+        "caption": "Shanghai / Commerce evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/shanghai-fashion-week.jpg",
+        "caption": "Documentary witness: Photographer Wang Li at Shanghai Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/shanghai/publication/day-6#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "SH-IDENTITY-THEN",
+        "sourceId": "SH-SAMR-TEXTILE",
+        "title": "GB 18401—National General Safety Technical Code for Textile Products",
+        "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=52D14BD6E18746A0B355298D8FCE82AF",
+        "rights": "PUBLIC STANDARD METADATA; LINK-ONLY"
+      },
+      {
+        "claimId": "SH-IDENTITY-THEN",
+        "sourceId": "SH-SAMR-LABEL",
+        "title": "GB/T 5296.4—Instructions for use of textiles and apparel",
+        "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1DD9718D84998A0055C36C94E5B91C86",
+        "rights": "PUBLIC STANDARD METADATA; LINK-ONLY"
+      },
+      {
+        "claimId": "SH-IDENTITY-NOW",
+        "sourceId": "SH-CNIPA",
+        "title": "中国商标网 / China Trademark Office search",
+        "url": "https://wcjs.sbj.cnipa.gov.cn/",
+        "rights": "INTERACTIVE LINK; exact result required before asserting a mark"
+      },
+      {
+        "claimId": "SH-IDENTITY-NEXT",
+        "sourceId": "SH-SAMR-TEXTILE",
+        "title": "GB 18401—National General Safety Technical Code for Textile Products",
+        "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=52D14BD6E18746A0B355298D8FCE82AF",
+        "rights": "PUBLIC STANDARD METADATA; LINK-ONLY"
+      },
+      {
+        "claimId": "SH-IDENTITY-NEXT",
+        "sourceId": "SH-SAMR-LABEL",
+        "title": "GB/T 5296.4—Instructions for use of textiles and apparel",
+        "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1DD9718D84998A0055C36C94E5B91C86",
+        "rights": "PUBLIC STANDARD METADATA; LINK-ONLY"
+      },
+      {
+        "claimId": "SH-IDENTITY-NEXT",
+        "sourceId": "SH-CNIPA",
+        "title": "中国商标网 / China Trademark Office search",
+        "url": "https://wcjs.sbj.cnipa.gov.cn/",
+        "rights": "INTERACTIVE LINK; exact result required before asserting a mark"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "SHANGHAI-D6-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D6-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D6-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D6-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D6-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D6-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "SHANGHAI-D6-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/shanghai/asset-kits/day-6.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/shanghai/asset-kits/day-6.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/shanghai-day-6.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/shanghai/kits/day-6.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/shanghai/kits/day-6.json"
+    }
+  ]
+}

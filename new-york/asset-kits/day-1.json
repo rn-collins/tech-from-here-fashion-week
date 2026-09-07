@@ -1,0 +1,554 @@
+{
+  "packageId": "new-york-day-1",
+  "city": "New York",
+  "day": 1,
+  "system": "Access",
+  "title": "The calendar is a control surface",
+  "governingQuestion": "Who gets a slot on New York’s official clock—and what does the interface make visible?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "New York",
+      "slug": "new-york",
+      "file": "/assets/media/nyc-fashion-week.jpg",
+      "title": "NY Fashion Week",
+      "creator": "Anisa C",
+      "date": "2016-02-18",
+      "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "A guest photographed outside New York Fashion Week in 2016.",
+      "caption": "A photographed arrival outside New York Fashion Week, 2016. Street-style circulation is evidence of the week’s image economy, not documentation of an official show.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/new-york-day-1.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "NYC-CALENDAR-THEN",
+          "sourceIds": [
+            "NY-CFDA-2026"
+          ]
+        },
+        {
+          "claimId": "NYC-CALENDAR-NOW",
+          "sourceIds": [
+            "NY-CFDA-OWN",
+            "NY-CFDA-APP"
+          ]
+        },
+        {
+          "claimId": "NYC-CALENDAR-NEXT",
+          "sourceIds": [
+            "NY-CFDA-2026"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "New York / The calendar is a control surface",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-CALENDAR-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-CALENDAR-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-CALENDAR-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "New York / The calendar is a control surface",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-CALENDAR-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-CALENDAR-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "new-york-d1-graphic",
+          "asset": "/assets/evidence/new-york-day-1.svg",
+          "source": "/new-york/publication/day-1#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "NYC-CALENDAR-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "new-york-edition-witness",
+          "asset": "/assets/media/nyc-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:NY_Fashion_Week_(24844317580).jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+          "credit": "Anisa C, NY Fashion Week, 2016-02-18; CC BY 2.0",
+          "alt": "A guest photographed outside New York Fashion Week in 2016.",
+          "rights": "CC BY 2.0; recurring city witness, not day-specific proof",
+          "claimId": "NYC-CALENDAR-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/nyc-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. This chapter follows access: The decisive technology is not the door but the stack of schedule, accreditation, invitation and identity checks that precedes it.",
+        "onScreen": "Then: A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+        "sourceIds": [
+          "NY-CFDA-2026"
+        ],
+        "credit": "Anisa C · CC BY 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/new-york-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+        "sourceIds": [
+          "NY-CFDA-OWN",
+          "NY-CFDA-APP"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/new-york-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+        "sourceIds": [
+          "NY-CFDA-2026"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "New York — The calendar is a control surface",
+        "visual": "/assets/evidence/new-york-day-1.svg",
+        "description": "Who gets a slot on New York’s official clock—and what does the interface make visible?",
+        "alt": "Original evidence diagram for New York day 1, The calendar is a control surface; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Access is infrastructure",
+        "visual": "/assets/media/nyc-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The calendar is a control surface.",
+        "alt": "A guest photographed outside New York Fashion Week in 2016.",
+        "credit": "Anisa C · CC BY 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/nyc-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. This chapter follows access: The decisive technology is not the door but the stack of schedule, accreditation, invitation and identity checks that precedes it.",
+        "onScreen": "Then: A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time.",
+        "sourceIds": [
+          "NY-CFDA-2026"
+        ],
+        "credit": "Anisa C · CC BY 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/new-york-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "A CFDA history note dates Ruth Finley’s Fashion Calendar to 1945; its scarce resource was not a seat but coordinated industry time. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The CFDA says it acquired the Fashion Calendar in 2014, owns and organizes the official schedule, and uses a formal inclusion application.",
+        "sourceIds": [
+          "NY-CFDA-OWN",
+          "NY-CFDA-APP"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/new-york-day-1.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Beyond the announced September 2026 dates and preliminary lineup, no later official schedule architecture is treated here as settled.",
+        "sourceIds": [
+          "NY-CFDA-2026"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/new-york-day-1.svg",
+        "caption": "Evidence chain for The calendar is a control surface."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/nyc-fashion-week.jpg",
+        "caption": "A photographed arrival outside New York Fashion Week, 2016. Street-style circulation is evidence of the week’s image economy, not documentation of an official show. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/new-york-day-1.svg",
+        "caption": "New York / Access evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/nyc-fashion-week.jpg",
+        "caption": "Documentary witness: NY Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/new-york/publication/day-1#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "NYC-CALENDAR-THEN",
+        "sourceId": "NY-CFDA-2026",
+        "title": "Preliminary September 2026 Official NYFW Schedule",
+        "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "NYC-CALENDAR-NOW",
+        "sourceId": "NY-CFDA-OWN",
+        "title": "New York Fashion Week",
+        "url": "https://cfda.com/home/nyfw/",
+        "rights": "LINK-ONLY; text cited, media not reproduced"
+      },
+      {
+        "claimId": "NYC-CALENDAR-NOW",
+        "sourceId": "NY-CFDA-APP",
+        "title": "September 2026 Official NYFW Schedule Application",
+        "url": "https://cfda.com/news/the-september-2026-official-nyfw-schedule-application-is-open/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "NYC-CALENDAR-NEXT",
+        "sourceId": "NY-CFDA-2026",
+        "title": "Preliminary September 2026 Official NYFW Schedule",
+        "url": "https://cfda.com/news/view-the-preliminary-september-2026-official-nyfw-schedule/",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "NEW-YORK-D1-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C07",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "NEW-YORK-D1-C08",
+      "destinations": [
+        "reserve ledger",
+        "resources room"
+      ],
+      "exclusion": "reserve"
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/new-york/asset-kits/day-1.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/new-york/asset-kits/day-1.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/new-york-day-1.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/new-york/kits/day-1.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/new-york/kits/day-1.json"
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "packageId": "milan-day-5",
+  "city": "Milan",
+  "day": 5,
+  "system": "Backstage",
+  "title": "Eight hundred showrooms become a network",
+  "governingQuestion": "How does Milan convert spectacle into an order?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Milan",
+      "slug": "milan",
+      "file": "/assets/media/milan-fashion-week.jpg",
+      "title": "Milan Fashion Week",
+      "creator": "br1dotcom",
+      "date": "2010-02-24",
+      "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+      "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface.",
+      "crop": "landscape",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/milan-day-5.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "MI-ORDER-THEN",
+          "sourceIds": [
+            "MI-CNMI-JUNE"
+          ]
+        },
+        {
+          "claimId": "MI-ORDER-NOW",
+          "sourceIds": [
+            "MI-CNMI-SHOWROOM"
+          ]
+        },
+        {
+          "claimId": "MI-ORDER-NEXT",
+          "sourceIds": [
+            "MI-CNMI-SHOWROOM"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / Eight hundred showrooms become a network",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ORDER-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ORDER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ORDER-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Milan / Eight hundred showrooms become a network",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ORDER-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ORDER-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "milan-d5-graphic",
+          "asset": "/assets/evidence/milan-day-5.svg",
+          "source": "/milan/publication/day-5#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "MI-ORDER-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "milan-edition-witness",
+          "asset": "/assets/media/milan-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:Milan_Fashion_Week_1.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+          "credit": "br1dotcom, Milan Fashion Week, 2010-02-24; CC BY-SA 2.0",
+          "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+          "rights": "CC BY-SA 2.0; recurring city witness, not day-specific proof",
+          "claimId": "MI-ORDER-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+        "sourceIds": [
+          "MI-CNMI-JUNE"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+        "sourceIds": [
+          "MI-CNMI-SHOWROOM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+        "sourceIds": [
+          "MI-CNMI-SHOWROOM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Milan — Eight hundred showrooms become a network",
+        "visual": "/assets/evidence/milan-day-5.svg",
+        "description": "How does Milan convert spectacle into an order?",
+        "alt": "Original evidence diagram for Milan day 5, Eight hundred showrooms become a network; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Backstage is infrastructure",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to Eight hundred showrooms become a network.",
+        "alt": "A model walks a brightly lit runway during Milan Fashion Week in 2010.",
+        "credit": "br1dotcom · CC BY-SA 2.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/milan-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. This chapter follows backstage coordination: The same field that helps a show run—a name, measurement, image, availability or location—can also make labor newly trackable and extractable.",
+        "onScreen": "Then: In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September.",
+        "sourceIds": [
+          "MI-CNMI-JUNE"
+        ],
+        "credit": "br1dotcom · CC BY-SA 2.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/milan-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "In March 2020 CNMI said Milan’s 800 showrooms would participate in new B2B and B2C storytelling as menswear moved to September. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: CNMI’s Fashion Showroom surface makes market discovery public, but does not expose private orders, prices, sell-through or customer records.",
+        "sourceIds": [
+          "MI-CNMI-SHOWROOM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/milan-day-5.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: Which wholesale, ERP or clienteling system converts any named future show into orders remains private unless a brand or vendor documents it.",
+        "sourceIds": [
+          "MI-CNMI-SHOWROOM"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/milan-day-5.svg",
+        "caption": "Evidence chain for Eight hundred showrooms become a network."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "A Milan runway in 2010: temporary architecture, lighting, image production and spectators assembled into one operating surface. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/milan-day-5.svg",
+        "caption": "Milan / Backstage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/milan-fashion-week.jpg",
+        "caption": "Documentary witness: Milan Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/milan/publication/day-5#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "MI-ORDER-THEN",
+        "sourceId": "MI-CNMI-JUNE",
+        "title": "Milano Moda Uomo moves to September",
+        "url": "https://www.cameramoda.it/en/associazione/news/1598/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "MI-ORDER-NOW",
+        "sourceId": "MI-CNMI-SHOWROOM",
+        "title": "Milano Moda Main virtual showroom archive",
+        "url": "https://www.cameramoda.it/en/milano-moda-main/",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "MI-ORDER-NEXT",
+        "sourceId": "MI-CNMI-SHOWROOM",
+        "title": "Milano Moda Main virtual showroom archive",
+        "url": "https://www.cameramoda.it/en/milano-moda-main/",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "MILAN-D5-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D5-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D5-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D5-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D5-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D5-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "MILAN-D5-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/milan/asset-kits/day-5.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/milan/asset-kits/day-5.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/milan-day-5.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/milan/kits/day-5.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/milan/kits/day-5.json"
+    }
+  ]
+}

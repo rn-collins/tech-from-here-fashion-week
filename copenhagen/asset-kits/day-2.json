@@ -1,0 +1,548 @@
+{
+  "packageId": "copenhagen-day-2",
+  "city": "Copenhagen",
+  "day": 2,
+  "system": "Stage",
+  "title": "The calendar allocates attention",
+  "governingQuestion": "How does one schedule distribute time, visibility and permission across a city?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "Copenhagen",
+      "slug": "copenhagen",
+      "file": "/assets/media/copenhagen-fashion-week.jpg",
+      "title": "Scandinavian Academy of Fashion Design at Copenhagen Fashion Week",
+      "creator": "Scandinavian Academy of Fashion Design",
+      "date": "2017-03-08",
+      "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+      "caption": "A Scandinavian Academy of Fashion Design presentation at Copenhagen Fashion Week, 2017. The image documents a runway appearance, not compliance with later Minimum Standards.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/copenhagen-day-2.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "CPH-TIME-THEN",
+          "sourceIds": [
+            "CPH-EVENTS",
+            "CPH-SCHEDULE"
+          ]
+        },
+        {
+          "claimId": "CPH-TIME-NOW",
+          "sourceIds": [
+            "CPH-EVENTS"
+          ]
+        },
+        {
+          "claimId": "CPH-TIME-NEXT",
+          "sourceIds": [
+            "CPH-SCHEDULE",
+            "CPH-EVENTS"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Copenhagen / The calendar allocates attention",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-TIME-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-TIME-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-TIME-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Copenhagen / The calendar allocates attention",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-TIME-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-TIME-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "copenhagen-d2-graphic",
+          "asset": "/assets/evidence/copenhagen-day-2.svg",
+          "source": "/copenhagen/publication/day-2#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "CPH-TIME-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "copenhagen-edition-witness",
+          "asset": "/assets/media/copenhagen-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:SAFD_Copenhagen_Fashion_Week.jpg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+          "credit": "Scandinavian Academy of Fashion Design, Scandinavian Academy of Fashion Design at Copenhagen Fashion Week, 2017-03-08; CC BY-SA 4.0",
+          "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+          "rights": "CC BY-SA 4.0; recurring city witness, not day-specific proof",
+          "claimId": "CPH-TIME-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+        "sourceIds": [
+          "CPH-EVENTS",
+          "CPH-SCHEDULE"
+        ],
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/copenhagen-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+        "sourceIds": [
+          "CPH-EVENTS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/copenhagen-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+        "sourceIds": [
+          "CPH-SCHEDULE",
+          "CPH-EVENTS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "Copenhagen — The calendar allocates attention",
+        "visual": "/assets/evidence/copenhagen-day-2.svg",
+        "description": "How does one schedule distribute time, visibility and permission across a city?",
+        "alt": "Original evidence diagram for Copenhagen day 2, The calendar allocates attention; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Stage is infrastructure",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to The calendar allocates attention.",
+        "alt": "A model in a dark sculptural garment walks a Copenhagen Fashion Week runway.",
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/copenhagen-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. This chapter follows staging: Atmosphere is engineered through temporary architecture, power, light, sound, seating, cueing, safety and teardown—then edited out of the effortless final image.",
+        "onScreen": "Then: The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+        "sourceIds": [
+          "CPH-EVENTS",
+          "CPH-SCHEDULE"
+        ],
+        "credit": "Scandinavian Academy of Fashion Design · CC BY-SA 4.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/copenhagen-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+        "sourceIds": [
+          "CPH-EVENTS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/copenhagen-day-2.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+        "sourceIds": [
+          "CPH-SCHEDULE",
+          "CPH-EVENTS"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/copenhagen-day-2.svg",
+        "caption": "Evidence chain for The calendar allocates attention."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/copenhagen-fashion-week.jpg",
+        "caption": "A Scandinavian Academy of Fashion Design presentation at Copenhagen Fashion Week, 2017. The image documents a runway appearance, not compliance with later Minimum Standards. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/copenhagen-day-2.svg",
+        "caption": "Copenhagen / Stage evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/copenhagen-fashion-week.jpg",
+        "caption": "Documentary witness: Scandinavian Academy of Fashion Design at Copenhagen Fashion Week."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/copenhagen/publication/day-2#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "CPH-TIME-THEN",
+        "sourceId": "CPH-EVENTS",
+        "title": "Event & Talk Schedule Information",
+        "url": "https://copenhagenfashionweek.com/application/event-talk-schedule-information",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "CPH-TIME-THEN",
+        "sourceId": "CPH-SCHEDULE",
+        "title": "Official Schedule — SS27",
+        "url": "https://copenhagenfashionweek.com/schedule",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "CPH-TIME-NOW",
+        "sourceId": "CPH-EVENTS",
+        "title": "Event & Talk Schedule Information",
+        "url": "https://copenhagenfashionweek.com/application/event-talk-schedule-information",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "CPH-TIME-NEXT",
+        "sourceId": "CPH-SCHEDULE",
+        "title": "Official Schedule — SS27",
+        "url": "https://copenhagenfashionweek.com/schedule",
+        "rights": "LINK-ONLY"
+      },
+      {
+        "claimId": "CPH-TIME-NEXT",
+        "sourceId": "CPH-EVENTS",
+        "title": "Event & Talk Schedule Information",
+        "url": "https://copenhagenfashionweek.com/application/event-talk-schedule-information",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "COPENHAGEN-D2-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D2-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D2-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D2-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D2-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D2-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "COPENHAGEN-D2-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/copenhagen/asset-kits/day-2.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/copenhagen/asset-kits/day-2.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/copenhagen-day-2.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/copenhagen/kits/day-2.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/copenhagen/kits/day-2.json"
+    }
+  ]
+}

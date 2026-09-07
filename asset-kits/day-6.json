@@ -1,0 +1,538 @@
+{
+  "packageId": "london-day-6",
+  "city": "London",
+  "day": 6,
+  "system": "Commerce",
+  "title": "From attention to object",
+  "governingQuestion": "Where does the runway meet the order—and who owns the data?",
+  "version": "3.0 asset-ready",
+  "checked": "2026-09-07",
+  "rightsBoundary": "Protected invitations, films, backstage photography and organizer interfaces remain authorized-embed, link-only, or permission candidates. No reproduction right is inferred from public access.",
+  "assets": {
+    "recurringWitness": {
+      "city": "London",
+      "slug": "london",
+      "file": "/assets/media/london-fashion-week.jpg",
+      "title": "London Fashion Week SS2012 at Somerset House",
+      "creator": "Knox387",
+      "date": "2011-11-12",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+      "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door.",
+      "crop": "portrait",
+      "limitation": "City context only; never presented as day-specific evidence"
+    },
+    "originalEvidenceGraphic": {
+      "file": "/assets/evidence/london-day-6.svg",
+      "format": "SVG",
+      "dimensions": "1600 × 1000 viewBox",
+      "rights": "Original editorial graphic © 2026 Rayven-Nikkita Collins",
+      "basis": [
+        {
+          "claimId": "LON-COMMERCE-THEN",
+          "sourceIds": [
+            "SRC-VAM"
+          ]
+        },
+        {
+          "claimId": "LON-COMMERCE-NOW",
+          "sourceIds": [
+            "SRC-BFC-WEB-ITT-2021"
+          ]
+        },
+        {
+          "claimId": "LON-COMMERCE-NEXT",
+          "sourceIds": [
+            "SRC-EU-ESPR",
+            "SRC-GS1"
+          ]
+        }
+      ]
+    }
+  },
+  "instagram": {
+    "carouselA": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / From attention to object",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-COMMERCE-THEN"
+        },
+        {
+          "frame": 2,
+          "role": "mechanism",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "detail crop 3; preserve labels and footer credit",
+          "caption": "The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "operator",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-NEXT"
+        },
+        {
+          "frame": 4,
+          "role": "record",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "detail crop 2; preserve labels and footer credit",
+          "caption": "Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-THEN"
+        },
+        {
+          "frame": 5,
+          "role": "counterpoint",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-COMMERCE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "future test",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "detail crop 1; preserve labels and footer credit",
+          "caption": "The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-NEXT"
+        },
+        {
+          "frame": 7,
+          "role": "rights boundary",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "full diagram; preserve labels and footer credit",
+          "caption": "Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-THEN"
+        },
+        {
+          "frame": 8,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-COMMERCE-NOW"
+        }
+      ]
+    },
+    "carouselB": {
+      "format": "1080 × 1350",
+      "frames": [
+        {
+          "frame": 1,
+          "role": "closing question",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "London / From attention to object",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-COMMERCE-NEXT"
+        },
+        {
+          "frame": 2,
+          "role": "rights boundary",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; mechanism view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-NOW"
+        },
+        {
+          "frame": 3,
+          "role": "future test",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; operator view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-THEN"
+        },
+        {
+          "frame": 4,
+          "role": "counterpoint",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; record view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-NEXT"
+        },
+        {
+          "frame": 5,
+          "role": "record",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "4:5 vertical crop; do not imply day-specific documentation",
+          "caption": "The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-COMMERCE-NOW"
+        },
+        {
+          "frame": 6,
+          "role": "operator",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "alternate detail crop; preserve labels and footer credit",
+          "caption": "Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; future test view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-THEN"
+        },
+        {
+          "frame": 7,
+          "role": "mechanism",
+          "assetId": "london-d6-graphic",
+          "asset": "/assets/evidence/london-day-6.svg",
+          "source": "/london/publication/day-6#evidence-graphic",
+          "crop": "alternate wide crop; preserve labels and footer credit",
+          "caption": "The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.",
+          "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger",
+          "alt": "Original evidence diagram for London day 6, From attention to object; rights boundary view.",
+          "rights": "Original editorial graphic; reusable with attribution",
+          "claimId": "LON-COMMERCE-NEXT"
+        },
+        {
+          "frame": 8,
+          "role": "threshold",
+          "assetId": "london-edition-witness",
+          "asset": "/assets/media/london-fashion-week.jpg",
+          "source": "https://commons.wikimedia.org/wiki/File:London_Fashion_Week.jpeg",
+          "crop": "16:9 contextual crop; do not imply day-specific documentation",
+          "caption": "The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+          "credit": "Knox387, London Fashion Week SS2012 at Somerset House, 2011-11-12; CC BY-SA 3.0",
+          "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+          "rights": "CC BY-SA 3.0; recurring city witness, not day-specific proof",
+          "claimId": "LON-COMMERCE-NOW"
+        }
+      ]
+    }
+  },
+  "verticalVideo": {
+    "format": "1080 × 1920",
+    "platforms": [
+      "Instagram Reels",
+      "TikTok",
+      "YouTube Shorts"
+    ],
+    "beats": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.",
+        "onScreen": "Then: Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.",
+        "sourceIds": [
+          "SRC-VAM"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+        "sourceIds": [
+          "SRC-BFC-WEB-ITT-2021"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.",
+        "sourceIds": [
+          "SRC-EU-ESPR",
+          "SRC-GS1"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger"
+      }
+    ]
+  },
+  "pinterest": {
+    "format": "1000 × 1500",
+    "pins": [
+      {
+        "title": "London — From attention to object",
+        "visual": "/assets/evidence/london-day-6.svg",
+        "description": "Where does the runway meet the order—and who owns the data?",
+        "alt": "Original evidence diagram for London day 6, From attention to object; mechanism view.",
+        "credit": "Graphic: Rayven-Nikkita Collins; based on the package claim ledger"
+      },
+      {
+        "title": "Commerce is infrastructure",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "description": "A city witness and evidence-led introduction to From attention to object.",
+        "alt": "People gathered beneath the London Fashion Week entrance at Somerset House.",
+        "credit": "Knox387 · CC BY-SA 3.0; city context only"
+      }
+    ]
+  },
+  "youtube": {
+    "format": "1920 × 1080",
+    "timeline": [
+      {
+        "beat": 1,
+        "duration": "0–12s",
+        "visual": "/assets/media/london-fashion-week.jpg",
+        "direction": "Use the recurring witness with an on-screen disclaimer: CITY CONTEXT / NOT DAY-SPECIFIC.",
+        "voice": "London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.",
+        "onScreen": "Then: Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.",
+        "sourceIds": [
+          "SRC-VAM"
+        ],
+        "credit": "Knox387 · CC BY-SA 3.0",
+        "timecode": "00:00",
+        "treatment": "Documentary witness + limitation label"
+      },
+      {
+        "beat": 2,
+        "duration": "12–24s",
+        "visual": "/assets/evidence/london-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.",
+        "onScreen": "Now: The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.",
+        "sourceIds": [
+          "SRC-BFC-WEB-ITT-2021"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "01:00",
+        "treatment": "Evidence diagram state/detail crop"
+      },
+      {
+        "beat": 3,
+        "duration": "24–36s",
+        "visual": "/assets/evidence/london-day-6.svg",
+        "direction": "Animate only line reveals and state changes in the original evidence diagram.",
+        "voice": "The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.",
+        "onScreen": "Next: The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.",
+        "sourceIds": [
+          "SRC-EU-ESPR",
+          "SRC-GS1"
+        ],
+        "credit": "Graphic © Rayven-Nikkita Collins; sources in claim ledger",
+        "timecode": "02:00",
+        "treatment": "Evidence diagram state/detail crop"
+      }
+    ]
+  },
+  "inlineMedia": {
+    "beehiiv": [
+      {
+        "position": "after lede",
+        "asset": "/assets/evidence/london-day-6.svg",
+        "caption": "Evidence chain for From attention to object."
+      },
+      {
+        "position": "before sources",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "The public-facing threshold of London Fashion Week at Somerset House, 2011. The photograph shows arrival infrastructure—not access beyond the door. City context only."
+      }
+    ],
+    "linkedin": [
+      {
+        "position": "lead",
+        "asset": "/assets/evidence/london-day-6.svg",
+        "caption": "London / Commerce evidence chain."
+      },
+      {
+        "position": "comment/source card",
+        "asset": "/assets/media/london-fashion-week.jpg",
+        "caption": "Documentary witness: London Fashion Week SS2012 at Somerset House."
+      }
+    ]
+  },
+  "interactiveResources": {
+    "tool": {
+      "name": "Evidence Fitting",
+      "route": "/publication/day-6#tool",
+      "storage": "none"
+    },
+    "resources": [
+      {
+        "claimId": "LON-COMMERCE-THEN",
+        "sourceId": "SRC-VAM",
+        "title": "V&A Collections",
+        "url": "https://collections.vam.ac.uk/",
+        "rights": "ITEM-CHECK; this build links only"
+      },
+      {
+        "claimId": "LON-COMMERCE-NOW",
+        "sourceId": "SRC-BFC-WEB-ITT-2021",
+        "title": "London Fashion Week Web Development Invitation to Tender, July 2021",
+        "url": "https://www.britishfashioncouncil.co.uk/uploads/files/1/LFW%20Web%20Development%20ITT%20July%202021%20v2.pdf",
+        "rights": "LINK-ONLY; document text cited, PDF not reproduced"
+      },
+      {
+        "claimId": "LON-COMMERCE-NEXT",
+        "sourceId": "SRC-EU-ESPR",
+        "title": "Regulation (EU) 2024/1781 — CELEX 32024R1781",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1781",
+        "rights": "LINK-ONLY in this build; official legal text is the primary authority"
+      },
+      {
+        "claimId": "LON-COMMERCE-NEXT",
+        "sourceId": "SRC-GS1",
+        "title": "GS1 Digital Link",
+        "url": "https://www.gs1.org/standards/gs1-digital-link",
+        "rights": "LINK-ONLY"
+      }
+    ]
+  },
+  "candidateDestinations": [
+    {
+      "candidateId": "LONDON-D6-W01",
+      "destinations": [
+        "exhibition sequence",
+        "both Instagram carousels",
+        "Reels/Shorts context",
+        "Pinterest",
+        "YouTube",
+        "Beehiiv",
+        "LinkedIn",
+        "media library"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D6-C01",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D6-C02",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D6-C03",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D6-C04",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D6-C05",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    },
+    {
+      "candidateId": "LONDON-D6-C06",
+      "destinations": [
+        "resources room",
+        "source controls"
+      ],
+      "exclusion": null
+    }
+  ],
+  "downloads": [
+    {
+      "label": "Asset kit JSON",
+      "href": "/asset-kits/day-6.json"
+    },
+    {
+      "label": "Asset kit Markdown",
+      "href": "/asset-kits/day-6.md"
+    },
+    {
+      "label": "Evidence graphic SVG",
+      "href": "/assets/evidence/london-day-6.svg"
+    },
+    {
+      "label": "Editorial package Markdown",
+      "href": "/kits/day-6.md"
+    },
+    {
+      "label": "Editorial package JSON",
+      "href": "/kits/day-6.json"
+    }
+  ]
+}
