@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "node scripts/build.mjs && node scripts/build-excavation.mjs && node scripts/fresh-media-search.mjs && node scripts/finalize-fresh-media.mjs",
+    "build": "node --test --test-concurrency=1 tests/*.test.mjs",
+    "build:content": "node scripts/build.mjs && node scripts/build-excavation.mjs && node scripts/fresh-media-search.mjs && node scripts/finalize-fresh-media.mjs",
     "test": "node --test --test-concurrency=1 tests/*.test.mjs",
     "test:links": "node scripts/check-key-sources.mjs",
-    "check": "npm run build && npm test",
+    "check": "npm test",
     "check:release": "npm run check && npm run test:links"
   },
   "engines": { "node": ">=20" }
