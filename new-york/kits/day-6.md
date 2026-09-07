@@ -1,107 +1,202 @@
 # TFH-NYC-D6 — The show begins in the directory
 
-**Status:** evidence-backed draft; recording, named interviews and owner-final approval remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Which databases connect a New York idea to the people and materials that can make it?
 
-## Finished long-form essay
+## Canonical essay
 
-### The show begins in the directory
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The show starts upstream—in the databases that connect ideas to makers and materials. The evidence reveals a system of coordination rather than a single machine.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
 
-### Manufacturing as search
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
+The present layer is narrower and more useful when it keeps attribution attached. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
 
-Evidence: NYC-PRODUCTION-THEN
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### Materials as a database
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
+The future record requires the greatest restraint. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
 
-Evidence: NYC-PRODUCTION-NOW
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### Show-to-sales infrastructure
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Evidence: NYC-PRODUCTION-NEXT
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-### Brand-level proof still needed
+## Long-form video script
 
-CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
+**1. Cold open** — New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Evidence: NYC-PRODUCTION-THEN
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
 
-## Finished vertical script
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-1. The show starts upstream—in the databases that connect ideas to makers and materials.
-2. Manufacturing as search.
-3. Materials as a database.
-4. Show-to-sales infrastructure.
-5. Brand-level proof still needed.
-6. The unresolved edge: Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
-7. Open the evidence edition; every source and permission is attached.
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
 
-## Seven-frame carousel
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-1. The show starts upstream—in the databases that connect ideas to makers and materials.
-2. Manufacturing as search.
-3. Materials as a database.
-4. Show-to-sales infrastructure.
-5. Brand-level proof still needed.
-6. The unresolved edge: Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
-7. Open the evidence edition; every source and permission is attached.
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-## Instagram
+**7. Next** — The future record requires the greatest restraint. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
 
-The show starts upstream—in the databases that connect ideas to makers and materials. Seven receipts trace manufacturing discovery, materials, wholesale readiness through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Audio edition
+
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Three vertical scripts
+
+### Short 1
+
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The present layer is narrower and more useful when it keeps attribution attached. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
+
+The future record requires the greatest restraint. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+### Short 2
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+### Short 3
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Instagram carousel
+
+1. New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** New York / The show begins in the directory
+
+**Description:** Which databases connect a New York idea to the people and materials that can make it? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for New York, day 6: The show begins in the directory.
 
 ## LinkedIn
 
-The show starts upstream—in the databases that connect ideas to makers and materials.
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Manufacturing as search. Materials as a database. Show-to-sales infrastructure. Brand-level proof still needed.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
 
-The point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Newsletter
+The present layer is narrower and more useful when it keeps attribution attached. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
 
-**New York 06 — The show begins in the directory**
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-Which databases connect a New York idea to the people and materials that can make it?
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-## YouTube
+The future record requires the greatest restraint. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
 
-Day 6 of Tech From Here × New York Fashion Week examines manufacturing discovery, materials, wholesale readiness. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/06-production-commerce
+## Beehiiv
 
-## Interactive
+**Subject:** New York 06 — The show begins in the directory
 
-A keyboard-operable “production-commerce ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-## Selected documentary object
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing.
 
-Production Directory — open discovery database. The runway’s upstream network appears as searchable manufacturing infrastructure.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Educational resources
+The present layer is narrower and more useful when it keeps attribution attached. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources.
 
-- https://cfda.com/resources/sustainability-resource-hub/
-- https://www.metmuseum.org/perspectives/library-fashion-e-resources
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Open reporting
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
+The future record requires the greatest restraint. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting.
 
-## Rights
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Human gates
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 6 of Tech From Here × New York examines Manufacturing discovery, materials, wholesale readiness. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/new-york/publication/day-6
+
+## Source cards
+
+- **NYC-PRODUCTION-THEN** — CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. Sources: Fashion Manufacturing Initiative.
+- **NYC-PRODUCTION-NOW** — CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources. Sources: Production Directory, Materials Hub.
+- **NYC-PRODUCTION-NEXT** — Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting. Sources: Preliminary September 2026 Official NYFW Schedule, Production Directory.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
 
 - [ ] RN owner-final approval
-- [ ] recording/performance
-- [ ] named interviews and releases
-- [ ] specialist review where claim scope changes
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

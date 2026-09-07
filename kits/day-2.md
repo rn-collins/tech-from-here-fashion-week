@@ -1,135 +1,202 @@
 # TFH-LON-D2 — The runway is a machine
 
-**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Which technical systems manufacture atmosphere—and who is credited for them?
 
-## Finished long-form copy
+## Canonical essay
 
-### The runway is a machine
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-A runway appears effortless because its machinery has been rehearsed out of sight. Space, power, sound, light, seating, security, timing and teardown are not atmosphere around the show; together, they are the show’s operating system.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue.
 
-### 1. The official 360-degree record preserves spatial experience but cannot supply missing production credits.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-LON-STAGE-THEN anchors this passage; open the gallery claim card before publication.
+The present layer is narrower and more useful when it keeps attribution attached. For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings.
 
-### 2. The current NEWGEN package verifies a producer, production team, basic lighting, seating, sound and security for supported recipients.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-LON-STAGE-NOW anchors this passage; open the gallery claim card before publication.
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### 3. That is a bounded programme fact—not evidence of a single supplier stack across the week.
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans.
 
-LON-STAGE-NEXT anchors this passage; open the gallery claim card before publication.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### 4. The honest next step is a credited anatomy of one show, built with its workers rather than inferred from spectacle.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-LON-STAGE-THEN anchors this passage; open the gallery claim card before publication.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Watch the official 360 record, then inspect the missing-credit boundary beside it.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Finished vertical script
+## Long-form video script
 
-**Runtime:** 45–60 seconds
+**1. Cold open** — London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. A runway is temporary architecture.
-2. Light tells the eye where to look.
-3. Sound tells the body when to feel.
-4. A producer synchronizes the room.
-5. Security governs its edges.
-6. The spectacle lasts minutes.
-7. The machine begins long before the doors open.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue.
 
-**Final card:** Watch the official 360 record, then inspect the missing-credit boundary beside it.
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Finished seven-frame carousel
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings.
 
-1. A runway is temporary architecture.
-2. Light tells the eye where to look.
-3. Sound tells the body when to feel.
-4. A producer synchronizes the room.
-5. Security governs its edges.
-6. The spectacle lasts minutes.
-7. The machine begins long before the doors open. — Claim IDs and source links in gallery.
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Platform copy
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### Instagram
+**7. Next** — The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans.
 
-A runway appears effortless because its machinery has been rehearsed out of sight. Space, power, sound, light, seating, security, timing and teardown are not atmosphere around the show; together, they are the show’s operating system. Watch the official 360 record, then inspect the missing-credit boundary beside it.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### LinkedIn
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-The runway is a machine
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-The official 360-degree record preserves spatial experience but cannot supply missing production credits.
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-The current NEWGEN package verifies a producer, production team, basic lighting, seating, sound and security for supported recipients.
+## Audio edition
 
-That is a bounded programme fact—not evidence of a single supplier stack across the week.
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The honest next step is a credited anatomy of one show, built with its workers rather than inferred from spectacle.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue.
 
-Watch the official 360 record, then inspect the missing-credit boundary beside it.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-### Newsletter subject
+The present layer is narrower and more useful when it keeps attribution attached. For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings.
 
-Day 2/7 — The runway is a machine
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### YouTube description
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Day 2 of Signal / Seam examines lighting, staging, temporary architecture. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/02-stage
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans.
 
-## Evidence fitting
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-- **Then:** LON-STAGE-THEN — verified fact, high confidence
-- **Now:** LON-STAGE-NOW — verified fact, high confidence
-- **Next:** LON-STAGE-NEXT — unresolved, low confidence
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Interactive
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Cue Sheet: a keyboard timeline linking light, sound, scenic change, and claim state; placeholders remain visibly unresolved.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Interview targets
+## Three vertical scripts
 
-- show producer
-- lighting or spatial designer
-- venue technical manager
+### Short 1
 
-## Selected documentary object
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-LFW February 2018 — 360 VR — official video embed; A navigable official moving-image record of shows, presentations and backstage space; not a substitute for production credits.
+The present layer is narrower and more useful when it keeps attribution attached. For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings.
 
-## Object and rights brief
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans.
 
-Commission or license a stage plan, lighting plot, or supplier diagram tied to a named show.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Teaching prompt
+### Short 2
 
-When does staging technology alter choreography rather than decorate it?
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Community callout
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Request production credits and non-sensitive diagrams from named London crews.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Accessibility
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.
+### Short 3
 
-## Open evidence gaps
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue.
 
-- G-SUPPLIER-06
-- G-FUTURE-07
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Release gates
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-- [ ] Every positive claim resolves to cited support
-- [ ] Every media object has item-level rights disposition
-- [ ] Open gaps remain visible in copy and end cards
-- [ ] Named worker/interview consent recorded before quotation
+## Instagram carousel
 
-## Media rule
+1. London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** London / The runway is a machine
+
+**Description:** Which technical systems manufacture atmosphere—and who is credited for them? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for London, day 2: The runway is a machine.
+
+## LinkedIn
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans.
+
+## Beehiiv
+
+**Subject:** London 02 — The runway is a machine
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 2 of Tech From Here × London examines Lighting, staging, temporary architecture. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/publication/day-2
+
+## Source cards
+
+- **LON-STAGE-THEN** — The British Fashion Council’s official February 2018 360-degree highlights preserve a navigable moving-image record of shows, presentations, and backstage spaces, but do not by themselves identify every supplier or technical cue. Sources: London Fashion Week Highlights February 2018 — 360 VR.
+- **LON-STAGE-NOW** — For BFC NEWGEN recipients, the current published support package names a dedicated show producer and production team plus basic lighting, seating, sound, security and BFC-venue space subject to availability. It does not identify the season-specific suppliers, cue stack or technical drawings. Sources: BFC NEWGEN Programme.
+- **LON-STAGE-NEXT** — The bounded search in G-FUTURE-07 did not locate a funded or dated BFC-owned future staging system; concept films are not presented as plans. Sources: British Fashion Council — News.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
+
+- [ ] RN owner-final approval
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

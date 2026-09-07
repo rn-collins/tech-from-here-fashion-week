@@ -1,134 +1,202 @@
 # TFH-LON-D6 — From attention to object
 
-**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Where does the runway meet the order—and who owns the data?
 
-## Finished long-form copy
+## Canonical essay
 
-### From attention to object
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The runway becomes a business when attention meets an order. Between those moments sit line sheets, showrooms, buyer journeys, identifiers, product data and systems whose adoption is often claimed more quickly than it can be proved.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.
 
-### 1. The BFC’s 2021 web tender explicitly designed retailer and buyer journeys around e-commerce, wholesale, digital showrooms and orders.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-LON-COMMERCE-THEN anchors this passage; open the gallery claim card before publication.
+The present layer is narrower and more useful when it keeps attribution attached. The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.
 
-### 2. A platform requirement is not proof that every proposed function was deployed or adopted by every brand.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-LON-COMMERCE-NOW anchors this passage; open the gallery claim card before publication.
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### 3. The EU Ecodesign for Sustainable Products Regulation is enacted context for digital product passports, not a BFC plan.
+The future record requires the greatest restraint. The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.
 
-LON-COMMERCE-NEXT anchors this passage; open the gallery claim card before publication.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### 4. The missing historic object remains a London-specific line sheet with item-level reuse permission.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-LON-COMMERCE-THEN anchors this passage; open the gallery claim card before publication.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Use Product Data Boundary to separate law, standard, vendor and deployment.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Finished vertical script
+## Long-form video script
 
-**Runtime:** 45–60 seconds
+**1. Cold open** — London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. A look becomes attention.
-2. Attention becomes inquiry.
-3. Inquiry becomes an order.
-4. An order becomes production data.
-5. Soon, product data may travel farther.
-6. But a regulation is not a rollout.
-7. And a vendor is not adoption.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.
 
-**Final card:** Use Product Data Boundary to separate law, standard, vendor and deployment.
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Finished seven-frame carousel
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.
 
-1. A look becomes attention.
-2. Attention becomes inquiry.
-3. Inquiry becomes an order.
-4. An order becomes production data.
-5. Soon, product data may travel farther.
-6. But a regulation is not a rollout.
-7. And a vendor is not adoption. — Claim IDs and source links in gallery.
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Platform copy
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### Instagram
+**7. Next** — The future record requires the greatest restraint. The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.
 
-The runway becomes a business when attention meets an order. Between those moments sit line sheets, showrooms, buyer journeys, identifiers, product data and systems whose adoption is often claimed more quickly than it can be proved. Use Product Data Boundary to separate law, standard, vendor and deployment.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### LinkedIn
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-From attention to object
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-The BFC’s 2021 web tender explicitly designed retailer and buyer journeys around e-commerce, wholesale, digital showrooms and orders.
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-A platform requirement is not proof that every proposed function was deployed or adopted by every brand.
+## Audio edition
 
-The EU Ecodesign for Sustainable Products Regulation is enacted context for digital product passports, not a BFC plan.
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The missing historic object remains a London-specific line sheet with item-level reuse permission.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.
 
-Use Product Data Boundary to separate law, standard, vendor and deployment.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-### Newsletter subject
+The present layer is narrower and more useful when it keeps attribution attached. The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.
 
-Day 6/7 — From attention to object
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### YouTube description
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Day 6 of Signal / Seam examines line sheets, wholesale, product data. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/06-commerce
+The future record requires the greatest restraint. The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.
 
-## Evidence fitting
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-- **Then:** LON-COMMERCE-THEN — proposal, low confidence
-- **Now:** LON-COMMERCE-NOW — verified fact, high confidence
-- **Next:** LON-COMMERCE-NEXT — verified fact, high confidence
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Interactive
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Product Data Boundary: inspect identifier, material, actor, provenance, and missing field against the enacted-law context.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Interview targets
+## Three vertical scripts
 
-- brand operations lead
-- wholesale buyer
-- EU product-data specialist
+### Short 1
 
-## Selected documentary object
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-LFW web-development tender, 2021 — linked primary document; The tender connects audience journeys, livestreaming, e-commerce, wholesale, digital showrooms and named web technologies.
+The present layer is narrower and more useful when it keeps attribution attached. The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.
 
-## Object and rights brief
+The future record requires the greatest restraint. The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.
 
-Locate a permissioned historic line sheet or create an original schema diagram; no vendor UI screenshot without review.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Teaching prompt
+### Short 2
 
-How do we distinguish an enacted framework, a delegated requirement, a vendor product, and an actual brand deployment?
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Community callout
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Request redacted line sheets and confirmed season-specific showroom workflows.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Accessibility
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.
+### Short 3
 
-## Open evidence gaps
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.
 
-- G-SUPPLIER-06
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Release gates
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-- [ ] Every positive claim resolves to cited support
-- [ ] Every media object has item-level rights disposition
-- [ ] Open gaps remain visible in copy and end cards
-- [ ] Named worker/interview consent recorded before quotation
+## Instagram carousel
 
-## Media rule
+1. London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** London / From attention to object
+
+**Description:** Where does the runway meet the order—and who owns the data? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for London, day 6: From attention to object.
+
+## LinkedIn
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.
+
+## Beehiiv
+
+**Subject:** London 06 — From attention to object
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 6 of Tech From Here × London examines Line sheets, wholesale, product data. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/publication/day-6
+
+## Source cards
+
+- **LON-COMMERCE-THEN** — Physical line sheets and buyer appointments are the proposed historic entry point, pending a London-specific primary artifact. Sources: V&A Collections.
+- **LON-COMMERCE-NOW** — The BFC’s 2021 platform brief explicitly required journeys for retailers and buyers and framed designer return through e-commerce and wholesale opportunities; it named digital showrooms and retailer orders as intended platform functions. Sources: London Fashion Week Web Development Invitation to Tender, July 2021.
+- **LON-COMMERCE-NEXT** — The EU Ecodesign for Sustainable Products Regulation entered into force on 18 July 2024 and establishes a framework that includes digital product passports; it is not a BFC-owned plan. Sources: Regulation (EU) 2024/1781 — CELEX 32024R1781, GS1 Digital Link.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
+
+- [ ] RN owner-final approval
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

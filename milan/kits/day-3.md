@@ -1,102 +1,202 @@
 # TFH-MI-D3 — The machine carries the hand
 
-**Status:** evidence-backed draft; recording, named interviews and owner-final approval remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Where does Italian craft end and technical production begin?
 
-## Finished long-form
+## Canonical essay
 
-# The machine carries the hand
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-In Milan, the hand and machine are not opposites—they are a production argument.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
 
-## Then
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
+The present layer is narrower and more useful when it keeps attribution attached. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
 
-Evidence: MI-CRAFT-THEN
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Now
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
 
-Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
+The future record requires the greatest restraint. The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
 
-Evidence: MI-CRAFT-NOW
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Next—and the limit
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Evidence: MI-CRAFT-NEXT
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record.
+## Long-form video script
 
-## Vertical script
+**1. Cold open** — Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. In Milan, the hand and machine are not opposites—they are a production argument.
-2. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
-3. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
-4. The system: Manufacturing, craft, digital fabrication.
-5. The proof: Felipe Fiallo designer record.
-6. The limit: The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
-7. Open the Milan evidence edition: every receipt and permission is attached.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
 
-## Carousel
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-1. In Milan, the hand and machine are not opposites—they are a production argument.
-2. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
-3. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
-4. The system: Manufacturing, craft, digital fabrication.
-5. The proof: Felipe Fiallo designer record.
-6. The limit: The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
-7. Open the Milan evidence edition: every receipt and permission is attached.
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
 
-## Instagram
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-In Milan, the hand and machine are not opposites—they are a production argument. Seven receipts trace manufacturing, craft, digital fabrication through Milan—without inventing a private supplier stack.
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+**7. Next** — The future record requires the greatest restraint. The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
+
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Audio edition
+
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Three vertical scripts
+
+### Short 1
+
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The present layer is narrower and more useful when it keeps attribution attached. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
+
+The future record requires the greatest restraint. The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+### Short 2
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+### Short 3
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Instagram carousel
+
+1. Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** Milan / The machine carries the hand
+
+**Description:** Where does Italian craft end and technical production begin? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for Milan, day 3: The machine carries the hand.
 
 ## LinkedIn
 
-In Milan, the hand and machine are not opposites—they are a production argument.
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
 
-Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
+The present layer is narrower and more useful when it keeps attribution attached. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
 
-Full evidence and rights treatment in the Milan edition.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Newsletter
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
 
-**Milano 03 — The machine carries the hand**
+The future record requires the greatest restraint. The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
 
-Where does Italian craft end and technical production begin?
+## Beehiiv
 
-## YouTube
+**Subject:** Milan 03 — The machine carries the hand
 
-Day 3 examines manufacturing, craft, digital fabrication. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/03-craft-machine
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-## Interactive
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice.
 
-A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Selected object
+The present layer is narrower and more useful when it keeps attribution attached. Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media.
 
-A digitally fabricated footwear practice — official designer record
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Open reporting
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
 
-The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
+The future record requires the greatest restraint. The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection.
 
-## Rights
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Human gates
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 3 of Tech From Here × Milan examines Manufacturing, craft, digital fabrication. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/milan/publication/day-3
+
+## Source cards
+
+- **MI-CRAFT-THEN** — CNMI’s Fashion Hub record for Felipe Fiallo identifies digital fabrication, 3D printing, zero-waste and upcycling as methods within an Italy-based footwear practice. Sources: Felipe Fiallo designer record.
+- **MI-CRAFT-NOW** — Milan’s technical story includes both industrial systems and institutions that frame craft, innovation and emerging production for buyers and media. Sources: Designers for the Planet open call, Felipe Fiallo designer record.
+- **MI-CRAFT-NEXT** — The reviewed public pages do not disclose the factories, software versions, material recipes or labor conditions behind a specific forthcoming collection. Sources: Felipe Fiallo designer record.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
 
 - [ ] RN owner-final approval
-- [ ] recording/performance
-- [ ] named interviews and releases
-- [ ] specialist review if claim scope changes
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

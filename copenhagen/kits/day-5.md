@@ -1,103 +1,202 @@
 # TFH-CPH-D5 — The review becomes a data system
 
-**Status:** evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Can software scale a judgment system without disguising its boundaries?
 
-## Finished long-form
+## Canonical essay
 
-# The review becomes a data system
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
 
-## Then
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
+The present layer is narrower and more useful when it keeps attribution attached. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
 
-Evidence: CPH-SCREEN-THEN
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Now
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
 
-CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
+The future record requires the greatest restraint. Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
 
-Evidence: CPH-SCREEN-NOW
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Next—and the limit
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Evidence: CPH-SCREEN-NEXT
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish.
+## Long-form video script
 
-## Vertical script
+**1. Cold open** — Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review.
-2. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
-3. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
-4. The system: survey evidence, external validation and the announced AW27 AI pilot.
-5. The record: The announced AW27 screening pilot.
-6. The boundary: Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
-7. See every source, permission and open assignment in the Copenhagen evidence edition.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
 
-## Carousel
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-1. The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review.
-2. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
-3. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
-4. The system: survey evidence, external validation and the announced AW27 AI pilot.
-5. The record: The announced AW27 screening pilot.
-6. The boundary: Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
-7. See every source, permission and open assignment in the Copenhagen evidence edition.
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
 
-## Instagram
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review. This day follows survey evidence, external validation and the announced aw27 ai pilot without turning admission into certification.
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+**7. Next** — The future record requires the greatest restraint. Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
+
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Audio edition
+
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Three vertical scripts
+
+### Short 1
+
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The present layer is narrower and more useful when it keeps attribution attached. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
+
+The future record requires the greatest restraint. Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+### Short 2
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+### Short 3
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Instagram carousel
+
+1. Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** Copenhagen / The review becomes a data system
+
+**Description:** Can software scale a judgment system without disguising its boundaries? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for Copenhagen, day 5: The review becomes a data system.
 
 ## LinkedIn
 
-The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review.
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
 
-CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
+The present layer is narrower and more useful when it keeps attribution attached. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
 
-Every source, rights boundary and open assignment is attached.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Newsletter
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
 
-**Copenhagen 05 — The review becomes a data system**
+The future record requires the greatest restraint. Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
 
-Can software scale a judgment system without disguising its boundaries?
+## Beehiiv
 
-## YouTube
+**Subject:** Copenhagen 05 — The review becomes a data system
 
-Day 5 examines survey evidence, external validation and the announced aw27 ai pilot. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/05-screening-machine
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-## Interactive
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.
 
-Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Selected object
+The present layer is narrower and more useful when it keeps attribution attached. CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.
 
-The announced AW27 screening pilot — dated future-plan record
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Open reporting
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
 
-Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
+The future record requires the greatest restraint. Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.
 
-## Rights
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Human gates
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 5 of Tech From Here × Copenhagen examines survey evidence, external validation and the announced AW27 AI pilot. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/copenhagen/publication/day-5
+
+## Source cards
+
+- **CPH-SCREEN-THEN** — The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll. Sources: The Sustainability Requirements Framework.
+- **CPH-SCREEN-NOW** — CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue. Sources: CPHFW and Renoon introduce AI-powered screening system.
+- **CPH-SCREEN-NEXT** — Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation. Sources: CPHFW and Renoon introduce AI-powered screening system.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
 
 - [ ] RN owner-final approval
-- [ ] recording/performance
-- [ ] named interviews and releases
-- [ ] Danish-language/context review
-- [ ] specialist review for regulatory or AI claims
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

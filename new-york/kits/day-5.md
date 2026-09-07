@@ -1,107 +1,202 @@
 # TFH-NYC-D5 — The booking file has consequences
 
-**Status:** evidence-backed draft; recording, named interviews and owner-final approval remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 What changes when backstage information becomes regulated infrastructure?
 
-## Finished long-form essay
+## Canonical essay
 
-### The booking file has consequences
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The most consequential backstage technology may be the booking record. The evidence reveals a system of coordination rather than a single machine.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
 
-### The booking file
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
+The present layer is narrower and more useful when it keeps attribution attached. The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
 
-Evidence: NYC-WORKER-THEN
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### The law enters backstage
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
+The future record requires the greatest restraint. The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
 
-Evidence: NYC-WORKER-NOW
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### What becomes auditable
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Evidence: NYC-WORKER-NEXT
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-### Private stacks remain private
+## Long-form video script
 
-New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
+**1. Cold open** — New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Evidence: NYC-WORKER-THEN
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
 
-## Finished vertical script
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-1. The most consequential backstage technology may be the booking record.
-2. The booking file.
-3. The law enters backstage.
-4. What becomes auditable.
-5. Private stacks remain private.
-6. The unresolved edge: The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
-7. Open the evidence edition; every source and permission is attached.
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
 
-## Seven-frame carousel
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-1. The most consequential backstage technology may be the booking record.
-2. The booking file.
-3. The law enters backstage.
-4. What becomes auditable.
-5. Private stacks remain private.
-6. The unresolved edge: The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
-7. Open the evidence edition; every source and permission is attached.
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-## Instagram
+**7. Next** — The future record requires the greatest restraint. The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
 
-The most consequential backstage technology may be the booking record. Seven receipts trace model management, contracts, consent, records through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Audio edition
+
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Three vertical scripts
+
+### Short 1
+
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The present layer is narrower and more useful when it keeps attribution attached. The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
+
+The future record requires the greatest restraint. The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+### Short 2
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+### Short 3
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Instagram carousel
+
+1. New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** New York / The booking file has consequences
+
+**Description:** What changes when backstage information becomes regulated infrastructure? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for New York, day 5: The booking file has consequences.
 
 ## LinkedIn
 
-The most consequential backstage technology may be the booking record.
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The booking file. The law enters backstage. What becomes auditable. Private stacks remain private.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
 
-The point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Newsletter
+The present layer is narrower and more useful when it keeps attribution attached. The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
 
-**New York 05 — The booking file has consequences**
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-What changes when backstage information becomes regulated infrastructure?
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-## YouTube
+The future record requires the greatest restraint. The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
 
-Day 5 of Tech From Here × New York Fashion Week examines model management, contracts, consent, records. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/05-worker-data
+## Beehiiv
 
-## Interactive
+**Subject:** New York 05 — The booking file has consequences
 
-A keyboard-operable “worker-data ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-## Selected documentary object
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025.
 
-Fashion Workers Act desk — government compliance interface. The booking relationship now has a public registry and duties that can be checked.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Educational resources
+The present layer is narrower and more useful when it keeps attribution attached. The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable.
 
-- https://cfda.com/resources/sustainability-resource-hub/
-- https://www.metmuseum.org/perspectives/library-fashion-e-resources
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Open reporting
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
+The future record requires the greatest restraint. The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show.
 
-## Rights
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Human gates
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 5 of Tech From Here × New York examines Model management, contracts, consent, records. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/new-york/publication/day-5
+
+## Source cards
+
+- **NYC-WORKER-THEN** — New York’s Fashion Workers Act created duties for model management companies, groups and clients, with substantive requirements beginning June 19, 2025. Sources: New York State Fashion Workers Act.
+- **NYC-WORKER-NOW** — The Department of Labor now publishes registration, contract, payment, break and workplace-protection guidance that makes parts of the booking relationship auditable. Sources: New York State Fashion Workers Act, Responsibilities of Fashion Management and Clients.
+- **NYC-WORKER-NEXT** — The public guidance does not identify the private booking, biometric, casting or identity-data software used at any specific NYFW show. Sources: New York State Fashion Workers Act.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
 
 - [ ] RN owner-final approval
-- [ ] recording/performance
-- [ ] named interviews and releases
-- [ ] specialist review where claim scope changes
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

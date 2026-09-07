@@ -1,107 +1,202 @@
 # TFH-NYC-D3 — The photograph becomes inventory
 
-**Status:** evidence-backed draft; recording, named interviews and owner-final approval remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 How does a fleeting look become a searchable, sellable and rememberable record?
 
-## Finished long-form essay
+## Canonical essay
 
-### The photograph becomes inventory
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-A runway look lasts seconds. Its image may circulate for decades. The evidence reveals a system of coordination rather than a single machine.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
 
-### From press kit to platform
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
+The present layer is narrower and more useful when it keeps attribution attached. The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
 
-Evidence: NYC-CAPTURE-THEN
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### Images as product data
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
+The future record requires the greatest restraint. A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
 
-Evidence: NYC-CAPTURE-NOW
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### The archival witness
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Evidence: NYC-CAPTURE-NEXT
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-### Metadata still hidden
+## Long-form video script
 
-RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
+**1. Cold open** — New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Evidence: NYC-CAPTURE-THEN
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
 
-## Finished vertical script
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-1. A runway look lasts seconds. Its image may circulate for decades.
-2. From press kit to platform.
-3. Images as product data.
-4. The archival witness.
-5. Metadata still hidden.
-6. The unresolved edge: A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
-7. Open the evidence edition; every source and permission is attached.
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
 
-## Seven-frame carousel
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-1. A runway look lasts seconds. Its image may circulate for decades.
-2. From press kit to platform.
-3. Images as product data.
-4. The archival witness.
-5. Metadata still hidden.
-6. The unresolved edge: A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
-7. Open the evidence edition; every source and permission is attached.
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-## Instagram
+**7. Next** — The future record requires the greatest restraint. A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
 
-A runway look lasts seconds. Its image may circulate for decades. Seven receipts trace press images, collection pages, metadata through New York. The gallery keeps the unresolved edge visible instead of turning it into trend copy.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Audio edition
+
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Three vertical scripts
+
+### Short 1
+
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The present layer is narrower and more useful when it keeps attribution attached. The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
+
+The future record requires the greatest restraint. A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+### Short 2
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+### Short 3
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Instagram carousel
+
+1. New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** New York / The photograph becomes inventory
+
+**Description:** How does a fleeting look become a searchable, sellable and rememberable record? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for New York, day 3: The photograph becomes inventory.
 
 ## LinkedIn
 
-A runway look lasts seconds. Its image may circulate for decades.
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-From press kit to platform. Images as product data. The archival witness. Metadata still hidden.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
 
-The point is not that technology replaces Fashion Week. It allocates who and what can move through it. Full evidence and rights treatments are open in the New York edition.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Newsletter
+The present layer is narrower and more useful when it keeps attribution attached. The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
 
-**New York 03 — The photograph becomes inventory**
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-How does a fleeting look become a searchable, sellable and rememberable record?
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-## YouTube
+The future record requires the greatest restraint. A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
 
-Day 3 of Tech From Here × New York Fashion Week examines press images, collection pages, metadata. Claim-level sources, rights treatments, transcript plan and unresolved reporting: https://tech-from-here-fashion-week.vercel.app/new-york/day/03-capture
+## Beehiiv
 
-## Interactive
+**Subject:** New York 03 — The photograph becomes inventory
 
-A keyboard-operable “capture ledger” lets a reader move among Then, Now and Next, reveal citations, and distinguish verified fact from unresolved reporting without color alone.
+New York makes time itself operational: calendar authority, dispersed venues, capture, broadcast, production labor, orders and memory must coordinate. Day 3 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-## Selected documentary object
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages.
 
-Liz Claiborne with model — rights-cleared archival photograph. A designer, a model and the working space between them—preserved with item-level Library credit.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Educational resources
+The present layer is narrower and more useful when it keeps attribution attached. The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand.
 
-- https://cfda.com/resources/sustainability-resource-hub/
-- https://www.metmuseum.org/perspectives/library-fashion-e-resources
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Open reporting
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. New York’s governing verb is clock: it describes the public system traced in this edition, not an essential quality of the city.
 
-A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
+The future record requires the greatest restraint. A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed.
 
-## Rights
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-OA/licensed/original/authorized embed only; this package installs only the treatment stated on the selected object.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Human gates
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 3 of Tech From Here × New York examines Press images, collection pages, metadata. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/new-york/publication/day-3
+
+## Source cards
+
+- **NYC-CAPTURE-THEN** — RUNWAY360 was specified in 2020 to hold brand storytelling, press kits, show images and product images on modular designer pages. Sources: CFDA Launches RUNWAY360.
+- **NYC-CAPTURE-NOW** — The official 2026 schedule announcement names formats and participants but does not disclose the metadata or image-delivery stack used by each brand. Sources: Preliminary September 2026 Official NYFW Schedule.
+- **NYC-CAPTURE-NEXT** — A future common image or metadata standard for official-schedule participants is not established by the public organizer records reviewed. Sources: Preliminary September 2026 Official NYFW Schedule.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
 
 - [ ] RN owner-final approval
-- [ ] recording/performance
-- [ ] named interviews and releases
-- [ ] specialist review where claim scope changes
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

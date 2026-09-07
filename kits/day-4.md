@@ -1,136 +1,202 @@
 # TFH-LON-D4 — The feed becomes the front row
 
-**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Does distributed viewing redistribute authority?
 
-## Finished long-form copy
+## Canonical essay
 
-### The feed becomes the front row
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 4 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-A livestream can widen viewership without redistributing attention. Access to a signal is not the same as visibility inside a ranked feed.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.
 
-### 1. In June 2020 the BFC launched a freely accessible digital-only platform for public and trade audiences.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-LON-CIRCULATION-THEN anchors this passage; open the gallery claim card before publication.
+The present layer is narrower and more useful when it keeps attribution attached. The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.
 
-### 2. By September 2020 the programme carried films, podcasts, conversations, articles and galleries across digital and hybrid formats.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-LON-CIRCULATION-NOW anchors this passage; open the gallery claim card before publication.
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### 3. In 2026, moving content remains an explicit condition of digital schedule participation, and shared viewing can return the stream to a physical room.
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.
 
-LON-CIRCULATION-NEXT anchors this passage; open the gallery claim card before publication.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### 4. No unsupported “first livestream” claim survives this edition; the origin record remains open.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-LON-CIRCULATION-THEN anchors this passage; open the gallery claim card before publication.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Compare room, stream, feed and archive in Front Row / Feed.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Finished vertical script
+## Long-form video script
 
-**Runtime:** 45–60 seconds
+**1. Cold open** — London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 4 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. The signal leaves the room.
-2. A platform receives it.
-3. A feed ranks it.
-4. A viewer may find it.
-5. An archive may retain it.
-6. Reach, access and attention are not synonyms.
-7. The front row became a distribution problem.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.
 
-**Final card:** Compare room, stream, feed and archive in Front Row / Feed.
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Finished seven-frame carousel
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.
 
-1. The signal leaves the room.
-2. A platform receives it.
-3. A feed ranks it.
-4. A viewer may find it.
-5. An archive may retain it.
-6. Reach, access and attention are not synonyms.
-7. The front row became a distribution problem. — Claim IDs and source links in gallery.
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Platform copy
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### Instagram
+**7. Next** — The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.
 
-A livestream can widen viewership without redistributing attention. Access to a signal is not the same as visibility inside a ranked feed. Compare room, stream, feed and archive in Front Row / Feed.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### LinkedIn
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-The feed becomes the front row
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-In June 2020 the BFC launched a freely accessible digital-only platform for public and trade audiences.
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-By September 2020 the programme carried films, podcasts, conversations, articles and galleries across digital and hybrid formats.
+## Audio edition
 
-In 2026, moving content remains an explicit condition of digital schedule participation, and shared viewing can return the stream to a physical room.
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 4 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-No unsupported “first livestream” claim survives this edition; the origin record remains open.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.
 
-Compare room, stream, feed and archive in Front Row / Feed.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-### Newsletter subject
+The present layer is narrower and more useful when it keeps attribution attached. The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.
 
-Day 4/7 — The feed becomes the front row
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### YouTube description
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Day 4 of Signal / Seam examines livestream, web, algorithmic distribution. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/04-circulation
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.
 
-## Evidence fitting
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-- **Then:** LON-CIRCULATION-THEN — verified fact, high confidence
-- **Now:** LON-CIRCULATION-NOW — verified fact, high confidence
-- **Next:** LON-CIRCULATION-NEXT — unresolved, low confidence
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Interactive
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Front Row / Feed: compare visible fields and delay across room, official stream, channel page, and commercial archive.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Interview targets
+## Three vertical scripts
 
-- early digital producer
-- remote viewer or critic
-- platform-distribution researcher
+### Short 1
 
-## Selected documentary object
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 4 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-LFW Digital Highlights — official video embed; Official highlights from the June 2020 digital, gender-neutral edition—the event as a distributed media object.
+The present layer is narrower and more useful when it keeps attribution attached. The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.
 
-## Object and rights brief
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.
 
-Secure an exact archived interface capture with timestamp, surrounding context, and commentary review.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Teaching prompt
+### Short 2
 
-What changes when a show is viewable but discoverability remains privately ranked?
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Community callout
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Request dated screenshots or recordings of early LFW digital viewing with original source details.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Accessibility
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.
+### Short 3
 
-## Open evidence gaps
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.
 
-- G-LIVE-02
-- G-PLATFORM-03
-- G-FUTURE-07
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Release gates
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-- [ ] Every positive claim resolves to cited support
-- [ ] Every media object has item-level rights disposition
-- [ ] Open gaps remain visible in copy and end cards
-- [ ] Named worker/interview consent recorded before quotation
+## Instagram carousel
 
-## Media rule
+1. London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 4 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** London / The feed becomes the front row
+
+**Description:** Does distributed viewing redistribute authority? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for London, day 4: The feed becomes the front row.
+
+## LinkedIn
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 4 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.
+
+## Beehiiv
+
+**Subject:** London 04 — The feed becomes the front row
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 4 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 4 of Tech From Here × London examines Livestream, web, algorithmic distribution. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/publication/day-4
+
+## Source cards
+
+- **LON-CIRCULATION-THEN** — In June 2020 the BFC launched a freely accessible digital hub; by September it described 50 digital-only activations and 21 combined physical-and-digital activations carrying films, podcasts, conversations, articles, and galleries. Sources: London Fashion Week September 2020 Digital Schedule, LFW Digital Highlights, June 2020.
+- **LON-CIRCULATION-NOW** — The 2026 public schedule still separates physical and digital events, current designer criteria require moving content for digital activations, and the February 2026 programme advertised 19 digital activations plus a shared viewing lounge. Circulation is therefore programmed through both the interface and physical gathering spaces. Sources: London Fashion Week September 2026 Schedule, London Fashion Week Designer Applications and Schedule Criteria, London Fashion Week Presented by OMODA Starts This Week.
+- **LON-CIRCULATION-NEXT** — The bounded search in G-FUTURE-07 did not verify a current named platform pilot with participants, owner, and delivery horizon. Sources: British Fashion Council — News.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
+
+- [ ] RN owner-final approval
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

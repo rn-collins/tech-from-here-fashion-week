@@ -1,135 +1,202 @@
 # TFH-LON-D5 — Compressed labor
 
-**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Does the tool reduce work, relocate it, or make it extractable?
 
-## Finished long-form copy
+## Canonical essay
 
-### Compressed labor
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Backstage technology promises coordination under impossible time pressure. The same field that makes a show run—a name, image, measurement, availability or location—can also make a worker newly extractable.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.
 
-### 1. The 2016 official film makes preparation and teams visible without proving a week-wide software system.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-LON-BACKSTAGE-THEN anchors this passage; open the gallery claim card before publication.
+The present layer is narrower and more useful when it keeps attribution attached. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.
 
-### 2. Current NEWGEN support confirms human production infrastructure, not a universal casting-data stack.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-LON-BACKSTAGE-NOW anchors this passage; open the gallery claim card before publication.
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### 3. Public evidence does not establish biometric or digital-identity deployment at London Fashion Week.
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.
 
-LON-BACKSTAGE-NEXT anchors this passage; open the gallery claim card before publication.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### 4. Any future claim must be reported from both the operator and the worker side, with consent, retention and subject rights visible.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-LON-BACKSTAGE-THEN anchors this passage; open the gallery claim card before publication.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Open the Backstage Data Inventory; it collects no personal information.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Finished vertical script
+## Long-form video script
 
-**Runtime:** 45–60 seconds
+**1. Cold open** — London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. One garment.
-2. One model.
-3. Five minutes.
-4. A dozen data fields.
-5. Coordination can reduce friction.
-6. It can also expand surveillance.
-7. Ask who controls the field after the show.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.
 
-**Final card:** Open the Backstage Data Inventory; it collects no personal information.
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Finished seven-frame carousel
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.
 
-1. One garment.
-2. One model.
-3. Five minutes.
-4. A dozen data fields.
-5. Coordination can reduce friction.
-6. It can also expand surveillance.
-7. Ask who controls the field after the show. — Claim IDs and source links in gallery.
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Platform copy
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### Instagram
+**7. Next** — The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.
 
-Backstage technology promises coordination under impossible time pressure. The same field that makes a show run—a name, image, measurement, availability or location—can also make a worker newly extractable. Open the Backstage Data Inventory; it collects no personal information.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### LinkedIn
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-Compressed labor
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-The 2016 official film makes preparation and teams visible without proving a week-wide software system.
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-Current NEWGEN support confirms human production infrastructure, not a universal casting-data stack.
+## Audio edition
 
-Public evidence does not establish biometric or digital-identity deployment at London Fashion Week.
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Any future claim must be reported from both the operator and the worker side, with consent, retention and subject rights visible.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.
 
-Open the Backstage Data Inventory; it collects no personal information.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-### Newsletter subject
+The present layer is narrower and more useful when it keeps attribution attached. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.
 
-Day 5/7 — Compressed labor
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### YouTube description
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Day 5 of Signal / Seam examines casting, look tracking, identity data. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/05-backstage
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.
 
-## Evidence fitting
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-- **Then:** LON-BACKSTAGE-THEN — verified fact, high confidence
-- **Now:** LON-BACKSTAGE-NOW — verified fact, medium confidence
-- **Next:** LON-BACKSTAGE-NEXT — unresolved, low confidence
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Interactive
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Backstage Data Inventory: a non-collecting tool showing purpose, owner, retention, subject right, and unresolved deployment evidence.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Interview targets
+## Three vertical scripts
 
-- casting director
-- model or Equity representative
-- privacy and labor researcher
+### Short 1
 
-## Selected documentary object
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Designer Fashion Fund — Episode 3 — official video embed; Studios and backstage preparation are visible here; worker data systems remain a separate unresolved question.
+The present layer is narrower and more useful when it keeps attribution attached. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.
 
-## Object and rights brief
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.
 
-Do not reproduce casting cards or worker data without consent; prioritize a permissioned blank workflow schema.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Teaching prompt
+### Short 2
 
-Does digitization reduce labor, relocate it, or make a worker newly machine-readable?
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Community callout
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Invite workers to describe systems without submitting personal, client, or confidential data.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Accessibility
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.
+### Short 3
 
-## Open evidence gaps
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.
 
-- G-SUPPLIER-06
-- G-FUTURE-07
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Release gates
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-- [ ] Every positive claim resolves to cited support
-- [ ] Every media object has item-level rights disposition
-- [ ] Open gaps remain visible in copy and end cards
-- [ ] Named worker/interview consent recorded before quotation
+## Instagram carousel
 
-## Media rule
+1. London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** London / Compressed labor
+
+**Description:** Does the tool reduce work, relocate it, or make it extractable? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for London, day 5: Compressed labor.
+
+## LinkedIn
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.
+
+## Beehiiv
+
+**Subject:** London 05 — Compressed labor
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 5 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 5 of Tech From Here × London examines Casting, look tracking, identity data. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/publication/day-5
+
+## Source cards
+
+- **LON-BACKSTAGE-THEN** — The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. Sources: Designer Fashion Fund Episode 3: London Fashion Week.
+- **LON-BACKSTAGE-NOW** — The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved. Sources: BFC NEWGEN Programme, Models Network.
+- **LON-BACKSTAGE-NEXT** — The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence. Sources: Model Alliance, Models Network.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
+
+- [ ] RN owner-final approval
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

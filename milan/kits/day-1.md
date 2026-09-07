@@ -1,102 +1,202 @@
 # TFH-MI-D1 — The invitation is also a trademark
 
-**Status:** evidence-backed draft; recording, named interviews and owner-final approval remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 Who may enter Milano Fashion Week—and who may claim its name?
 
-## Finished long-form
+## Canonical essay
 
-# The invitation is also a trademark
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 1 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Before the first look, Milan controls a name and an invitation.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
 
-## Then
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
+The present layer is narrower and more useful when it keeps attribution attached. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
 
-Evidence: MI-ACCESS-THEN
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Now
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
 
-Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
+The future record requires the greatest restraint. No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
 
-Evidence: MI-ACCESS-NOW
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Next—and the limit
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Evidence: MI-ACCESS-NEXT
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-Milan’s technology is not futurist decoration. It is the system that moves authority from name to room to object to record.
+## Long-form video script
 
-## Vertical script
+**1. Cold open** — Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 1 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. Before the first look, Milan controls a name and an invitation.
-2. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
-3. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
-4. The system: Calendar, accreditation, brand control.
-5. The proof: Milano Fashion Week: calendar, dates and access notice.
-6. The limit: No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
-7. Open the Milan evidence edition: every receipt and permission is attached.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
 
-## Carousel
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-1. Before the first look, Milan controls a name and an invitation.
-2. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
-3. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
-4. The system: Calendar, accreditation, brand control.
-5. The proof: Milano Fashion Week: calendar, dates and access notice.
-6. The limit: No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
-7. Open the Milan evidence edition: every receipt and permission is attached.
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
 
-## Instagram
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-Before the first look, Milan controls a name and an invitation. Seven receipts trace calendar, accreditation, brand control through Milan—without inventing a private supplier stack.
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+**7. Next** — The future record requires the greatest restraint. No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
+
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Audio edition
+
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 1 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Three vertical scripts
+
+### Short 1
+
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 1 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The present layer is narrower and more useful when it keeps attribution attached. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
+
+The future record requires the greatest restraint. No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+### Short 2
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+### Short 3
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Instagram carousel
+
+1. Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 1 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** Milan / The invitation is also a trademark
+
+**Description:** Who may enter Milano Fashion Week—and who may claim its name? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for Milan, day 1: The invitation is also a trademark.
 
 ## LinkedIn
 
-Before the first look, Milan controls a name and an invitation.
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 1 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
 
-Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
+The present layer is narrower and more useful when it keeps attribution attached. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
 
-Full evidence and rights treatment in the Milan edition.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Newsletter
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
 
-**Milano 01 — The invitation is also a trademark**
+The future record requires the greatest restraint. No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
 
-Who may enter Milano Fashion Week—and who may claim its name?
+## Beehiiv
 
-## YouTube
+**Subject:** Milan 01 — The invitation is also a trademark
 
-Day 1 examines calendar, accreditation, brand control. Claim-level sources, rights and open reporting: https://tech-from-here-fashion-week.vercel.app/milan/day/01-invitation-trademark
+Milan joins inherited house authority to contemporary systems of staging, craft, platform distribution, wholesale and traceability. Day 1 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-## Interactive
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark.
 
-A keyboard-operable evidence fitting room switches among Then, Now and Next; labels state verified, synthesis or unresolved without relying on color.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Selected object
+The present layer is narrower and more useful when it keeps attribution attached. Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts.
 
-The calendar and the protected name — live organizer interface
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Open reporting
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Milan’s governing verb is inheritance: it describes the public system traced in this edition, not an essential quality of the city.
 
-No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
+The future record requires the greatest restraint. No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition.
 
-## Rights
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-Authorized embed or exact outbound link only; no third-party image copied without item-level reuse clearance.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Human gates
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 1 of Tech From Here × Milan examines Calendar, accreditation, brand control. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/milan/publication/day-1
+
+## Source cards
+
+- **MI-ACCESS-THEN** — CNMI describes itself as coordinating Italian fashion and publishes the official calendar; its live notice states events are invitation-only and that CNMI owns the Milano Fashion Week trademark. Sources: Milano Fashion Week: calendar, dates and access notice.
+- **MI-ACCESS-NOW** — Accreditation, calendar, app and organizer brand control form one public access layer, but invitations remain issued by individual event hosts. Sources: Milano Fashion Week: calendar, dates and access notice, Camera Moda app.
+- **MI-ACCESS-NEXT** — No public organizer record reviewed establishes the guest-list software, identity checks or security stack for the next edition. Sources: Milano Fashion Week: calendar, dates and access notice.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
 
 - [ ] RN owner-final approval
-- [ ] recording/performance
-- [ ] named interviews and releases
-- [ ] specialist review if claim scope changes
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

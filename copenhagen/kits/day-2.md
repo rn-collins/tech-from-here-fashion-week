@@ -1,103 +1,202 @@
 # TFH-CPH-D2 — The calendar allocates attention
 
-**Status:** evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 How does one schedule distribute time, visibility and permission across a city?
 
-## Finished long-form
+## Canonical essay
 
-# The calendar allocates attention
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
 
-## Then
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
+The present layer is narrower and more useful when it keeps attribution attached. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
 
-Evidence: CPH-TIME-THEN
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Now
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
 
-Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
+The future record requires the greatest restraint. No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
 
-Evidence: CPH-TIME-NOW
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Next—and the limit
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Evidence: CPH-TIME-NEXT
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish.
+## Long-form video script
 
-## Vertical script
+**1. Cold open** — Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap.
-2. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
-3. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
-4. The system: exclusive show slots, overlapping events, RSVP and public access.
-5. The record: SS27 official schedule.
-6. The boundary: No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
-7. See every source, permission and open assignment in the Copenhagen evidence edition.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
 
-## Carousel
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-1. A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap.
-2. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
-3. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
-4. The system: exclusive show slots, overlapping events, RSVP and public access.
-5. The record: SS27 official schedule.
-6. The boundary: No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
-7. See every source, permission and open assignment in the Copenhagen evidence edition.
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
 
-## Instagram
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap. This day follows exclusive show slots, overlapping events, rsvp and public access without turning admission into certification.
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+**7. Next** — The future record requires the greatest restraint. No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
+
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Audio edition
+
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Three vertical scripts
+
+### Short 1
+
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The present layer is narrower and more useful when it keeps attribution attached. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
+
+The future record requires the greatest restraint. No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+### Short 2
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+### Short 3
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## Instagram carousel
+
+1. Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** Copenhagen / The calendar allocates attention
+
+**Description:** How does one schedule distribute time, visibility and permission across a city? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for Copenhagen, day 2: The calendar allocates attention.
 
 ## LinkedIn
 
-A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap.
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
 
-Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
+The present layer is narrower and more useful when it keeps attribution attached. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
 
-Every source, rights boundary and open assignment is attached.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Newsletter
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
 
-**Copenhagen 02 — The calendar allocates attention**
+The future record requires the greatest restraint. No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
 
-How does one schedule distribute time, visibility and permission across a city?
+## Beehiiv
 
-## YouTube
+**Subject:** Copenhagen 02 — The calendar allocates attention
 
-Day 2 examines exclusive show slots, overlapping events, rsvp and public access. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/02-time-and-access
+Copenhagen turns participation into an evidence problem: admission, time, teardown, rights, screening, product data and institutional memory each demand a record. Day 2 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-## Interactive
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.
 
-Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Selected object
+The present layer is narrower and more useful when it keeps attribution attached. Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.
 
-SS27 official schedule — live programme and access interface
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Open reporting
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Copenhagen’s governing verb is verification: it describes the public system traced in this edition, not an essential quality of the city.
 
-No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
+The future record requires the greatest restraint. No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.
 
-## Rights
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Human gates
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 2 of Tech From Here × Copenhagen examines exclusive show slots, overlapping events, RSVP and public access. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/copenhagen/publication/day-2
+
+## Source cards
+
+- **CPH-TIME-THEN** — The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap. Sources: Event & Talk Schedule Information, Official Schedule — SS27.
+- **CPH-TIME-NOW** — Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar. Sources: Event & Talk Schedule Information.
+- **CPH-TIME-NEXT** — No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue. Sources: Official Schedule — SS27, Event & Talk Schedule Information.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
 
 - [ ] RN owner-final approval
-- [ ] recording/performance
-- [ ] named interviews and releases
-- [ ] Danish-language/context review
-- [ ] specialist review for regulatory or AI claims
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media

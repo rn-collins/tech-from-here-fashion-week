@@ -1,136 +1,202 @@
 # TFH-LON-D7 — What the week leaves behind
 
-**Status:** evidence-backed production package; interviews and unresolved future reporting remain open
+**Author:** Rayven-Nikkita Collins  
+**Version:** 2.0 evidence publication  
+**Checked:** 2026-09-07  
+**Editorial state:** publication-ready text; human production and owner-final gates remain open
 
 ## Governing question
 
 What survives, who can reuse it, and what never entered the record?
 
-## Finished long-form copy
+## Canonical essay
 
-### What the week leaves behind
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 7 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-Fashion Week disappears by design. The venue returns to another use; the schedule changes; links decay; platforms reorder. What remains becomes the evidence from which future histories are made.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.
 
-### 1. Schedules, films, museum records and web archives preserve different fragments under different rules.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-LON-MEMORY-THEN anchors this passage; open the gallery claim card before publication.
+The present layer is narrower and more useful when it keeps attribution attached. The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.
 
-### 2. A retained event page can be citable while its images remain unavailable for reuse.
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-LON-MEMORY-NOW anchors this passage; open the gallery claim card before publication.
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### 3. Environmental accountability requires a boundary, baseline, method, verifier and season—not an unqualified sustainability label.
+The future record requires the greatest restraint. The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.
 
-LON-MEMORY-NEXT anchors this passage; open the gallery claim card before publication.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### 4. No complete future event-level measurement system cleared this edition’s threshold.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-LON-MEMORY-THEN anchors this passage; open the gallery claim card before publication.
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Put a claim through the Claims Fitting Room before repeating it.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Finished vertical script
+## Long-form video script
 
-**Runtime:** 45–60 seconds
+**1. Cold open** — London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 7 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-1. The show ends.
-2. The room vanishes.
-3. The schedule changes.
-4. The film survives somewhere else.
-5. The rights split from the memory.
-6. What disappears becomes harder to contest.
-7. An archive is accountability infrastructure.
+**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.
 
-**Final card:** Put a claim through the Claims Fitting Room before repeating it.
+**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Finished seven-frame carousel
+**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.
 
-1. The show ends.
-2. The room vanishes.
-3. The schedule changes.
-4. The film survives somewhere else.
-5. The rights split from the memory.
-6. What disappears becomes harder to contest.
-7. An archive is accountability infrastructure. — Claim IDs and source links in gallery.
+**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Platform copy
+**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-### Instagram
+**7. Next** — The future record requires the greatest restraint. The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.
 
-Fashion Week disappears by design. The venue returns to another use; the schedule changes; links decay; platforms reorder. What remains becomes the evidence from which future histories are made. Put a claim through the Claims Fitting Room before repeating it.
+**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-### LinkedIn
+**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-What the week leaves behind
+**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Schedules, films, museum records and web archives preserve different fragments under different rules.
+**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-A retained event page can be citable while its images remain unavailable for reuse.
+## Audio edition
 
-Environmental accountability requires a boundary, baseline, method, verifier and season—not an unqualified sustainability label.
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 7 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-No complete future event-level measurement system cleared this edition’s threshold.
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.
 
-Put a claim through the Claims Fitting Room before repeating it.
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-### Newsletter subject
+The present layer is narrower and more useful when it keeps attribution attached. The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.
 
-Day 7/7 — What the week leaves behind
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-### YouTube description
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Day 7 of Signal / Seam examines archives, measurement, accountability. Claims, rights treatments, transcript and sources: https://tech-from-here-fashion-week.vercel.app/day/07-memory
+The future record requires the greatest restraint. The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.
 
-## Evidence fitting
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-- **Then:** LON-MEMORY-THEN — editorial inference, medium confidence
-- **Now:** LON-MEMORY-NOW — verified fact, high confidence
-- **Next:** LON-MEMORY-NEXT — unresolved, low confidence
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Interactive
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Claims Fitting Room: test an environmental statement for boundary, baseline, method, verifier, and season.
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-## Interview targets
+## Three vertical scripts
 
-- fashion curator
-- web archivist
-- independent sustainability researcher
+### Short 1
 
-## Selected documentary object
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 7 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-2020 retained page / 2026 live schedule — linked interface pair; Two organizer-controlled surfaces show what a live interface retains—and what only survives because an event page remains addressable.
+The present layer is narrower and more useful when it keeps attribution attached. The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.
 
-## Object and rights brief
+The future record requires the greatest restraint. The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.
 
-Close G-OBJECT-04 with one edition-relevant open object, or retain the designed void.
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
 
-## Teaching prompt
+### Short 2
 
-How does preservation infrastructure decide which technical history remains citable?
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
 
-## Community callout
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
 
-Request ephemera and oral-history leads under explicit ownership, consent, withdrawal, and preservation terms.
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
 
-## Accessibility
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
 
-Publish transcript/captions for time media; alt text or explicit designed-absence label; keyboard path for the interactive; no status conveyed by color alone.
+### Short 3
 
-## Open evidence gaps
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.
 
-- G-OBJECT-04
-- G-MEASURE-05
-- G-FUTURE-07
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
 
-## Release gates
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
 
-- [ ] Every positive claim resolves to cited support
-- [ ] Every media object has item-level rights disposition
-- [ ] Open gaps remain visible in copy and end cards
-- [ ] Named worker/interview consent recorded before quotation
+## Instagram carousel
 
-## Media rule
+1. London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 7 isolates one part of that system so spectacle cannot substitute for mechanism.
 
-OA/licensed/original/authorized embed only; selected documentary object installed with exact source-level treatment
+2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.
+
+3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+4. The present layer is narrower and more useful when it keeps attribution attached. The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.
+
+5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+7. The future record requires the greatest restraint. The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.
+
+8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+## Pinterest
+
+**Title:** London / What the week leaves behind
+
+**Description:** What survives, who can reuse it, and what never entered the record? Seven evidence plates trace the system without turning a public record into a permission slip.
+
+**Alt:** Typographic Tech From Here evidence plate for London, day 7: What the week leaves behind.
+
+## LinkedIn
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 7 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.
+
+## Beehiiv
+
+**Subject:** London 07 — What the week leaves behind
+
+London makes the week visible as a relay among institutional schedule, temporary room, camera, platform, labor, commerce and archive. Day 7 isolates one part of that system so spectacle cannot substitute for mechanism.
+
+The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable.
+
+That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+
+The present layer is narrower and more useful when it keeps attribution attached. The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions.
+
+Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+
+Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. London’s governing verb is relay: it describes the public system traced in this edition, not an essential quality of the city.
+
+The future record requires the greatest restraint. The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition.
+
+Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+
+Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+
+The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+
+This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+
+## YouTube description
+
+Day 7 of Tech From Here × London examines Archives, measurement, accountability. Transcript, claims, sources, rights and downloads: https://tech-from-here-fashion-week.vercel.app/publication/day-7
+
+## Source cards
+
+- **LON-MEMORY-THEN** — The survival of schedules, films, and interface states shapes which versions of London Fashion Week remain researchable. Sources: Wayback Machine, V&A Collections.
+- **LON-MEMORY-NOW** — The live schedule, retained 2020 event page, official video channel, museum collection, and web archive preserve different layers of London Fashion Week under different access and reuse conditions. Sources: London Fashion Week September 2026 Schedule, London Fashion Week September 2020 Digital Schedule, British Fashion Council channel, V&A Collections, Wayback Machine.
+- **LON-MEMORY-NEXT** — The bounded search in G-MEASURE-05 did not confirm a complete public event-level measurement boundary, baseline, and verification method for a future London edition. Sources: British Fashion Council — News, Green Claims Code.
+
+## Practical tool
+
+Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
+
+## Human-only gates
+
+- [ ] RN owner-final approval
+- [ ] Recording and performance
+- [ ] Named interviews, consent and releases
+- [ ] Story-specific specialist/context review
+- [ ] Item-level permission for any held media
