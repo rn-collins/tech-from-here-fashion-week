@@ -11,123 +11,119 @@ Which product facts are already regulated, and which future systems remain propo
 
 ## Canonical essay
 
-Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.
 
-The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.
+China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
 
-The present layer is narrower and more useful when it keeps attribution attached. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.
+CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
-Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+Operationally, the chain runs through the brand, showroom, buyer, retailer, platform and regulator. Each controls a different record or decision, while the finished show encourages us to experience those decisions as a single seamless event.
 
-Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Shanghai’s governing verb is synchronization: it describes the public system traced in this edition, not an essential quality of the city.
+Shanghai’s governing verb is synchronization. It is an editorial lens, not a claim about the city’s essence: it helps test how calendars, credentials, media, labor records, commercial data and archives become legible here.
 
-The future record requires the greatest restraint. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.
+No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
 
-Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+Photographer Wang Li at Shanghai Fashion Week, photographed by 406618197yang, is installed as a documentary witness under CC BY 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
-The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
 
 ## Long-form video script
 
-**1. Cold open** — Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+**1. Cold open** — Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.
 
-**2. Location** — The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.
+**2. Location** — China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-**3. Then** — That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+**3. Then** — The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
 
-**4. What the record is** — The present layer is narrower and more useful when it keeps attribution attached. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.
+**4. What the record is** — CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
-**5. Now** — Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+**5. Now** — Operationally, the chain runs through the brand, showroom, buyer, retailer, platform and regulator. Each controls a different record or decision, while the finished show encourages us to experience those decisions as a single seamless event.
 
-**6. System anatomy** — Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Shanghai’s governing verb is synchronization: it describes the public system traced in this edition, not an essential quality of the city.
+**6. System anatomy** — Shanghai’s governing verb is synchronization. It is an editorial lens, not a claim about the city’s essence: it helps test how calendars, credentials, media, labor records, commercial data and archives become legible here.
 
-**7. Next** — The future record requires the greatest restraint. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.
+**7. Next** — No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-**8. The blank** — Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+**8. The blank** — An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
 
-**9. Rights** — Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+**9. Rights** — Photographer Wang Li at Shanghai Fashion Week, photographed by 406618197yang, is installed as a documentary witness under CC BY 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
-**10. Method** — The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+**10. Method** — Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-**11. Close** — This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+**11. Close** — The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
 
 ## Audio edition
 
-Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.
 
-The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.
+China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
 
-The present layer is narrower and more useful when it keeps attribution attached. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.
+CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
-Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+Operationally, the chain runs through the brand, showroom, buyer, retailer, platform and regulator. Each controls a different record or decision, while the finished show encourages us to experience those decisions as a single seamless event.
 
-Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Shanghai’s governing verb is synchronization: it describes the public system traced in this edition, not an essential quality of the city.
+Shanghai’s governing verb is synchronization. It is an editorial lens, not a claim about the city’s essence: it helps test how calendars, credentials, media, labor records, commercial data and archives become legible here.
 
-The future record requires the greatest restraint. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.
+No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
 
-Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+Photographer Wang Li at Shanghai Fashion Week, photographed by 406618197yang, is installed as a documentary witness under CC BY 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
-The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
 
 ## Three vertical scripts
 
 ### Short 1
 
-Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.
 
-The present layer is narrower and more useful when it keeps attribution attached. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.
+CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
-The future record requires the greatest restraint. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.
-
-Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
 ### Short 2
 
-Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+Operationally, the chain runs through the brand, showroom, buyer, retailer, platform and regulator. Each controls a different record or decision, while the finished show encourages us to experience those decisions as a single seamless event.
 
-Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Shanghai’s governing verb is synchronization: it describes the public system traced in this edition, not an essential quality of the city.
+Shanghai’s governing verb is synchronization. It is an editorial lens, not a claim about the city’s essence: it helps test how calendars, credentials, media, labor records, commercial data and archives become legible here.
 
-Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
-
-The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
 ### Short 3
 
-The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.
+China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
 
-This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
 
 ## Instagram carousel
 
-1. Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+1. Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.
 
-2. The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.
+2. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-3. That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+3. The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
 
-4. The present layer is narrower and more useful when it keeps attribution attached. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.
+4. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
-5. Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+5. Operationally, the chain runs through the brand, showroom, buyer, retailer, platform and regulator. Each controls a different record or decision, while the finished show encourages us to experience those decisions as a single seamless event.
 
-6. Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Shanghai’s governing verb is synchronization: it describes the public system traced in this edition, not an essential quality of the city.
+6. Shanghai’s governing verb is synchronization. It is an editorial lens, not a claim about the city’s essence: it helps test how calendars, credentials, media, labor records, commercial data and archives become legible here.
 
-7. The future record requires the greatest restraint. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.
+7. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-8. Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+8. An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
 
 ## Pinterest
 
@@ -139,45 +135,45 @@ This is a publication-ready evidence edition, not a claim that field reporting i
 
 ## LinkedIn
 
-Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.
 
-The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.
+China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
 
-The present layer is narrower and more useful when it keeps attribution attached. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.
+CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
-Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+Operationally, the chain runs through the brand, showroom, buyer, retailer, platform and regulator. Each controls a different record or decision, while the finished show encourages us to experience those decisions as a single seamless event.
 
-Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Shanghai’s governing verb is synchronization: it describes the public system traced in this edition, not an essential quality of the city.
+Shanghai’s governing verb is synchronization. It is an editorial lens, not a claim about the city’s essence: it helps test how calendars, credentials, media, labor records, commercial data and archives become legible here.
 
-The future record requires the greatest restraint. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.
+No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
 ## Beehiiv
 
 **Subject:** Shanghai 06 — The garment acquires an identity
 
-Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. Day 6 isolates one part of that system so spectacle cannot substitute for mechanism.
+Shanghai compresses schedule, factory-city, social image, cloud runway, buyer order, product identity and distributed memory into synchronized platform time. This chapter follows commerce: Between runway attention and an order sit identifiers, line sheets, showrooms, buyer permissions and product records whose adoption is often claimed faster than it is proved.
 
-The historical record establishes a starting point, but it does not authorize a smooth story of inevitable progress. China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system.
+China’s national standards portal records textile safety and apparel-use-information standards; these are product-governance records, not proof of a fashion-week passport system. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-That distinction matters because an institution can preserve an interface while losing the labor, contract, technical specification or permission trail that made it work. The public record is evidence of what was published, not a complete view of everything that happened.
+The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
 
-The present layer is narrower and more useful when it keeps attribution attached. CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark.
+CNIPA exposes a public trademark-search interface, but a query result must be saved and read before making any claim about a specific designer or mark. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
-Read operationally, this is a chain of actors, records and decisions. An organizer publishes or governs a surface; a venue, supplier, platform, brand, worker, press body, buyer or archive carries another part; and the audience usually encounters only the final visible state.
+Operationally, the chain runs through the brand, showroom, buyer, retailer, platform and regulator. Each controls a different record or decision, while the finished show encourages us to experience those decisions as a single seamless event.
 
-Technology here therefore means more than devices. It includes calendars, credentials, metadata, contracts, standards, interfaces, archives and the procedures that decide what becomes legible. Shanghai’s governing verb is synchronization: it describes the public system traced in this edition, not an essential quality of the city.
+Shanghai’s governing verb is synchronization. It is an editorial lens, not a claim about the city’s essence: it helps test how calendars, credentials, media, labor records, commercial data and archives become legible here.
 
-The future record requires the greatest restraint. No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport.
+No reviewed official source establishes that every Shanghai runway garment carries a shared digital identity, traceability record or future product passport. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-Where the evidence says “unresolved,” the publication keeps the blank visible. Public-surface research cannot establish absolute absence; private, paywalled, undigitized, translated or show-level material may exist. The blank becomes a reporting assignment with a named artifact to seek.
+An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
 
-Rights travel separately from facts. A webpage may support a sentence without licensing its photograph, film, sound, diagram or interface capture. Every selected object therefore carries a reproduction treatment: downloadable only with explicit open terms, embedded only through an authorized player, linked when evidence is citable but copying is not licensed, or held for written permission.
+Photographer Wang Li at Shanghai Fashion Week, photographed by 406618197yang, is installed as a documentary witness under CC BY 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
-The practical test is simple: identify the actor, locate the record, state what decision it enabled, name what the record cannot prove, and preserve the rights status. That method turns a Fashion Week from atmosphere into an auditable public record.
+Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-This is a publication-ready evidence edition, not a claim that field reporting is over. Recording, interviews, specialist review, item-level permissions and RN owner-final approval remain visible human gates rather than being disguised as finished work.
+The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
 
 ## YouTube description
 
