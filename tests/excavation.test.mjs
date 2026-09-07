@@ -13,7 +13,7 @@ test('all 49 packages expose dated excavation rooms and machine-readable ledgers
   const candidates=json(`data/excavation/candidates/${city}-day-${d}.json`);
   const html=read(`excavation/${city}/day-${d}/index.html`);
   assert.equal(report.searchedAt,'2026-09-07');
-  assert.equal(report.surfaceCount,18);
+  assert.equal(report.surfaceCount,23);
   assert.ok(candidates.length>=4);
   assert.match(html,/Media Library/);
   assert.match(html,/Resources Room/);
@@ -39,4 +39,19 @@ test('collection report is explicit about scope and publication pages point to e
    assert.match(read(p),new RegExp(`/excavation/${city}/day-${d}`));
    assert.match(read('sitemap.xml'),new RegExp(`/excavation/${city}/day-${d}`));
   }
+});
+
+test('all 49 reports expose the five named third-wave surface outcomes',()=>{
+ for(const city of cities)for(let day=1;day<=7;day++){
+  const r=json(`data/excavation/reports/${city}-day-${day}.json`);
+  assert.equal(r.thirdWave.surfaces.length,5);
+  assert.equal(r.thirdWave.selected,0);
+  const html=read(`excavation/${city}/day-${day}/index.html`);
+  assert.match(html,/THIRD-WAVE GAP SEARCH/);
+  assert.match(html,/Internet Archive item API/);
+  assert.match(html,/Europeana Record API/);
+ }
+ const c=json('data/excavation/collection-report.json');
+ assert.equal(c.thirdWaveNamedSurfaceChecks,245);
+ assert.match(c.exhaustionStatus,/no claim of whole-internet exhaustion/i);
 });

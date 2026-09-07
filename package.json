@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "node scripts/build.mjs && node scripts/finalize-fresh-media.mjs && node --test --test-concurrency=1 tests/*.test.mjs",
-    "build:content": "node scripts/build.mjs && node scripts/build-excavation.mjs && node scripts/fresh-media-search.mjs && node scripts/finalize-fresh-media.mjs",
+    "build": "node scripts/build.mjs && node scripts/finalize-fresh-media.mjs && node scripts/render-third-wave.mjs && node --test --test-concurrency=1 tests/*.test.mjs",
+    "build:content": "node scripts/build.mjs && node scripts/build-excavation.mjs && node scripts/fresh-media-search.mjs && node scripts/third-wave-search.mjs && node scripts/finalize-fresh-media.mjs && node scripts/render-third-wave.mjs",
     "test": "node --test --test-concurrency=1 tests/*.test.mjs",
     "test:links": "node scripts/check-key-sources.mjs",
     "check": "npm test",

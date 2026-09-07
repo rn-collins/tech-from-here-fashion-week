@@ -6,15 +6,17 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 18,
-  "candidateCount": 23,
-  "reusableCount": 17,
+  "surfaceCount": 23,
+  "candidateCount": 7,
+  "reusableCount": 1,
   "resourceCount": 6,
   "installedCount": 1,
   "openLimitations": [
     "Private, paywalled, undigitized, deleted, unindexed, or untranslated material may exist.",
     "A result marked link-only is useful evidence but not licensed media.",
-    "The recurring city witness is context, not day-specific proof."
+    "The recurring city witness is context, not day-specific proof.",
+    "Europeana item APIs require a credential; this pass does not infer rights from thumbnails.",
+    "Official video embeds require item-level channel ownership and embed verification; search-result presence is insufficient."
   ],
   "status": "bounded registry pass complete; future recheck remains possible",
   "surfaces": [
@@ -129,22 +131,6 @@
       "query": "Paris Fashion Week Access invitation schedule credential",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
-    },
-    {
-      "id": "paris-D1-FRESH-17",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "Paris Fashion Week invitation",
-      "searchedAt": "2026-09-07",
-      "resultCount": 8,
-      "outcome": "Item pages inspected; candidates retained only when an explicit open license appeared."
-    },
-    {
-      "id": "paris-D1-FRESH-18",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "Paris fashion accreditation schedule",
-      "searchedAt": "2026-09-07",
-      "resultCount": 8,
-      "outcome": "Item pages inspected; candidates retained only when an explicit open license appeared."
     }
   ],
   "candidateIds": [
@@ -156,15 +142,44 @@
     "PARIS-D1-C05",
     "PARIS-D1-C06"
   ],
-  "freshSearch": {
-    "provider": "Wikimedia Commons MediaWiki API",
-    "queries": [
-      "Paris Fashion Week invitation",
-      "Paris fashion accreditation schedule"
+  "thirdWave": {
+    "checked": "2026-09-07",
+    "scope": "Direct API/search endpoints for the five named remaining surface classes; item promotion requires exact city+day relevance and item-level rights.",
+    "surfaces": [
+      {
+        "surface": "Internet Archive item API",
+        "query": "paris fashion week access invitation accreditation",
+        "url": "https://archive.org/advancedsearch.php?q=paris%20fashion%20week%20access%20invitation%20accreditation&fl[]=identifier,title,creator,date,licenseurl,mediatype&rows=10&page=1&output=json",
+        "status": "searched; 1 returned, 0 title-level city/fashion matches; no item promoted without item metadata rights and exact day relevance",
+        "itemsReturned": 1
+      },
+      {
+        "surface": "city museum open-access API",
+        "url": null,
+        "status": "blocked: no documented unauthenticated item API with machine-readable image rights was identified for this city in this pass; collection discovery remains link-only",
+        "itemsReturned": 0,
+        "technicalOutcome": "response received"
+      },
+      {
+        "surface": "Europeana Record API",
+        "query": "paris fashion week access invitation accreditation",
+        "url": "https://pro.europeana.eu/page/search",
+        "status": "blocked: item-level Record/Search API access requires an API key not present in the authorized deployment environment; no rights inference made from public thumbnails"
+      },
+      {
+        "surface": "official organizer audiovisual channels",
+        "query": "paris fashion week access invitation accreditation",
+        "url": "https://www.youtube.com/results?search_query=paris%20fashion%20week%20access%20invitation%20accreditation",
+        "status": "discovery URL recorded; blocked for automated item verification because no YouTube Data API credential is available and channel ownership/embed status must be verified per video"
+      },
+      {
+        "surface": "GitHub open-source repositories",
+        "query": "paris fashion week access invitation accreditation",
+        "url": "https://github.com/search?q=paris%20fashion%20week%20access%20invitation%20accreditation&type=repositories",
+        "status": "discovery URL recorded; no repository promoted without an exact package function, license file, maintenance review, and privacy/security review"
+      }
     ],
-    "itemsInspected": 16,
-    "openLicenseCandidates": 16,
-    "selectedDayContext": 0,
-    "checked": "2026-09-07"
+    "selected": 0,
+    "status": "No qualifying item promoted in this pass; exact queries and access blockers retained."
   }
 }

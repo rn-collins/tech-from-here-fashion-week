@@ -6,7 +6,7 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 18,
+  "surfaceCount": 23,
   "candidateCount": 11,
   "reusableCount": 1,
   "resourceCount": 10,
@@ -14,7 +14,9 @@
   "openLimitations": [
     "Private, paywalled, undigitized, deleted, unindexed, or untranslated material may exist.",
     "A result marked link-only is useful evidence but not licensed media.",
-    "The recurring city witness is context, not day-specific proof."
+    "The recurring city witness is context, not day-specific proof.",
+    "Europeana item APIs require a credential; this pass does not infer rights from thumbnails.",
+    "Official video embeds require item-level channel ownership and embed verification; search-result presence is insufficient."
   ],
   "status": "bounded registry pass complete; future recheck remains possible",
   "surfaces": [
@@ -129,22 +131,6 @@
       "query": "London Fashion Week Capture photography film archive",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
-    },
-    {
-      "id": "london-D3-FRESH-17",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "London Fashion Week photographer",
-      "searchedAt": "2026-09-07",
-      "resultCount": 0,
-      "outcome": "No results returned."
-    },
-    {
-      "id": "london-D3-FRESH-18",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "London fashion camera film",
-      "searchedAt": "2026-09-07",
-      "resultCount": 0,
-      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -160,15 +146,44 @@
     "LONDON-D3-C09",
     "LONDON-D3-C10"
   ],
-  "freshSearch": {
-    "provider": "Wikimedia Commons MediaWiki API",
-    "queries": [
-      "London Fashion Week photographer",
-      "London fashion camera film"
+  "thirdWave": {
+    "checked": "2026-09-07",
+    "scope": "Direct API/search endpoints for the five named remaining surface classes; item promotion requires exact city+day relevance and item-level rights.",
+    "surfaces": [
+      {
+        "surface": "Internet Archive item API",
+        "query": "london fashion week image photography livestream",
+        "url": "https://archive.org/advancedsearch.php?q=london%20fashion%20week%20image%20photography%20livestream&fl[]=identifier,title,creator,date,licenseurl,mediatype&rows=10&page=1&output=json",
+        "status": "searched; 0 returned, 0 title-level city/fashion matches; no item promoted without item metadata rights and exact day relevance",
+        "itemsReturned": 0
+      },
+      {
+        "surface": "V&A Collections API",
+        "url": "https://api.vam.ac.uk/v2/objects/search?q=london%20fashion%20week%20image%20photography%20livestream&images_exist=1&page_size=10",
+        "status": "searched through the public item API; any image still requires object-level rights review",
+        "itemsReturned": 0,
+        "technicalOutcome": "response received"
+      },
+      {
+        "surface": "Europeana Record API",
+        "query": "london fashion week image photography livestream",
+        "url": "https://pro.europeana.eu/page/search",
+        "status": "blocked: item-level Record/Search API access requires an API key not present in the authorized deployment environment; no rights inference made from public thumbnails"
+      },
+      {
+        "surface": "official organizer audiovisual channels",
+        "query": "london fashion week image photography livestream",
+        "url": "https://www.youtube.com/results?search_query=london%20fashion%20week%20image%20photography%20livestream",
+        "status": "discovery URL recorded; blocked for automated item verification because no YouTube Data API credential is available and channel ownership/embed status must be verified per video"
+      },
+      {
+        "surface": "GitHub open-source repositories",
+        "query": "london fashion week image photography livestream",
+        "url": "https://github.com/search?q=london%20fashion%20week%20image%20photography%20livestream&type=repositories",
+        "status": "discovery URL recorded; no repository promoted without an exact package function, license file, maintenance review, and privacy/security review"
+      }
     ],
-    "itemsInspected": 0,
-    "openLicenseCandidates": 0,
-    "selectedDayContext": 0,
-    "checked": "2026-09-07"
+    "selected": 0,
+    "status": "No qualifying item promoted in this pass; exact queries and access blockers retained."
   }
 }

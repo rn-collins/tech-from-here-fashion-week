@@ -6,15 +6,17 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 18,
-  "candidateCount": 25,
-  "reusableCount": 18,
+  "surfaceCount": 23,
+  "candidateCount": 9,
+  "reusableCount": 2,
   "resourceCount": 7,
   "installedCount": 1,
   "openLimitations": [
     "Private, paywalled, undigitized, deleted, unindexed, or untranslated material may exist.",
     "A result marked link-only is useful evidence but not licensed media.",
-    "The recurring city witness is context, not day-specific proof."
+    "The recurring city witness is context, not day-specific proof.",
+    "Europeana item APIs require a credential; this pass does not infer rights from thumbnails.",
+    "Official video embeds require item-level channel ownership and embed verification; search-result presence is insufficient."
   ],
   "status": "bounded registry pass complete; future recheck remains possible",
   "surfaces": [
@@ -129,22 +131,6 @@
       "query": "New York Fashion Week Access invitation schedule credential",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
-    },
-    {
-      "id": "new-york-D1-FRESH-17",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "New York Fashion Week invitation",
-      "searchedAt": "2026-09-07",
-      "resultCount": 8,
-      "outcome": "Item pages inspected; candidates retained only when an explicit open license appeared."
-    },
-    {
-      "id": "new-york-D1-FRESH-18",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "New York fashion accreditation schedule",
-      "searchedAt": "2026-09-07",
-      "resultCount": 8,
-      "outcome": "Item pages inspected; candidates retained only when an explicit open license appeared."
     }
   ],
   "candidateIds": [
@@ -158,15 +144,44 @@
     "NEW-YORK-D1-C07",
     "NEW-YORK-D1-C08"
   ],
-  "freshSearch": {
-    "provider": "Wikimedia Commons MediaWiki API",
-    "queries": [
-      "New York Fashion Week invitation",
-      "New York fashion accreditation schedule"
+  "thirdWave": {
+    "checked": "2026-09-07",
+    "scope": "Direct API/search endpoints for the five named remaining surface classes; item promotion requires exact city+day relevance and item-level rights.",
+    "surfaces": [
+      {
+        "surface": "Internet Archive item API",
+        "query": "new york fashion week access invitation accreditation",
+        "url": "https://archive.org/advancedsearch.php?q=new%20york%20fashion%20week%20access%20invitation%20accreditation&fl[]=identifier,title,creator,date,licenseurl,mediatype&rows=10&page=1&output=json",
+        "status": "searched; 3 returned, 0 title-level city/fashion matches; no item promoted without item metadata rights and exact day relevance",
+        "itemsReturned": 3
+      },
+      {
+        "surface": "Met Open Access API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=new%20york%20fashion%20week%20access%20invitation%20accreditation",
+        "status": "searched through the public Open Access API; no Fashion Week context may be inferred from garment records",
+        "itemsReturned": 96,
+        "technicalOutcome": "response received"
+      },
+      {
+        "surface": "Europeana Record API",
+        "query": "new york fashion week access invitation accreditation",
+        "url": "https://pro.europeana.eu/page/search",
+        "status": "blocked: item-level Record/Search API access requires an API key not present in the authorized deployment environment; no rights inference made from public thumbnails"
+      },
+      {
+        "surface": "official organizer audiovisual channels",
+        "query": "new york fashion week access invitation accreditation",
+        "url": "https://www.youtube.com/results?search_query=new%20york%20fashion%20week%20access%20invitation%20accreditation",
+        "status": "discovery URL recorded; blocked for automated item verification because no YouTube Data API credential is available and channel ownership/embed status must be verified per video"
+      },
+      {
+        "surface": "GitHub open-source repositories",
+        "query": "new york fashion week access invitation accreditation",
+        "url": "https://github.com/search?q=new%20york%20fashion%20week%20access%20invitation%20accreditation&type=repositories",
+        "status": "discovery URL recorded; no repository promoted without an exact package function, license file, maintenance review, and privacy/security review"
+      }
     ],
-    "itemsInspected": 16,
-    "openLicenseCandidates": 16,
-    "selectedDayContext": 0,
-    "checked": "2026-09-07"
+    "selected": 0,
+    "status": "No qualifying item promoted in this pass; exact queries and access blockers retained."
   }
 }

@@ -6,7 +6,7 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 18,
+  "surfaceCount": 23,
   "candidateCount": 7,
   "reusableCount": 1,
   "resourceCount": 6,
@@ -14,7 +14,9 @@
   "openLimitations": [
     "Private, paywalled, undigitized, deleted, unindexed, or untranslated material may exist.",
     "A result marked link-only is useful evidence but not licensed media.",
-    "The recurring city witness is context, not day-specific proof."
+    "The recurring city witness is context, not day-specific proof.",
+    "Europeana item APIs require a credential; this pass does not infer rights from thumbnails.",
+    "Official video embeds require item-level channel ownership and embed verification; search-result presence is insufficient."
   ],
   "status": "bounded registry pass complete; future recheck remains possible",
   "surfaces": [
@@ -129,22 +131,6 @@
       "query": "New York Fashion Week Stage venue stage production",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
-    },
-    {
-      "id": "new-york-D2-FRESH-17",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "New York Fashion Week runway",
-      "searchedAt": "2026-09-07",
-      "resultCount": 0,
-      "outcome": "No results returned."
-    },
-    {
-      "id": "new-york-D2-FRESH-18",
-      "family": "Wikimedia Commons item-level API search",
-      "query": "New York fashion stage venue",
-      "searchedAt": "2026-09-07",
-      "resultCount": 0,
-      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -156,15 +142,44 @@
     "NEW-YORK-D2-C05",
     "NEW-YORK-D2-C06"
   ],
-  "freshSearch": {
-    "provider": "Wikimedia Commons MediaWiki API",
-    "queries": [
-      "New York Fashion Week runway",
-      "New York fashion stage venue"
+  "thirdWave": {
+    "checked": "2026-09-07",
+    "scope": "Direct API/search endpoints for the five named remaining surface classes; item promotion requires exact city+day relevance and item-level rights.",
+    "surfaces": [
+      {
+        "surface": "Internet Archive item API",
+        "query": "new york fashion week runway staging lighting",
+        "url": "https://archive.org/advancedsearch.php?q=new%20york%20fashion%20week%20runway%20staging%20lighting&fl[]=identifier,title,creator,date,licenseurl,mediatype&rows=10&page=1&output=json",
+        "status": "blocked: timeout",
+        "itemsReturned": 0
+      },
+      {
+        "surface": "Met Open Access API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=new%20york%20fashion%20week%20runway%20staging%20lighting",
+        "status": "searched through the public Open Access API; no Fashion Week context may be inferred from garment records",
+        "itemsReturned": 64,
+        "technicalOutcome": "response received"
+      },
+      {
+        "surface": "Europeana Record API",
+        "query": "new york fashion week runway staging lighting",
+        "url": "https://pro.europeana.eu/page/search",
+        "status": "blocked: item-level Record/Search API access requires an API key not present in the authorized deployment environment; no rights inference made from public thumbnails"
+      },
+      {
+        "surface": "official organizer audiovisual channels",
+        "query": "new york fashion week runway staging lighting",
+        "url": "https://www.youtube.com/results?search_query=new%20york%20fashion%20week%20runway%20staging%20lighting",
+        "status": "discovery URL recorded; blocked for automated item verification because no YouTube Data API credential is available and channel ownership/embed status must be verified per video"
+      },
+      {
+        "surface": "GitHub open-source repositories",
+        "query": "new york fashion week runway staging lighting",
+        "url": "https://github.com/search?q=new%20york%20fashion%20week%20runway%20staging%20lighting&type=repositories",
+        "status": "discovery URL recorded; no repository promoted without an exact package function, license file, maintenance review, and privacy/security review"
+      }
     ],
-    "itemsInspected": 0,
-    "openLicenseCandidates": 0,
-    "selectedDayContext": 0,
-    "checked": "2026-09-07"
+    "selected": 0,
+    "status": "No qualifying item promoted in this pass; exact queries and access blockers retained."
   }
 }
