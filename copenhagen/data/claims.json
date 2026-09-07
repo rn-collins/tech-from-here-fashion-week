@@ -1,0 +1,274 @@
+[
+  {
+    "id": "CPH-ENTRY-THEN",
+    "day": 1,
+    "temporalState": "Then",
+    "wording": "CPHFW introduced its framework in 2020 and has required applicants to document compliance with Minimum Standards for official schedule consideration since January 2023.",
+    "citations": [
+      "CPH-REQUIREMENTS",
+      "CPH-REVISION"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-ENTRY-NOW",
+    "day": 1,
+    "temporalState": "Now",
+    "wording": "For SS27, the organizer says 34 show and presentation brands were reviewed by its show committee and a Rambøll-led sustainability committee against 19 Minimum Standards.",
+    "citations": [
+      "CPH-LINEUP",
+      "CPH-REQUIREMENTS"
+    ],
+    "state": "verified first-party claim",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-ENTRY-NEXT",
+    "day": 1,
+    "temporalState": "Next",
+    "wording": "CPHFW states that its process validates submitted information but is not a certification scheme or audit; admission must not be restated as proof that a brand or product is sustainable.",
+    "citations": [
+      "CPH-REQUIREMENTS"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-TIME-THEN",
+    "day": 2,
+    "temporalState": "Then",
+    "wording": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+    "citations": [
+      "CPH-EVENTS",
+      "CPH-SCHEDULE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-TIME-NOW",
+    "day": 2,
+    "temporalState": "Now",
+    "wording": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+    "citations": [
+      "CPH-EVENTS"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-TIME-NEXT",
+    "day": 2,
+    "temporalState": "Next",
+    "wording": "No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+    "citations": [
+      "CPH-SCHEDULE",
+      "CPH-EVENTS"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "CPH-SET-THEN",
+    "day": 3,
+    "temporalState": "Then",
+    "wording": "Current CPHFW terms require show-production measures including waste sorting, avoidance of single-use backstage plastic and zero-waste set design under the framework’s stated definition.",
+    "citations": [
+      "CPH-TERMS"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-SET-NOW",
+    "day": 3,
+    "temporalState": "Now",
+    "wording": "The terms permit a CPHFW representative to review backstage compliance on show day and allow additional documentation within a month; this is an operational evidence path, not an independent environmental audit.",
+    "citations": [
+      "CPH-TERMS",
+      "CPH-REQUIREMENTS"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-SET-NEXT",
+    "day": 3,
+    "temporalState": "Next",
+    "wording": "Show-level material inventories, energy use, transport boundaries, carbon calculations, suppliers and teardown outcomes remain unavailable unless brands or producers release them.",
+    "citations": [
+      "CPH-TERMS",
+      "CPH-STRATEGY"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "CPH-RIGHTS-THEN",
+    "day": 4,
+    "temporalState": "Then",
+    "wording": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+    "citations": [
+      "DMD-FASHION",
+      "DMD-PRINT"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-RIGHTS-NOW",
+    "day": 4,
+    "temporalState": "Now",
+    "wording": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+    "citations": [
+      "CPH-TERMS",
+      "KODA-MUSIC",
+      "CPH-IMAGEBANK"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-RIGHTS-NEXT",
+    "day": 4,
+    "temporalState": "Next",
+    "wording": "A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+    "citations": [
+      "CPH-IMAGEBANK",
+      "CPH-YOUTUBE"
+    ],
+    "state": "evidence-bounded synthesis",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-SCREEN-THEN",
+    "day": 5,
+    "temporalState": "Then",
+    "wording": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+    "citations": [
+      "CPH-REQUIREMENTS"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-SCREEN-NOW",
+    "day": 5,
+    "temporalState": "Now",
+    "wording": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+    "citations": [
+      "CPH-AI-PILOT"
+    ],
+    "state": "verified first-party future plan",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-SCREEN-NEXT",
+    "day": 5,
+    "temporalState": "Next",
+    "wording": "Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+    "citations": [
+      "CPH-AI-PILOT"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "CPH-DPP-THEN",
+    "day": 6,
+    "temporalState": "Then",
+    "wording": "The EU adopted ESPR in 2024, establishing a framework that includes Digital Product Passports; the Commission identifies textile apparel as a priority product group.",
+    "citations": [
+      "EU-ESPR",
+      "EU-DPP",
+      "EU-TEXTILES"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-DPP-NOW",
+    "day": 6,
+    "temporalState": "Now",
+    "wording": "The Commission says the DPP Registry launched in July 2026 with user-interface and API registration, access management, logging and machine-readable vocabulary support.",
+    "citations": [
+      "EU-DPP-REGISTRY",
+      "EU-DPP"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-DPP-NEXT",
+    "day": 6,
+    "temporalState": "Next",
+    "wording": "The presence of EU infrastructure does not prove that every CPHFW garment already carries a textile DPP or that one event-level product-data stack has been selected.",
+    "citations": [
+      "EU-DPP",
+      "CPH-SCHEDULE"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, paywalled or undigitized evidence may exist."
+  },
+  {
+    "id": "CPH-MEMORY-THEN",
+    "day": 7,
+    "temporalState": "Then",
+    "wording": "CPHFW retains schedule, framework, article and reporting surfaces while Designmuseum Danmark preserves fashion and textiles through collection-based interpretation.",
+    "citations": [
+      "CPH-SCHEDULE",
+      "CPH-STRATEGY",
+      "DMD-FASHION"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-MEMORY-NOW",
+    "day": 7,
+    "temporalState": "Now",
+    "wording": "Policy evidence, show media, production records and museum objects travel under different access and reuse rules; no single archive currently joins them.",
+    "citations": [
+      "CPH-IMAGEBANK",
+      "CPH-STRATEGY",
+      "DMD-FASHION"
+    ],
+    "state": "editorial synthesis",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  },
+  {
+    "id": "CPH-MEMORY-NEXT",
+    "day": 7,
+    "temporalState": "Next",
+    "wording": "No complete public record was located for every CPHFW show’s invitations, crew credits, production data, screening evidence, media rights, product records and long-term preservation.",
+    "citations": [
+      "CPH-STRATEGY",
+      "CPH-IMAGEBANK",
+      "DMD-FASHION"
+    ],
+    "state": "editorial inference",
+    "confidence": "high",
+    "note": "Claim language preserves the scope of the cited primary record."
+  }
+]

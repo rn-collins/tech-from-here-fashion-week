@@ -1,0 +1,113 @@
+{
+  "id": "TFH-CPH-D6",
+  "day": 6,
+  "title": "The garment approaches a passport",
+  "technology": "EU identifiers, data carriers, registry, APIs and textile product data",
+  "governingQuestion": "How will product evidence move from a brand file into interoperable public infrastructure?",
+  "status": "evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open",
+  "longform": {
+    "headline": "The garment approaches a passport",
+    "opening": "A garment passport is becoming operational EU infrastructure—not a Fashion Week prop.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The EU adopted ESPR in 2024, establishing a framework that includes Digital Product Passports; the Commission identifies textile apparel as a priority product group.",
+        "claimId": "CPH-DPP-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The Commission says the DPP Registry launched in July 2026 with user-interface and API registration, access management, logging and machine-readable vocabulary support.",
+        "claimId": "CPH-DPP-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "The presence of EU infrastructure does not prove that every CPHFW garment already carries a textile DPP or that one event-level product-data stack has been selected.",
+        "claimId": "CPH-DPP-NEXT"
+      }
+    ],
+    "closing": "Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "A garment passport is becoming operational EU infrastructure—not a Fashion Week prop.",
+      "The EU adopted ESPR in 2024, establishing a framework that includes Digital Product Passports; the Commission identifies textile apparel as a priority product group.",
+      "The Commission says the DPP Registry launched in July 2026 with user-interface and API registration, access management, logging and machine-readable vocabulary support.",
+      "The system: EU identifiers, data carriers, registry, APIs and textile product data.",
+      "The record: EU Digital Product Passport Registry.",
+      "The boundary: The presence of EU infrastructure does not prove that every CPHFW garment already carries a textile DPP or that one event-level product-data stack has been selected.",
+      "See every source, permission and open assignment in the Copenhagen evidence edition."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "A garment passport is becoming operational EU infrastructure—not a Fashion Week prop."
+    },
+    {
+      "frame": 2,
+      "copy": "The EU adopted ESPR in 2024, establishing a framework that includes Digital Product Passports; the Commission identifies textile apparel as a priority product group."
+    },
+    {
+      "frame": 3,
+      "copy": "The Commission says the DPP Registry launched in July 2026 with user-interface and API registration, access management, logging and machine-readable vocabulary support."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: EU identifiers, data carriers, registry, APIs and textile product data."
+    },
+    {
+      "frame": 5,
+      "copy": "The record: EU Digital Product Passport Registry."
+    },
+    {
+      "frame": 6,
+      "copy": "The boundary: The presence of EU infrastructure does not prove that every CPHFW garment already carries a textile DPP or that one event-level product-data stack has been selected."
+    },
+    {
+      "frame": 7,
+      "copy": "See every source, permission and open assignment in the Copenhagen evidence edition."
+    }
+  ],
+  "platforms": {
+    "instagram": "A garment passport is becoming operational EU infrastructure—not a Fashion Week prop. This day follows eu identifiers, data carriers, registry, apis and textile product data without turning admission into certification.",
+    "linkedin": "A garment passport is becoming operational EU infrastructure—not a Fashion Week prop.\n\nThe EU adopted ESPR in 2024, establishing a framework that includes Digital Product Passports; the Commission identifies textile apparel as a priority product group.\n\nThe Commission says the DPP Registry launched in July 2026 with user-interface and API registration, access management, logging and machine-readable vocabulary support.\n\nThe presence of EU infrastructure does not prove that every CPHFW garment already carries a textile DPP or that one event-level product-data stack has been selected.\n\nEvery source, rights boundary and open assignment is attached.",
+    "newsletter": {
+      "subject": "Copenhagen 06 — The garment approaches a passport",
+      "deck": "How will product evidence move from a brand file into interoperable public infrastructure?"
+    },
+    "youtube": "Day 6 examines eu identifiers, data carriers, registry, apis and textile product data. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/06-passport-layer"
+  },
+  "interactive": "Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.",
+  "selectedObject": {
+    "title": "EU Digital Product Passport Registry",
+    "sourceId": "EU-DPP-REGISTRY",
+    "treatment": "public regulatory data infrastructure"
+  },
+  "claims": [
+    "CPH-DPP-THEN",
+    "CPH-DPP-NOW",
+    "CPH-DPP-NEXT"
+  ],
+  "sources": [
+    "EU-ESPR",
+    "EU-DPP",
+    "EU-TEXTILES",
+    "EU-DPP-REGISTRY",
+    "CPH-SCHEDULE"
+  ],
+  "rights": "Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.",
+  "education": [
+    "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "https://designmuseum.dk/en/exhibition/fashion-fabric/"
+  ],
+  "openReporting": "The presence of EU infrastructure does not prove that every CPHFW garment already carries a textile DPP or that one event-level product-data stack has been selected.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "Danish-language/context review",
+    "specialist review for regulatory or AI claims"
+  ]
+}

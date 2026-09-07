@@ -1,0 +1,112 @@
+{
+  "id": "TFH-CPH-D7",
+  "day": 7,
+  "title": "The archive keeps more than a look",
+  "technology": "museum collections, reports, retained schedules and accountability records",
+  "governingQuestion": "What must survive if a Fashion Week wants its claims—not only its images—to remain auditable?",
+  "status": "evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open",
+  "longform": {
+    "headline": "The archive keeps more than a look",
+    "opening": "If evidence cannot survive the season, accountability collapses back into atmosphere.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "CPHFW retains schedule, framework, article and reporting surfaces while Designmuseum Danmark preserves fashion and textiles through collection-based interpretation.",
+        "claimId": "CPH-MEMORY-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Policy evidence, show media, production records and museum objects travel under different access and reuse rules; no single archive currently joins them.",
+        "claimId": "CPH-MEMORY-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No complete public record was located for every CPHFW show’s invitations, crew credits, production data, screening evidence, media rights, product records and long-term preservation.",
+        "claimId": "CPH-MEMORY-NEXT"
+      }
+    ],
+    "closing": "Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "If evidence cannot survive the season, accountability collapses back into atmosphere.",
+      "CPHFW retains schedule, framework, article and reporting surfaces while Designmuseum Danmark preserves fashion and textiles through collection-based interpretation.",
+      "Policy evidence, show media, production records and museum objects travel under different access and reuse rules; no single archive currently joins them.",
+      "The system: museum collections, reports, retained schedules and accountability records.",
+      "The record: Fashion & Fabric collection.",
+      "The boundary: No complete public record was located for every CPHFW show’s invitations, crew credits, production data, screening evidence, media rights, product records and long-term preservation.",
+      "See every source, permission and open assignment in the Copenhagen evidence edition."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "If evidence cannot survive the season, accountability collapses back into atmosphere."
+    },
+    {
+      "frame": 2,
+      "copy": "CPHFW retains schedule, framework, article and reporting surfaces while Designmuseum Danmark preserves fashion and textiles through collection-based interpretation."
+    },
+    {
+      "frame": 3,
+      "copy": "Policy evidence, show media, production records and museum objects travel under different access and reuse rules; no single archive currently joins them."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: museum collections, reports, retained schedules and accountability records."
+    },
+    {
+      "frame": 5,
+      "copy": "The record: Fashion & Fabric collection."
+    },
+    {
+      "frame": 6,
+      "copy": "The boundary: No complete public record was located for every CPHFW show’s invitations, crew credits, production data, screening evidence, media rights, product records and long-term preservation."
+    },
+    {
+      "frame": 7,
+      "copy": "See every source, permission and open assignment in the Copenhagen evidence edition."
+    }
+  ],
+  "platforms": {
+    "instagram": "If evidence cannot survive the season, accountability collapses back into atmosphere. This day follows museum collections, reports, retained schedules and accountability records without turning admission into certification.",
+    "linkedin": "If evidence cannot survive the season, accountability collapses back into atmosphere.\n\nCPHFW retains schedule, framework, article and reporting surfaces while Designmuseum Danmark preserves fashion and textiles through collection-based interpretation.\n\nPolicy evidence, show media, production records and museum objects travel under different access and reuse rules; no single archive currently joins them.\n\nNo complete public record was located for every CPHFW show’s invitations, crew credits, production data, screening evidence, media rights, product records and long-term preservation.\n\nEvery source, rights boundary and open assignment is attached.",
+    "newsletter": {
+      "subject": "Copenhagen 07 — The archive keeps more than a look",
+      "deck": "What must survive if a Fashion Week wants its claims—not only its images—to remain auditable?"
+    },
+    "youtube": "Day 7 examines museum collections, reports, retained schedules and accountability records. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/07-memory-as-proof"
+  },
+  "interactive": "Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.",
+  "selectedObject": {
+    "title": "Fashion & Fabric collection",
+    "sourceId": "DMD-FASHION",
+    "treatment": "museum memory surface"
+  },
+  "claims": [
+    "CPH-MEMORY-THEN",
+    "CPH-MEMORY-NOW",
+    "CPH-MEMORY-NEXT"
+  ],
+  "sources": [
+    "CPH-SCHEDULE",
+    "CPH-STRATEGY",
+    "DMD-FASHION",
+    "CPH-IMAGEBANK"
+  ],
+  "rights": "Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.",
+  "education": [
+    "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "https://designmuseum.dk/en/exhibition/fashion-fabric/"
+  ],
+  "openReporting": "No complete public record was located for every CPHFW show’s invitations, crew credits, production data, screening evidence, media rights, product records and long-term preservation.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "Danish-language/context review",
+    "specialist review for regulatory or AI claims"
+  ]
+}

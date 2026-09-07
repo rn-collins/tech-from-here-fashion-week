@@ -1,0 +1,111 @@
+{
+  "id": "TFH-CPH-D1",
+  "day": 1,
+  "title": "Proof becomes a threshold",
+  "technology": "application, committee review, 19 Minimum Standards",
+  "governingQuestion": "When a show schedule has an evidence threshold, what exactly has—and has not—been verified?",
+  "status": "evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open",
+  "longform": {
+    "headline": "Proof becomes a threshold",
+    "opening": "A Copenhagen runway begins before the room: with a file that must clear an admission threshold.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "CPHFW introduced its framework in 2020 and has required applicants to document compliance with Minimum Standards for official schedule consideration since January 2023.",
+        "claimId": "CPH-ENTRY-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "For SS27, the organizer says 34 show and presentation brands were reviewed by its show committee and a Rambøll-led sustainability committee against 19 Minimum Standards.",
+        "claimId": "CPH-ENTRY-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "CPHFW states that its process validates submitted information but is not a certification scheme or audit; admission must not be restated as proof that a brand or product is sustainable.",
+        "claimId": "CPH-ENTRY-NEXT"
+      }
+    ],
+    "closing": "Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "A Copenhagen runway begins before the room: with a file that must clear an admission threshold.",
+      "CPHFW introduced its framework in 2020 and has required applicants to document compliance with Minimum Standards for official schedule consideration since January 2023.",
+      "For SS27, the organizer says 34 show and presentation brands were reviewed by its show committee and a Rambøll-led sustainability committee against 19 Minimum Standards.",
+      "The system: application, committee review, 19 Minimum Standards.",
+      "The record: The 19-standard admission framework.",
+      "The boundary: CPHFW states that its process validates submitted information but is not a certification scheme or audit; admission must not be restated as proof that a brand or product is sustainable.",
+      "See every source, permission and open assignment in the Copenhagen evidence edition."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "A Copenhagen runway begins before the room: with a file that must clear an admission threshold."
+    },
+    {
+      "frame": 2,
+      "copy": "CPHFW introduced its framework in 2020 and has required applicants to document compliance with Minimum Standards for official schedule consideration since January 2023."
+    },
+    {
+      "frame": 3,
+      "copy": "For SS27, the organizer says 34 show and presentation brands were reviewed by its show committee and a Rambøll-led sustainability committee against 19 Minimum Standards."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: application, committee review, 19 Minimum Standards."
+    },
+    {
+      "frame": 5,
+      "copy": "The record: The 19-standard admission framework."
+    },
+    {
+      "frame": 6,
+      "copy": "The boundary: CPHFW states that its process validates submitted information but is not a certification scheme or audit; admission must not be restated as proof that a brand or product is sustainable."
+    },
+    {
+      "frame": 7,
+      "copy": "See every source, permission and open assignment in the Copenhagen evidence edition."
+    }
+  ],
+  "platforms": {
+    "instagram": "A Copenhagen runway begins before the room: with a file that must clear an admission threshold. This day follows application, committee review, 19 minimum standards without turning admission into certification.",
+    "linkedin": "A Copenhagen runway begins before the room: with a file that must clear an admission threshold.\n\nCPHFW introduced its framework in 2020 and has required applicants to document compliance with Minimum Standards for official schedule consideration since January 2023.\n\nFor SS27, the organizer says 34 show and presentation brands were reviewed by its show committee and a Rambøll-led sustainability committee against 19 Minimum Standards.\n\nCPHFW states that its process validates submitted information but is not a certification scheme or audit; admission must not be restated as proof that a brand or product is sustainable.\n\nEvery source, rights boundary and open assignment is attached.",
+    "newsletter": {
+      "subject": "Copenhagen 01 — Proof becomes a threshold",
+      "deck": "When a show schedule has an evidence threshold, what exactly has—and has not—been verified?"
+    },
+    "youtube": "Day 1 examines application, committee review, 19 minimum standards. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/01-proof-of-entry"
+  },
+  "interactive": "Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.",
+  "selectedObject": {
+    "title": "The 19-standard admission framework",
+    "sourceId": "CPH-REQUIREMENTS",
+    "treatment": "organizer criteria and disclosure interface"
+  },
+  "claims": [
+    "CPH-ENTRY-THEN",
+    "CPH-ENTRY-NOW",
+    "CPH-ENTRY-NEXT"
+  ],
+  "sources": [
+    "CPH-REQUIREMENTS",
+    "CPH-REVISION",
+    "CPH-LINEUP"
+  ],
+  "rights": "Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.",
+  "education": [
+    "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "https://designmuseum.dk/en/exhibition/fashion-fabric/"
+  ],
+  "openReporting": "CPHFW states that its process validates submitted information but is not a certification scheme or audit; admission must not be restated as proof that a brand or product is sustainable.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "Danish-language/context review",
+    "specialist review for regulatory or AI claims"
+  ]
+}

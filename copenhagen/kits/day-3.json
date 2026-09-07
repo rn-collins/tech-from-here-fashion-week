@@ -1,0 +1,111 @@
+{
+  "id": "TFH-CPH-D3",
+  "day": 3,
+  "title": "The set must account for its exit",
+  "technology": "temporary production, sorting, packaging and carbon documentation",
+  "governingQuestion": "What changes when teardown is designed before the first look appears?",
+  "status": "evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open",
+  "longform": {
+    "headline": "The set must account for its exit",
+    "opening": "In Copenhagen, the set is asked to account for what happens after it disappears.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Current CPHFW terms require show-production measures including waste sorting, avoidance of single-use backstage plastic and zero-waste set design under the framework’s stated definition.",
+        "claimId": "CPH-SET-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "The terms permit a CPHFW representative to review backstage compliance on show day and allow additional documentation within a month; this is an operational evidence path, not an independent environmental audit.",
+        "claimId": "CPH-SET-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Show-level material inventories, energy use, transport boundaries, carbon calculations, suppliers and teardown outcomes remain unavailable unless brands or producers release them.",
+        "claimId": "CPH-SET-NEXT"
+      }
+    ],
+    "closing": "Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "In Copenhagen, the set is asked to account for what happens after it disappears.",
+      "Current CPHFW terms require show-production measures including waste sorting, avoidance of single-use backstage plastic and zero-waste set design under the framework’s stated definition.",
+      "The terms permit a CPHFW representative to review backstage compliance on show day and allow additional documentation within a month; this is an operational evidence path, not an independent environmental audit.",
+      "The system: temporary production, sorting, packaging and carbon documentation.",
+      "The record: Show production terms.",
+      "The boundary: Show-level material inventories, energy use, transport boundaries, carbon calculations, suppliers and teardown outcomes remain unavailable unless brands or producers release them.",
+      "See every source, permission and open assignment in the Copenhagen evidence edition."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "In Copenhagen, the set is asked to account for what happens after it disappears."
+    },
+    {
+      "frame": 2,
+      "copy": "Current CPHFW terms require show-production measures including waste sorting, avoidance of single-use backstage plastic and zero-waste set design under the framework’s stated definition."
+    },
+    {
+      "frame": 3,
+      "copy": "The terms permit a CPHFW representative to review backstage compliance on show day and allow additional documentation within a month; this is an operational evidence path, not an independent environmental audit."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: temporary production, sorting, packaging and carbon documentation."
+    },
+    {
+      "frame": 5,
+      "copy": "The record: Show production terms."
+    },
+    {
+      "frame": 6,
+      "copy": "The boundary: Show-level material inventories, energy use, transport boundaries, carbon calculations, suppliers and teardown outcomes remain unavailable unless brands or producers release them."
+    },
+    {
+      "frame": 7,
+      "copy": "See every source, permission and open assignment in the Copenhagen evidence edition."
+    }
+  ],
+  "platforms": {
+    "instagram": "In Copenhagen, the set is asked to account for what happens after it disappears. This day follows temporary production, sorting, packaging and carbon documentation without turning admission into certification.",
+    "linkedin": "In Copenhagen, the set is asked to account for what happens after it disappears.\n\nCurrent CPHFW terms require show-production measures including waste sorting, avoidance of single-use backstage plastic and zero-waste set design under the framework’s stated definition.\n\nThe terms permit a CPHFW representative to review backstage compliance on show day and allow additional documentation within a month; this is an operational evidence path, not an independent environmental audit.\n\nShow-level material inventories, energy use, transport boundaries, carbon calculations, suppliers and teardown outcomes remain unavailable unless brands or producers release them.\n\nEvery source, rights boundary and open assignment is attached.",
+    "newsletter": {
+      "subject": "Copenhagen 03 — The set must account for its exit",
+      "deck": "What changes when teardown is designed before the first look appears?"
+    },
+    "youtube": "Day 3 examines temporary production, sorting, packaging and carbon documentation. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/03-temporary-material-city"
+  },
+  "interactive": "Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.",
+  "selectedObject": {
+    "title": "Show production terms",
+    "sourceId": "CPH-TERMS",
+    "treatment": "operational requirements and warning path"
+  },
+  "claims": [
+    "CPH-SET-THEN",
+    "CPH-SET-NOW",
+    "CPH-SET-NEXT"
+  ],
+  "sources": [
+    "CPH-TERMS",
+    "CPH-REQUIREMENTS",
+    "CPH-STRATEGY"
+  ],
+  "rights": "Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.",
+  "education": [
+    "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "https://designmuseum.dk/en/exhibition/fashion-fabric/"
+  ],
+  "openReporting": "Show-level material inventories, energy use, transport boundaries, carbon calculations, suppliers and teardown outcomes remain unavailable unless brands or producers release them.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "Danish-language/context review",
+    "specialist review for regulatory or AI claims"
+  ]
+}

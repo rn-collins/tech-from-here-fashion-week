@@ -1,0 +1,110 @@
+{
+  "id": "TFH-CPH-D5",
+  "day": 5,
+  "title": "The review becomes a data system",
+  "technology": "survey evidence, external validation and the announced AW27 AI pilot",
+  "governingQuestion": "Can software scale a judgment system without disguising its boundaries?",
+  "status": "evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open",
+  "longform": {
+    "headline": "The review becomes a data system",
+    "opening": "The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+        "claimId": "CPH-SCREEN-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+        "claimId": "CPH-SCREEN-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+        "claimId": "CPH-SCREEN-NEXT"
+      }
+    ],
+    "closing": "Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review.",
+      "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.",
+      "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.",
+      "The system: survey evidence, external validation and the announced AW27 AI pilot.",
+      "The record: The announced AW27 screening pilot.",
+      "The boundary: Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+      "See every source, permission and open assignment in the Copenhagen evidence edition."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review."
+    },
+    {
+      "frame": 2,
+      "copy": "The current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll."
+    },
+    {
+      "frame": 3,
+      "copy": "CPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: survey evidence, external validation and the announced AW27 AI pilot."
+    },
+    {
+      "frame": 5,
+      "copy": "The record: The announced AW27 screening pilot."
+    },
+    {
+      "frame": 6,
+      "copy": "The boundary: Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation."
+    },
+    {
+      "frame": 7,
+      "copy": "See every source, permission and open assignment in the Copenhagen evidence edition."
+    }
+  ],
+  "platforms": {
+    "instagram": "The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review. This day follows survey evidence, external validation and the announced aw27 ai pilot without turning admission into certification.",
+    "linkedin": "The next screening layer has been announced: an AI-supported pilot for AW27, still led by human review.\n\nThe current framework uses submitted survey responses and documentation, reviewed by an external committee led by Rambøll.\n\nCPHFW and Renoon announced an AI-supported screening pilot for AW27 after a year of testing; human-led screening is stated to continue.\n\nPublic materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.\n\nEvery source, rights boundary and open assignment is attached.",
+    "newsletter": {
+      "subject": "Copenhagen 05 — The review becomes a data system",
+      "deck": "Can software scale a judgment system without disguising its boundaries?"
+    },
+    "youtube": "Day 5 examines survey evidence, external validation and the announced aw27 ai pilot. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/05-screening-machine"
+  },
+  "interactive": "Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.",
+  "selectedObject": {
+    "title": "The announced AW27 screening pilot",
+    "sourceId": "CPH-AI-PILOT",
+    "treatment": "dated future-plan record"
+  },
+  "claims": [
+    "CPH-SCREEN-THEN",
+    "CPH-SCREEN-NOW",
+    "CPH-SCREEN-NEXT"
+  ],
+  "sources": [
+    "CPH-REQUIREMENTS",
+    "CPH-AI-PILOT"
+  ],
+  "rights": "Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.",
+  "education": [
+    "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "https://designmuseum.dk/en/exhibition/fashion-fabric/"
+  ],
+  "openReporting": "Public materials do not yet provide the pilot model card, training data, error rates, appeal path, energy measurement or independent bias evaluation.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "Danish-language/context review",
+    "specialist review for regulatory or AI claims"
+  ]
+}

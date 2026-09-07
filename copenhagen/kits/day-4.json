@@ -1,0 +1,114 @@
+{
+  "id": "TFH-CPH-D4",
+  "day": 4,
+  "title": "Sound and image travel under contract",
+  "technology": "music clearance, consent, press assets and livestream circulation",
+  "governingQuestion": "Who can replay the atmosphere after the room has disappeared?",
+  "status": "evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open",
+  "longform": {
+    "headline": "Sound and image travel under contract",
+    "opening": "The atmosphere may feel fleeting; its music, images and consents are not free of ownership.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+        "claimId": "CPH-RIGHTS-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+        "claimId": "CPH-RIGHTS-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+        "claimId": "CPH-RIGHTS-NEXT"
+      }
+    ],
+    "closing": "Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "The atmosphere may feel fleeting; its music, images and consents are not free of ownership.",
+      "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.",
+      "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.",
+      "The system: music clearance, consent, press assets and livestream circulation.",
+      "The record: Official image bank.",
+      "The boundary: A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+      "See every source, permission and open assignment in the Copenhagen evidence edition."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The atmosphere may feel fleeting; its music, images and consents are not free of ownership."
+    },
+    {
+      "frame": 2,
+      "copy": "Danish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design."
+    },
+    {
+      "frame": 3,
+      "copy": "CPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: music clearance, consent, press assets and livestream circulation."
+    },
+    {
+      "frame": 5,
+      "copy": "The record: Official image bank."
+    },
+    {
+      "frame": 6,
+      "copy": "The boundary: A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path."
+    },
+    {
+      "frame": 7,
+      "copy": "See every source, permission and open assignment in the Copenhagen evidence edition."
+    }
+  ],
+  "platforms": {
+    "instagram": "The atmosphere may feel fleeting; its music, images and consents are not free of ownership. This day follows music clearance, consent, press assets and livestream circulation without turning admission into certification.",
+    "linkedin": "The atmosphere may feel fleeting; its music, images and consents are not free of ownership.\n\nDanish textile memory predates the contemporary week: Designmuseum Danmark describes thousands of fashion and textile objects, including historic costume and Danish design.\n\nCPHFW assigns brands responsibility for music clearance with Koda when they provide music on physical or owned digital platforms; organizer press assets remain separately terms-bound.\n\nA public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.\n\nEvery source, rights boundary and open assignment is attached.",
+    "newsletter": {
+      "subject": "Copenhagen 04 — Sound and image travel under contract",
+      "deck": "Who can replay the atmosphere after the room has disappeared?"
+    },
+    "youtube": "Day 4 examines music clearance, consent, press assets and livestream circulation. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/04-rights-in-the-room"
+  },
+  "interactive": "Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.",
+  "selectedObject": {
+    "title": "Official image bank",
+    "sourceId": "CPH-IMAGEBANK",
+    "treatment": "rights-controlled press portal"
+  },
+  "claims": [
+    "CPH-RIGHTS-THEN",
+    "CPH-RIGHTS-NOW",
+    "CPH-RIGHTS-NEXT"
+  ],
+  "sources": [
+    "DMD-FASHION",
+    "DMD-PRINT",
+    "CPH-TERMS",
+    "KODA-MUSIC",
+    "CPH-IMAGEBANK",
+    "CPH-YOUTUBE"
+  ],
+  "rights": "Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.",
+  "education": [
+    "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "https://designmuseum.dk/en/exhibition/fashion-fabric/"
+  ],
+  "openReporting": "A public runway stream or press image is not automatically reusable; this release installs no third-party item without item-level permission or an authorized embed path.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "Danish-language/context review",
+    "specialist review for regulatory or AI claims"
+  ]
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "CPH-SCHEDULE",
+    "title": "Official Schedule — SS27",
+    "institution": "Copenhagen Fashion Week",
+    "date": "2026",
+    "url": "https://copenhagenfashionweek.com/schedule",
+    "type": "live organizer interface",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-LINEUP",
+    "title": "Copenhagen Fashion Week announces SS27 brand line-up",
+    "institution": "Copenhagen Fashion Week",
+    "date": "2026-05-29",
+    "url": "https://copenhagenfashionweek.com/article/copenhagen-fashion-week-announces-ss27-brand-line-up",
+    "type": "official announcement",
+    "rights": "LINK-ONLY; page media not copied",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-REQUIREMENTS",
+    "title": "The Sustainability Requirements Framework",
+    "institution": "Copenhagen Fashion Week",
+    "date": "current",
+    "url": "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "type": "official framework and disclosure surface",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-REVISION",
+    "title": "First Sustainability Requirements revisions",
+    "institution": "Copenhagen Fashion Week",
+    "date": "2024-03-25",
+    "url": "https://copenhagenfashionweek.com/article/cphfw-releases-first-sustainability-requirements-revisions",
+    "type": "official revision record",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-TERMS",
+    "title": "Show & Presentation Terms and Conditions",
+    "institution": "Copenhagen Fashion Week",
+    "date": "current",
+    "url": "https://copenhagenfashionweek.com/application/showcase-terms-and-conditions",
+    "type": "official production, rights and application terms",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-EVENTS",
+    "title": "Event & Talk Schedule Information",
+    "institution": "Copenhagen Fashion Week",
+    "date": "current",
+    "url": "https://copenhagenfashionweek.com/application/event-talk-schedule-information",
+    "type": "official access and programme rules",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-AI-PILOT",
+    "title": "CPHFW and Renoon introduce AI-powered screening system",
+    "institution": "Copenhagen Fashion Week",
+    "date": "2026-09-03",
+    "url": "https://copenhagenfashionweek.com/article/copenhagen-fashion-week-and-renoon-introduce-ai-powered-sustainability-requirements-screening-system",
+    "type": "official announcement of future pilot",
+    "rights": "LINK-ONLY; first-party future claim",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-STRATEGY",
+    "title": "Sustainability Strategy & Reporting",
+    "institution": "Copenhagen Fashion Week",
+    "date": "current",
+    "url": "https://copenhagenfashionweek.com/sustainability/sustainability-strategy-reporting",
+    "type": "organizer reports and strategy surface",
+    "rights": "LINK-ONLY; report reuse varies",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-IMAGEBANK",
+    "title": "Copenhagen Fashion Week Image Bank",
+    "institution": "Copenhagen Fashion Week / Presscloud",
+    "date": "current",
+    "url": "https://cphfw.presscloud.com/",
+    "type": "official press-asset portal",
+    "rights": "REQUEST / TERMS-BOUND; login or stated license controls reuse",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "CPH-YOUTUBE",
+    "title": "Copenhagen Fashion Week on YouTube",
+    "institution": "Copenhagen Fashion Week",
+    "date": "current",
+    "url": "https://www.youtube.com/c/CopenhagenFashionWeek",
+    "type": "official moving-image channel",
+    "rights": "EMBED-ONLY where platform and owner permit; otherwise link",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "DK-CONSUMER",
+    "title": "Environmental marketing recommendations",
+    "institution": "Danish Consumer Ombudsman",
+    "date": "2024",
+    "url": "https://forbrugerombudsmanden.dk/publikationer/retningslinjer-og-vejledninger/vejledninger-longreads/virksomheders-miljoemarkedsfoering-forbrugerombudsmandens-anbefalinger",
+    "type": "official Danish marketing guidance and English download",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "DK-CHARTER",
+    "title": "Danish Fashion Ethical Charter",
+    "institution": "Copenhagen Fashion Week",
+    "date": "current",
+    "url": "https://copenhagenfashionweek.com/danish-fashion-ethical-charter",
+    "type": "official charter surface referenced by CPHFW terms",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "EU-ESPR",
+    "title": "Regulation (EU) 2024/1781 — ESPR",
+    "institution": "European Union",
+    "date": "2024-06-13",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1781",
+    "type": "binding EU legal text",
+    "rights": "OFFICIAL LEGAL TEXT; LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "EU-DPP",
+    "title": "Digital Product Passport",
+    "institution": "European Commission",
+    "date": "current",
+    "url": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "type": "official operational explainer and sector guidance",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "EU-DPP-REGISTRY",
+    "title": "Digital Product Passport Registry is live",
+    "institution": "European Commission",
+    "date": "2026-07-20",
+    "url": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-now-live-2026-07-20_en",
+    "type": "official registry implementation record",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "EU-TEXTILES",
+    "title": "EU Strategy for Sustainable and Circular Textiles",
+    "institution": "European Commission",
+    "date": "current",
+    "url": "https://environment.ec.europa.eu/strategy/textiles-strategy_en",
+    "type": "official policy context",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "DMD-FASHION",
+    "title": "Fashion & Fabric",
+    "institution": "Designmuseum Danmark",
+    "date": "current",
+    "url": "https://designmuseum.dk/en/exhibition/fashion-fabric/",
+    "type": "museum collection and exhibition record",
+    "rights": "LINK-ONLY; object rights not assumed",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "DMD-PRINT",
+    "title": "The Power of Print",
+    "institution": "Designmuseum Danmark",
+    "date": "2025",
+    "url": "https://designmuseum.dk/en/thepowerofprint/",
+    "type": "museum textile-history exhibition",
+    "rights": "LINK-ONLY; object rights not assumed",
+    "accessed": "2026-09-05"
+  },
+  {
+    "id": "KODA-MUSIC",
+    "title": "Music use at fashion shows and events",
+    "institution": "Koda",
+    "date": "current",
+    "url": "https://koda.dk/music-users",
+    "type": "Danish music licensing surface",
+    "rights": "LINK-ONLY; exact license depends on use",
+    "accessed": "2026-09-05"
+  }
+]

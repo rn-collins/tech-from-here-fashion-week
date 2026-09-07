@@ -1,0 +1,110 @@
+{
+  "id": "TFH-CPH-D2",
+  "day": 2,
+  "title": "The calendar allocates attention",
+  "technology": "exclusive show slots, overlapping events, RSVP and public access",
+  "governingQuestion": "How does one schedule distribute time, visibility and permission across a city?",
+  "status": "evidence-backed production draft; recording, interviews, specialist review and owner-final approval remain open",
+  "longform": {
+    "headline": "The calendar allocates attention",
+    "opening": "A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+        "claimId": "CPH-TIME-THEN"
+      },
+      {
+        "heading": "Now",
+        "copy": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+        "claimId": "CPH-TIME-NOW"
+      },
+      {
+        "heading": "Next—and the limit",
+        "copy": "No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+        "claimId": "CPH-TIME-NEXT"
+      }
+    ],
+    "closing": "Copenhagen’s distinction is not a claim of purity. It is the decision to make participation depend on evidence—and the obligation to keep asking what that evidence cannot establish."
+  },
+  "vertical": {
+    "runtime": "45–60 seconds",
+    "spokenScript": [
+      "A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap.",
+      "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.",
+      "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.",
+      "The system: exclusive show slots, overlapping events, RSVP and public access.",
+      "The record: SS27 official schedule.",
+      "The boundary: No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+      "See every source, permission and open assignment in the Copenhagen evidence edition."
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap."
+    },
+    {
+      "frame": 2,
+      "copy": "The official programme distinguishes exclusive show and presentation slots from events and talks that may overlap."
+    },
+    {
+      "frame": 3,
+      "copy": "Event profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: exclusive show slots, overlapping events, RSVP and public access."
+    },
+    {
+      "frame": 5,
+      "copy": "The record: SS27 official schedule."
+    },
+    {
+      "frame": 6,
+      "copy": "The boundary: No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue."
+    },
+    {
+      "frame": 7,
+      "copy": "See every source, permission and open assignment in the Copenhagen evidence edition."
+    }
+  ],
+  "platforms": {
+    "instagram": "A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap. This day follows exclusive show slots, overlapping events, rsvp and public access without turning admission into certification.",
+    "linkedin": "A Fashion Week schedule does not merely tell time. It grants exclusivity to some moments and lets others overlap.\n\nThe official programme distinguishes exclusive show and presentation slots from events and talks that may overlap.\n\nEvent profiles can identify invitation-only or public access and publish RSVP details, making the schedule an access interface as well as a calendar.\n\nNo reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.\n\nEvery source, rights boundary and open assignment is attached.",
+    "newsletter": {
+      "subject": "Copenhagen 02 — The calendar allocates attention",
+      "deck": "How does one schedule distribute time, visibility and permission across a city?"
+    },
+    "youtube": "Day 2 examines exclusive show slots, overlapping events, rsvp and public access. Claims, sources, rights and reporting limits: https://tech-from-here-fashion-week.vercel.app/copenhagen/day/02-time-and-access"
+  },
+  "interactive": "Evidence Threshold: a keyboard-operable comparison of claim, submitted record, reviewer, decision boundary and unresolved field; it collects no user data.",
+  "selectedObject": {
+    "title": "SS27 official schedule",
+    "sourceId": "CPH-SCHEDULE",
+    "treatment": "live programme and access interface"
+  },
+  "claims": [
+    "CPH-TIME-THEN",
+    "CPH-TIME-NOW",
+    "CPH-TIME-NEXT"
+  ],
+  "sources": [
+    "CPH-EVENTS",
+    "CPH-SCHEDULE"
+  ],
+  "rights": "Exact outbound records only; no third-party image, audio or video downloaded. Authorized embeds may be added only after item-level verification.",
+  "education": [
+    "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "https://designmuseum.dk/en/exhibition/fashion-fabric/"
+  ],
+  "openReporting": "No reviewed public source exposes one universal credential, guest-list, security or accessibility stack for every CPHFW venue.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording/performance",
+    "named interviews and releases",
+    "Danish-language/context review",
+    "specialist review for regulatory or AI claims"
+  ]
+}
