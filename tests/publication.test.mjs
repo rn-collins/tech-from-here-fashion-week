@@ -86,7 +86,7 @@ test('seven production kits contain finished, distinct deliverables',()=>{
 });
 
 test('media and public release posture',()=>{
- const all=routes.map(r=>fs.readFileSync(path.join(root,r,'index.html'),'utf8')).join('\n');assert.doesNotMatch(all,/<img\b/i,'no uncleared imagery');assert.doesNotMatch(all,/AI-generated hero|synthetic hero/i);assert.match(fs.readFileSync(path.join(root,'robots.txt'),'utf8'),/Allow: \//);assert.equal((all.match(/youtube-nocookie\.com\/embed\//g)||[]).length,8,'four embeds appear on their day and object-desk routes');assert.match(all,/AUTHORIZED EMBED via YouTube player/);
+ const all=routes.map(r=>fs.readFileSync(path.join(root,r,'index.html'),'utf8')).join('\n');const media=readJson('data/city-media.json');assert.equal(media.length,7);assert.ok(media.every(m=>m.file&&m.creator&&m.source&&m.license&&m.alt&&m.caption));assert.doesNotMatch(all,/AI-generated hero|synthetic hero/i);assert.match(fs.readFileSync(path.join(root,'robots.txt'),'utf8'),/Allow: \//);assert.equal((all.match(/youtube-nocookie\.com\/embed\//g)||[]).length,8,'four embeds appear on their day and object-desk routes');assert.match(all,/AUTHORIZED EMBED via YouTube player/);
  assert.match(all,/https:\/\/github\.com\/rn-collins\/tech-from-here-fashion-week\/issues\/new\?template=correction-or-takedown\.yml/);
  assert.ok(fs.existsSync(path.join(root,'.github','ISSUE_TEMPLATE','correction-or-takedown.yml')),'public correction form exists');
 });

@@ -118,3 +118,4 @@ await import('./build-shanghai.mjs');
 await import('./build-copenhagen.mjs');
 await import('./build-tokyo.mjs');
 await import('./complete-publications.mjs');
+await import('./final-polish.mjs');
