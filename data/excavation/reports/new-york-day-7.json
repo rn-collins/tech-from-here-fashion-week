@@ -131,6 +131,22 @@
       "query": "New York Fashion Week Memory archive preservation accountability",
       "searchedAt": "2026-09-07",
       "outcome": "candidate retained"
+    },
+    {
+      "id": "new-york-D7-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "New York Fashion Week archive",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "new-york-D7-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "New York fashion museum history",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -142,6 +158,17 @@
     "NEW-YORK-D7-C05",
     "NEW-YORK-D7-C06"
   ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "New York Fashion Week archive",
+      "New York fashion museum history"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  },
   "thirdWave": {
     "checked": "2026-09-07",
     "scope": "Direct API/search endpoints for the five named remaining surface classes; item promotion requires exact city+day relevance and item-level rights.",
@@ -150,15 +177,15 @@
         "surface": "Internet Archive item API",
         "query": "new york fashion week archive preservation metadata",
         "url": "https://archive.org/advancedsearch.php?q=new%20york%20fashion%20week%20archive%20preservation%20metadata&fl[]=identifier,title,creator,date,licenseurl,mediatype&rows=10&page=1&output=json",
-        "status": "searched; 10 returned, 0 title-level city/fashion matches; no item promoted without item metadata rights and exact day relevance",
-        "itemsReturned": 10
+        "status": "blocked: timeout",
+        "itemsReturned": 0
       },
       {
         "surface": "Met Open Access API",
         "url": "https://collectionapi.metmuseum.org/public/collection/v1/search?hasImages=true&q=new%20york%20fashion%20week%20archive%20preservation%20metadata",
         "status": "searched through the public Open Access API; no Fashion Week context may be inferred from garment records",
-        "itemsReturned": 46,
-        "technicalOutcome": "response received"
+        "itemsReturned": 0,
+        "technicalOutcome": "blocked: timeout"
       },
       {
         "surface": "Europeana Record API",

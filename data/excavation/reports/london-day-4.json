@@ -131,6 +131,22 @@
       "query": "London Fashion Week Circulation livestream platform media",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "london-D4-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "London Fashion Week livestream",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "london-D4-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "London fashion digital broadcast",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -146,6 +162,17 @@
     "LONDON-D4-C09",
     "LONDON-D4-C10"
   ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "London Fashion Week livestream",
+      "London fashion digital broadcast"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  },
   "thirdWave": {
     "checked": "2026-09-07",
     "scope": "Direct API/search endpoints for the five named remaining surface classes; item promotion requires exact city+day relevance and item-level rights.",
@@ -154,15 +181,15 @@
         "surface": "Internet Archive item API",
         "query": "london fashion week circulation media distribution",
         "url": "https://archive.org/advancedsearch.php?q=london%20fashion%20week%20circulation%20media%20distribution&fl[]=identifier,title,creator,date,licenseurl,mediatype&rows=10&page=1&output=json",
-        "status": "searched; 3 returned, 0 title-level city/fashion matches; no item promoted without item metadata rights and exact day relevance",
-        "itemsReturned": 3
+        "status": "blocked: timeout",
+        "itemsReturned": 0
       },
       {
         "surface": "V&A Collections API",
         "url": "https://api.vam.ac.uk/v2/objects/search?q=london%20fashion%20week%20circulation%20media%20distribution&images_exist=1&page_size=10",
         "status": "searched through the public item API; any image still requires object-level rights review",
         "itemsReturned": 0,
-        "technicalOutcome": "response received"
+        "technicalOutcome": "blocked: timeout"
       },
       {
         "surface": "Europeana Record API",

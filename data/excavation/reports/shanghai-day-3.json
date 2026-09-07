@@ -131,6 +131,22 @@
       "query": "Shanghai Fashion Week Capture photography film archive",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D3-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Shanghai Fashion Week photographer",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "shanghai-D3-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Shanghai fashion camera film",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -142,6 +158,17 @@
     "SHANGHAI-D3-C05",
     "SHANGHAI-D3-C06"
   ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "Shanghai Fashion Week photographer",
+      "Shanghai fashion camera film"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  },
   "thirdWave": {
     "checked": "2026-09-07",
     "scope": "Direct API/search endpoints for the five named remaining surface classes; item promotion requires exact city+day relevance and item-level rights.",
