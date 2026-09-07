@@ -10,7 +10,7 @@ const routes=['new-york','new-york/days','new-york/objects','new-york/kits','new
 test('New York is a distinct, complete twelve-route edition',()=>{
  assert.equal(routes.length,12);
  for(const route of routes){const html=read(route+'/index.html');assert.match(html,/TFH \/ NYC/);assert.ok(html.includes('canonical" href="https://tech-from-here-fashion-week.vercel.app/'+route));assert.doesNotMatch(html,/TFH \/ LDN/);}
- assert.match(read('index.html'),/href="\/new-york">NYC edition/);
+ assert.match(read('cities/index.html'),/href="\/new-york"/);
 });
 test('New York has twenty-one bounded claim records and exact sources',()=>{
  const claims=data('new-york/data/claims.json'),sources=data('new-york/data/sources.json'),ids=new Set(sources.map(s=>s.id));

@@ -1,0 +1,1 @@
+document.querySelector('nav button')?.addEventListener('click',e=>{const n=document.querySelector('#tyo-nav'),open=n.classList.toggle('open');e.currentTarget.setAttribute('aria-expanded',String(open))});

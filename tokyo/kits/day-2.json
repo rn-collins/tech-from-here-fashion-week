@@ -1,0 +1,167 @@
+{
+  "id": "TFH-TYO-D2",
+  "day": 2,
+  "title": "The venue becomes a network",
+  "technology": "Shibuya Hikarie, satellite rooms, city movement",
+  "governingQuestion": "What infrastructure holds a distributed Tokyo programme together?",
+  "publication": {
+    "author": "Rayven-Nikkita Collins",
+    "version": "1.0 evidence edition",
+    "checked": "2026-09-07",
+    "status": "publication-ready text; human recording, permissions, specialist and RN owner-final gates remain"
+  },
+  "essay": {
+    "headline": "The venue becomes a network",
+    "opening": "Tokyo Fashion Week occupies a network, not one runway.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room."
+      },
+      {
+        "heading": "Now",
+        "copy": "Time, address, programme type and access state are joined in the schedule interface."
+      },
+      {
+        "heading": "Next / limit",
+        "copy": "Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show."
+      }
+    ],
+    "closing": "Tokyo’s technical identity is not one gadget. It is the chain of interfaces that decides what can enter, travel, translate, trade and remain."
+  },
+  "video": {
+    "runtime": "4–6 minutes",
+    "script": [
+      "Tokyo Fashion Week occupies a network, not one runway.",
+      "The current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room.",
+      "Time, address, programme type and access state are joined in the schedule interface.",
+      "The system: Shibuya Hikarie, satellite rooms, city movement.",
+      "The artifact: 27SS schedule.",
+      "The limit: Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+      "End card: continue to the next Tokyo interface."
+    ]
+  },
+  "audio": {
+    "format": "narrated essay",
+    "script": [
+      "Tokyo Fashion Week occupies a network, not one runway.",
+      "The current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room.",
+      "Time, address, programme type and access state are joined in the schedule interface.",
+      "The system: Shibuya Hikarie, satellite rooms, city movement.",
+      "The artifact: 27SS schedule.",
+      "The limit: Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    ]
+  },
+  "shorts": {
+    "count": 3,
+    "scripts": [
+      [
+        "Tokyo Fashion Week occupies a network, not one runway.",
+        "The current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room.",
+        "Time, address, programme type and access state are joined in the schedule interface."
+      ],
+      [
+        "Time, address, programme type and access state are joined in the schedule interface.",
+        "The system: Shibuya Hikarie, satellite rooms, city movement.",
+        "The artifact: 27SS schedule."
+      ],
+      [
+        "The artifact: 27SS schedule.",
+        "The limit: Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show.",
+        "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+      ]
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "Tokyo Fashion Week occupies a network, not one runway."
+    },
+    {
+      "frame": 2,
+      "copy": "The current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room."
+    },
+    {
+      "frame": 3,
+      "copy": "Time, address, programme type and access state are joined in the schedule interface."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Shibuya Hikarie, satellite rooms, city movement."
+    },
+    {
+      "frame": 5,
+      "copy": "The artifact: 27SS schedule."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show."
+    },
+    {
+      "frame": 7,
+      "copy": "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    }
+  ],
+  "pinterest": {
+    "title": "Tokyo system 02: The venue becomes a network",
+    "description": "What infrastructure holds a distributed Tokyo programme together?",
+    "alt": "Editorial evidence card for Shibuya Hikarie, satellite rooms, city movement."
+  },
+  "platforms": {
+    "instagram": "Tokyo Fashion Week occupies a network, not one runway. The current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room. Time, address, programme type and access state are joined in the schedule interface. The system: Shibuya Hikarie, satellite rooms, city movement. The artifact: 27SS schedule. The limit: Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show. Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+    "linkedin": "Tokyo Fashion Week occupies a network, not one runway.\n\nThe current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room.\n\nTime, address, programme type and access state are joined in the schedule interface.\n\nPublic records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show.\n\nEvery source and limit is attached.",
+    "beehiiv": {
+      "subject": "Tokyo 02 — The venue becomes a network",
+      "body": "Tokyo Fashion Week occupies a network, not one runway.\n\nThe current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room.\n\nTime, address, programme type and access state are joined in the schedule interface.\n\nThe system: Shibuya Hikarie, satellite rooms, city movement.\n\nThe artifact: 27SS schedule.\n\nThe limit: Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show.\n\nTrace every source, rights state and open assignment in the Tokyo evidence edition."
+    },
+    "youtube": {
+      "title": "Tokyo 02: The venue becomes a network",
+      "description": "Sources, transcript and rights: https://tech-from-here-fashion-week.vercel.app/tokyo/day/02-shibuya-network"
+    }
+  },
+  "sourceCards": [
+    {
+      "claim": "TYO-CITY-THEN",
+      "citations": [
+        "TYO-HOME",
+        "TYO-SCHEDULE"
+      ]
+    },
+    {
+      "claim": "TYO-CITY-NOW",
+      "citations": [
+        "TYO-SCHEDULE"
+      ]
+    },
+    {
+      "claim": "TYO-CITY-NEXT",
+      "citations": [
+        "TYO-SCHEDULE"
+      ]
+    }
+  ],
+  "interactive": {
+    "name": "Interface Relay",
+    "spec": "Keyboard-operable sequence linking actor, record, decision, rights state and unresolved field; no storage or analytics."
+  },
+  "education": [
+    "https://rakutenfashionweektokyo.com/en/aboutus/",
+    "https://rakutenfashionweektokyo.com/en/collection/",
+    "https://japanculturalexpo.bunka.go.jp/en/article/feature/202308_02/"
+  ],
+  "downloads": [
+    "day-2.json",
+    "day-2.md"
+  ],
+  "rights": "Exact links and authorized platform surfaces only. No third-party image, audio or video downloaded.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording and performance",
+    "interview consent and releases",
+    "Japanese-language/context review",
+    "story-specific specialist review",
+    "item-level media permission where reproduction is desired"
+  ]
+}

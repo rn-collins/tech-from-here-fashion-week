@@ -1,0 +1,167 @@
+{
+  "id": "TFH-TYO-D3",
+  "day": 3,
+  "title": "The runway becomes a player",
+  "technology": "official streams, playlists, replay",
+  "governingQuestion": "When the room becomes a player, which view becomes canonical?",
+  "publication": {
+    "author": "Rayven-Nikkita Collins",
+    "version": "1.0 evidence edition",
+    "checked": "2026-09-07",
+    "status": "publication-ready text; human recording, permissions, specialist and RN owner-final gates remain"
+  },
+  "essay": {
+    "headline": "The runway becomes a player",
+    "opening": "The official view survives as a player.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule."
+      },
+      {
+        "heading": "Now",
+        "copy": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse."
+      },
+      {
+        "heading": "Next / limit",
+        "copy": "Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level."
+      }
+    ],
+    "closing": "Tokyo’s technical identity is not one gadget. It is the chain of interfaces that decides what can enter, travel, translate, trade and remain."
+  },
+  "video": {
+    "runtime": "4–6 minutes",
+    "script": [
+      "The official view survives as a player.",
+      "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+      "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+      "The system: official streams, playlists, replay.",
+      "The artifact: 27SS streaming desk.",
+      "The limit: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+      "End card: continue to the next Tokyo interface."
+    ]
+  },
+  "audio": {
+    "format": "narrated essay",
+    "script": [
+      "The official view survives as a player.",
+      "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+      "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+      "The system: official streams, playlists, replay.",
+      "The artifact: 27SS streaming desk.",
+      "The limit: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    ]
+  },
+  "shorts": {
+    "count": 3,
+    "scripts": [
+      [
+        "The official view survives as a player.",
+        "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+        "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse."
+      ],
+      [
+        "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+        "The system: official streams, playlists, replay.",
+        "The artifact: 27SS streaming desk."
+      ],
+      [
+        "The artifact: 27SS streaming desk.",
+        "The limit: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+        "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+      ]
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The official view survives as a player."
+    },
+    {
+      "frame": 2,
+      "copy": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule."
+    },
+    {
+      "frame": 3,
+      "copy": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: official streams, playlists, replay."
+    },
+    {
+      "frame": 5,
+      "copy": "The artifact: 27SS streaming desk."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level."
+    },
+    {
+      "frame": 7,
+      "copy": "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    }
+  ],
+  "pinterest": {
+    "title": "Tokyo system 03: The runway becomes a player",
+    "description": "When the room becomes a player, which view becomes canonical?",
+    "alt": "Editorial evidence card for official streams, playlists, replay."
+  },
+  "platforms": {
+    "instagram": "The official view survives as a player. The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule. Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse. The system: official streams, playlists, replay. The artifact: 27SS streaming desk. The limit: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level. Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+    "linkedin": "The official view survives as a player.\n\nThe organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.\n\nReplay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.\n\nViewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.\n\nEvery source and limit is attached.",
+    "beehiiv": {
+      "subject": "Tokyo 03 — The runway becomes a player",
+      "body": "The official view survives as a player.\n\nThe organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.\n\nReplay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.\n\nThe system: official streams, playlists, replay.\n\nThe artifact: 27SS streaming desk.\n\nThe limit: Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.\n\nTrace every source, rights state and open assignment in the Tokyo evidence edition."
+    },
+    "youtube": {
+      "title": "Tokyo 03: The runway becomes a player",
+      "description": "Sources, transcript and rights: https://tech-from-here-fashion-week.vercel.app/tokyo/day/03-streaming-stage"
+    }
+  },
+  "sourceCards": [
+    {
+      "claim": "TYO-STREAM-THEN",
+      "citations": [
+        "TYO-HOME",
+        "TYO-STREAM"
+      ]
+    },
+    {
+      "claim": "TYO-STREAM-NOW",
+      "citations": [
+        "TYO-STREAM"
+      ]
+    },
+    {
+      "claim": "TYO-STREAM-NEXT",
+      "citations": [
+        "TYO-STREAM"
+      ]
+    }
+  ],
+  "interactive": {
+    "name": "Interface Relay",
+    "spec": "Keyboard-operable sequence linking actor, record, decision, rights state and unresolved field; no storage or analytics."
+  },
+  "education": [
+    "https://rakutenfashionweektokyo.com/en/aboutus/",
+    "https://rakutenfashionweektokyo.com/en/collection/",
+    "https://japanculturalexpo.bunka.go.jp/en/article/feature/202308_02/"
+  ],
+  "downloads": [
+    "day-3.json",
+    "day-3.md"
+  ],
+  "rights": "Exact links and authorized platform surfaces only. No third-party image, audio or video downloaded.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording and performance",
+    "interview consent and releases",
+    "Japanese-language/context review",
+    "story-specific specialist review",
+    "item-level media permission where reproduction is desired"
+  ]
+}

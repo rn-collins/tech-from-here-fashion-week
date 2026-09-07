@@ -1,0 +1,274 @@
+[
+  {
+    "id": "TYO-GATE-THEN",
+    "day": 1,
+    "temporalState": "Then",
+    "wording": "JFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions.",
+    "citations": [
+      "TYO-ABOUT"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-GATE-NOW",
+    "day": 1,
+    "temporalState": "Now",
+    "wording": "The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states.",
+    "citations": [
+      "TYO-HOME",
+      "TYO-SCHEDULE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-GATE-NEXT",
+    "day": 1,
+    "temporalState": "Next",
+    "wording": "The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue.",
+    "citations": [
+      "TYO-SCHEDULE",
+      "TYO-REGISTER"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, Japanese-only, undigitized or show-level evidence may exist."
+  },
+  {
+    "id": "TYO-CITY-THEN",
+    "day": 2,
+    "temporalState": "Then",
+    "wording": "The current programme repeatedly uses Shibuya Hikarie halls and also lists other sites, making the week a venue network rather than one room.",
+    "citations": [
+      "TYO-HOME",
+      "TYO-SCHEDULE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-CITY-NOW",
+    "day": 2,
+    "temporalState": "Now",
+    "wording": "Time, address, programme type and access state are joined in the schedule interface.",
+    "citations": [
+      "TYO-SCHEDULE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-CITY-NEXT",
+    "day": 2,
+    "temporalState": "Next",
+    "wording": "Public records reviewed do not provide complete production drawings, power loads, staging vendors, crew credits or teardown data for every show.",
+    "citations": [
+      "TYO-SCHEDULE"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, Japanese-only, undigitized or show-level evidence may exist."
+  },
+  {
+    "id": "TYO-STREAM-THEN",
+    "day": 3,
+    "temporalState": "Then",
+    "wording": "The organizer presents official season streaming and YouTube playlist surfaces alongside the schedule.",
+    "citations": [
+      "TYO-HOME",
+      "TYO-STREAM"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-STREAM-NOW",
+    "day": 3,
+    "temporalState": "Now",
+    "wording": "Replay makes some presentations addressable beyond the room, while platform and owner terms still govern reuse.",
+    "citations": [
+      "TYO-STREAM"
+    ],
+    "state": "evidence-bounded synthesis",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-STREAM-NEXT",
+    "day": 3,
+    "temporalState": "Next",
+    "wording": "Viewership, recommendation effects, caption coverage and long-term preservation are not disclosed consistently at show level.",
+    "citations": [
+      "TYO-STREAM"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, Japanese-only, undigitized or show-level evidence may exist."
+  },
+  {
+    "id": "TYO-LANG-THEN",
+    "day": 4,
+    "temporalState": "Then",
+    "wording": "The organizer operates Japanese and English interfaces across programme, brands, topics and organizational information.",
+    "citations": [
+      "TYO-HOME",
+      "TYO-ABOUT",
+      "TYO-BRANDS"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-LANG-NOW",
+    "day": 4,
+    "temporalState": "Now",
+    "wording": "The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record.",
+    "citations": [
+      "TYO-HOME",
+      "TYO-BRANDS"
+    ],
+    "state": "verified observation",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-LANG-NEXT",
+    "day": 4,
+    "temporalState": "Next",
+    "wording": "No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard.",
+    "citations": [
+      "TYO-HOME",
+      "TYO-PRIVACY"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, Japanese-only, undigitized or show-level evidence may exist."
+  },
+  {
+    "id": "TYO-TEXTILE-THEN",
+    "day": 5,
+    "temporalState": "Then",
+    "wording": "JFWO states that manufacturers, designers and distributors cooperate in the organization and that its textile division operates alongside Fashion Week.",
+    "citations": [
+      "TYO-ABOUT"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-TEXTILE-NOW",
+    "day": 5,
+    "temporalState": "Now",
+    "wording": "Tokyo Textile Scope is a distinct trade-facing surface connected to the same organizational ecosystem.",
+    "citations": [
+      "TYO-ABOUT",
+      "TYO-TEXTILE"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-TEXTILE-NEXT",
+    "day": 5,
+    "temporalState": "Next",
+    "wording": "The public event interface does not prove item-level fiber origin, mill, labor, chemical, inventory or product-passport data for every runway garment.",
+    "citations": [
+      "TYO-TEXTILE",
+      "JP-METI-TEXTILE"
+    ],
+    "state": "unresolved",
+    "confidence": "medium",
+    "note": "Bounded public-surface result; private, Japanese-only, undigitized or show-level evidence may exist."
+  },
+  {
+    "id": "TYO-AWARD-THEN",
+    "day": 6,
+    "temporalState": "Then",
+    "wording": "JFWO lists Fashion Prize of Tokyo and Tokyo Fashion Award as related divisions; both maintain distinct programme surfaces.",
+    "citations": [
+      "TYO-ABOUT",
+      "TYO-FPT",
+      "TYO-TFA"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-AWARD-NOW",
+    "day": 6,
+    "temporalState": "Now",
+    "wording": "The current homepage publishes award announcements beside reports and programme information, making recognition part of the event’s media infrastructure.",
+    "citations": [
+      "TYO-HOME",
+      "TYO-FPT",
+      "TYO-TFA"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-AWARD-NEXT",
+    "day": 6,
+    "temporalState": "Next",
+    "wording": "Selection rationale, downstream commercial results and long-term support outcomes require award-level reporting; a title alone does not prove impact.",
+    "citations": [
+      "TYO-FPT",
+      "TYO-TFA"
+    ],
+    "state": "editorial inference",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-MEMORY-THEN",
+    "day": 7,
+    "temporalState": "Then",
+    "wording": "The official collection archive exposes seasons back to 2006 and maintains brand and season indexes.",
+    "citations": [
+      "TYO-ARCHIVE",
+      "TYO-2015",
+      "TYO-BRANDS"
+    ],
+    "state": "verified fact",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-MEMORY-NOW",
+    "day": 7,
+    "temporalState": "Now",
+    "wording": "Museum interpretation, organizer archives and stream platforms preserve different kinds of fashion memory under different rights.",
+    "citations": [
+      "TYO-ARCHIVE",
+      "TYO-STREAM",
+      "JP-CULTURE-FASHION"
+    ],
+    "state": "evidence-bounded synthesis",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  },
+  {
+    "id": "TYO-MEMORY-NEXT",
+    "day": 7,
+    "temporalState": "Next",
+    "wording": "No single public archive joins every invitation, technical credit, show file, rights record, textile provenance, stream and correction history.",
+    "citations": [
+      "TYO-ARCHIVE",
+      "JP-CULTURE-FASHION"
+    ],
+    "state": "editorial inference",
+    "confidence": "high",
+    "note": "The wording preserves what the cited primary record establishes."
+  }
+]

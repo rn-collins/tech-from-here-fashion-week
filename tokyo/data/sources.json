@@ -1,0 +1,152 @@
+[
+  {
+    "id": "TYO-HOME",
+    "title": "Rakuten Fashion Week TOKYO — 27SS",
+    "institution": "Japan Fashion Week Organization",
+    "date": "2026",
+    "url": "https://rakutenfashionweektokyo.com/en/",
+    "use": "current schedule, streams, reports and programme",
+    "rights": "LINK-ONLY; organizer copyright retained",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-ABOUT",
+    "title": "About JFW Organization",
+    "institution": "Japan Fashion Week Organization",
+    "date": "2026-08-01",
+    "url": "https://rakutenfashionweektokyo.com/en/aboutus/",
+    "use": "organization purpose, divisions and governance",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-SCHEDULE",
+    "title": "Official Schedule — 27SS",
+    "institution": "Japan Fashion Week Organization",
+    "date": "2026",
+    "url": "https://rakutenfashionweektokyo.com/en/schedule/",
+    "use": "time, format, access state and venue interface",
+    "rights": "LINK-ONLY; live interface",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-STREAM",
+    "title": "27SS Streaming",
+    "institution": "Japan Fashion Week Organization",
+    "date": "2026",
+    "url": "https://rakutenfashionweektokyo.com/en/streaming/",
+    "use": "official stream and replay surface",
+    "rights": "EMBED-ONLY where organizer/platform permits; otherwise link",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-REGISTER",
+    "title": "Press / Buyer Register",
+    "institution": "Japan Fashion Week Organization",
+    "date": "2026",
+    "url": "https://rakutenfashionweektokyo.com/en/register/",
+    "use": "credential and registration surface",
+    "rights": "LINK-ONLY; no personal data collected here",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-ARCHIVE",
+    "title": "Collection archive",
+    "institution": "Japan Fashion Week Organization",
+    "date": "2006–2027",
+    "url": "https://rakutenfashionweektokyo.com/en/collection/",
+    "use": "season and brand index",
+    "rights": "LINK-ONLY; image rights not assumed",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-2015",
+    "title": "2015 A/W archive",
+    "institution": "Japan Fashion Week Organization",
+    "date": "2015",
+    "url": "https://rakutenfashionweektokyo.com/en/collection/2015aw/",
+    "use": "retained season interface",
+    "rights": "LINK-ONLY; image rights not assumed",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-BRANDS",
+    "title": "Brands index",
+    "institution": "Japan Fashion Week Organization",
+    "date": "current",
+    "url": "https://rakutenfashionweektokyo.com/en/brands/",
+    "use": "cross-season brand index",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-SPONSORS",
+    "title": "Sponsors",
+    "institution": "Japan Fashion Week Organization",
+    "date": "current",
+    "url": "https://rakutenfashionweektokyo.com/en/sponsors/",
+    "use": "institutional support surface",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-TEXTILE",
+    "title": "Tokyo Textile Scope",
+    "institution": "Japan Fashion Week Organization",
+    "date": "current",
+    "url": "https://www.jfwtextile.com/",
+    "use": "textile trade division",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-FPT",
+    "title": "Fashion Prize of Tokyo",
+    "institution": "Tokyo Metropolitan Government / Japan Fashion Week Organization",
+    "date": "current",
+    "url": "https://fashion-prize-of-tokyo.jp/",
+    "use": "award and overseas-support programme",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-TFA",
+    "title": "Tokyo Fashion Award",
+    "institution": "Tokyo Metropolitan Government / Japan Fashion Week Organization",
+    "date": "current",
+    "url": "https://tokyo-fashion-award.jp/",
+    "use": "award programme and winner archive",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "JP-METI-TEXTILE",
+    "title": "Study Group on Sustainability of Textile and Apparel Industry — report surface",
+    "institution": "Ministry of Economy, Trade and Industry",
+    "date": "2021",
+    "url": "https://www.meti.go.jp/english/policy/mono_info_service/overall/index.html",
+    "use": "national manufacturing and textile policy context",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "JP-CULTURE-FASHION",
+    "title": "The Art of Fashion at Tokyo National Museum",
+    "institution": "Agency for Cultural Affairs / Japan Cultural Expo",
+    "date": "2023",
+    "url": "https://japanculturalexpo.bunka.go.jp/en/article/feature/202308_02/",
+    "use": "museum interpretation and public learning",
+    "rights": "LINK-ONLY; image rights not assumed",
+    "accessed": "2026-09-07"
+  },
+  {
+    "id": "TYO-PRIVACY",
+    "title": "Privacy Policy",
+    "institution": "Japan Fashion Week Organization",
+    "date": "current",
+    "url": "https://rakutenfashionweektokyo.com/en/privacy/",
+    "use": "organizer data-handling disclosure",
+    "rights": "LINK-ONLY",
+    "accessed": "2026-09-07"
+  }
+]

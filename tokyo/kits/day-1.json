@@ -1,0 +1,168 @@
+{
+  "id": "TFH-TYO-D1",
+  "day": 1,
+  "title": "The calendar is a gate",
+  "technology": "schedule, invitation state, registration",
+  "governingQuestion": "How does a public timetable distribute private permission?",
+  "publication": {
+    "author": "Rayven-Nikkita Collins",
+    "version": "1.0 evidence edition",
+    "checked": "2026-09-07",
+    "status": "publication-ready text; human recording, permissions, specialist and RN owner-final gates remain"
+  },
+  "essay": {
+    "headline": "The calendar is a gate",
+    "opening": "The schedule is public; entry is a separate state.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "JFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions."
+      },
+      {
+        "heading": "Now",
+        "copy": "The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states."
+      },
+      {
+        "heading": "Next / limit",
+        "copy": "The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue."
+      }
+    ],
+    "closing": "Tokyo’s technical identity is not one gadget. It is the chain of interfaces that decides what can enter, travel, translate, trade and remain."
+  },
+  "video": {
+    "runtime": "4–6 minutes",
+    "script": [
+      "The schedule is public; entry is a separate state.",
+      "JFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions.",
+      "The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states.",
+      "The system: schedule, invitation state, registration.",
+      "The artifact: 2005 organization record.",
+      "The limit: The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+      "End card: continue to the next Tokyo interface."
+    ]
+  },
+  "audio": {
+    "format": "narrated essay",
+    "script": [
+      "The schedule is public; entry is a separate state.",
+      "JFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions.",
+      "The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states.",
+      "The system: schedule, invitation state, registration.",
+      "The artifact: 2005 organization record.",
+      "The limit: The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    ]
+  },
+  "shorts": {
+    "count": 3,
+    "scripts": [
+      [
+        "The schedule is public; entry is a separate state.",
+        "JFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions.",
+        "The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states."
+      ],
+      [
+        "The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states.",
+        "The system: schedule, invitation state, registration.",
+        "The artifact: 2005 organization record."
+      ],
+      [
+        "The artifact: 2005 organization record.",
+        "The limit: The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue.",
+        "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+      ]
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "The schedule is public; entry is a separate state."
+    },
+    {
+      "frame": 2,
+      "copy": "JFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions."
+    },
+    {
+      "frame": 3,
+      "copy": "The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: schedule, invitation state, registration."
+    },
+    {
+      "frame": 5,
+      "copy": "The artifact: 2005 organization record."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue."
+    },
+    {
+      "frame": 7,
+      "copy": "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    }
+  ],
+  "pinterest": {
+    "title": "Tokyo system 01: The calendar is a gate",
+    "description": "How does a public timetable distribute private permission?",
+    "alt": "Editorial evidence card for schedule, invitation state, registration."
+  },
+  "platforms": {
+    "instagram": "The schedule is public; entry is a separate state. JFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions. The current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states. The system: schedule, invitation state, registration. The artifact: 2005 organization record. The limit: The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue. Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+    "linkedin": "The schedule is public; entry is a separate state.\n\nJFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions.\n\nThe current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states.\n\nThe public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue.\n\nEvery source and limit is attached.",
+    "beehiiv": {
+      "subject": "Tokyo 01 — The calendar is a gate",
+      "body": "The schedule is public; entry is a separate state.\n\nJFWO was established in 2005 and positions Fashion Week beside textile and related industry divisions.\n\nThe current official schedule labels entries by runway, presentation, showroom or event and exposes open-to-public versus invitation-only states.\n\nThe system: schedule, invitation state, registration.\n\nThe artifact: 2005 organization record.\n\nThe limit: The public pages do not expose one universal invitation, security, seating or accessibility stack across every participating venue.\n\nTrace every source, rights state and open assignment in the Tokyo evidence edition."
+    },
+    "youtube": {
+      "title": "Tokyo 01: The calendar is a gate",
+      "description": "Sources, transcript and rights: https://tech-from-here-fashion-week.vercel.app/tokyo/day/01-calendar-gate"
+    }
+  },
+  "sourceCards": [
+    {
+      "claim": "TYO-GATE-THEN",
+      "citations": [
+        "TYO-ABOUT"
+      ]
+    },
+    {
+      "claim": "TYO-GATE-NOW",
+      "citations": [
+        "TYO-HOME",
+        "TYO-SCHEDULE"
+      ]
+    },
+    {
+      "claim": "TYO-GATE-NEXT",
+      "citations": [
+        "TYO-SCHEDULE",
+        "TYO-REGISTER"
+      ]
+    }
+  ],
+  "interactive": {
+    "name": "Interface Relay",
+    "spec": "Keyboard-operable sequence linking actor, record, decision, rights state and unresolved field; no storage or analytics."
+  },
+  "education": [
+    "https://rakutenfashionweektokyo.com/en/aboutus/",
+    "https://rakutenfashionweektokyo.com/en/collection/",
+    "https://japanculturalexpo.bunka.go.jp/en/article/feature/202308_02/"
+  ],
+  "downloads": [
+    "day-1.json",
+    "day-1.md"
+  ],
+  "rights": "Exact links and authorized platform surfaces only. No third-party image, audio or video downloaded.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording and performance",
+    "interview consent and releases",
+    "Japanese-language/context review",
+    "story-specific specialist review",
+    "item-level media permission where reproduction is desired"
+  ]
+}

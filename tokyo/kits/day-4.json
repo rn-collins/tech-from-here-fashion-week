@@ -1,0 +1,170 @@
+{
+  "id": "TFH-TYO-D4",
+  "day": 4,
+  "title": "Translation becomes infrastructure",
+  "technology": "Japanese and English interfaces, search, metadata",
+  "governingQuestion": "What must cross languages before a collection can cross markets?",
+  "publication": {
+    "author": "Rayven-Nikkita Collins",
+    "version": "1.0 evidence edition",
+    "checked": "2026-09-07",
+    "status": "publication-ready text; human recording, permissions, specialist and RN owner-final gates remain"
+  },
+  "essay": {
+    "headline": "Translation becomes infrastructure",
+    "opening": "International circulation begins with translation infrastructure.",
+    "sections": [
+      {
+        "heading": "Then",
+        "copy": "The organizer operates Japanese and English interfaces across programme, brands, topics and organizational information."
+      },
+      {
+        "heading": "Now",
+        "copy": "The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record."
+      },
+      {
+        "heading": "Next / limit",
+        "copy": "No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard."
+      }
+    ],
+    "closing": "Tokyo’s technical identity is not one gadget. It is the chain of interfaces that decides what can enter, travel, translate, trade and remain."
+  },
+  "video": {
+    "runtime": "4–6 minutes",
+    "script": [
+      "International circulation begins with translation infrastructure.",
+      "The organizer operates Japanese and English interfaces across programme, brands, topics and organizational information.",
+      "The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record.",
+      "The system: Japanese and English interfaces, search, metadata.",
+      "The artifact: Japanese / English site pair.",
+      "The limit: No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+      "End card: continue to the next Tokyo interface."
+    ]
+  },
+  "audio": {
+    "format": "narrated essay",
+    "script": [
+      "International circulation begins with translation infrastructure.",
+      "The organizer operates Japanese and English interfaces across programme, brands, topics and organizational information.",
+      "The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record.",
+      "The system: Japanese and English interfaces, search, metadata.",
+      "The artifact: Japanese / English site pair.",
+      "The limit: No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard.",
+      "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    ]
+  },
+  "shorts": {
+    "count": 3,
+    "scripts": [
+      [
+        "International circulation begins with translation infrastructure.",
+        "The organizer operates Japanese and English interfaces across programme, brands, topics and organizational information.",
+        "The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record."
+      ],
+      [
+        "The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record.",
+        "The system: Japanese and English interfaces, search, metadata.",
+        "The artifact: Japanese / English site pair."
+      ],
+      [
+        "The artifact: Japanese / English site pair.",
+        "The limit: No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard.",
+        "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+      ]
+    ]
+  },
+  "carousel": [
+    {
+      "frame": 1,
+      "copy": "International circulation begins with translation infrastructure."
+    },
+    {
+      "frame": 2,
+      "copy": "The organizer operates Japanese and English interfaces across programme, brands, topics and organizational information."
+    },
+    {
+      "frame": 3,
+      "copy": "The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record."
+    },
+    {
+      "frame": 4,
+      "copy": "The system: Japanese and English interfaces, search, metadata."
+    },
+    {
+      "frame": 5,
+      "copy": "The artifact: Japanese / English site pair."
+    },
+    {
+      "frame": 6,
+      "copy": "The limit: No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard."
+    },
+    {
+      "frame": 7,
+      "copy": "Trace every source, rights state and open assignment in the Tokyo evidence edition."
+    }
+  ],
+  "pinterest": {
+    "title": "Tokyo system 04: Translation becomes infrastructure",
+    "description": "What must cross languages before a collection can cross markets?",
+    "alt": "Editorial evidence card for Japanese and English interfaces, search, metadata."
+  },
+  "platforms": {
+    "instagram": "International circulation begins with translation infrastructure. The organizer operates Japanese and English interfaces across programme, brands, topics and organizational information. The interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record. The system: Japanese and English interfaces, search, metadata. The artifact: Japanese / English site pair. The limit: No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard. Trace every source, rights state and open assignment in the Tokyo evidence edition.",
+    "linkedin": "International circulation begins with translation infrastructure.\n\nThe organizer operates Japanese and English interfaces across programme, brands, topics and organizational information.\n\nThe interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record.\n\nNo reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard.\n\nEvery source and limit is attached.",
+    "beehiiv": {
+      "subject": "Tokyo 04 — Translation becomes infrastructure",
+      "body": "International circulation begins with translation infrastructure.\n\nThe organizer operates Japanese and English interfaces across programme, brands, topics and organizational information.\n\nThe interface carries names, categories, access conditions and venue information across languages, but translation depth varies by record.\n\nThe system: Japanese and English interfaces, search, metadata.\n\nThe artifact: Japanese / English site pair.\n\nThe limit: No reviewed public record documents one season-wide translation workflow, glossary, error process or accessibility standard.\n\nTrace every source, rights state and open assignment in the Tokyo evidence edition."
+    },
+    "youtube": {
+      "title": "Tokyo 04: Translation becomes infrastructure",
+      "description": "Sources, transcript and rights: https://tech-from-here-fashion-week.vercel.app/tokyo/day/04-bilingual-interface"
+    }
+  },
+  "sourceCards": [
+    {
+      "claim": "TYO-LANG-THEN",
+      "citations": [
+        "TYO-HOME",
+        "TYO-ABOUT",
+        "TYO-BRANDS"
+      ]
+    },
+    {
+      "claim": "TYO-LANG-NOW",
+      "citations": [
+        "TYO-HOME",
+        "TYO-BRANDS"
+      ]
+    },
+    {
+      "claim": "TYO-LANG-NEXT",
+      "citations": [
+        "TYO-HOME",
+        "TYO-PRIVACY"
+      ]
+    }
+  ],
+  "interactive": {
+    "name": "Interface Relay",
+    "spec": "Keyboard-operable sequence linking actor, record, decision, rights state and unresolved field; no storage or analytics."
+  },
+  "education": [
+    "https://rakutenfashionweektokyo.com/en/aboutus/",
+    "https://rakutenfashionweektokyo.com/en/collection/",
+    "https://japanculturalexpo.bunka.go.jp/en/article/feature/202308_02/"
+  ],
+  "downloads": [
+    "day-4.json",
+    "day-4.md"
+  ],
+  "rights": "Exact links and authorized platform surfaces only. No third-party image, audio or video downloaded.",
+  "humanGates": [
+    "RN owner-final approval",
+    "recording and performance",
+    "interview consent and releases",
+    "Japanese-language/context review",
+    "story-specific specialist review",
+    "item-level media permission where reproduction is desired"
+  ]
+}

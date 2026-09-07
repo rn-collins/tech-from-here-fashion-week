@@ -1,0 +1,9 @@
+.cityindex{margin-left:2rem;font:11px DM Mono,monospace;text-transform:uppercase;text-decoration:none;border:1px solid;padding:.55rem .8rem}
+.citycatalog{display:grid;grid-template-columns:repeat(3,1fr)}
+.citycatalog a{min-height:360px;padding:3vw;border-right:1px solid var(--line);border-bottom:1px solid var(--line);text-decoration:none;display:flex;flex-direction:column}
+.citycatalog a:nth-child(4n+1){background:var(--ink);color:var(--paper)}
+.citycatalog b{font:11px DM Mono}
+.citycatalog h2{font:clamp(34px,4vw,62px)/.95 Instrument Serif;font-weight:400;margin:auto 0 1rem}
+.citycatalog p{max-width:30ch}
+@media(max-width:900px){.citycatalog{grid-template-columns:1fr 1fr}}
+@media(max-width:520px){.citycatalog{grid-template-columns:1fr}.cityindex{margin-left:auto}.navtoggle{margin-left:.5rem}}
