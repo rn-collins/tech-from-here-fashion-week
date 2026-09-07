@@ -6,7 +6,7 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 16,
+  "surfaceCount": 18,
   "candidateCount": 7,
   "reusableCount": 2,
   "resourceCount": 5,
@@ -129,6 +129,22 @@
       "query": "Paris Fashion Week Capture photography film archive",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "paris-D3-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Paris Fashion Week photographer",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "paris-D3-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Paris fashion camera film",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -139,5 +155,16 @@
     "PARIS-D3-C04",
     "PARIS-D3-C05",
     "PARIS-D3-C06"
-  ]
+  ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "Paris Fashion Week photographer",
+      "Paris fashion camera film"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  }
 }

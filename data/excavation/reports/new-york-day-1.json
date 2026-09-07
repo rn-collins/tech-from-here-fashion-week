@@ -6,9 +6,9 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 16,
-  "candidateCount": 9,
-  "reusableCount": 2,
+  "surfaceCount": 18,
+  "candidateCount": 25,
+  "reusableCount": 18,
   "resourceCount": 7,
   "installedCount": 1,
   "openLimitations": [
@@ -129,6 +129,22 @@
       "query": "New York Fashion Week Access invitation schedule credential",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "new-york-D1-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "New York Fashion Week invitation",
+      "searchedAt": "2026-09-07",
+      "resultCount": 8,
+      "outcome": "Item pages inspected; candidates retained only when an explicit open license appeared."
+    },
+    {
+      "id": "new-york-D1-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "New York fashion accreditation schedule",
+      "searchedAt": "2026-09-07",
+      "resultCount": 8,
+      "outcome": "Item pages inspected; candidates retained only when an explicit open license appeared."
     }
   ],
   "candidateIds": [
@@ -141,5 +157,16 @@
     "NEW-YORK-D1-C06",
     "NEW-YORK-D1-C07",
     "NEW-YORK-D1-C08"
-  ]
+  ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "New York Fashion Week invitation",
+      "New York fashion accreditation schedule"
+    ],
+    "itemsInspected": 16,
+    "openLicenseCandidates": 16,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  }
 }

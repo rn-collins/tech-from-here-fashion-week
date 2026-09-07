@@ -6,7 +6,7 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 16,
+  "surfaceCount": 18,
   "candidateCount": 7,
   "reusableCount": 1,
   "resourceCount": 6,
@@ -129,6 +129,22 @@
       "query": "Shanghai Fashion Week Circulation livestream platform media",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "shanghai-D4-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Shanghai Fashion Week livestream",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "shanghai-D4-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Shanghai fashion digital broadcast",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -139,5 +155,16 @@
     "SHANGHAI-D4-C04",
     "SHANGHAI-D4-C05",
     "SHANGHAI-D4-C06"
-  ]
+  ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "Shanghai Fashion Week livestream",
+      "Shanghai fashion digital broadcast"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  }
 }

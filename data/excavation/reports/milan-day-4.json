@@ -6,7 +6,7 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 16,
+  "surfaceCount": 18,
   "candidateCount": 7,
   "reusableCount": 1,
   "resourceCount": 6,
@@ -129,6 +129,22 @@
       "query": "Milan Fashion Week Circulation livestream platform media",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "milan-D4-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Milan Fashion Week livestream",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "milan-D4-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Milan fashion digital broadcast",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -139,5 +155,16 @@
     "MILAN-D4-C04",
     "MILAN-D4-C05",
     "MILAN-D4-C06"
-  ]
+  ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "Milan Fashion Week livestream",
+      "Milan fashion digital broadcast"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  }
 }

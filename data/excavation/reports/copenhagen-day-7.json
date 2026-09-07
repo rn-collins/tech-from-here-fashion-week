@@ -6,7 +6,7 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 16,
+  "surfaceCount": 18,
   "candidateCount": 11,
   "reusableCount": 1,
   "resourceCount": 10,
@@ -129,6 +129,22 @@
       "query": "Copenhagen Fashion Week Memory archive preservation accountability",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "copenhagen-D7-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Copenhagen Fashion Week archive",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "copenhagen-D7-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Copenhagen fashion museum history",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -143,5 +159,16 @@
     "COPENHAGEN-D7-C08",
     "COPENHAGEN-D7-C09",
     "COPENHAGEN-D7-C10"
-  ]
+  ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "Copenhagen Fashion Week archive",
+      "Copenhagen fashion museum history"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  }
 }

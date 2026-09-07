@@ -6,9 +6,9 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 16,
-  "candidateCount": 7,
-  "reusableCount": 1,
+  "surfaceCount": 18,
+  "candidateCount": 15,
+  "reusableCount": 9,
   "resourceCount": 6,
   "installedCount": 1,
   "openLimitations": [
@@ -129,6 +129,22 @@
       "query": "Milan Fashion Week Access invitation schedule credential",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "milan-D1-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Milan Fashion Week invitation",
+      "searchedAt": "2026-09-07",
+      "resultCount": 8,
+      "outcome": "Item pages inspected; candidates retained only when an explicit open license appeared."
+    },
+    {
+      "id": "milan-D1-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "Milan fashion accreditation schedule",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -139,5 +155,16 @@
     "MILAN-D1-C04",
     "MILAN-D1-C05",
     "MILAN-D1-C06"
-  ]
+  ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "Milan Fashion Week invitation",
+      "Milan fashion accreditation schedule"
+    ],
+    "itemsInspected": 8,
+    "openLicenseCandidates": 8,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  }
 }

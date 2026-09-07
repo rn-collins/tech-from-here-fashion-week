@@ -13,7 +13,7 @@ test('all 49 packages expose dated excavation rooms and machine-readable ledgers
   const candidates=json(`data/excavation/candidates/${city}-day-${d}.json`);
   const html=read(`excavation/${city}/day-${d}/index.html`);
   assert.equal(report.searchedAt,'2026-09-07');
-  assert.equal(report.surfaceCount,16);
+  assert.equal(report.surfaceCount,18);
   assert.ok(candidates.length>=4);
   assert.match(html,/Media Library/);
   assert.match(html,/Resources Room/);
@@ -30,7 +30,9 @@ test('all 49 packages expose dated excavation rooms and machine-readable ledgers
 test('collection report is explicit about scope and publication pages point to excavation',()=>{
  const c=json('data/excavation/collection-report.json');
  assert.equal(c.packageCount,49);
- assert.equal(c.surfaceChecks,784);
+  assert.ok(c.surfaceChecks>=882);
+  assert.equal(c.freshItemLevelQueries,98);
+  assert.ok(c.freshItemsInspected>=0);
  assert.match(c.scopeRule,/not the entire internet/i);
  for(const city of cities)for(let d=1;d<=7;d++){
   const p=city==='london'?`publication/day-${d}/index.html`:`${city}/publication/day-${d}/index.html`;

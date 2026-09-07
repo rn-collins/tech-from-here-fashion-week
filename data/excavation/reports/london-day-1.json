@@ -6,7 +6,7 @@
   "searchedAt": "2026-09-07",
   "scope": "16 registered public source families; official and repository-held city sources; English and available local-language records represented in the existing evidence ledger",
   "stopRule": "Two consecutive query refinements within a registered surface produced no new strong, nonduplicate, rights-usable item, or the source ledger already supplied the canonical claim record.",
-  "surfaceCount": 16,
+  "surfaceCount": 18,
   "candidateCount": 11,
   "reusableCount": 3,
   "resourceCount": 8,
@@ -129,6 +129,22 @@
       "query": "London Fashion Week Access invitation schedule credential",
       "searchedAt": "2026-09-07",
       "outcome": "No additional item promoted in this bounded pass; surface remains documented for future recheck"
+    },
+    {
+      "id": "london-D1-FRESH-17",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "London Fashion Week invitation",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
+    },
+    {
+      "id": "london-D1-FRESH-18",
+      "family": "Wikimedia Commons item-level API search",
+      "query": "London fashion accreditation schedule",
+      "searchedAt": "2026-09-07",
+      "resultCount": 0,
+      "outcome": "No results returned."
     }
   ],
   "candidateIds": [
@@ -143,5 +159,16 @@
     "LONDON-D1-C08",
     "LONDON-D1-C09",
     "LONDON-D1-C10"
-  ]
+  ],
+  "freshSearch": {
+    "provider": "Wikimedia Commons MediaWiki API",
+    "queries": [
+      "London Fashion Week invitation",
+      "London fashion accreditation schedule"
+    ],
+    "itemsInspected": 0,
+    "openLicenseCandidates": 0,
+    "selectedDayContext": 0,
+    "checked": "2026-09-07"
+  }
 }
