@@ -31,11 +31,11 @@
   },
   {
     "id": "TYO-STREAM",
-    "title": "27SS Streaming",
-    "institution": "Japan Fashion Week Organization",
+    "title": "Official Rakuten Fashion Week TOKYO streaming playlist",
+    "institution": "Japan Fashion Week Organization / YouTube",
     "date": "2026",
-    "url": "https://rakutenfashionweektokyo.com/en/streaming/",
-    "use": "official stream and replay surface",
+    "url": "https://www.youtube.com/playlist?list=PLQVypEf7i2K4",
+    "use": "official stream and replay surface linked by the organizer",
     "rights": "EMBED-ONLY where organizer/platform permits; otherwise link",
     "accessed": "2026-09-07"
   },
@@ -143,8 +143,8 @@
     "id": "TYO-PRIVACY",
     "title": "Privacy Policy",
     "institution": "Japan Fashion Week Organization",
-    "date": "current",
-    "url": "https://rakutenfashionweektokyo.com/en/privacy/",
+    "date": "2026-02-13",
+    "url": "https://rakutenfashionweektokyo.com/en/policy/",
     "use": "organizer data-handling disclosure",
     "rights": "LINK-ONLY",
     "accessed": "2026-09-07"

@@ -14,7 +14,7 @@ const sources=[
  ['TYO-HOME','Rakuten Fashion Week TOKYO — 27SS','Japan Fashion Week Organization','2026','https://rakutenfashionweektokyo.com/en/','current schedule, streams, reports and programme','LINK-ONLY; organizer copyright retained'],
  ['TYO-ABOUT','About JFW Organization','Japan Fashion Week Organization','2026-08-01','https://rakutenfashionweektokyo.com/en/aboutus/','organization purpose, divisions and governance','LINK-ONLY'],
  ['TYO-SCHEDULE','Official Schedule — 27SS','Japan Fashion Week Organization','2026','https://rakutenfashionweektokyo.com/en/schedule/','time, format, access state and venue interface','LINK-ONLY; live interface'],
- ['TYO-STREAM','27SS Streaming','Japan Fashion Week Organization','2026','https://rakutenfashionweektokyo.com/en/streaming/','official stream and replay surface','EMBED-ONLY where organizer/platform permits; otherwise link'],
+ ['TYO-STREAM','Official Rakuten Fashion Week TOKYO streaming playlist','Japan Fashion Week Organization / YouTube','2026','https://www.youtube.com/playlist?list=PLQVypEf7i2K4','official stream and replay surface linked by the organizer','EMBED-ONLY where organizer/platform permits; otherwise link'],
  ['TYO-REGISTER','Press / Buyer Register','Japan Fashion Week Organization','2026','https://rakutenfashionweektokyo.com/en/register/','credential and registration surface','LINK-ONLY; no personal data collected here'],
  ['TYO-ARCHIVE','Collection archive','Japan Fashion Week Organization','2006–2027','https://rakutenfashionweektokyo.com/en/collection/','season and brand index','LINK-ONLY; image rights not assumed'],
  ['TYO-2015','2015 A/W archive','Japan Fashion Week Organization','2015','https://rakutenfashionweektokyo.com/en/collection/2015aw/','retained season interface','LINK-ONLY; image rights not assumed'],
@@ -25,7 +25,7 @@ const sources=[
  ['TYO-TFA','Tokyo Fashion Award','Tokyo Metropolitan Government / Japan Fashion Week Organization','current','https://tokyo-fashion-award.jp/','award programme and winner archive','LINK-ONLY'],
  ['JP-METI-TEXTILE','Study Group on Sustainability of Textile and Apparel Industry — report surface','Ministry of Economy, Trade and Industry','2021','https://www.meti.go.jp/english/policy/mono_info_service/overall/index.html','national manufacturing and textile policy context','LINK-ONLY'],
  ['JP-CULTURE-FASHION','The Art of Fashion at Tokyo National Museum','Agency for Cultural Affairs / Japan Cultural Expo','2023','https://japanculturalexpo.bunka.go.jp/en/article/feature/202308_02/','museum interpretation and public learning','LINK-ONLY; image rights not assumed'],
- ['TYO-PRIVACY','Privacy Policy','Japan Fashion Week Organization','current','https://rakutenfashionweektokyo.com/en/privacy/','organizer data-handling disclosure','LINK-ONLY']
+ ['TYO-PRIVACY','Privacy Policy','Japan Fashion Week Organization','2026-02-13','https://rakutenfashionweektokyo.com/en/policy/','organizer data-handling disclosure','LINK-ONLY']
 ].map(x=>({id:x[0],title:x[1],institution:x[2],date:x[3],url:x[4],use:x[5],rights:x[6],accessed:'2026-09-07'}));
 const by=Object.fromEntries(sources.map(s=>[s.id,s]));
 const raw=[
