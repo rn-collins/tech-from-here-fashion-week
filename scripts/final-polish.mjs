@@ -25,3 +25,4 @@ for(const f of ['index.html','cities/index.html','objects/index.html','new-york/
  fs.writeFileSync(file,html);
 }
 console.log('Installed seven licensed documentary city witnesses and final gallery styling');
+await import('./no-notes-polish.mjs');
