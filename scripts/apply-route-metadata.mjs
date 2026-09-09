@@ -18,6 +18,8 @@ const media={
 };
 const labels={london:'London','new-york':'New York',milan:'Milan',paris:'Paris',shanghai:'Shanghai',copenhagen:'Copenhagen',tokyo:'Tokyo'};
 
+const publicationDay=route=>route.match(/^(?:\/(new-york|milan|paris|shanghai|copenhagen|tokyo))?\/publication\/day-(\d+)$/);
+
 for(const route of routes){
   const file=path.join(root,route.slice(1),'index.html');
   if(!fs.existsSync(file))throw new Error(`Sitemap route is missing: ${route}`);
@@ -25,7 +27,10 @@ for(const route of routes){
   const title=html.match(/<title>([^<]+)<\/title>/)?.[1];
   const description=html.match(/<meta name="description" content="([^"]*)"/)?.[1];
   if(!title||description===undefined)throw new Error(`Title or description missing: ${route}`);
-  const city=cityFor(route),image=`${origin}${media[city]}`,url=`${origin}${route}`;
+  const city=cityFor(route),dayMatch=publicationDay(route);
+  const image=dayMatch?`${origin}/assets/social/${city}-day-${Number(dayMatch[2])}.jpg`:`${origin}${media[city]}`;
+  const imageAlt=dayMatch?`Original evidence preview for ${labels[city]} Fashion Week, day ${Number(dayMatch[2])}; a non-documentary diagram bound to the route claim ledger.`:`Documentary witness from the ${labels[city]} Fashion Week evidence edition; route-specific social artwork remains an acquisition and design task.`;
+  const url=`${origin}${route}`;
   html=html.replace(/<!-- tfh-social:start -->[\s\S]*?<!-- tfh-social:end -->/g,'').replace(/<meta (?:property="og:[^"]+"|name="twitter:[^"]+")[^>]*>/g,'');
   const social='<!-- tfh-social:start -->'+[
     `<meta property="og:type" content="website">`,
@@ -34,12 +39,14 @@ for(const route of routes){
     `<meta property="og:description" content="${description}">`,
     `<meta property="og:url" content="${url}">`,
     `<meta property="og:image" content="${image}">`,
-    `<meta property="og:image:alt" content="Documentary witness from the ${labels[city]} Fashion Week evidence edition; route-specific social artwork remains an acquisition and design task.">`,
+    `<meta property="og:image:width" content="1200">`,
+    `<meta property="og:image:height" content="630">`,
+    `<meta property="og:image:alt" content="${imageAlt}">`,
     `<meta name="twitter:card" content="summary_large_image">`,
     `<meta name="twitter:title" content="${title.replaceAll('&','&amp;').replaceAll('"','&quot;')}">`,
     `<meta name="twitter:description" content="${description}">`,
     `<meta name="twitter:image" content="${image}">`,
-    `<meta name="twitter:image:alt" content="Documentary witness from the ${labels[city]} Fashion Week evidence edition; route-specific social artwork remains an acquisition and design task.">`
+    `<meta name="twitter:image:alt" content="${imageAlt}">`
   ].join('')+'<!-- tfh-social:end -->';
   html=html.replace('</head>',`${social}</head>`);
   fs.writeFileSync(file,html);

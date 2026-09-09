@@ -49,16 +49,18 @@
       "city": "london",
       "template": "index / editorial utility",
       "current": {
-        "images": [],
+        "images": [
+          "/assets/evidence/seven-city-comparison.svg"
+        ],
         "videoEmbeds": [],
         "downloadableDocuments": [],
-        "evidenceGraphics": []
+        "evidenceGraphics": [
+          "/assets/evidence/seven-city-comparison.svg"
+        ]
       },
       "editorialJudgment": "editorial typography with a route-specific documentary or evidence anchor",
-      "status": "gap",
-      "acquisitionGaps": [
-        "no installed image or video"
-      ]
+      "status": "partial — installed media present; uniqueness/relevance review required",
+      "acquisitionGaps": []
     },
     {
       "route": "/chronology",
@@ -66,16 +68,18 @@
       "city": "london",
       "template": "index / editorial utility",
       "current": {
-        "images": [],
+        "images": [
+          "/assets/evidence/chronology-state-map.svg"
+        ],
         "videoEmbeds": [],
         "downloadableDocuments": [],
-        "evidenceGraphics": []
+        "evidenceGraphics": [
+          "/assets/evidence/chronology-state-map.svg"
+        ]
       },
       "editorialJudgment": "editorial typography with a route-specific documentary or evidence anchor",
-      "status": "gap",
-      "acquisitionGaps": [
-        "no installed image or video"
-      ]
+      "status": "partial — installed media present; uniqueness/relevance review required",
+      "acquisitionGaps": []
     },
     {
       "route": "/search",
@@ -102,16 +106,18 @@
       "city": "london",
       "template": "index / editorial utility",
       "current": {
-        "images": [],
+        "images": [
+          "/assets/evidence/seven-system-relay.svg"
+        ],
         "videoEmbeds": [],
         "downloadableDocuments": [],
-        "evidenceGraphics": []
+        "evidenceGraphics": [
+          "/assets/evidence/seven-system-relay.svg"
+        ]
       },
       "editorialJudgment": "editorial typography with a route-specific documentary or evidence anchor",
-      "status": "gap",
-      "acquisitionGaps": [
-        "no installed image or video"
-      ]
+      "status": "partial — installed media present; uniqueness/relevance review required",
+      "acquisitionGaps": []
     },
     {
       "route": "/objects",

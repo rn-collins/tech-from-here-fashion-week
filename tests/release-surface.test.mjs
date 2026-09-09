@@ -20,7 +20,7 @@ test('all sitemap routes have route-bound social metadata',()=>{
   for(const route of routes){
     const html=fs.readFileSync(fileFor(route),'utf8');
     assert.match(html,/<meta property="og:title"/);
-    assert.match(html,/<meta property="og:image" content="https:\/\/tech-from-here-fashion-week\.vercel\.app\/assets\/media\//);
+    assert.match(html,/<meta property="og:image" content="https:\/\/tech-from-here-fashion-week\.vercel\.app\/assets\/(?:media|social)\//);
     assert.match(html,new RegExp(`<meta property="og:url" content="${origin.replaceAll('.','\\.')}${route.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}"`));
     assert.match(html,/<meta name="twitter:card" content="summary_large_image">/);
     assert.match(html,/<meta name="twitter:image"/);
