@@ -1,0 +1,20 @@
+name: Import verified TFH remediation
+on:
+  push:
+    branches: [main]
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Import verified commits
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          curl -fL -o tfh.bundle "https://github.com/rn-collins/tech-from-here-fashion-week/releases/download/codex-import-tfh-fbce49f/tfh-forward-fbce49f.bundle"
+          git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" imported
+          cd imported
+          git fetch ../tfh.bundle HEAD:refs/heads/codex-tfh-remediation
+          git push origin refs/heads/codex-tfh-remediation
