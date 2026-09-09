@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "node scripts/build.mjs && node scripts/finalize-fresh-media.mjs && node scripts/render-third-wave.mjs && node scripts/build-asset-kits.mjs && node scripts/apply-route-metadata.mjs && node scripts/build-media-assignment-matrix.mjs && node --test --test-concurrency=1 tests/*.test.mjs && node scripts/build-asset-kits.mjs && node scripts/apply-route-metadata.mjs && node scripts/build-media-assignment-matrix.mjs",
+    "build": "node scripts/build.mjs && node scripts/finalize-fresh-media.mjs && node scripts/render-third-wave.mjs && node scripts/build-asset-kits.mjs && node scripts/normalize-sitemap.mjs && node scripts/install-editorial-plates.mjs && node scripts/build-social-previews.mjs && node scripts/apply-route-metadata.mjs && node scripts/build-media-assignment-matrix.mjs && node --test --test-concurrency=1 tests/*.test.mjs && node scripts/build-asset-kits.mjs && node scripts/apply-route-metadata.mjs && node scripts/build-media-assignment-matrix.mjs",
     "build:content": "node scripts/build.mjs && node scripts/build-excavation.mjs && node scripts/fresh-media-search.mjs && node scripts/third-wave-search.mjs && node scripts/finalize-fresh-media.mjs && node scripts/render-third-wave.mjs",
     "test": "node scripts/normalize-sitemap.mjs && node scripts/install-editorial-plates.mjs && node scripts/build-social-previews.mjs && node scripts/apply-route-metadata.mjs && node scripts/build-media-assignment-matrix.mjs && node --test --test-concurrency=1 tests/*.test.mjs",
     "test:links": "node scripts/check-key-sources.mjs",
