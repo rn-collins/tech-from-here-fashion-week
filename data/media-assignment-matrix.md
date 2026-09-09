@@ -1,6 +1,6 @@
 # TFH route media assignment matrix
 
-**Scope:** 198 public sitemap routes
+**Scope:** 199 public sitemap routes
 
 Images are preferred. Editorial typography, evidence graphics, video, or documents are selected when they communicate the route more precisely. Repeated city witnesses remain interim context—not route-complete media.
 
@@ -204,3 +204,4 @@ Images are preferred. Editorial typography, evidence graphics, video, or documen
 | /excavation/tokyo/day-5 | london | media excavation | partial — installed media present; uniqueness/relevance review required | source-specific document preview or evidence typography; avoid decorative photography | none recorded |
 | /excavation/tokyo/day-6 | london | media excavation | partial — installed media present; uniqueness/relevance review required | source-specific document preview or evidence typography; avoid decorative photography | none recorded |
 | /excavation/tokyo/day-7 | london | media excavation | partial — installed media present; uniqueness/relevance review required | source-specific document preview or evidence typography; avoid decorative photography | none recorded |
+| /rights/media-provenance | london | index / editorial utility | gap | source-specific document preview or evidence typography; avoid decorative photography | no installed image or video |

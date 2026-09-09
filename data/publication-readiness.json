@@ -1,0 +1,26 @@
+{
+  "checked": "2026-09-09",
+  "scope": "49 city/day publication packages",
+  "complete": [
+    "canonical essays",
+    "long-form scripts",
+    "audio scripts",
+    "three vertical scripts per package",
+    "Instagram carousels",
+    "Pinterest copy",
+    "LinkedIn editions",
+    "Beehiiv editions",
+    "source cards",
+    "interactive tools",
+    "editable Markdown and JSON",
+    "route-specific evidence graphics and social previews"
+  ],
+  "humanProduction": [
+    "RN release approval",
+    "recording/performance",
+    "consented interviews",
+    "specialist review where commissioned",
+    "permissions for any additional rights-held media"
+  ],
+  "rule": "Human-production stages are never represented as already-recorded media."
+}
