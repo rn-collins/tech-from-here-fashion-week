@@ -36,6 +36,10 @@ test('alternate hostname preserves all route-specific canonicals',()=>{
   assert.match(fs.readFileSync(path.join(root,'sitemap.xml'),'utf8'),new RegExp(`${alt.replace(/[.]/g,'\\.')}\/day\/07-memory`));
  } finally {
   const restore=spawnSync(process.execPath,[build],{cwd:root,env:{...process.env,PUBLIC_SITE_URL:'https://tech-from-here-fashion-week.vercel.app'},encoding:'utf8'});assert.equal(restore.status,0,restore.stderr);
+  for(const script of ['build-asset-kits.mjs','apply-route-metadata.mjs','build-media-assignment-matrix.mjs']){
+   const result=spawnSync(process.execPath,[path.join(root,'scripts',script)],{cwd:root,env:{...process.env,PUBLIC_SITE_URL:'https://tech-from-here-fashion-week.vercel.app'},encoding:'utf8'});
+   assert.equal(result.status,0,result.stderr);
+  }
  }
 });
 

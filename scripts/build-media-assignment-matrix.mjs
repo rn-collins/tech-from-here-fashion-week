@@ -1,0 +1,43 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
+const root=path.resolve(import.meta.dirname,'..');
+const origin=(process.env.PUBLIC_SITE_URL||'https://tech-from-here-fashion-week.vercel.app').replace(/\/$/,'');
+const sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
+const routes=[...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>new URL(m[1]).pathname);
+const cityOf=route=>['new-york','milan','paris','shanghai','copenhagen','tokyo'].find(c=>route===`/${c}`||route.startsWith(`/${c}/`))||'london';
+const kindOf=route=>/\/publication\/day-\d+$/.test(route)?'publication exhibition':/\/day\//.test(route)?'evidence day':/\/excavation\//.test(route)?'media excavation':route.includes('/objects')||route==='/objects'?'object desk':route.includes('/sources')||route==='/sources'?'source desk':route.includes('/kits')||route==='/kits'?'production desk':'index / editorial utility';
+const recommendation=(route,html)=>{
+  if(/\/publication\/day-\d+$/.test(route))return 'image + evidence graphic; add day-specific film/document when evidentiary';
+  if(/\/day\//.test(route))return /<iframe\b/.test(html)?'authorized video + evidence typography':'day-specific image or document; evidence graphic when it explains the system better';
+  if(/\/excavation\//.test(route)||route.includes('/sources')||route.includes('/rights'))return 'source-specific document preview or evidence typography; avoid decorative photography';
+  if(route.includes('/objects'))return 'documentary object image/video/document preview';
+  if(route.includes('/kits'))return 'finished platform-output contact sheet + downloadable assets';
+  return 'editorial typography with a route-specific documentary or evidence anchor';
+};
+const rows=routes.map(route=>{
+  const file=path.join(root,route.slice(1),'index.html'),html=fs.readFileSync(file,'utf8');
+  const images=[...html.matchAll(/<img\b[^>]*src="([^"]+)"/g)].map(m=>m[1]);
+  const videos=[...html.matchAll(/<iframe\b[^>]*src="([^"]+)"/g)].map(m=>m[1]);
+  const documents=[...html.matchAll(/<a\b[^>]*href="([^"]+\.(?:pdf|json|csv|md|svg)(?:\?[^"]*)?)"/gi)].map(m=>m[1]);
+  const graphics=images.filter(x=>/\/assets\/evidence\//.test(x));
+  const documentaryImages=images.filter(x=>!graphics.includes(x));
+  const kind=kindOf(route),rec=recommendation(route,html);
+  let status='gap';
+  if(kind==='publication exhibition'&&documentaryImages.length&&graphics.length)status='partial — repeated city witness plus unique evidence graphic';
+  else if(images.length||videos.length)status='partial — installed media present; uniqueness/relevance review required';
+  else if(kind==='source desk'||kind==='media excavation')status='intentional typography/document-led candidate; source-specific preview still required';
+  const gaps=[];
+  if(!images.length&&!videos.length)gaps.push('no installed image or video');
+  if(kind==='publication exhibition')gaps.push('unique day-specific documentary image/video/document not installed','finished raster/social exports not installed');
+  if(kind==='evidence day'&&!images.length&&!videos.length)gaps.push('assign one literal image, authorized film, document preview, or purpose-built evidence graphic');
+  if(kind==='production desk')gaps.push('render finished carousel, Pinterest, thumbnail, and vertical-video visual files');
+  return {route,url:`${origin}${route}`,city:cityOf(route),template:kind,current:{images,videoEmbeds:videos,downloadableDocuments:documents,evidenceGraphics:graphics},editorialJudgment:rec,status,acquisitionGaps:[...new Set(gaps)]};
+});
+fs.writeFileSync(path.join(root,'data','media-assignment-matrix.json'),JSON.stringify({generated:new Date().toISOString().slice(0,10),scope:`${rows.length} sitemap routes`,rule:'Images are preferred. Use editorial typography, evidence graphics, video, or documents when they communicate the route more precisely. Repeated city witnesses are interim context, not route-complete media.',rows},null,2));
+const quote=v=>`"${String(v).replaceAll('"','""')}"`;
+const csv=['route,city,template,status,editorial_judgment,current_images,current_video_embeds,current_documents,acquisition_gaps',...rows.map(r=>[r.route,r.city,r.template,r.status,r.editorialJudgment,r.current.images.join(' | '),r.current.videoEmbeds.join(' | '),r.current.downloadableDocuments.join(' | '),r.acquisitionGaps.join(' | ')].map(quote).join(','))].join('\n')+'\n';
+fs.writeFileSync(path.join(root,'data','media-assignment-matrix.csv'),csv);
+const md=['# TFH route media assignment matrix','','**Scope:** '+rows.length+' public sitemap routes','', 'Images are preferred. Editorial typography, evidence graphics, video, or documents are selected when they communicate the route more precisely. Repeated city witnesses remain interim context—not route-complete media.','', '| Route | City | Template | Current state | Editorial judgment | Acquisition gap |','|---|---|---|---|---|---|',...rows.map(r=>`| ${r.route} | ${r.city} | ${r.template} | ${r.status} | ${r.editorialJudgment} | ${r.acquisitionGaps.join('; ')||'none recorded'} |`)].join('\n')+'\n';
+fs.writeFileSync(path.join(root,'data','media-assignment-matrix.md'),md);
+console.log(`Wrote ${rows.length}-route media assignment matrix.`);
