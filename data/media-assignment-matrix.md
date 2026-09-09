@@ -8,10 +8,10 @@ Images are preferred. Editorial typography, evidence graphics, video, or documen
 |---|---|---|---|---|---|
 | / | london | index / editorial utility | partial — installed media present; uniqueness/relevance review required | editorial typography with a route-specific documentary or evidence anchor | none recorded |
 | /cities | london | index / editorial utility | partial — installed media present; uniqueness/relevance review required | editorial typography with a route-specific documentary or evidence anchor | none recorded |
-| /comparison | london | index / editorial utility | gap | editorial typography with a route-specific documentary or evidence anchor | no installed image or video |
-| /chronology | london | index / editorial utility | gap | editorial typography with a route-specific documentary or evidence anchor | no installed image or video |
+| /comparison | london | index / editorial utility | partial — installed media present; uniqueness/relevance review required | editorial typography with a route-specific documentary or evidence anchor | none recorded |
+| /chronology | london | index / editorial utility | partial — installed media present; uniqueness/relevance review required | editorial typography with a route-specific documentary or evidence anchor | none recorded |
 | /search | london | index / editorial utility | gap | editorial typography with a route-specific documentary or evidence anchor | no installed image or video |
-| /systems | london | index / editorial utility | gap | editorial typography with a route-specific documentary or evidence anchor | no installed image or video |
+| /systems | london | index / editorial utility | partial — installed media present; uniqueness/relevance review required | editorial typography with a route-specific documentary or evidence anchor | none recorded |
 | /objects | london | object desk | partial — installed media present; uniqueness/relevance review required | documentary object image/video/document preview | none recorded |
 | /field-notes | london | index / editorial utility | gap | editorial typography with a route-specific documentary or evidence anchor | no installed image or video |
 | /watch | london | index / editorial utility | gap | editorial typography with a route-specific documentary or evidence anchor | no installed image or video |
