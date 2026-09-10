@@ -1,4 +1,4 @@
-name: Import verified TFH remediation
+name: Import verified TFH media provenance
 on:
   push:
     branches: [main]
@@ -8,13 +8,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Import verified commits
+      - name: Import verified provenance commit
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          curl -fL -o tfh.bundle "https://github.com/rn-collins/tech-from-here-fashion-week/releases/download/codex-import-tfh-fbce49f/tfh-forward-fbce49f.bundle"
+          curl -fL -o tfh.bundle "https://github.com/rn-collins/tech-from-here-fashion-week/releases/download/codex-import-tfh-media-provenance-9f8d832/tfh-media-provenance-9f8d832.bundle"
+          echo "d4df457db87d387d68d177a39ce0374157cef64469753870af99b8526bcbdbea  tfh.bundle" | sha256sum -c -
           git clone "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" imported
           cd imported
-          git fetch ../tfh.bundle HEAD:refs/heads/codex-tfh-remediation
-          git push origin refs/heads/codex-tfh-remediation
+          git fetch origin codex-tfh-media-provenance-9f8d832
+          test "$(git rev-parse origin/codex-tfh-media-provenance-9f8d832)" = "1b483a12245f98d3f17cfe519dea1546be604375"
+          git fetch ../tfh.bundle refs/heads/codex/tfh-media-provenance:refs/heads/codex-tfh-media-provenance-9f8d832
+          test "$(git rev-parse codex-tfh-media-provenance-9f8d832)" = "9f8d8329819bedb4c27c8e3dbc0c6a0c754bf7ee"
+          git push origin refs/heads/codex-tfh-media-provenance-9f8d832
