@@ -1,9 +1,9 @@
 # TFH-PA-D1 — The calendar is a code
 
 **Author:** Rayven-Nikkita Collins  
-**Version:** 2.0 evidence publication  
-**Checked:** 2026-09-07  
-**Editorial state:** publication-ready text; human production and owner-final gates remain open
+**Version:** 3.0 finished written edition  
+**Checked:** 2026-09-09  
+**Package state:** written, graphic, interactive and editable source deliverables complete; recording and third-party participation are separate human-production stages
 
 ## Governing question
 
@@ -15,7 +15,7 @@ Paris exposes the technical production of legitimacy through calendar inclusion,
 
 FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Public visibility, professional recognition and physical entry are separate permissions. Treating them as synonyms hides who actually controls admission.
 
 The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -25,13 +25,13 @@ Paris’s governing verb is legitimacy. It is an editorial lens, not a claim abo
 
 No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 Paris Fashion Week, photographed by Kooyuh, is installed as a documentary witness under CC BY-SA 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Ask what the interface announces, what credential it recognizes and which final permission actually opens the room. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes access legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Long-form video script
 
@@ -39,7 +39,7 @@ The writing, claim ledger, source cards, lawful documentary object, interactive 
 
 **2. Location** — FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-**3. Then** — The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+**3. Then** — Public visibility, professional recognition and physical entry are separate permissions. Treating them as synonyms hides who actually controls admission.
 
 **4. What the record is** — The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -49,13 +49,13 @@ The writing, claim ledger, source cards, lawful documentary object, interactive 
 
 **7. Next** — No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-**8. The blank** — An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+**8. The blank** — This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 **9. Rights** — Paris Fashion Week, photographed by Kooyuh, is installed as a documentary witness under CC BY-SA 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 **10. Method** — Ask what the interface announces, what credential it recognizes and which final permission actually opens the room. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-**11. Close** — The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+**11. Close** — This edition makes access legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Audio edition
 
@@ -63,7 +63,7 @@ Paris exposes the technical production of legitimacy through calendar inclusion,
 
 FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Public visibility, professional recognition and physical entry are separate permissions. Treating them as synonyms hides who actually controls admission.
 
 The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -73,13 +73,13 @@ Paris’s governing verb is legitimacy. It is an editorial lens, not a claim abo
 
 No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 Paris Fashion Week, photographed by Kooyuh, is installed as a documentary witness under CC BY-SA 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Ask what the interface announces, what credential it recognizes and which final permission actually opens the room. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes access legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Three vertical scripts
 
@@ -103,9 +103,9 @@ Ask what the interface announces, what credential it recognizes and which final 
 
 FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Public visibility, professional recognition and physical entry are separate permissions. Treating them as synonyms hides who actually controls admission.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 ## Instagram carousel
 
@@ -113,7 +113,7 @@ An unresolved result is not a universal claim of absence. Private, paywalled, un
 
 2. FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-3. The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+3. Public visibility, professional recognition and physical entry are separate permissions. Treating them as synonyms hides who actually controls admission.
 
 4. The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -123,7 +123,7 @@ An unresolved result is not a universal claim of absence. Private, paywalled, un
 
 7. No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-8. An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+8. This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 ## Pinterest
 
@@ -139,7 +139,7 @@ Paris exposes the technical production of legitimacy through calendar inclusion,
 
 FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Public visibility, professional recognition and physical entry are separate permissions. Treating them as synonyms hides who actually controls admission.
 
 The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -157,7 +157,7 @@ Paris exposes the technical production of legitimacy through calendar inclusion,
 
 FHCM coordinates Paris Fashion Week and publishes the official calendar; its history traces the federation to the Chambre Syndicale founded in 1868. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Public visibility, professional recognition and physical entry are separate permissions. Treating them as synonyms hides who actually controls admission.
 
 The public calendar, accreditation portal and institutional designations are related but distinct permissions: visibility is not admission. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -167,13 +167,13 @@ Paris’s governing verb is legitimacy. It is an editorial lens, not a claim abo
 
 No public source reviewed establishes the guest-list software, identity checks or security stack for every forthcoming house presentation. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 Paris Fashion Week, photographed by Kooyuh, is installed as a documentary witness under CC BY-SA 4.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Ask what the interface announces, what credential it recognizes and which final permission actually opens the room. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes access legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## YouTube description
 
@@ -189,9 +189,11 @@ Day 1 of Tech From Here × Paris examines FHCM calendar, accreditation, designat
 
 Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
 
-## Human-only gates
+## Human production stages
 
-- [ ] RN owner-final approval
+These are not missing written assets. They require RN or third-party participation:
+
+- [ ] RN release approval
 - [ ] Recording and performance
 - [ ] Named interviews, consent and releases
 - [ ] Story-specific specialist/context review

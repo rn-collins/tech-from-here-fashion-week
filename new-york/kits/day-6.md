@@ -1,9 +1,9 @@
 # TFH-NYC-D6 — The show begins in the directory
 
 **Author:** Rayven-Nikkita Collins  
-**Version:** 2.0 evidence publication  
-**Checked:** 2026-09-07  
-**Editorial state:** publication-ready text; human production and owner-final gates remain open
+**Version:** 3.0 finished written edition  
+**Checked:** 2026-09-09  
+**Package state:** written, graphic, interactive and editable source deliverables complete; recording and third-party participation are separate human-production stages
 
 ## Governing question
 
@@ -15,7 +15,7 @@ New York makes time itself operational: calendar authority, dispersed venues, ca
 
 CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.
 
 CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -25,13 +25,13 @@ New York’s governing verb is clock. It is an editorial lens, not a claim about
 
 Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 NY Fashion Week, photographed by Anisa C, is installed as a documentary witness under CC BY 2.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes commerce legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Long-form video script
 
@@ -39,7 +39,7 @@ The writing, claim ledger, source cards, lawful documentary object, interactive 
 
 **2. Location** — CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-**3. Then** — The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+**3. Then** — The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.
 
 **4. What the record is** — CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -49,13 +49,13 @@ The writing, claim ledger, source cards, lawful documentary object, interactive 
 
 **7. Next** — Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-**8. The blank** — An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+**8. The blank** — This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 **9. Rights** — NY Fashion Week, photographed by Anisa C, is installed as a documentary witness under CC BY 2.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 **10. Method** — Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-**11. Close** — The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+**11. Close** — This edition makes commerce legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Audio edition
 
@@ -63,7 +63,7 @@ New York makes time itself operational: calendar authority, dispersed venues, ca
 
 CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.
 
 CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -73,13 +73,13 @@ New York’s governing verb is clock. It is an editorial lens, not a claim about
 
 Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 NY Fashion Week, photographed by Anisa C, is installed as a documentary witness under CC BY 2.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes commerce legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Three vertical scripts
 
@@ -103,9 +103,9 @@ Separate enacted rule, technical standard, vendor promise, pilot and verified de
 
 CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 ## Instagram carousel
 
@@ -113,7 +113,7 @@ An unresolved result is not a universal claim of absence. Private, paywalled, un
 
 2. CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-3. The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+3. The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.
 
 4. CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -123,7 +123,7 @@ An unresolved result is not a universal claim of absence. Private, paywalled, un
 
 7. Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-8. An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+8. This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 ## Pinterest
 
@@ -139,7 +139,7 @@ New York makes time itself operational: calendar authority, dispersed venues, ca
 
 CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.
 
 CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -157,7 +157,7 @@ New York makes time itself operational: calendar authority, dispersed venues, ca
 
 CFDA says its Fashion Manufacturing Initiative began with NYCEDC in 2013 to support New York City fashion manufacturing. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.
 
 CFDA’s current open Production Directory lists more than 380 U.S. manufacturers, while its Materials Hub connects users to material innovators, vendors and resources. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -167,13 +167,13 @@ New York’s governing verb is clock. It is an editorial lens, not a claim about
 
 Neither directory proves which supplier, ordering or wholesale system a September 2026 collection actually uses; those links require brand-level reporting. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 NY Fashion Week, photographed by Anisa C, is installed as a documentary witness under CC BY 2.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Separate enacted rule, technical standard, vendor promise, pilot and verified deployment. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes commerce legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## YouTube description
 
@@ -189,9 +189,11 @@ Day 6 of Tech From Here × New York examines Manufacturing discovery, materials,
 
 Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
 
-## Human-only gates
+## Human production stages
 
-- [ ] RN owner-final approval
+These are not missing written assets. They require RN or third-party participation:
+
+- [ ] RN release approval
 - [ ] Recording and performance
 - [ ] Named interviews, consent and releases
 - [ ] Story-specific specialist/context review

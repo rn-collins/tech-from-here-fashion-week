@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-09",
-  "scope": "198 sitemap routes",
+  "scope": "199 sitemap routes",
   "rule": "Images are preferred. Use editorial typography, evidence graphics, video, or documents when they communicate the route more precisely. Repeated city witnesses are interim context, not route-complete media.",
   "rows": [
     {
@@ -4417,6 +4417,26 @@
       "editorialJudgment": "source-specific document preview or evidence typography; avoid decorative photography",
       "status": "partial — installed media present; uniqueness/relevance review required",
       "acquisitionGaps": []
+    },
+    {
+      "route": "/rights/media-provenance",
+      "url": "https://tech-from-here-fashion-week.vercel.app/rights/media-provenance",
+      "city": "london",
+      "template": "index / editorial utility",
+      "current": {
+        "images": [],
+        "videoEmbeds": [],
+        "downloadableDocuments": [
+          "/data/media-provenance.json",
+          "/data/media-provenance.json"
+        ],
+        "evidenceGraphics": []
+      },
+      "editorialJudgment": "source-specific document preview or evidence typography; avoid decorative photography",
+      "status": "gap",
+      "acquisitionGaps": [
+        "no installed image or video"
+      ]
     }
   ]
 }

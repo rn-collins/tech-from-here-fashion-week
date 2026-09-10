@@ -16,7 +16,7 @@ const fileFor=urlPath=>{
 };
 
 test('all sitemap routes have route-bound social metadata',()=>{
-  assert.equal(routes.length,198);
+  assert.equal(routes.length,199);
   for(const route of routes){
     const html=fs.readFileSync(fileFor(route),'utf8');
     assert.match(html,/<meta property="og:title"/);
@@ -49,8 +49,8 @@ test('search-result hiding cannot be overridden by grid layout',()=>{
 
 test('media assignment matrix covers every public route exactly once',()=>{
   const matrix=JSON.parse(fs.readFileSync(path.join(root,'data','media-assignment-matrix.json'),'utf8'));
-  assert.equal(matrix.rows.length,198);
+  assert.equal(matrix.rows.length,199);
   assert.deepEqual(new Set(matrix.rows.map(x=>x.route)),new Set(routes));
-  assert.equal(new Set(matrix.rows.map(x=>x.route)).size,198);
+  assert.equal(new Set(matrix.rows.map(x=>x.route)).size,199);
   assert.ok(matrix.rows.every(x=>x.editorialJudgment&&x.status&&Array.isArray(x.acquisitionGaps)));
 });

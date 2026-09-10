@@ -1,9 +1,9 @@
 # TFH-LON-D5 — Compressed labor
 
 **Author:** Rayven-Nikkita Collins  
-**Version:** 2.0 evidence publication  
-**Checked:** 2026-09-07  
-**Editorial state:** publication-ready text; human production and owner-final gates remain open
+**Version:** 3.0 finished written edition  
+**Checked:** 2026-09-09  
+**Package state:** written, graphic, interactive and editable source deliverables complete; recording and third-party participation are separate human-production stages
 
 ## Governing question
 
@@ -15,7 +15,7 @@ London makes the week visible as a relay among institutional schedule, temporary
 
 The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Efficiency is not automatically benign. The ethical question begins where a coordination field becomes a durable record about a worker.
 
 The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -25,13 +25,13 @@ London’s governing verb is relay. It is an editorial lens, not a claim about t
 
 The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 London Fashion Week SS2012 at Somerset House, photographed by Knox387, is installed as a documentary witness under CC BY-SA 3.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Inventory the data field, operational need, person affected, retention period and route for correction or deletion. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes backstage coordination legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Long-form video script
 
@@ -39,7 +39,7 @@ The writing, claim ledger, source cards, lawful documentary object, interactive 
 
 **2. Location** — The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-**3. Then** — The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+**3. Then** — Efficiency is not automatically benign. The ethical question begins where a coordination field becomes a durable record about a worker.
 
 **4. What the record is** — The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -49,13 +49,13 @@ The writing, claim ledger, source cards, lawful documentary object, interactive 
 
 **7. Next** — The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-**8. The blank** — An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+**8. The blank** — This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 **9. Rights** — London Fashion Week SS2012 at Somerset House, photographed by Knox387, is installed as a documentary witness under CC BY-SA 3.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 **10. Method** — Inventory the data field, operational need, person affected, retention period and route for correction or deletion. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-**11. Close** — The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+**11. Close** — This edition makes backstage coordination legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Audio edition
 
@@ -63,7 +63,7 @@ London makes the week visible as a relay among institutional schedule, temporary
 
 The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Efficiency is not automatically benign. The ethical question begins where a coordination field becomes a durable record about a worker.
 
 The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -73,13 +73,13 @@ London’s governing verb is relay. It is an editorial lens, not a claim about t
 
 The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 London Fashion Week SS2012 at Somerset House, photographed by Knox387, is installed as a documentary witness under CC BY-SA 3.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Inventory the data field, operational need, person affected, retention period and route for correction or deletion. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes backstage coordination legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## Three vertical scripts
 
@@ -103,9 +103,9 @@ Inventory the data field, operational need, person affected, retention period an
 
 The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Efficiency is not automatically benign. The ethical question begins where a coordination field becomes a durable record about a worker.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 ## Instagram carousel
 
@@ -113,7 +113,7 @@ An unresolved result is not a universal claim of absence. Private, paywalled, un
 
 2. The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-3. The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+3. Efficiency is not automatically benign. The ethical question begins where a coordination field becomes a durable record about a worker.
 
 4. The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -123,7 +123,7 @@ An unresolved result is not a universal claim of absence. Private, paywalled, un
 
 7. The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-8. An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+8. This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 ## Pinterest
 
@@ -139,7 +139,7 @@ London makes the week visible as a relay among institutional schedule, temporary
 
 The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Efficiency is not automatically benign. The ethical question begins where a coordination field becomes a durable record about a worker.
 
 The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -157,7 +157,7 @@ London makes the week visible as a relay among institutional schedule, temporary
 
 The BFC’s 2016 Designer Fashion Fund series documents designers and teams preparing in studios and backstage for London Fashion Week, offering a worker-visible record without proving a week-wide software stack. That earlier record fixes a point in time; it does not prove an inevitable progression toward the present.
 
-The distinction is material. A polished interface can survive after its workers, contracts, specifications or permission trail disappear, leaving the audience with an outcome but not its operating history.
+Efficiency is not automatically benign. The ethical question begins where a coordination field becomes a durable record about a worker.
 
 The BFC publicly specifies a dedicated producer and production team for supported NEWGEN showcases, while current public records do not establish a named week-wide casting, measurement or look-tracking platform. The labor layer is verified; the data stack remains unresolved. The claim remains attached to its named source because public visibility is evidence of publication—not independent proof of every underlying practice.
 
@@ -167,13 +167,13 @@ London’s governing verb is relay. It is an editorial lens, not a claim about t
 
 The bounded search in G-FUTURE-07 did not establish a biometric or digital-identity deployment; future reporting must include labor, privacy, consent, and model-rights evidence. A future plate is therefore a documented trajectory or an explicit open question—not a forecast manufactured from a press release.
 
-An unresolved result is not a universal claim of absence. Private, paywalled, undigitized, translated or show-level material may exist; the open field is retained as a reporting assignment with a named artifact to seek.
+This public record cannot establish what may remain private, paywalled, undigitized, untranslated or held at show level. That limit belongs in the published account because an evidentiary blank is not evidence of absence.
 
 London Fashion Week SS2012 at Somerset House, photographed by Knox387, is installed as a documentary witness under CC BY-SA 3.0. It supplies visual context only within the limits stated in its caption; it does not prove the three claims on this page.
 
 Inventory the data field, operational need, person affected, retention period and route for correction or deletion. Then name what the record still cannot establish and keep the rights status beside the evidence.
 
-The writing, claim ledger, source cards, lawful documentary object, interactive and downloadable production package are complete. Recording, interviews, specialist review, permissions for additional rights-held media and RN owner-final approval remain explicit human production gates.
+This edition makes backstage coordination legible as a relationship among people, interfaces and records—not a ranking of fashion capitals or a substitute for field reporting.
 
 ## YouTube description
 
@@ -189,9 +189,11 @@ Day 5 of Tech From Here × London examines Casting, look tracking, identity data
 
 Use the live Evidence Fitting tool on the publication page. It exposes the three claim states, source cards, rights boundary and open reporting field without collecting data.
 
-## Human-only gates
+## Human production stages
 
-- [ ] RN owner-final approval
+These are not missing written assets. They require RN or third-party participation:
+
+- [ ] RN release approval
 - [ ] Recording and performance
 - [ ] Named interviews, consent and releases
 - [ ] Story-specific specialist/context review
