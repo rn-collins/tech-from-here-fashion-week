@@ -1,0 +1,12 @@
+{
+  "checked": "2026-09-13",
+  "totalCarouselFrames": 784,
+  "beforePhotoLedFrames": 0,
+  "afterPhotoLedFrames": 224,
+  "pendingFrames": 560,
+  "completeCities": [
+    "london",
+    "new-york"
+  ],
+  "definition": "A photo-led frame uses a rights-recorded documentary photograph; each carousel has eight unique sources."
+}

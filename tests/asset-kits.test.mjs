@@ -16,6 +16,6 @@ for(const city of cities)for(let day=1;day<=7;day++)test(`${city} day ${day} has
  for(const seq of [k.instagram.carouselA.frames,k.instagram.carouselB.frames])for(const f of seq){for(const key of ['asset','source','crop','caption','credit','alt','rights'])assert.ok(f[key],`${key} missing`)}
  const sig=JSON.stringify(k.instagram); assert.ok(!seen.has(sig),'cloned Instagram sequence'); seen.add(sig);
  assert.ok(fs.existsSync(path.join(root,k.assets.originalEvidenceGraphic.file.slice(1))));
- const html=fs.readFileSync(path.join(root,dir,'publication',`day-${day}`,'index.html'),'utf8'); assert.match(html,/PUBLICATION ASSET KIT/); assert.match(html,/Asset kit JSON/);
+ const html=fs.readFileSync(path.join(root,dir,'publication',`day-${day}`,'index.html'),'utf8'); assert.doesNotMatch(html,/PUBLICATION ASSET KIT|original evidence graphic/i); assert.match(html,/COMPANION POST STUDIO/);
  const dispositions=k.candidateDestinations; assert.ok(dispositions.length>0); for(const d of dispositions)assert.ok(d.destinations.length||d.exclusion,'candidate without destination or exclusion');
 });
