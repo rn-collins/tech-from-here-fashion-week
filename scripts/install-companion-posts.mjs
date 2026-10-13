@@ -21,6 +21,9 @@ const days={
   6:{noun:'commerce',actors:'brand, showroom, buyer, retailer, platform and regulator',turn:'The commercial interface is where a look becomes a record: style number, material, price, delivery window, territory and buyer decision.',test:'Separate enacted rule, technical standard, vendor promise, pilot and verified deployment.'},
   7:{noun:'memory',actors:'organizer, photographer, institution, web archivist, rights holder and researcher',turn:'An archive is not the residue of the week. It decides which claims, credits and absences remain available for argument.',test:'Trace what survived, in whose custody, under which metadata and reuse terms—and record what did not.'}
 };
+// Gallery and source page addresses come from data/releases.json (one id per piece).
+const releases=JSON.parse(fs.readFileSync(path.join(root,'data','releases.json'),'utf8')).pieces;
+const pieceLinks=(city,day)=>{const entry=releases.find(p=>p.id===`tfh-fw/${city.id}-day-${day}`)||{};return `\n\nGallery: ${base}/gallery/${city.id}-day-${day}`+(entry.sourcePageUrl?`\nSources: ${entry.sourcePageUrl}`:'');};
 const esc=value=>String(value).replace(/[&<>\"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;'}[char]));
 const readJson=file=>JSON.parse(fs.readFileSync(path.join(root,file),'utf8'));
 const writeJson=(file,value)=>fs.writeFileSync(path.join(root,file),JSON.stringify(value,null,2)+'\n');
@@ -36,7 +39,7 @@ function companionPosts(city,day,kit,claims){
         story:`${claims[0].wording}\n\n${claims[1].wording}\n\nThose are not background details. They shape who enters, what becomes visible and which version of the week travels.`,
         seriesRelevance:`This is what Tech From Here follows: place first, people first, technology after. The point is not novelty. It is what a system reorganizes in a particular city, and for whom.`,
         ending:`${d.turn}\n\nIn ${city.name}, the finished show makes that system look seamless. I am interested in the seam.`,
-        cta:`Read the full story, then save the carousel for the next time technology is presented as neutral: ${url}`
+        cta:`Read the full story, then save the carousel for the next time technology is presented as neutral: ${url}${pieceLinks(city,day)}`
       }
     },
     {
@@ -47,7 +50,7 @@ function companionPosts(city,day,kit,claims){
         story:`In ${city.name}, that chain runs through the ${d.actors}.\n\n${claims[1].wording}\n\nWhat happens next is not yet public. That uncertainty belongs in the story because it tells us where power still disappears from view.`,
         seriesRelevance:`Tech From Here asks what technology becomes in a particular place, in the hands of particular people. ${city.name} makes that question visible through ${city.lens}.`,
         ending:`${d.test}\n\nThe real story is not that fashion uses technology. It is that every seamless experience has a seam—and somebody is working inside it.`,
-        cta:`Which seam should I trace next? The complete story and sources are here: ${url}`
+        cta:`Which seam should I trace next? The complete story and sources are here: ${url}${pieceLinks(city,day)}`
       }
     }
   ];

@@ -1,0 +1,37 @@
+name: Daily release
+# Runs at 00:10 Pacific/Honolulu (10:10 UTC). When a piece in data/releases.json
+# reaches its release day, this commits data/release-state.json to main. Vercel's
+# existing Git integration then rebuilds and redeploys the gallery.
+on:
+  schedule:
+    - cron: '10 10 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-release
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Work out today's released pieces
+        run: node scripts/release-state.mjs
+      - name: Commit when the released set changes
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- data/release-state.json; then
+            echo "No piece changes state today."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/release-state.json
+          git commit -m "Daily release: update released pieces for $(TZ=Pacific/Honolulu date +%F)"
+          git push origin HEAD:main
