@@ -152,7 +152,7 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px}
 <body>
 <main>
 ${body}
-<footer>Tech From Here by Rayven-Nikkita Collins. Each piece appears here on its release day. <a href="https://rn-selected-work.vercel.app/">RN Collins, selected work</a></footer>
+<footer>Tech From Here by Rayven-Nikkita Collins. Each piece appears here on its release day. <a href="https://rn-selected-work.vercel.app/">RN Collins, selected work</a><p><a href="https://github.com/rn-collins/tech-from-here-fashion-week" target="_blank" rel="noopener noreferrer">View source on GitHub ↗</a></p></footer>
 </main>
 </body>
 </html>
